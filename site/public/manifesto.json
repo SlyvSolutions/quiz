@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-02T03:38:39.858Z",
+  "gerado_em": "2026-10-02T04:19:14.717Z",
   "arquivos": [
     {
       "arquivo": "data/avaliacoes.json",
@@ -316,6 +316,10 @@
     {
       "arquivo": "fotos/pr-sen-2s-renato-scarante.jpg",
       "sha256": "1a1e1a3df8f4dcaafe902772984efd3176b45e7cbb320d3c6d532fdf42281afa"
+    },
+    {
+      "arquivo": "og.png",
+      "sha256": "3bbe626d7bbb051abefb2f134ad70e55050f7f305a4a59d48dfaeecf79c61292"
     }
   ]
 }
