@@ -56,4 +56,28 @@ describe('Compartilhar', () => {
     expect(area.textContent).toContain('Não é recomendação de voto');
     expect(area.textContent).not.toContain('Meu Teste Cego dos Planos de Governo');
   });
+
+  it('sem suporte a compartilhar arquivo, o botão principal é Baixar imagem', async () => {
+    salvarSessao({ ordemCandidatos: [], respostasQuiz: { s1: 'lula-s2' }, finalizado: true });
+    const tela = await renderCompartilhar();
+    const botoes = [...tela.querySelectorAll('.comp-actions button')].map((b) => b.textContent);
+    expect(botoes).toEqual(['Baixar imagem', 'Voltar']);
+    expect(tela.querySelector('.comp-actions button')!.className).toContain('btn-primaria');
+  });
+
+  it('com suporte a compartilhar arquivo, mostra Compartilhar como principal e Baixar imagem ao lado', async () => {
+    vi.stubGlobal('navigator', Object.assign(Object.create(navigator), { share: vi.fn(), canShare: () => true }));
+    salvarSessao({ ordemCandidatos: [], respostasQuiz: { s1: 'lula-s2' }, finalizado: true });
+    const tela = await renderCompartilhar();
+    const botoes = [...tela.querySelectorAll('.comp-actions button')];
+    expect(botoes.map((b) => b.textContent)).toEqual(['Compartilhar', 'Baixar imagem', 'Voltar']);
+    expect(botoes[0]!.className).toContain('btn-primaria');
+    vi.unstubAllGlobals();
+  });
+
+  it('o nome do quiz não aparece na tela de compartilhar', async () => {
+    salvarSessao({ ordemCandidatos: [], respostasQuiz: { s1: 'lula-s2' }, finalizado: true });
+    const tela = await renderCompartilhar();
+    expect(tela.textContent).not.toContain('missao-quiz');
+  });
 });

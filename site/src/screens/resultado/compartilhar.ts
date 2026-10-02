@@ -5,7 +5,8 @@ import { el } from '../../ui/dom';
 import { criarAvisoFalhaCandidatos } from '../../ui/aviso';
 import { carregarCandidatos, type NomesCandidatos } from '../../data/candidatos';
 import { navigate } from '../../app/router';
-import { gerarImagemDeElemento } from '../../share/imagem';
+import { gerarBlobDeElemento } from '../../share/imagem';
+import { NOME_ARQUIVO, baixarImagem, compartilharImagem, podeCompartilharArquivo } from '../../share/enviar';
 import { TOTAL_PERGUNTAS } from '../../core/jornada';
 import { gerarTextoCompartilhamento, URL_SITE_CURTA } from '../../share/texto';
 
@@ -111,45 +112,71 @@ export async function renderCompartilhar(): Promise<HTMLElement> {
 
   const status = el('p', { class: 'comp-status', attrs: { role: 'status' } });
 
-  const btnSalvar = criarBotaoPill('Salvar Imagem', 'primaria');
-  btnSalvar.addEventListener('click', async () => {
-    const originalText = btnSalvar.textContent;
-    btnSalvar.textContent = 'Gerando...';
-    btnSalvar.disabled = true;
-    btnSalvar.setAttribute('aria-busy', 'true');
+  // A imagem é gerada em segundo plano assim que a tela abre: o toque em Compartilhar já a encontra pronta,
+  // e o navegador só abre a folha de compartilhamento se isso acontecer logo após o toque.
+  let imagem: Promise<Blob | null> | null = null;
+  const preparar = (): Promise<Blob | null> => (imagem ??= gerarBlobDeElemento(printArea));
+  window.setTimeout(() => {
+    if (printArea.isConnected) void preparar();
+  }, 1200);
+
+  const texto = gerarTextoCompartilhamento({ ranking, total });
+
+  /** Roda a ação do botão com o estado "gerando"; sem imagem, copia o resultado como texto. */
+  const executar = (botao: HTMLButtonElement, acao: (blob: Blob) => Promise<string>) => async () => {
+    const rotulo = botao.textContent;
+    botao.textContent = 'Gerando...';
+    botao.disabled = true;
+    botao.setAttribute('aria-busy', 'true');
     status.textContent = '';
-
-    const dataUrl = await gerarImagemDeElemento(printArea);
-
-    if (dataUrl) {
-      const a = document.createElement('a');
-      a.href = dataUrl;
-      a.download = 'missao-quiz-resultado.png';
-      a.click();
-      btnSalvar.textContent = 'Baixado!';
+    const blob = await preparar();
+    if (blob) {
+      try {
+        status.textContent = await acao(blob);
+      } catch (e) {
+        console.error(e);
+        status.textContent = 'Não foi possível compartilhar. Use "Baixar imagem".';
+      }
     } else {
-      // Fallback pra texto via Clipboard
-      const texto = gerarTextoCompartilhamento({ ranking, total });
+      imagem = null;
       try {
         await navigator.clipboard.writeText(texto);
         status.textContent = 'Não foi possível gerar a imagem, mas copiamos seu resultado como texto.';
       } catch {
         status.textContent = 'Não foi possível gerar a imagem nem copiar o texto do resultado.';
       }
-      btnSalvar.textContent = 'Falhou (Texto Copiado)';
     }
-    btnSalvar.removeAttribute('aria-busy');
+    botao.textContent = rotulo;
+    botao.disabled = false;
+    botao.removeAttribute('aria-busy');
+  };
 
-    setTimeout(() => {
-      btnSalvar.textContent = originalText;
-      btnSalvar.disabled = false;
-    }, 3000);
-  });
+  const podeCompartilhar = podeCompartilharArquivo();
+
+  const btnBaixar = criarBotaoPill('Baixar imagem', podeCompartilhar ? 'secundaria' : 'primaria');
+  btnBaixar.addEventListener(
+    'click',
+    executar(btnBaixar, async (blob) => {
+      baixarImagem(blob, NOME_ARQUIVO);
+      return 'Imagem baixada.';
+    })
+  );
+
+  const btnCompartilhar = podeCompartilhar ? criarBotaoPill('Compartilhar', 'primaria') : null;
+  btnCompartilhar?.addEventListener(
+    'click',
+    executar(btnCompartilhar, async (blob) => {
+      const r = await compartilharImagem({ blob, nomeArquivo: NOME_ARQUIVO, texto });
+      return r === 'compartilhado' ? 'Pronto! Resultado compartilhado.' : '';
+    })
+  );
 
   const btnVoltar = criarBotaoPill('Voltar', 'secundaria');
   btnVoltar.addEventListener('click', () => navigate('#resultado'));
 
-  container.appendChild(el('div', { class: 'comp-actions' }, btnSalvar, btnVoltar, status));
+  container.appendChild(
+    el('div', { class: 'comp-actions' }, ...(btnCompartilhar ? [btnCompartilhar] : []), btnBaixar, btnVoltar, status)
+  );
 
   return container;
 }
