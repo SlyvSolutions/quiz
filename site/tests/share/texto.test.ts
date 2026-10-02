@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest';
-import { gerarTextoCompartilhamento } from '../../src/share/texto';
+import { gerarTextoCompartilhamento, URL_SITE } from '../../src/share/texto';
 
 describe('Share Texto', () => {
   it('deve gerar texto formatado com ranking', () => {
@@ -13,6 +13,8 @@ describe('Share Texto', () => {
     const texto = gerarTextoCompartilhamento(data);
     expect(texto).toContain('1º Candidato X - 80%');
     expect(texto).toContain('2º Candidato Y - 50%');
-    expect(texto).toContain('missao-quiz.com.br');
+    expect(texto).toContain(URL_SITE);
+    expect(texto).not.toContain('missao-quiz.com.br');
+    expect(texto).not.toMatch(/Miss[aã]o/);
   });
 });

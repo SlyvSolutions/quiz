@@ -7,7 +7,7 @@ import { carregarCandidatos, type NomesCandidatos } from '../../data/candidatos'
 import { navigate } from '../../app/router';
 import { gerarImagemDeElemento } from '../../share/imagem';
 import { TOTAL_PERGUNTAS } from '../../core/jornada';
-import { gerarTextoCompartilhamento } from '../../share/texto';
+import { gerarTextoCompartilhamento, URL_SITE_CURTA } from '../../share/texto';
 
 interface Trecho {
   id: string;
@@ -94,7 +94,7 @@ export async function renderCompartilhar(): Promise<HTMLElement> {
       'div',
       { class: 'comp-print-footer' },
       'Faça o seu teste em: ',
-      el('strong', { texto: 'missao-quiz.com.br' })
+      el('strong', { texto: URL_SITE_CURTA })
     )
   );
 

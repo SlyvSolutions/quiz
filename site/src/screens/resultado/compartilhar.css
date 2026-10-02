@@ -98,3 +98,16 @@
   font-size: var(--mq-fs-small);
   color: var(--mq-ink-muted);
 }
+
+/* Em pé o app trava em 100svh (layout.css) e esta tela é maior que isso: ela mesma rola, e nada encolhe. */
+@media (orientation: portrait) {
+  .tela.screen-compartilhar {
+    overflow-y: auto;
+    overscroll-behavior: contain;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  .screen-compartilhar > * {
+    flex-shrink: 0;
+  }
+}
