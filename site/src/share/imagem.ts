@@ -1,0 +1,15 @@
+export async function gerarImagemDeElemento(element: HTMLElement): Promise<string | null> {
+  try {
+    // Importação dinâmica para não pesar o bundle inicial
+    const html2canvas = (await import('html2canvas')).default;
+    const canvas = await html2canvas(element, {
+      scale: 2, // Maior resolução
+      useCORS: true,
+      backgroundColor: getComputedStyle(element).getPropertyValue('--mq-preto').trim() || null
+    });
+    return canvas.toDataURL('image/png');
+  } catch (err) {
+    console.error('Falha ao gerar imagem com html2canvas', err);
+    return null;
+  }
+}

@@ -1,0 +1,320 @@
+[
+  {
+    "id": "mec-livros",
+    "padrao": "MEC Livros",
+    "flags": "gu",
+    "rotulo": "programa federal de livros digitais"
+  },
+  {
+    "id": "mec-idiomas",
+    "padrao": "MEC Idiomas",
+    "flags": "gu",
+    "rotulo": "programa federal de ensino de idiomas"
+  },
+  {
+    "id": "pe-de-meia-licenciatura",
+    "padrao": "Pé-de-Meia Licenciatura",
+    "flags": "gu",
+    "rotulo": "incentivo federal à formação de professores"
+  },
+  {
+    "id": "bolsa-mais-professores",
+    "padrao": "Bolsa Mais Professores",
+    "flags": "gu",
+    "rotulo": "bolsa federal de fixação de docentes"
+  },
+  {
+    "id": "nova-industria-brasil",
+    "padrao": "Nova Indústria Brasil(?:\\s*-\\s*NIB)?",
+    "flags": "gu",
+    "rotulo": "política federal de apoio à indústria"
+  },
+  {
+    "id": "novo-pac",
+    "padrao": "Novo PAC",
+    "flags": "gu",
+    "rotulo": "programa federal de investimentos em infraestrutura"
+  },
+  {
+    "id": "compromisso-crianca-alfabetizada",
+    "padrao": "Compromisso Nacional Criança Alfabetizada",
+    "flags": "gu",
+    "rotulo": "programa federal de alfabetização na idade certa"
+  },
+  {
+    "id": "supercentro-brasil",
+    "padrao": "Supercentro Brasil(?:\\s+de\\s+telediagnóstico\\s+do\\s+câncer)?",
+    "flags": "gu",
+    "rotulo": "centro federal de telediagnóstico do câncer"
+  },
+  {
+    "id": "contrata-mais-brasil",
+    "padrao": "Contrata\\+\\s*Brasil",
+    "flags": "gu",
+    "rotulo": "plataforma federal de contratações públicas"
+  },
+  {
+    "id": "mais-medicos",
+    "padrao": "(?:Programa\\s+)?Mais\\s+Médicos",
+    "flags": "gu",
+    "rotulo": "programa federal de atenção médica"
+  },
+  {
+    "id": "brasil-sorridente",
+    "padrao": "Brasil Sorridente",
+    "flags": "gu",
+    "rotulo": "programa federal de saúde bucal"
+  },
+  {
+    "id": "plano-pena-justa",
+    "padrao": "Plano Pena Justa",
+    "flags": "gu",
+    "rotulo": "plano de segurança prisional"
+  },
+  {
+    "id": "muralha-brasileira",
+    "padrao": "Muralha Brasileira",
+    "flags": "gu",
+    "rotulo": "sistema nacional de reconhecimento facial"
+  },
+  {
+    "id": "muralha-paulista",
+    "padrao": "Muralha Paulista",
+    "flags": "gu",
+    "rotulo": "sistema estadual de reconhecimento facial"
+  },
+  {
+    "id": "smart-sampa",
+    "padrao": "Smart Sampa",
+    "flags": "gu",
+    "rotulo": "programa municipal de câmeras com reconhecimento facial"
+  },
+  {
+    "id": "treva",
+    "padrao": "\\bTREVA\\b",
+    "flags": "gu",
+    "rotulo": "nome do complexo prisional"
+  },
+  {
+    "id": "programa-acolher",
+    "padrao": "Programa Acolher",
+    "flags": "gu",
+    "rotulo": "programa de reforço escolar entre alunos"
+  },
+  {
+    "id": "conecte-sus",
+    "padrao": "Conecte SUS",
+    "flags": "gu",
+    "rotulo": "aplicativo federal de saúde digital"
+  },
+  {
+    "id": "brasil-sem-fila",
+    "padrao": "Brasil sem Fila",
+    "flags": "gu",
+    "rotulo": "programa de redução das filas da saúde"
+  },
+  {
+    "id": "brasil-que-prospera",
+    "padrao": "Brasil que Prospera",
+    "flags": "gu",
+    "rotulo": "programa de crescimento econômico"
+  },
+  {
+    "id": "brasil-mais-barato",
+    "padrao": "Brasil Mais Barato",
+    "flags": "gu",
+    "rotulo": "programa de redução do custo de vida"
+  },
+  {
+    "id": "redad",
+    "padrao": "Regime Especial Disciplinar Antiterrorismo Doméstico(?:\\s*\\(REDAD\\))?|\\bREDAD\\b",
+    "flags": "gu",
+    "rotulo": "regime disciplinar especial para lideranças criminosas"
+  },
+  {
+    "id": "lei-terrorismo-domestico",
+    "padrao": "Lei\\s+(?:do|de Combate ao)\\s+Terrorismo\\s+Doméstico",
+    "flags": "giu",
+    "rotulo": "lei de combate às organizações criminosas"
+  },
+  {
+    "id": "terrorismo-domestico",
+    "padrao": "terroris(?:mo|ta)s?\\s+doméstic[oa]s?|Antiterrorismo\\s+Doméstico",
+    "flags": "giu",
+    "rotulo": "ameaça criminosa organizada"
+  },
+  {
+    "id": "sistema-soberania",
+    "padrao": "Sistema Integrado de Proteção à Soberania Nacional",
+    "flags": "gu",
+    "rotulo": "sistema integrado de segurança nacional"
+  },
+  {
+    "id": "pacto-alfabetizacao-matematica",
+    "padrao": "Pacto Nacional pela Alfabetização e Matemática na Idade Certa",
+    "flags": "gu",
+    "rotulo": "programa federal de alfabetização e matemática"
+  },
+  {
+    "id": "dpi",
+    "padrao": "\\bDPI\\b",
+    "flags": "gu",
+    "rotulo": "doutrina penal específica"
+  },
+  {
+    "id": "ener",
+    "padrao": "\\bENER\\b",
+    "flags": "gu",
+    "rotulo": "sistema de fila por grau de risco"
+  },
+  {
+    "id": "frentes-cidadas",
+    "padrao": "Frentes Cidadãs",
+    "flags": "gu",
+    "rotulo": "rede de mobilização cidadã"
+  },
+  {
+    "id": "comissariado",
+    "padrao": "Comissariado(?:\\s+Federal\\s+de\\s+Gestão\\s+Pública)?",
+    "flags": "gu",
+    "rotulo": "órgão federal de fiscalização municipal"
+  },
+  {
+    "id": "comissarios-municipais",
+    "padrao": "Comissários\\s+Municipais",
+    "flags": "gu",
+    "rotulo": "agentes federais de fiscalização municipal"
+  },
+  {
+    "id": "comissario",
+    "padrao": "\\bComissário\\b",
+    "flags": "gu",
+    "rotulo": "agente federal de fiscalização municipal"
+  },
+  {
+    "id": "marco-gerencial",
+    "padrao": "Marco Gerencial Nacional",
+    "flags": "gu",
+    "rotulo": "sistema nacional de metas municipais"
+  },
+  {
+    "id": "lrg",
+    "padrao": "Lei de Responsabilidade Gerencial|\\bLRG\\b",
+    "flags": "gu",
+    "rotulo": "lei de responsabilidade da gestão municipal"
+  },
+  {
+    "id": "escalada-de-consequencias",
+    "padrao": "Escalada de Consequências",
+    "flags": "gu",
+    "rotulo": "escala de sanções graduais"
+  },
+  {
+    "id": "tutela-gerencial",
+    "padrao": "Tutela Gerencial",
+    "flags": "gu",
+    "rotulo": "regime de tutela da gestão municipal"
+  },
+  {
+    "id": "improbidade-gerencial",
+    "padrao": "Improbidade Gerencial",
+    "flags": "gu",
+    "rotulo": "improbidade na gestão municipal"
+  },
+  {
+    "id": "pronto",
+    "padrao": "\\bPRONTO\\b(?:\\s*\\(Prontuário Eletrônico Nacional Interoperável\\))?|Prontuário Eletrônico Nacional Interoperável",
+    "flags": "gu",
+    "rotulo": "prontuário eletrônico nacional"
+  },
+  {
+    "id": "fnma",
+    "padrao": "\\bFNMA\\b(?:\\s*\\(Fundo Nacional de Modernização do Acesso\\))?|Fundo Nacional de Modernização do Acesso",
+    "flags": "gu",
+    "rotulo": "fundo federal de repasses à saúde municipal"
+  },
+  {
+    "id": "grande-consolidacao-municipal",
+    "padrao": "Grande Consolidação Municipal",
+    "flags": "gu",
+    "rotulo": "programa federal de fusão de municípios"
+  },
+  {
+    "id": "foco",
+    "padrao": "(?:[Pp]olícia\\s+)?\\bFOCO\\b(?:\\s*-\\s*Força\\s+de\\s+Combate\\s+(?:Preventivo|Municipal))?",
+    "flags": "gu",
+    "rotulo": "polícia municipal preventiva"
+  },
+  {
+    "id": "fato",
+    "padrao": "(?:Programa\\s+)?\\bFATO\\b(?:\\s*[-–]\\s*Força\\s+(?:de\\s+)?Alerta\\s+Total)?",
+    "flags": "gu",
+    "rotulo": "programa de integração das forças policiais"
+  },
+  {
+    "id": "seguranca-4-0",
+    "padrao": "Seguran[çc]a(?:\\s+Pública)?\\s+4\\.0",
+    "flags": "giu",
+    "rotulo": "eixo de segurança pública"
+  },
+  {
+    "id": "gestao-da-emocao",
+    "padrao": "Gest[ãa]o da Emo[çc][ãa]o",
+    "flags": "giu",
+    "rotulo": "método de educação socioemocional"
+  },
+  {
+    "id": "brasil-dos-nossos-sonhos",
+    "padrao": "Brasil dos nossos sonhos",
+    "flags": "giu",
+    "rotulo": "lema do plano"
+  },
+  {
+    "id": "brasil-da-pacificacao",
+    "padrao": "BRASIL DA PACIFICAÇÃO",
+    "flags": "gu",
+    "rotulo": "título de seção do plano"
+  },
+  {
+    "id": "nova-revolucao-industrial",
+    "padrao": "NOVA REVOLUÇÃO INDUSTRIAL",
+    "flags": "gu",
+    "rotulo": "eixo de industrialização do plano"
+  },
+  {
+    "id": "academia-de-formacao-do-eu",
+    "padrao": "academia de formação do Eu",
+    "flags": "giu",
+    "rotulo": "modelo de escola proposto"
+  },
+  {
+    "id": "neuroinclusivo",
+    "padrao": "Projeto\\s+Brasil\\s+Neuroinclusivo|Neuroinclusiv[oa]",
+    "flags": "giu",
+    "rotulo": "projeto de inclusão de pessoas neurodivergentes"
+  },
+  {
+    "id": "metodologia-psicoativa",
+    "padrao": "Metodologia Psicoativa",
+    "flags": "giu",
+    "rotulo": "método pedagógico do plano"
+  },
+  {
+    "id": "plano-de-inclusao-e-desenvolvimento",
+    "padrao": "Plano de Inclusão e Desenvolvimento",
+    "flags": "gu",
+    "rotulo": "plano de inclusão"
+  },
+  {
+    "id": "tele-saude-brasil",
+    "padrao": "(?:PROJETO\\s+13\\s*-\\s*)?Tele\\s+Saúde\\s+Brasil",
+    "flags": "giu",
+    "rotulo": "programa nacional de telemedicina"
+  },
+  {
+    "id": "corredores-de-exportacao",
+    "padrao": "(?:[Cc]inco\\s+)?Corredores\\s+Estratégicos\\s+de\\s+Exportação",
+    "flags": "gu",
+    "rotulo": "corredores regionais de exportação"
+  }
+]
