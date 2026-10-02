@@ -1,0 +1,234 @@
+{
+  "trocas": [
+    {
+      "id": "seguranca-prisional",
+      "candidato": "flavio",
+      "tipo": "troca",
+      "antes": "Vagas prisionais + slogan \"prisão é punição\"",
+      "depois": "Isolamento de chefes sem celular/visita íntima + 500 mil vagas em 4 anos com os estados, sem o slogan",
+      "motivo": "Eliminar o tom de slogan mantendo a mesma proposta concreta"
+    },
+    {
+      "id": "seguranca-prisional",
+      "candidato": "caiado",
+      "tipo": "troca",
+      "antes": "Regime disciplinar REDAD para lideranças (cela individual, sem celular, 90% da pena)",
+      "depois": "Rede Nacional de Presídios de Segurança Máxima com padrões comuns e separação por função na facção",
+      "motivo": "Remover sigla/programa próprio (REDAD); alternativa concreta no mesmo plano"
+    },
+    {
+      "id": "seguranca-fronteiras",
+      "candidato": "caiado",
+      "tipo": "troca",
+      "antes": "Comando Nacional de Proteção de Fronteiras e Corredores Logísticos reunindo forças federais e estaduais",
+      "depois": "Centros Integrados de Comando e Controle no arco amazônico, fronteira Oeste, tríplice fronteira, litoral e portos",
+      "motivo": "Remover nome próprio de órgão; alternativa concreta e autocontida"
+    },
+    {
+      "id": "seguranca-inteligencia",
+      "candidato": "flavio",
+      "tipo": "troca",
+      "antes": "Mais de 1 milhão de novas câmeras em portos, aeroportos e áreas públicas (começa com \"Além de\")",
+      "depois": "Consórcios e convênios com estados e municípios para investir em inteligência e tecnologia",
+      "motivo": "Trecho autocontido, sem depender de frase anterior; menos específico em tecnologia/dados"
+    },
+    {
+      "id": "seguranca-inteligencia",
+      "candidato": "cury",
+      "tipo": "adicionado",
+      "antes": "(ausente)",
+      "depois": "Câmeras inteligentes, análise preditiva, drones e IA para prevenção",
+      "motivo": "Proposta concreta encontrada em busca ampla no plano"
+    }
+  ],
+  "trechos": [
+    {
+      "subtema_id": "seguranca-prisional",
+      "candidato_id": "lula",
+      "arquivo": "Planos_TSE/Lula_Plano_Original.md",
+      "query": "Fortaleceremos o sistema penitenciário federal, ampliando sua capacidade operacional e de isolamento de lideranças criminosas, e implantaremos um protocolo nacional de classificação e transferência de presos de alta periculosidade, baseado em critérios objetivos e evidências.",
+      "linha_inicio": 1031,
+      "linha_fim": 1034,
+      "pagina_pdf": 27,
+      "motivo_proposta": "Ampliar a capacidade do sistema penitenciário federal e de isolamento de lideranças e instituir protocolo nacional de classificação e transferência de presos de alta periculosidade.",
+      "flags": [],
+      "flags_resolucao": "Mantido: sem flag a resolver."
+    },
+    {
+      "subtema_id": "seguranca-prisional",
+      "candidato_id": "flavio",
+      "arquivo": "Planos_TSE/Flavio_Plano_Original.md",
+      "query": "Chefes de quadrilha e marginais de alta periculosidade serão tirados de circulação e isolados. Com isso, os bandidos vão deixar de controlar as facções criminosas de dentro dos presídios, como ocorre hoje. Eles vão viver sem celular, sem visita íntima e com visitas monitoradas. Em parceria com os governos estaduais, vamos criar meio milhão de novas vagas no sistema prisional em 4 anos e zerar o déficit carcerário.",
+      "linha_inicio": 590,
+      "linha_fim": 596,
+      "pagina_pdf": 13,
+      "motivo_proposta": "Isolar chefes de facção sem celular nem visita íntima e criar 500 mil vagas prisionais em 4 anos, com os estados, para zerar o déficit carcerário.",
+      "flags": [],
+      "flags_resolucao": "Trocado: removida a frase final de tom de slogan; incluído o isolamento de chefes (sem celular, sem visita íntima) contíguo às vagas."
+    },
+    {
+      "subtema_id": "seguranca-prisional",
+      "candidato_id": "caiado",
+      "arquivo": "Planos_TSE/Caiado_Plano_Original.md",
+      "query": "Criar uma Rede Nacional de Presídios de Segurança Máxima, com padrões comuns para unidades federais e estaduais. Identificar e separar os integrantes das organizações criminosas conforme suas funções de comando, financiamento, disciplina, comunicação e recrutamento.",
+      "linha_inicio": 837,
+      "linha_fim": 839,
+      "pagina_pdf": 17,
+      "motivo_proposta": "Rede nacional de presídios de segurança máxima com padrões comuns e separação dos integrantes de facções por função de comando, financiamento, disciplina, comunicação e recrutamento.",
+      "flags": [],
+      "flags_resolucao": "Trocado: o trecho anterior citava a sigla própria REDAD."
+    },
+    {
+      "subtema_id": "seguranca-prisional",
+      "candidato_id": "renan",
+      "arquivo": "Planos_TSE/Renan_Plano_Original.md",
+      "query": "As lideranças condenadas serão deslocadas a superpresídios de segurança máxima em regiões remotas, no modelo do CECOT salvadorenho, equipados com blindagem eletromagnética e biometria contínua, neutralizando o comando das facções a partir do cárcere.",
+      "linha_inicio": 497,
+      "linha_fim": 499,
+      "pagina_pdf": 12,
+      "motivo_proposta": "Transferir lideranças condenadas a superpresídios de segurança máxima em regiões remotas, com blindagem eletromagnética e biometria contínua.",
+      "flags": [
+        "Referência própria: modelo do CECOT salvadorenho",
+        "Termo próprio: superpresídios"
+      ],
+      "flags_resolucao": "Sem alternativa: o plano só trata de presídios neste trecho (CECOT/superpresídios); nenhuma outra proposta prisional concreta."
+    },
+    {
+      "subtema_id": "seguranca-fronteiras",
+      "candidato_id": "lula",
+      "arquivo": "Planos_TSE/Lula_Plano_Original.md",
+      "query": "Manteremos as Forças Armadas presentes nas fronteiras amazônicas e na Pan-Amazônia, com patrulhamento fluvial e aéreo, inteligência policial e ambiental e cooperação com os países da Organização do Tratado de Cooperação Amazônica (OTCA).",
+      "linha_inicio": 1042,
+      "linha_fim": 1045,
+      "pagina_pdf": 28,
+      "motivo_proposta": "Manter as Forças Armadas nas fronteiras amazônicas com patrulhamento fluvial e aéreo, inteligência e cooperação com países vizinhos (OTCA).",
+      "flags": [
+        "Sigla OTCA (organização multilateral, não denuncia autor)",
+        "Proposta é de continuidade e restrita à Amazônia"
+      ],
+      "flags_resolucao": "Sem alternativa melhor: a outra passagem sobre fronteiras (linhas ~3186-3190) é genérica, sem instrumento; OTCA é organização multilateral e não denuncia autor."
+    },
+    {
+      "subtema_id": "seguranca-fronteiras",
+      "candidato_id": "flavio",
+      "arquivo": "Planos_TSE/Flavio_Plano_Original.md",
+      "query": "Fuzis e drogas que abastecem 100% das facções serão interceptados por terra, pelos portos e pelo espaço aéreo. Vamos desorganizar o crime organizado e asfixiar o crime física e financeiramente.",
+      "linha_inicio": 581,
+      "linha_fim": 584,
+      "pagina_pdf": 13,
+      "motivo_proposta": "Interceptar fuzis e drogas por terra, portos e espaço aéreo para asfixiar física e financeiramente o crime organizado.",
+      "flags": [
+        "Instrumento (tropa conjunta de fronteira com nome próprio) está na frase anterior, que cruza quebra de página e não localiza no script; trecho escolhido é mais genérico quanto ao mecanismo",
+        "Meta \"100% das facções\" tem tom de slogan"
+      ],
+      "flags_resolucao": "Sem alternativa: as demais passagens de fronteira/portos têm nome próprio (Sistema Nacional de Fronteira), nome de adversário ou slogan, ou menos de 25 palavras."
+    },
+    {
+      "subtema_id": "seguranca-fronteiras",
+      "candidato_id": "caiado",
+      "arquivo": "Planos_TSE/Caiado_Plano_Original.md",
+      "query": "Implantar Centros Integrados de Comando e Controle nas regiões críticas do arco amazônico, da fronteira Oeste, da tríplice fronteira, do litoral e dos principais portos.",
+      "linha_inicio": 804,
+      "linha_fim": 805,
+      "pagina_pdf": 17,
+      "motivo_proposta": "Implantar centros integrados de comando e controle nas regiões críticas de fronteira, do litoral e dos principais portos.",
+      "flags": [],
+      "flags_resolucao": "Trocado: o trecho anterior citava o nome próprio do órgão (Comando Nacional de Proteção de Fronteiras e Corredores Logísticos)."
+    },
+    {
+      "subtema_id": "seguranca-fronteiras",
+      "candidato_id": "renan",
+      "arquivo": "Planos_TSE/Renan_Plano_Original.md",
+      "query": "No primeiro front, vamos reconquistar o controle estatal sobre portos, aeroportos e fronteiras secas com scanners tridimensionais e inteligência integrada; implementar sistemas de monitoramento aéreo, espacial e amazônico; e apertar os mecanismos de asfixia financeira que cortam o oxigênio econômico das facções.",
+      "linha_inicio": 495,
+      "linha_fim": 497,
+      "pagina_pdf": 12,
+      "motivo_proposta": "Retomar o controle de portos, aeroportos e fronteiras secas com scanners tridimensionais, inteligência integrada e monitoramento aéreo, espacial e amazônico.",
+      "flags": [
+        "Começa com \"No primeiro front\", referência que depende do contexto do plano",
+        "Jargão próprio: front, asfixia financeira"
+      ],
+      "flags_resolucao": "Sem alternativa: a única outra passagem (linha ~1761) cita SISFRON e é resumo analítico, não proposta autocontida."
+    },
+    {
+      "subtema_id": "seguranca-fronteiras",
+      "candidato_id": "cury",
+      "arquivo": "Planos_TSE/Cury_Plano_Original1-2.md",
+      "query": "De forma integrada e respeitando as competências constitucionais de cada instituição, fortaleceremos a atuação das Forças Armadas no controle estratégico das fronteiras nacionais, intensificando a presença do Exército nas fronteiras terrestres, da Marinha nos portos e vias navegáveis estratégicas e da Força Aérea Brasileira no monitoramento e repressão ao uso de pistas clandestinas e rotas aéreas ilícitas, especialmente para combater o tráfico internacional de drogas, armas e o contrabando.",
+      "linha_inicio": 1506,
+      "linha_fim": 1512,
+      "pagina_pdf": 45,
+      "motivo_proposta": "Intensificar a presença do Exército nas fronteiras terrestres, da Marinha nos portos e vias navegáveis e da FAB contra pistas clandestinas e rotas aéreas ilícitas.",
+      "flags": [],
+      "flags_resolucao": "Mantido: sem flag a resolver."
+    },
+    {
+      "subtema_id": "seguranca-inteligencia",
+      "candidato_id": "lula",
+      "arquivo": "Planos_TSE/Lula_Plano_Original.md",
+      "query": "Consolidaremos o Sistema de Inteligência de Segurança Pública e Justiça Criminal, modernizaremos o SINESP e a Infoseg e ampliaremos as Forças Integradas de Combate ao Crime Organizado (FICCOs).",
+      "linha_inicio": 1011,
+      "linha_fim": 1013,
+      "pagina_pdf": 27,
+      "motivo_proposta": "Consolidar o sistema de inteligência de segurança pública, modernizar as bases de dados SINESP e Infoseg e ampliar as forças integradas (FICCOs).",
+      "flags": [
+        "Siglas/programas próprios: SINESP, Infoseg, FICCOs",
+        "Trecho curto (28 palavras)"
+      ],
+      "flags_resolucao": "Sem alternativa: as demais passagens de inteligência (Inteligência de Estado, soberania) fogem do tema policial ou são genéricas."
+    },
+    {
+      "subtema_id": "seguranca-inteligencia",
+      "candidato_id": "flavio",
+      "arquivo": "Planos_TSE/Flavio_Plano_Original.md",
+      "query": "Vamos fazer consórcios e convênios com estados e municípios para investir em inteligência, retomada de territórios alinhada a políticas públicas estruturantes, tecnologia, armamentos de última geração e valorização do policial.",
+      "linha_inicio": 563,
+      "linha_fim": 566,
+      "pagina_pdf": 12,
+      "motivo_proposta": "Consórcios e convênios com estados e municípios para investir em inteligência, tecnologia, armamentos e valorização do policial.",
+      "flags": [],
+      "flags_resolucao": "Trocado: o trecho anterior começava com \"Além de\" e dependia da frase anterior."
+    },
+    {
+      "subtema_id": "seguranca-inteligencia",
+      "candidato_id": "caiado",
+      "arquivo": "Planos_TSE/Caiado_Plano_Original.md",
+      "query": "Integrar os bancos de dados da União, dos estados, do Distrito Federal, do Ministério Público e do Poder Judiciário, reunindo antecedentes, mandados, vínculos com organizações criminosas, informações penitenciárias, perfis genéticos e dados biométricos.",
+      "linha_inicio": 761,
+      "linha_fim": 763,
+      "pagina_pdf": 16,
+      "motivo_proposta": "Integrar os bancos de dados da União, estados, DF, Ministério Público e Judiciário (antecedentes, mandados, perfis genéticos, biometria).",
+      "flags": [],
+      "flags_resolucao": "Mantido: sem flag a resolver."
+    },
+    {
+      "subtema_id": "seguranca-inteligencia",
+      "candidato_id": "renan",
+      "arquivo": "Planos_TSE/Renan_Plano_Original.md",
+      "query": "Um novo sistema de drones e totens de denúncia transformará a reação ao crime em prevenção, com patrulhamento autônomo e reconhecimento facial em tempo real, integrado ao uso de dados genéticos e identificação facial para a resolução de crimes hediondos.",
+      "linha_inicio": 500,
+      "linha_fim": 502,
+      "pagina_pdf": 12,
+      "motivo_proposta": "Novo sistema de drones e totens de denúncia com patrulhamento autônomo, reconhecimento facial em tempo real e uso de dados genéticos.",
+      "flags": [],
+      "flags_resolucao": "Mantido: sem flag a resolver."
+    },
+    {
+      "subtema_id": "seguranca-inteligencia",
+      "candidato_id": "cury",
+      "arquivo": "Planos_TSE/Cury_Plano_Original1-2.md",
+      "query": "A segurança pública será fortalecida pelo uso de câmeras inteligentes, reconhecimento de padrões, análise preditiva, drones, monitoramento integrado e inteligência artificial. Essas ferramentas ampliarão a capacidade preventiva das forças de segurança e reduzirão a criminalidade.",
+      "motivo_proposta": "Usar câmeras inteligentes, análise preditiva, drones, monitoramento integrado e inteligência artificial para ampliar a capacidade preventiva das forças de segurança.",
+      "flags": [],
+      "flags_resolucao": "Candidato adicionado (ausente no original): proposta de tecnologia policial localizada no plano inteiro.",
+      "linha_inicio": 1489,
+      "linha_fim": 1492,
+      "pagina_pdf": 45
+    }
+  ],
+  "enunciados": {
+    "seguranca-prisional": "O que o governo deve fazer para enfrentar a superlotação e o comando do crime organizado dentro do sistema prisional?",
+    "seguranca-fronteiras": "Como o governo federal deve reforçar o controle de fronteiras, portos e aeroportos contra o tráfico de drogas e armas?",
+    "seguranca-inteligencia": "Como o governo deve usar dados, inteligência e tecnologia para a atuação policial?"
+  }
+}

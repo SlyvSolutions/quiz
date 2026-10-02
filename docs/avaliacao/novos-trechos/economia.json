@@ -1,0 +1,251 @@
+{
+  "trocas": [
+    {
+      "id": "economia-regra-fiscal",
+      "candidato": "flavio",
+      "antes": "Reformular as regras fiscais para estabilizar e reduzir a dívida, com superávits primários e limite ao crédito subsidiado do Tesouro.",
+      "depois": "Reformular as regras fiscais para estabilizar e reduzir a dívida, com superávits primários, limite ao crédito subsidiado do Tesouro e regra de controle de gastos discricionários dos três Poderes.",
+      "motivo": "tira a abertura \"Vamos fazer o oposto\" (referência a trecho anterior) e acrescenta a regra de controle de gastos discricionários, que é regra fiscal concreta"
+    },
+    {
+      "id": "economia-minerais-criticos",
+      "candidato": "flavio",
+      "antes": "Garantias de crédito para financiar projetos e aceleração de licenciamento e direitos minerários para agregar valor no país.",
+      "depois": "Agregar valor no Brasil à riqueza mineral, com Estado regulador e coordenador apoiado em seis pilares (marco regulatório, licenciamento, capital e tecnologia, verticalização, governança).",
+      "motivo": "o trecho anterior era ambíguo isolado (não dizia que tratava de minerais); este nomeia riqueza mineral e pedra bruta e traz os pilares da política"
+    },
+    {
+      "id": "economia-minerais-criticos",
+      "candidato": "renan",
+      "antes": "PEC declarando terras raras questão de segurança nacional e financiamento de cerca de R$ 20 bilhões em dez anos (BNDES 50%, agências americanas 35%, fundos europeus 10%, privado 5%).",
+      "depois": "Acordos bilaterais com Estados Unidos e União Europeia com compromissos de compra de longo prazo e transferência tecnológica em processamento de terras raras.",
+      "motivo": "remove a PEC com meta de financiamento em lista de percentuais (vocabulário próprio) e o recorte em minúscula; frase inicia limpa e nomeia terras raras"
+    },
+    {
+      "id": "economia-minerais-criticos",
+      "candidato": "cury",
+      "antes": "Estimular cadeia produtiva completa, do processamento à indústria tecnológica, incluindo ligas especiais e ímãs permanentes.",
+      "depois": "Agregar valor aos minerais estratégicos por meio da industrialização, evitando a simples exportação de matéria-prima, com incentivo a cadeias produtivas completas.",
+      "motivo": "o trecho anterior tinha setas (grafia própria) e só dizia \"estimular\"; este é prosa limpa, nomeia minerais estratégicos e responde direto ao enunciado (agregar valor em vez de exportar matéria-prima). Os itens em lista do projeto de terras raras do mesmo plano não localizam por causa dos marcadores"
+    },
+    {
+      "id": "economia-agro",
+      "candidato": "lula",
+      "antes": "Instrumento de seguro rural para cobrir perdas sistêmicas por quebras severas de safra, integrado a instrumentos de comercialização e proteção financeira.",
+      "depois": "Crédito rural para financiar máquinas, irrigação e tecnologia, diversificação das fontes de financiamento via mercado de capitais e títulos do agronegócio, e simplificação do acesso ao crédito.",
+      "motivo": "o seguro rural estava em fase de diálogo, sem instrumento fechado; o crédito tem instrumentos e destinos definidos (e responde direto ao enunciado)"
+    },
+    {
+      "id": "economia-agro",
+      "candidato": "cury",
+      "antes": "Meta de estimular 10 mil agroindústrias em todo o território nacional.",
+      "depois": "Ampliar a cobertura da subvenção ao prêmio do seguro rural para proteger o produtor contra eventos climáticos extremos e fomentar o crédito rural.",
+      "motivo": "o trecho anterior era só meta quantitativa (10 mil agroindústrias), perto do mínimo de palavras e fora de crédito/seguro; este traz instrumento (subvenção ao prêmio) e fala de seguro e crédito"
+    }
+  ],
+  "trechos": [
+    {
+      "subtema_id": "economia-regra-fiscal",
+      "candidato_id": "lula",
+      "arquivo": "Planos_TSE/Lula_Plano_Original.md",
+      "query": "Aprimoraremos o modelo de centralização e compartilhamento de serviços de suporte (gestão de pessoas, orçamento, contratações etc.) entre ministérios e órgãos do Executivo federal, que tanto contribui para racionalizar o uso dos recursos e conferir mais qualidade ao gasto público.",
+      "linha_inicio": 551,
+      "linha_fim": 554,
+      "pagina_pdf": 16,
+      "motivo_proposta": "Centralizar e compartilhar serviços de suporte entre ministérios para racionalizar o uso dos recursos e a qualidade do gasto.",
+      "flags": [
+        "encaixe parcial no subtema: o plano só tem proposta de eficiência do gasto, não regra fiscal; o trecho fiscal principal (arcabouço fiscal) já está em trechos.json e foi descartado",
+        "começa com \"Aprimoraremos o modelo\", que pressupõe um modelo já existente (governo em exercício, identificável)"
+      ],
+      "flags_resolucao": "sem alternativa: o único trecho fiscal do plano com proposta (manter o arcabouço e controle do gasto) é o que já está em trechos.json (inclusive o parágrafo seguinte, \"O resultado fiscal virá...\"); as demais menções fiscais são balanço do mandato em passado (linhas 258-282) ou eficiência do gasto; mantido o trecho de compartilhamento de serviços de suporte, que começa em frase completa"
+    },
+    {
+      "subtema_id": "economia-regra-fiscal",
+      "candidato_id": "flavio",
+      "arquivo": "Planos_TSE/Flavio_Plano_Original.md",
+      "query": "Apresentaremos uma reformulação nas atuais regras fiscais, com regras claras focadas na estabilização e na redução da dívida pública conforme determina a Constituição. Vamos construir o equilíbrio fiscal duradouro, entregando superávits primários e limitando o crédito subsidiado com recursos do Tesouro, mitigando pressões inflacionárias. E haverá uma regra clara de controle de gastos discricionários dos três Poderes da União.",
+      "linha_inicio": 2725,
+      "linha_fim": 2730,
+      "pagina_pdf": 70,
+      "motivo_proposta": "Reformular as regras fiscais para estabilizar e reduzir a dívida, com superávits primários, limite ao crédito subsidiado do Tesouro e regra de controle de gastos discricionários dos três Poderes.",
+      "flags": [],
+      "flags_resolucao": "trocado: tira a abertura \"Vamos fazer o oposto\" (referência a trecho anterior) e acrescenta a regra de controle de gastos discricionários, que é regra fiscal concreta"
+    },
+    {
+      "subtema_id": "economia-regra-fiscal",
+      "candidato_id": "caiado",
+      "arquivo": "Planos_TSE/Caiado_Plano_Original.md",
+      "query": "A estabilização fiscal será o ponto de partida para reduzir juros, recuperar investimento e proteger as políticas sociais. O ajuste não será baseado em aumentos sucessivos de impostos nem em cortes lineares. O foco será impedir que as despesas obrigatórias cresçam acima da capacidade da economia, eliminar privilégios, rever gastos e benefícios sem resultado e reconstruir a confiança na trajetória da dívida.",
+      "linha_inicio": 464,
+      "linha_fim": 468,
+      "pagina_pdf": 11,
+      "motivo_proposta": "Ajuste sem alta de impostos nem cortes lineares, contendo despesas obrigatórias, eliminando privilégios e revendo gastos sem resultado.",
+      "flags": [],
+      "flags_resolucao": "sem flag, mantido"
+    },
+    {
+      "subtema_id": "economia-regra-fiscal",
+      "candidato_id": "renan",
+      "arquivo": "Planos_TSE/Renan_Plano_Original.md",
+      "query": "a chamada “PEC do Equilíbrio Fiscal”, que promove a desindexação de benefícios previdenciários e assistenciais do salário mínimo (corrigindo-os apenas pela inflação), a desvinculação dos pisos de saúde e educação da receita, a revisão do abono salarial e a redução de renúncias fiscais (gastos tributários), com economia projetada de R$ 1,1 trilhão até 2031.",
+      "linha_inicio": 387,
+      "linha_fim": 389,
+      "pagina_pdf": 9,
+      "motivo_proposta": "PEC que desindexa benefícios do salário mínimo, desvincula pisos de saúde e educação, revisa o abono e reduz renúncias, com economia projetada de R$ 1,1 trilhão até 2031.",
+      "flags": [
+        "trecho começa em minúscula (recorte no meio da frase, a partir de \"a chamada\")",
+        "nome próprio de programa/proposta: \"PEC do Equilíbrio Fiscal\" (pode denunciar o autor); a frase original antes cita deputado do partido, por isso foi recortada"
+      ],
+      "flags_resolucao": "sem alternativa: as demais passagens fiscais do capítulo são diagnóstico, citam pessoa (economista), \"PEC de Transição\"/\"Missão\" ou o caderno CDPP; o conteúdo concreto só existe nesta frase, que mantém o nome da PEC e começa em minúscula"
+    },
+    {
+      "subtema_id": "economia-regra-fiscal",
+      "candidato_id": "cury",
+      "arquivo": "Planos_TSE/Cury_Plano_Original1-2.md",
+      "query": "O equilíbrio das contas públicas será uma prioridade nacional. Um país que gasta continuamente mais do que arrecada compromete o futuro de seus filhos, aumenta os juros, reduz investimentos e limita sua capacidade de crescer. Nossa meta será perseguir o déficit próximo de zero, sem aventuras fiscais, preservando investimentos estratégicos e fortalecendo a confiança dos brasileiros e dos investidores nacionais e internacionais.",
+      "linha_inicio": 1166,
+      "linha_fim": 1171,
+      "pagina_pdf": 35,
+      "motivo_proposta": "Meta de déficit próximo de zero, preservando investimentos estratégicos.",
+      "flags": [
+        "proposta fraca em instrumento: só meta de déficit próximo de zero, sem prazo ou mecanismo; contém diagnóstico/princípio no início"
+      ],
+      "flags_resolucao": "sem alternativa: o item de controle de gastos (b) é só metas de eficiência por ministério, mais fraco como regra fiscal; a meta de déficit próximo de zero é a única meta fiscal do plano"
+    },
+    {
+      "subtema_id": "economia-minerais-criticos",
+      "candidato_id": "lula",
+      "arquivo": "Planos_TSE/Lula_Plano_Original.md",
+      "query": "Desenvolveremos uma política específica para minerais críticos e terras raras, capaz de organizar suas cadeias produtivas, diferenciar seus usos tecnológicos e evitar a simples exportação de matérias-primas estratégicas. promoveremos uma estratégia regional de mapeamento, beneficiamento e agregação de valor, para inserir o país de forma soberana nas cadeias globais de valor desses recursos.",
+      "linha_inicio": 2028,
+      "linha_fim": 2032,
+      "pagina_pdf": 51,
+      "motivo_proposta": "Política específica para minerais críticos e terras raras, com estratégia regional de mapeamento, beneficiamento e agregação de valor.",
+      "flags": [
+        "\"promoveremos\" em minúscula no meio do trecho (assim no original)",
+        "proposta com pouco instrumento/meta/prazo"
+      ],
+      "flags_resolucao": "sem alternativa: é a única proposta de minerais críticos do plano (a outra menção, linha 2222, é um polo industrial no Nordeste)"
+    },
+    {
+      "subtema_id": "economia-minerais-criticos",
+      "candidato_id": "flavio",
+      "arquivo": "Planos_TSE/Flavio_Plano_Original.md",
+      "query": "Em vez de somente exportar a pedra bruta e comprar de volta o produto acabado, vamos agregar valor no Brasil, conectando nossa riqueza mineral, nossa energia e a demanda dos data centers e das novas tecnologias numa estratégia única. O Estado atuará como regulador e coordenador, não como empresário, apoiado em seis pilares: marco regulatório claro e estável, licenciamento ágil e técnico, atração de capital e tecnologia, verticalização com incentivos de mercado, governança e transparência.",
+      "linha_inicio": 2094,
+      "linha_fim": 2101,
+      "pagina_pdf": 54,
+      "motivo_proposta": "Agregar valor no Brasil à riqueza mineral, com Estado regulador e coordenador apoiado em seis pilares (marco regulatório, licenciamento, capital e tecnologia, verticalização, governança).",
+      "flags": [],
+      "flags_resolucao": "trocado: o trecho anterior era ambíguo isolado (não dizia que tratava de minerais); este nomeia riqueza mineral e pedra bruta e traz os pilares da política"
+    },
+    {
+      "subtema_id": "economia-minerais-criticos",
+      "candidato_id": "caiado",
+      "arquivo": "Planos_TSE/Caiado_Plano_Original.md",
+      "query": "Usar crédito, inovação, infraestrutura e acordos de investimento para instalar separação, refino, metalurgia, química, produção de ligas, ímãs, cátodos, baterias e reciclagem. Incentivos terão prazo, metas e contrapartidas de tecnologia, emprego e exportação de maior valor.",
+      "linha_inicio": 2634,
+      "linha_fim": 2636,
+      "pagina_pdf": 53,
+      "motivo_proposta": "Crédito, inovação e acordos de investimento para instalar refino e metalurgia no país, com incentivos com prazo, metas e contrapartidas.",
+      "flags": [
+        "trecho não nomeia terras raras/minerais críticos, só a cadeia (ímãs, cátodos, baterias)"
+      ],
+      "flags_resolucao": "sem alternativa: o item de estratégia nacional tem menos de 25 palavras e cita siglas de ministérios; o item de verticalização já traz prazo, metas e contrapartidas"
+    },
+    {
+      "subtema_id": "economia-minerais-criticos",
+      "candidato_id": "renan",
+      "arquivo": "Planos_TSE/Renan_Plano_Original.md",
+      "query": "Celebração de acordos bilaterais com Estados Unidos e União Europeia que garantam off-take agreements (compromissos de compra de longo prazo) e transferência tecnológica em processamento de terras raras.",
+      "linha_inicio": 1468,
+      "linha_fim": 1469,
+      "pagina_pdf": 38,
+      "motivo_proposta": "Acordos bilaterais com Estados Unidos e União Europeia com compromissos de compra de longo prazo e transferência tecnológica em processamento de terras raras.",
+      "flags": [],
+      "flags_resolucao": "trocado: remove a PEC com meta de financiamento em lista de percentuais (vocabulário próprio) e o recorte em minúscula; frase inicia limpa e nomeia terras raras"
+    },
+    {
+      "subtema_id": "economia-minerais-criticos",
+      "candidato_id": "cury",
+      "arquivo": "Planos_TSE/Cury_Plano_Original1-2.md",
+      "query": "O Brasil possui algumas das maiores reservas de minerais estratégicos do planeta. Nossa política será agregar valor a essas riquezas naturais por meio da industrialização, evitando a simples exportação de matéria-prima. Incentivaremos cadeias produtivas completas, desde a mineração responsável até a fabricação de produtos tecnológicos de alto valor agregado.",
+      "linha_inicio": 1348,
+      "linha_fim": 1352,
+      "pagina_pdf": 40,
+      "motivo_proposta": "Agregar valor aos minerais estratégicos por meio da industrialização, evitando a simples exportação de matéria-prima, com incentivo a cadeias produtivas completas.",
+      "flags": [],
+      "flags_resolucao": "trocado: o trecho anterior tinha setas (grafia própria) e só dizia \"estimular\"; este é prosa limpa, nomeia minerais estratégicos e responde direto ao enunciado (agregar valor em vez de exportar matéria-prima). Os itens em lista do projeto de terras raras do mesmo plano não localizam por causa dos marcadores"
+    },
+    {
+      "subtema_id": "economia-agro",
+      "candidato_id": "lula",
+      "arquivo": "Planos_TSE/Lula_Plano_Original.md",
+      "query": "Queremos consolidar o crédito como instrumento de modernização, priorizando o financiamento de máquinas, equipamentos, sistemas de irrigação e tecnologias para o aumento da produtividade. Buscaremos também continuar diversificando as fontes de financiamento, estimulando o mercado de capitais e títulos do agronegócio. Haverá medidas para simplificar ainda mais o acesso ao crédito, com processos menos burocráticos e critérios claros.",
+      "linha_inicio": 2424,
+      "linha_fim": 2429,
+      "pagina_pdf": 60,
+      "motivo_proposta": "Crédito rural para financiar máquinas, irrigação e tecnologia, diversificação das fontes de financiamento via mercado de capitais e títulos do agronegócio, e simplificação do acesso ao crédito.",
+      "flags": [],
+      "flags_resolucao": "trocado: o seguro rural estava em fase de diálogo, sem instrumento fechado; o crédito tem instrumentos e destinos definidos (e responde direto ao enunciado)"
+    },
+    {
+      "subtema_id": "economia-agro",
+      "candidato_id": "flavio",
+      "arquivo": "Planos_TSE/Flavio_Plano_Original.md",
+      "query": "Vamos ampliar o Seguro Rural e trazer ferramentas de securitização e reorganização das dívidas do setor, dando ao produtor o horizonte de mais de um ano que ele precisa para planejar. Vamos ampliar a capacidade de armazenamento das safras, para garantir melhores preços ao produtor e oferta contínua à população, e buscar soluções diplomáticas eficazes contra sanções dos Estados Unidos, da China e da Europa aos produtos nacionais.",
+      "linha_inicio": 2037,
+      "linha_fim": 2043,
+      "pagina_pdf": 53,
+      "motivo_proposta": "Ampliar o Seguro Rural, securitização e reorganização de dívidas do setor, e ampliar a armazenagem de safras.",
+      "flags": [],
+      "flags_resolucao": "sem flag, mantido"
+    },
+    {
+      "subtema_id": "economia-agro",
+      "candidato_id": "caiado",
+      "arquivo": "Planos_TSE/Caiado_Plano_Original.md",
+      "query": "Direcionar os recursos públicos prioritariamente para garantias, seguro, redução de riscos e investimentos em irrigação e armazenagem. Criar um fundo garantidor para o crédito agrícola privado e dar previsibilidade ao financiamento das safras e dos projetos de longo prazo. Estruturar um Plano Safra plurianual, com horizonte de cinco anos, para dar previsibilidade e planejamento de longo prazo ao setor produtivo.",
+      "linha_inicio": 1041,
+      "linha_fim": 1044,
+      "pagina_pdf": 22,
+      "motivo_proposta": "Fundo garantidor para o crédito agrícola privado e Plano Safra plurianual com horizonte de cinco anos.",
+      "flags": [
+        "menciona \"Plano Safra\" (programa existente, nome genérico do setor)"
+      ],
+      "flags_resolucao": "sem alternativa: a menção a Plano Safra é nome genérico do crédito rural; o horizonte de cinco anos é a parte concreta, mantida"
+    },
+    {
+      "subtema_id": "economia-agro",
+      "candidato_id": "renan",
+      "arquivo": "Planos_TSE/Renan_Plano_Original.md",
+      "query": "A política de Zonas Econômicas Especiais, as linhas de crédito do BNDES condicionadas a metas de exportação e a busca de acordos comerciais bilaterais serão nossos principais instrumentos. Em paralelo, o Plano Safra será reorganizado para premiar produtores que invistam em processamento e verticalização.",
+      "linha_inicio": 1606,
+      "linha_fim": 1609,
+      "pagina_pdf": 41,
+      "motivo_proposta": "Crédito do BNDES condicionado a metas de exportação, Zonas Econômicas Especiais e Plano Safra reorganizado para premiar quem processa e verticaliza.",
+      "flags": [
+        "\"Zonas Econômicas Especiais\" é vocabulário próprio recorrente do plano (pode denunciar o autor)",
+        "trecho começa em \"A política de\", com referência fraca a algo anterior (\"principais instrumentos\" de quê), mas autocontido o bastante"
+      ],
+      "flags_resolucao": "sem alternativa: o trecho de crédito do BNDES e Plano Safra só existe nesse parágrafo, contíguo à frase com Zonas Econômicas Especiais; recortar o resto deixaria menos de 25 palavras ou fragmento"
+    },
+    {
+      "subtema_id": "economia-agro",
+      "candidato_id": "cury",
+      "arquivo": "Planos_TSE/Cury_Plano_Original1-2.md",
+      "query": "A incerteza climática é um dos maiores riscos para a produção nacional. Ampliaremos significativamente a cobertura do Programa de Subvenção ao Prêmio do Seguro Rural (PSR), garantindo que o produtor tenha um antídoto contra eventos climáticos extremos. O seguro deixará de ser um luxo para tornar-se uma ferramenta indispensável de fomento ao crédito rural, gestão de risco e prevenção contra o endividamento sistêmico no campo.",
+      "linha_inicio": 1601,
+      "linha_fim": 1606,
+      "pagina_pdf": 48,
+      "motivo_proposta": "Ampliar a cobertura da subvenção ao prêmio do seguro rural para proteger o produtor contra eventos climáticos extremos e fomentar o crédito rural.",
+      "flags": [],
+      "flags_resolucao": "trocado: o trecho anterior era só meta quantitativa (10 mil agroindústrias), perto do mínimo de palavras e fora de crédito/seguro; este traz instrumento (subvenção ao prêmio) e fala de seguro e crédito"
+    }
+  ],
+  "enunciados": {
+    "economia-minerais-criticos": "O que o governo deve fazer para que o Brasil aproveite seus minerais críticos e terras raras, em vez de apenas exportá-los como matéria-prima?",
+    "economia-agro": "Qual deve ser o instrumento do governo para apoiar o produtor rural em crédito, seguro e agregação de valor?",
+    "economia-regra-fiscal": "Como o governo deve controlar os gastos e reequilibrar as contas públicas?"
+  }
+}

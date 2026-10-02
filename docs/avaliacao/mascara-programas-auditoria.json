@@ -1,0 +1,267 @@
+[
+  {
+    "id": "mec-livros",
+    "candidato": "lula",
+    "origem": "publicado"
+  },
+  {
+    "id": "mec-idiomas",
+    "candidato": "lula",
+    "origem": "publicado"
+  },
+  {
+    "id": "pe-de-meia-licenciatura",
+    "candidato": "lula",
+    "origem": "publicado"
+  },
+  {
+    "id": "bolsa-mais-professores",
+    "candidato": "lula",
+    "origem": "publicado"
+  },
+  {
+    "id": "nova-industria-brasil",
+    "candidato": "lula",
+    "origem": "publicado"
+  },
+  {
+    "id": "novo-pac",
+    "candidato": "lula",
+    "origem": "publicado"
+  },
+  {
+    "id": "compromisso-crianca-alfabetizada",
+    "candidato": "lula",
+    "origem": "publicado"
+  },
+  {
+    "id": "supercentro-brasil",
+    "candidato": "lula",
+    "origem": "publicado"
+  },
+  {
+    "id": "contrata-mais-brasil",
+    "candidato": "lula",
+    "origem": "publicado"
+  },
+  {
+    "id": "mais-medicos",
+    "candidato": "lula",
+    "origem": "vazamentos"
+  },
+  {
+    "id": "brasil-sorridente",
+    "candidato": "lula",
+    "origem": "vazamentos"
+  },
+  {
+    "id": "plano-pena-justa",
+    "candidato": "lula",
+    "origem": "vazamentos"
+  },
+  {
+    "id": "muralha-brasileira",
+    "candidato": "flavio",
+    "origem": "publicado"
+  },
+  {
+    "id": "muralha-paulista",
+    "candidato": "flavio",
+    "origem": "publicado"
+  },
+  {
+    "id": "smart-sampa",
+    "candidato": "flavio",
+    "origem": "publicado"
+  },
+  {
+    "id": "treva",
+    "candidato": "flavio",
+    "origem": "publicado"
+  },
+  {
+    "id": "programa-acolher",
+    "candidato": "flavio",
+    "origem": "publicado"
+  },
+  {
+    "id": "conecte-sus",
+    "candidato": "flavio",
+    "origem": "publicado"
+  },
+  {
+    "id": "brasil-sem-fila",
+    "candidato": "flavio",
+    "origem": "vazamentos"
+  },
+  {
+    "id": "brasil-que-prospera",
+    "candidato": "flavio",
+    "origem": "vazamentos"
+  },
+  {
+    "id": "brasil-mais-barato",
+    "candidato": "flavio",
+    "origem": "vazamentos"
+  },
+  {
+    "id": "redad",
+    "candidato": "caiado",
+    "origem": "publicado"
+  },
+  {
+    "id": "lei-terrorismo-domestico",
+    "candidato": "caiado",
+    "origem": "vazamentos"
+  },
+  {
+    "id": "terrorismo-domestico",
+    "candidato": "caiado",
+    "origem": "vazamentos"
+  },
+  {
+    "id": "sistema-soberania",
+    "candidato": "caiado",
+    "origem": "vazamentos"
+  },
+  {
+    "id": "pacto-alfabetizacao-matematica",
+    "candidato": "caiado",
+    "origem": "publicado"
+  },
+  {
+    "id": "dpi",
+    "candidato": "renan",
+    "origem": "publicado"
+  },
+  {
+    "id": "ener",
+    "candidato": "renan",
+    "origem": "publicado"
+  },
+  {
+    "id": "frentes-cidadas",
+    "candidato": "renan",
+    "origem": "vazamentos"
+  },
+  {
+    "id": "comissariado",
+    "candidato": "renan",
+    "origem": "publicado"
+  },
+  {
+    "id": "comissarios-municipais",
+    "candidato": "renan",
+    "origem": "publicado"
+  },
+  {
+    "id": "comissario",
+    "candidato": "renan",
+    "origem": "publicado"
+  },
+  {
+    "id": "marco-gerencial",
+    "candidato": "renan",
+    "origem": "publicado"
+  },
+  {
+    "id": "lrg",
+    "candidato": "renan",
+    "origem": "publicado"
+  },
+  {
+    "id": "escalada-de-consequencias",
+    "candidato": "renan",
+    "origem": "publicado"
+  },
+  {
+    "id": "tutela-gerencial",
+    "candidato": "renan",
+    "origem": "publicado"
+  },
+  {
+    "id": "improbidade-gerencial",
+    "candidato": "renan",
+    "origem": "publicado"
+  },
+  {
+    "id": "pronto",
+    "candidato": "renan",
+    "origem": "publicado"
+  },
+  {
+    "id": "fnma",
+    "candidato": "renan",
+    "origem": "publicado"
+  },
+  {
+    "id": "grande-consolidacao-municipal",
+    "candidato": "renan",
+    "origem": "publicado"
+  },
+  {
+    "id": "foco",
+    "candidato": "cury",
+    "origem": "publicado"
+  },
+  {
+    "id": "fato",
+    "candidato": "cury",
+    "origem": "publicado"
+  },
+  {
+    "id": "seguranca-4-0",
+    "candidato": "cury",
+    "origem": "vazamentos"
+  },
+  {
+    "id": "gestao-da-emocao",
+    "candidato": "cury",
+    "origem": "vazamentos"
+  },
+  {
+    "id": "brasil-dos-nossos-sonhos",
+    "candidato": "cury",
+    "origem": "publicado"
+  },
+  {
+    "id": "brasil-da-pacificacao",
+    "candidato": "cury",
+    "origem": "publicado"
+  },
+  {
+    "id": "nova-revolucao-industrial",
+    "candidato": "cury",
+    "origem": "publicado"
+  },
+  {
+    "id": "academia-de-formacao-do-eu",
+    "candidato": "cury",
+    "origem": "publicado"
+  },
+  {
+    "id": "neuroinclusivo",
+    "candidato": "cury",
+    "origem": "vazamentos"
+  },
+  {
+    "id": "metodologia-psicoativa",
+    "candidato": "cury",
+    "origem": "vazamentos"
+  },
+  {
+    "id": "plano-de-inclusao-e-desenvolvimento",
+    "candidato": "cury",
+    "origem": "vazamentos"
+  },
+  {
+    "id": "tele-saude-brasil",
+    "candidato": "cury",
+    "origem": "publicado"
+  },
+  {
+    "id": "corredores-de-exportacao",
+    "candidato": "cury",
+    "origem": "publicado"
+  }
+]

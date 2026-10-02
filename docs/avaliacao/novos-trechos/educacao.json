@@ -1,0 +1,182 @@
+{
+ "trocas": [
+  {
+   "id": "educacao-ensino-superior/flavio",
+   "candidato": "flavio",
+   "antes": "Empréstimo Contingente à Renda (financiamento estudantil proporcional à renda)",
+   "depois": "Pós-graduação lato sensu voltada ao mercado, com recursos às instituições em troca de formação profissional",
+   "motivo": "Nome próprio de instrumento."
+  },
+  {
+   "id": "educacao-ensino-superior/renan",
+   "candidato": "renan",
+   "antes": "Trecho de 26 palavras começando em minúscula",
+   "depois": "Mesma proposta ampliada para o início da frase (mais de 50 palavras)",
+   "motivo": "Trecho fraco/começo no meio da frase; sem alternativa melhor."
+  },
+  {
+   "id": "educacao-tempo-integral/lula",
+   "candidato": "lula",
+   "antes": "Parágrafo com \"novo mandato\" e balanço de 1,8 milhão de matrículas",
+   "depois": "Só a frase sobre o financiamento no Fundeb",
+   "motivo": "Pistas de governo em exercício."
+  }
+ ],
+ "trechos": [
+  {
+   "subtema_id": "educacao-ensino-superior",
+   "candidato_id": "lula",
+   "arquivo": "Lula_Plano_Original.md",
+   "query": "Haverá também novo ciclo expansão e interiorização da educação superior pública para superar os vazios educacionais e as assimetrias regionais. Adotaremos medidas para aperfeiçoar a assistência estudantil, para garantir a permanência e a conclusão dos cursos pelos estudantes nas instituições públicas.",
+   "linha_inicio": 1242,
+   "linha_fim": 1246,
+   "pagina_pdf": 32,
+   "motivo_proposta": "Novo ciclo de expansão e interiorização da educação superior pública e aperfeiçoamento da assistência estudantil para permanência e conclusão.",
+   "flags": [],
+   "flags_resolucao": "Sem alteração; sem pista de autor ou fraqueza identificada."
+  },
+  {
+   "subtema_id": "educacao-ensino-superior",
+   "candidato_id": "flavio",
+   "arquivo": "Flavio_Plano_Original.md",
+   "query": "E os cursos de pós-graduação voltados ao mercado, o lato sensu, vão aproximar empresas e universidades: as instituições de ensino poderão receber recursos em troca da formação dos profissionais de que o país precisa, premiando quem forma para o emprego que existe.",
+   "linha_inicio": 1423,
+   "linha_fim": 1428,
+   "pagina_pdf": 35,
+   "motivo_proposta": "Aproximar empresas e universidades por pós-graduação voltada ao mercado, com repasse de recursos às instituições em troca da formação de profissionais.",
+   "flags": [],
+   "flags_resolucao": "Trocado: o trecho anterior trazia o nome próprio \"Empréstimo Contingente à Renda\"; o novo é proposta concreta do mesmo plano e subtema (vínculo universidade-setor produtivo), sem nome de instrumento."
+  },
+  {
+   "subtema_id": "educacao-ensino-superior",
+   "candidato_id": "caiado",
+   "arquivo": "Caiado_Plano_Original.md",
+   "query": "Elevar exigências de avaliação, fechar ou reestruturar cursos persistentemente insuficientes e combater evasão. Reformar formação em engenharia, ciência, saúde, educação e tecnologia, aproximando currículos de pesquisa, prática profissional e demandas sociais.",
+   "linha_inicio": 1626,
+   "linha_fim": 1628,
+   "pagina_pdf": 32,
+   "motivo_proposta": "Endurecer a avaliação, fechar ou reestruturar cursos insuficientes e reformar a formação em áreas-chave aproximando currículos da prática profissional.",
+   "flags": [],
+   "flags_resolucao": "Sem alteração; sem pista de autor ou fraqueza identificada."
+  },
+  {
+   "subtema_id": "educacao-ensino-superior",
+   "candidato_id": "renan",
+   "arquivo": "Renan_Plano_Original.md",
+   "query": "Por fim, temos no horizonte uma ambiciosa reforma do ensino superior, dentro da qual devemos também enfrentar uma série de questões centrais, que tensionarão esta relação ainda mais: devemos realocar os recursos atualmente investidos em cursos bacharelescos para a área de STEM; substituir o sistema de cotas por um sistema de bolsas de mérito;",
+   "linha_inicio": 1152,
+   "linha_fim": 1154,
+   "pagina_pdf": 30,
+   "motivo_proposta": "Realocar recursos de cursos de bacharelado para STEM e trocar o sistema de cotas por bolsas de mérito (mesma proposta, trecho ampliado para o início da frase).",
+   "flags": [],
+   "flags_resolucao": "Ampliado: o trecho anterior começava em minúscula no meio da frase e tinha 26 palavras; agora começa no início da frase e tem mais de 50. Sem proposta alternativa mais concreta e autocontida no plano. Resta o fim em ponto e vírgula e a linha ideológica (cotas/STEM), inerente ao conteúdo."
+  },
+  {
+   "subtema_id": "educacao-ensino-superior",
+   "candidato_id": "cury",
+   "arquivo": "Cury_Plano_Original1-2.md",
+   "query": "Os campi universitários devem tornar-se ambientes de inovação, com incubadoras, laboratórios tecnológicos, centros de pesquisa aplicada e programas de incentivo à criação de startups. O conhecimento produzido nas universidades deve gerar empresas, empregos, novas tecnologias e oportunidades para as futuras gerações.",
+   "linha_inicio": 2620,
+   "linha_fim": 2624,
+   "pagina_pdf": 77,
+   "motivo_proposta": "Transformar os campi em ambientes de inovação com incubadoras, laboratórios, centros de pesquisa aplicada e incentivo a startups.",
+   "flags": [],
+   "flags_resolucao": "Sem alteração; sem pista de autor ou fraqueza identificada."
+  },
+  {
+   "subtema_id": "educacao-alfabetizacao",
+   "candidato_id": "lula",
+   "arquivo": "Lula_Plano_Original.md",
+   "query": "Seguiremos com as ações e políticas já pactuadas com os estados e municípios brasileiros para chegarmos à meta de 80% das nossas crianças alfabetizadas na idade certa. Ao mesmo tempo, continuaremos fortalecendo as políticas de enfrentamento do analfabetismo na população adulta e vamos instituir uma estratégia nacional permanente de recomposição e aceleração das aprendizagens, com atenção especial aos anos finais do ensino fundamental e ao ensino médio.",
+   "linha_inicio": 1137,
+   "linha_fim": 1144,
+   "pagina_pdf": 30,
+   "motivo_proposta": "Meta de 80% de crianças alfabetizadas na idade certa por pactuação com estados e municípios, mais estratégia nacional permanente de recomposição das aprendizagens.",
+   "flags": [
+    "Menciona \"já pactuadas\" (continuidade de governo em exercício)."
+   ],
+   "flags_resolucao": "Sem alternativa: única proposta sobre alfabetização na idade certa; o outro trecho do parágrafo trata de analfabetismo adulto e recomposição (fora do subtema). Mantido, pista \"já pactuadas\" (continuidade de governo em exercício) permanece."
+  },
+  {
+   "subtema_id": "educacao-alfabetizacao",
+   "candidato_id": "flavio",
+   "arquivo": "Flavio_Plano_Original.md",
+   "query": "O começo de tudo é alfabetizar direito. Vamos priorizar o método fônico, que é o de melhor resultado comprovado pela ciência, ensinando a criança a ligar cada som à sua letra, em vez das abordagens que fracassaram por décadas.",
+   "linha_inicio": 1339,
+   "linha_fim": 1341,
+   "pagina_pdf": 34,
+   "motivo_proposta": "Priorizar o método fônico de alfabetização.",
+   "flags": [],
+   "flags_resolucao": "Sem alteração; sem pista de autor ou fraqueza identificada."
+  },
+  {
+   "subtema_id": "educacao-alfabetizacao",
+   "candidato_id": "caiado",
+   "arquivo": "Caiado_Plano_Original.md",
+   "query": "Apoiar estados e municípios para que todas as crianças leiam, escrevam, compreendam e dominem fundamentos matemáticos até o fim do 2º ano. Oferecer formação, material baseado em evidências, avaliação diagnóstica, tutoria e incentivo por melhoria com equidade.",
+   "linha_inicio": 1557,
+   "linha_fim": 1559,
+   "pagina_pdf": 31,
+   "motivo_proposta": "Apoio a estados e municípios com meta de leitura, escrita e matemática até o 2º ano, via formação, material, avaliação diagnóstica, tutoria e incentivo.",
+   "flags": [],
+   "flags_resolucao": "Sem alteração; sem pista de autor ou fraqueza identificada."
+  },
+  {
+   "subtema_id": "educacao-alfabetizacao",
+   "candidato_id": "renan",
+   "arquivo": "Renan_Plano_Original.md",
+   "query": "Também buscaremos a adoção universal do sistema fônico de alfabetização, que se encontra amparado pelas melhores evidências científicas disponíveis, dando aliás respaldo a uma orientação que já se encontra contemplada na BNCC e na Política Nacional de Alfabetização.",
+   "linha_inicio": 1136,
+   "linha_fim": 1139,
+   "pagina_pdf": 30,
+   "motivo_proposta": "Adoção universal do sistema fônico de alfabetização.",
+   "flags": [
+    "Cita BNCC e Política Nacional de Alfabetização (siglas/programas oficiais, não próprios do autor)."
+   ],
+   "flags_resolucao": "Sem alternativa: única passagem sobre alfabetização; BNCC e Política Nacional de Alfabetização são oficiais, não do autor. Mantido."
+  },
+  {
+   "subtema_id": "educacao-tempo-integral",
+   "candidato_id": "lula",
+   "arquivo": "Lula_Plano_Original.md",
+   "query": "A partir de 2026, com a inclusão, no Fundeb, do financiamento à educação em tempo integral, a expectativa é que a ampliação dessa modalidade se acelere, garantindo melhores condições de aprendizado para os estudantes.",
+   "linha_inicio": 1158,
+   "linha_fim": 1160,
+   "pagina_pdf": 30,
+   "motivo_proposta": "Inclusão do financiamento da educação em tempo integral no Fundeb para acelerar a ampliação da modalidade.",
+   "flags": [],
+   "flags_resolucao": "Trocado por recorte do mesmo parágrafo: removidos \"novo mandato\" e o balanço de 1,8 milhão de matrículas (pistas de governo em exercício). Resta indício leve: \"a partir de 2026 ... inclusão no Fundeb\" é fato já ocorrido; não há outro trecho de tempo integral no plano sem pista mais forte (demais citam \"atual mandato\", Novo PAC e 686 escolas construídas)."
+  },
+  {
+   "subtema_id": "educacao-tempo-integral",
+   "candidato_id": "flavio",
+   "arquivo": "Flavio_Plano_Original.md",
+   "query": "Apoiamos a escola em tempo integral, para que a criança tenha mais tempo de aprendizado, reforço e atividades formativas, e não fique entregue à própria sorte no contraturno.",
+   "linha_inicio": 1384,
+   "linha_fim": 1386,
+   "pagina_pdf": 34,
+   "motivo_proposta": "Apoio à escola em tempo integral para oferecer mais aprendizado, reforço e atividades formativas no contraturno.",
+   "flags": [
+    "Proposta fraca: formulação de apoio (\"Apoiamos\"), sem instrumento, meta ou prazo; mantido para atingir 3 candidatos. O trecho seguinte cita programa próprio \"Escola nas Férias\" e foi evitado."
+   ],
+   "flags_resolucao": "Sem alternativa: única passagem sobre tempo integral no plano; o parágrafo contíguo cita programa próprio \"Escola nas Férias\" e os demais trechos são de creche (outro subtema) ou do programa \"Escola de Campeões\". Mantido (28 palavras)."
+  },
+  {
+   "subtema_id": "educacao-tempo-integral",
+   "candidato_id": "caiado",
+   "arquivo": "Caiado_Plano_Original.md",
+   "query": "Ampliar vagas priorizando educação infantil, anos finais e ensino médio em territórios vulneráveis. O tempo adicional incluirá aprendizagem, esporte, cultura, projeto de vida, ciência e apoio aos estudantes, não mera permanência física.",
+   "linha_inicio": 1601,
+   "linha_fim": 1603,
+   "pagina_pdf": 32,
+   "motivo_proposta": "Ampliar vagas em tempo integral em territórios vulneráveis, com tempo adicional de conteúdo formativo.",
+   "flags": [],
+   "flags_resolucao": "Sem alteração; sem pista de autor ou fraqueza identificada."
+  }
+ ],
+ "enunciados": {
+  "educacao-ensino-superior": "Que medidas o governo deve adotar no ensino superior (financiamento, acesso, cursos e vínculo com a pesquisa e o setor produtivo)?",
+  "educacao-alfabetizacao": "Como o governo deve garantir que as crianças sejam alfabetizadas na idade certa?",
+  "educacao-tempo-integral": "Como o governo deve expandir a escola em tempo integral?"
+ }
+}

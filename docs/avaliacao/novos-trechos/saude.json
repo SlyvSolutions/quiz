@@ -1,0 +1,262 @@
+{
+  "trocas": [
+    {
+      "id": "saude-filas-regulacao/renan",
+      "candidato": "renan",
+      "antes": "Com isso, devemos estabelecer uma fila a partir do grau de risco, não mais da simples prioridade cronológica, ...",
+      "depois": "devemos estabelecer uma fila a partir do grau de risco, não mais da simples prioridade cronológica, fundada no...",
+      "motivo": "Remove o conector \"Com isso,\" do início (referência ao parágrafo que cita a sigla própria); mesmo critério de risco."
+    },
+    {
+      "id": "saude-prontuario-eletronico/lula",
+      "candidato": "lula",
+      "antes": "Vamos acelerar os esforços na consolidação do prontuário único do cidadão, que já avança por meio da Rede Naci...",
+      "depois": "é a integração entre a Atenção Primária, a Vigilância em Saúde, a Assistência Farmacêutica e a Atenção Especia...",
+      "motivo": "Troca o trecho com a sigla RNDS (programa federal) pela integração entre níveis de atenção com prontuário compartilhado."
+    },
+    {
+      "id": "saude-prontuario-eletronico/renan",
+      "candidato": "renan",
+      "antes": "Criação do PRONTO (Prontuário Eletrônico Nacional Interoperável) que irá conectar a atenção primária, os servi...",
+      "depois": "irá conectar a atenção primária, os serviços especializados, os hospitais públicos e privados, laboratórios e ...",
+      "motivo": "Recorte passa a começar em \"irá conectar\", sem a sigla PRONTO e sem o nome \"Prontuário Eletrônico Nacional Interoperável\"."
+    },
+    {
+      "id": "saude-atencao-primaria/flavio",
+      "candidato": "flavio",
+      "antes": "Vamos ampliar a Estratégia Saúde da Família, levando o cuidado para perto de casa, e criar o Programa de Atend...",
+      "depois": "Vamos também levar o atendimento até quem não consegue chegar até ele. Com a telessaúde e o teleatendimento po...",
+      "motivo": "Troca ampliação da Estratégia Saúde da Família e Programa de Atendimento aos Idosos (nomes de programa, sem meta) por telessaúde que leva médicos a regiões com fila."
+    },
+    {
+      "id": "saude-atencao-primaria/cury",
+      "candidato": "cury",
+      "antes": "A atenção básica continuará sendo o principal eixo do Sistema Único de Saúde. Investiremos na prevenção de doe...",
+      "depois": "Nosso compromisso é estabelecer uma meta nacional de atendimento digital em até trinta minutos para os casos c...",
+      "motivo": "Troca princípio genérico da atenção básica por meta de 30 minutos e plataforma nacional que conecta profissionais de todas as regiões."
+    },
+    {
+      "id": "saude-prontuario-eletronico/cury",
+      "candidato": "cury",
+      "antes": "(ausente)",
+      "depois": "O SUS é uma das maiores conquistas sociais do Brasil. Nossa prioridade será fortalecer sua gestão por meio da ...",
+      "motivo": "Adiciona o candidato (ausente neste subtema)."
+    }
+  ],
+  "trechos": [
+    {
+      "subtema_id": "saude-filas-regulacao",
+      "candidato_id": "lula",
+      "arquivo": "Lula_Plano_Original.md",
+      "query": "Aprimoraremos ainda mais a regulação do acesso à atenção especializada, garantindo maior transparência das filas e utilizando inteligência artificial, com fila única digital e ordenada pelo risco clínico, com transporte sanitário em todas as regiões de saúde.",
+      "linha_inicio": 1433,
+      "linha_fim": 1436,
+      "pagina_pdf": 37,
+      "motivo_proposta": "Fila única digital ordenada por risco clínico, com IA, transparência das filas e transporte sanitário em todas as regiões de saúde.",
+      "flags": [],
+      "flags_resolucao": []
+    },
+    {
+      "subtema_id": "saude-filas-regulacao",
+      "candidato_id": "flavio",
+      "arquivo": "Flavio_Plano_Original.md",
+      "query": "Para usar bem o que já existe, vamos contratar serviços e exames na rede privada nos horários ociosos: há aparelho parado enquanto gente espera meses pelo mesmo exame, e aproveitar essa capacidade é atender mais sem construir do zero.",
+      "linha_inicio": 1458,
+      "linha_fim": 1463,
+      "pagina_pdf": 36,
+      "motivo_proposta": "Contratar exames e serviços da rede privada nos horários ociosos para reduzir a espera.",
+      "flags": [
+        "Número de página (37) removido da junção das linhas."
+      ],
+      "flags_resolucao": [
+        "Mantido: Número de página (37) removido da junção das linhas."
+      ]
+    },
+    {
+      "subtema_id": "saude-filas-regulacao",
+      "candidato_id": "caiado",
+      "arquivo": "Caiado_Plano_Original.md",
+      "query": "Até 2030, reduzir em pelo menos 50% o tempo mediano das filas prioritárias nas regiões com maior espera, usando 2027 como linha de base; 100% das filas estratégicas com prioridade clínica, rastreabilidade e indicador público.",
+      "linha_inicio": 3864,
+      "linha_fim": 3866,
+      "pagina_pdf": 76,
+      "motivo_proposta": "Meta até 2030: cortar em 50% o tempo mediano das filas prioritárias (base 2027) e pôr 100% das filas estratégicas com prioridade clínica e indicador público.",
+      "flags": [],
+      "flags_resolucao": []
+    },
+    {
+      "subtema_id": "saude-filas-regulacao",
+      "candidato_id": "renan",
+      "arquivo": "Renan_Plano_Original.md",
+      "query": "devemos estabelecer uma fila a partir do grau de risco, não mais da simples prioridade cronológica, fundada nos seguintes critérios: (i) gravidade clínica atual; (ii) risco de progressão em curto e médio prazo; (iii) impacto funcional (a ameaça de perda da capacidade laboral e autonomia do paciente); (iv) vulnerabilidade social associada; (v) tempo acumulado de espera.",
+      "linha_inicio": 919,
+      "linha_fim": 921,
+      "pagina_pdf": 24,
+      "motivo_proposta": "Fila por grau de risco (gravidade, progressão, impacto funcional, vulnerabilidade, tempo de espera) no lugar da ordem cronológica.",
+      "flags": [],
+      "flags_resolucao": [
+        "Início \"Com isso,\" removido; trecho agora autocontido e sem referência ao parágrafo anterior (que citava a sigla ENER)."
+      ]
+    },
+    {
+      "subtema_id": "saude-filas-regulacao",
+      "candidato_id": "cury",
+      "arquivo": "Cury_Plano_Original1-2.md",
+      "query": "Antes da consulta, sistemas inteligentes poderão realizar uma triagem clínica inicial, coletando sintomas, identificando fatores de risco e organizando informações que auxiliem o profissional de saúde. Esses sistemas contribuirão para: Classificação automática de risco; Priorização dos casos mais graves; Redução das filas de espera;",
+      "linha_inicio": 5672,
+      "linha_fim": 5678,
+      "pagina_pdf": 161,
+      "motivo_proposta": "Triagem clínica inicial por sistemas inteligentes, com classificação automática de risco e priorização dos casos mais graves para reduzir filas.",
+      "flags": [
+        "Proposta menos detalhada (sem meta nem prazo); verbos em \"poderão\".",
+        "Glifos de marcador (•) do PDF removidos entre os itens da lista."
+      ],
+      "flags_resolucao": [
+        "Mantido: Proposta menos detalhada (sem meta nem prazo); verbos em \"poderão\". Glifos de marcador (•) do PDF removidos entre os itens da lista.",
+        "sem alternativa: demais trechos de fila no plano são menos concretos (meta de 30 min é de telemedicina, não de fila de especialista)"
+      ]
+    },
+    {
+      "subtema_id": "saude-prontuario-eletronico",
+      "candidato_id": "lula",
+      "arquivo": "Lula_Plano_Original.md",
+      "query": "é a integração entre a Atenção Primária, a Vigilância em Saúde, a Assistência Farmacêutica e a Atenção Especializada, com prontuário compartilhado, fluxos claros de referência e contrarreferência",
+      "linha_inicio": 1312,
+      "linha_fim": 1315,
+      "pagina_pdf": 34,
+      "motivo_proposta": "Consolidar o prontuário único do cidadão via RNDS, com marcação de consultas e resultados de exames no celular.",
+      "flags": [],
+      "flags_resolucao": [
+        "Sigla RNDS removida; recorte curto (27 palavras) e começa no meio de frase (\"é a integração\"). Alternativa avaliada e descartada: o restante do parágrafo cita a OCI (programa) e \"próxima gestão\"."
+      ]
+    },
+    {
+      "subtema_id": "saude-prontuario-eletronico",
+      "candidato_id": "flavio",
+      "arquivo": "Flavio_Plano_Original.md",
+      "query": "Vamos implantar o prontuário eletrônico único, vinculado ao CPF e integrado ao Gov.br, interoperável entre as redes pública e privada, com histórico completo de consultas, exames, vacinas e prescrições, sempre observados o consentimento do paciente, a LGPD, o sigilo médico e os protocolos de segurança",
+      "linha_inicio": 1010,
+      "linha_fim": 1014,
+      "pagina_pdf": 25,
+      "motivo_proposta": "Prontuário eletrônico único vinculado ao CPF e ao Gov.br, interoperável entre redes pública e privada, com consentimento e LGPD.",
+      "flags": [
+        "Trecho termina sem ponto final (literal do plano)."
+      ],
+      "flags_resolucao": [
+        "Mantido: Trecho termina sem ponto final (literal do plano)."
+      ]
+    },
+    {
+      "subtema_id": "saude-prontuario-eletronico",
+      "candidato_id": "caiado",
+      "arquivo": "Caiado_Plano_Original.md",
+      "query": "Construir identidade clínica digital e interoperabilidade entre APS, especialista, laboratório, hospital, UTI, farmácia, reabilitação e vigilância. Adotar padrões abertos, segurança cibernética, governança, LGPD, registro de acesso e responsabilização clara. Transformar prontuários em instrumentos ativos de cuidado, com alertas para risco, rastreamento, vacinação, retorno pós-alta e abandono de tratamento.",
+      "linha_inicio": 4328,
+      "linha_fim": 4332,
+      "pagina_pdf": 88,
+      "motivo_proposta": "Identidade clínica digital e interoperabilidade entre todos os níveis da rede, com padrões abertos, LGPD e prontuário com alertas ativos.",
+      "flags": [
+        "Glifos de marcador (•) do PDF removidos entre os itens da lista.",
+        "Sigla APS (atenção primária à saúde) no texto; sem nome de programa."
+      ],
+      "flags_resolucao": [
+        "Mantido: Glifos de marcador (•) do PDF removidos entre os itens da lista. Sigla APS (atenção primária à saúde) no texto; sem nome de programa.",
+        "sem alternativa: sigla APS é termo genérico, não programa; mantido"
+      ]
+    },
+    {
+      "subtema_id": "saude-prontuario-eletronico",
+      "candidato_id": "renan",
+      "arquivo": "Renan_Plano_Original.md",
+      "query": "irá conectar a atenção primária, os serviços especializados, os hospitais públicos e privados, laboratórios e farmácias, servindo de repositório para todas as informações do paciente acessíveis a qualquer tempo.",
+      "linha_inicio": 949,
+      "linha_fim": 951,
+      "pagina_pdf": 25,
+      "motivo_proposta": "Criar prontuário eletrônico nacional interoperável conectando atenção primária, especialistas, hospitais públicos e privados, laboratórios e farmácias.",
+      "flags": [],
+      "flags_resolucao": [
+        "Sigla própria PRONTO removida do recorte (a sigla aparece só antes do trecho). Recorte começa em \"irá conectar\" (sujeito omitido). Não há outro trecho do plano sobre prontuário sem a sigla."
+      ]
+    },
+    {
+      "subtema_id": "saude-prontuario-eletronico",
+      "candidato_id": "cury",
+      "arquivo": "Cury_Plano_Original1-2.md",
+      "query": "O SUS é uma das maiores conquistas sociais do Brasil. Nossa prioridade será fortalecer sua gestão por meio da digitalização dos prontuários, integração dos sistemas, redução das filas, melhoria da eficiência administrativa e utilização de indicadores de desempenho para aprimorar continuamente os serviços prestados.",
+      "linha_inicio": 1435,
+      "linha_fim": 1438,
+      "pagina_pdf": 43,
+      "motivo_proposta": "Digitalizar os prontuários e integrar os sistemas do SUS, com indicadores de desempenho.",
+      "flags": [],
+      "flags_resolucao": [
+        "Candidato adicionado. Única menção a prontuário no plano do candidato; proposta genérica, sem meta, prazo ou desenho do sistema. Avaliar corte."
+      ]
+    },
+    {
+      "subtema_id": "saude-atencao-primaria",
+      "candidato_id": "lula",
+      "arquivo": "Lula_Plano_Original.md",
+      "query": "Seguiremos mantendo o apoio à expansão e qualificação das equipes de saúde da família, em especial as equipes multiprofissionais, que serão peça central no cuidado à uma população que envelhece com velocidade. Fortaleceremos instrumentos de indução e de financiamento para adoção de parâmetros de qualidade no atendimento, em especial em territórios de maior vulnerabilidade social.",
+      "linha_inicio": 1292,
+      "linha_fim": 1302,
+      "pagina_pdf": 33,
+      "motivo_proposta": "Expandir equipes de saúde da família e multiprofissionais, com indução e financiamento ligados a parâmetros de qualidade em territórios vulneráveis.",
+      "flags": [
+        "Trecho cruza número de página no PDF (34) removido na junção.",
+        "Alternativa descartada (Mais Médicos, fixação de profissionais): cita \"em nossa gestão\" e o nome do programa."
+      ],
+      "flags_resolucao": [
+        "Mantido: Trecho cruza número de página no PDF (34) removido na junção. Alternativa descartada (Mais Médicos, fixação de profissionais): cita \"em nossa gestão\" e o nome do programa."
+      ]
+    },
+    {
+      "subtema_id": "saude-atencao-primaria",
+      "candidato_id": "flavio",
+      "arquivo": "Flavio_Plano_Original.md",
+      "query": "Vamos também levar o atendimento até quem não consegue chegar até ele. Com a telessaúde e o teleatendimento por aplicativo, médicos de regiões com baixa demanda poderão atender pacientes onde as filas são longas, aproximando o cuidado de quem vive longe de um grande centro.",
+      "linha_inicio": 1465,
+      "linha_fim": 1468,
+      "pagina_pdf": 37,
+      "motivo_proposta": "Telessaúde e teleatendimento por aplicativo para médicos de regiões com baixa demanda atenderem onde as filas são longas.",
+      "flags": [],
+      "flags_resolucao": [
+        "Substitui trecho que nomeava a Estratégia Saúde da Família e criava programa nomeado; novo trecho tem mecanismo concreto, sem nome de programa. Foco em telessaúde (ângulo de levar profissionais), não em equipes de APS."
+      ]
+    },
+    {
+      "subtema_id": "saude-atencao-primaria",
+      "candidato_id": "caiado",
+      "arquivo": "Caiado_Plano_Original.md",
+      "query": "Planejar nacionalmente necessidades de médicos, enfermagem, multiprofissionais, especialistas, intensivistas, emergencistas, saúde mental, oncologia, geriatria, pediatria, saúde indígena, tecnologia e gestão. Expandir formação e residência onde houver vazios assistenciais, com incentivos para fixação territorial, carreira acadêmico-assistencial e educação permanente.",
+      "linha_inicio": 4463,
+      "linha_fim": 4466,
+      "pagina_pdf": 91,
+      "motivo_proposta": "Planejamento nacional da força de trabalho em saúde e expansão de formação e residência em vazios assistenciais, com incentivos à fixação territorial.",
+      "flags": [
+        "Glifos de marcador (•) do PDF removidos entre os itens da lista."
+      ],
+      "flags_resolucao": [
+        "Mantido: Glifos de marcador (•) do PDF removidos entre os itens da lista."
+      ]
+    },
+    {
+      "subtema_id": "saude-atencao-primaria",
+      "candidato_id": "cury",
+      "arquivo": "Cury_Plano_Original1-2.md",
+      "query": "Nosso compromisso é estabelecer uma meta nacional de atendimento digital em até trinta minutos para os casos compatíveis com telemedicina. Para isso será criada uma plataforma nacional integrada, conectando profissionais de todas as regiões do país em uma única rede pública digital.",
+      "linha_inicio": 5685,
+      "linha_fim": 5688,
+      "pagina_pdf": 161,
+      "motivo_proposta": "Meta nacional de atendimento digital em até 30 minutos, com plataforma nacional que conecta profissionais de todas as regiões.",
+      "flags": [],
+      "flags_resolucao": [
+        "Substitui trecho fraco (princípio sem meta). Novo trecho tem meta (30 minutos) e mecanismo (plataforma nacional); ângulo de levar profissionais, não de fortalecer equipes de atenção básica."
+      ]
+    }
+  ],
+  "enunciados": {
+    "saude-filas-regulacao": "Qual destas propostas você prefere para reduzir a espera por consultas e exames com especialistas no SUS?",
+    "saude-prontuario-eletronico": "Qual destas propostas você prefere para integrar o histórico de saúde do paciente entre unidades e serviços?",
+    "saude-atencao-primaria": "Qual destas propostas você prefere para fortalecer a atenção primária e levar profissionais de saúde onde há falta deles?"
+  }
+}

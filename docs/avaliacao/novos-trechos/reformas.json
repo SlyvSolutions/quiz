@@ -1,0 +1,210 @@
+{
+  "trocas": [
+    {
+      "id": "reformas-governo-digital",
+      "candidato": "lula",
+      "antes": "Portal da Transparência (dados abertos e IA), Ouvidoria-Geral da União e consultas digitais",
+      "depois": "Universalização de serviços públicos digitais e infraestruturas públicas digitais para personalizar serviços",
+      "motivo": "Remove nomes de órgãos e volta ao tema serviços digitais; sem nome próprio nem 'nosso governo'."
+    },
+    {
+      "id": "reformas-governo-digital",
+      "candidato": "cury",
+      "antes": "Meta de ser referência mundial em governo digital, serviços em plataformas integradas (sem instrumento)",
+      "depois": "Abertura de empresa rápida e digital: menos exigências, sistemas públicos integrados, menor tempo de formalização",
+      "motivo": "Trecho anterior sem instrumento; o novo tem mecanismo concreto."
+    },
+    {
+      "id": "reformas-pacto-federativo",
+      "candidato": "flavio",
+      "antes": "Revisão do pacto federativo e da legislação orçamentária (genérico, 33 palavras)",
+      "depois": "Mesmo trecho mais a frase contígua sobre recurso que emperra na execução local",
+      "motivo": "Instrumento pouco detalhado; contexto contíguo dá o problema que a medida resolve."
+    },
+    {
+      "id": "reformas-pacto-federativo",
+      "candidato": "renan",
+      "antes": "Tutela Gerencial, dupla assinatura Prefeito e Comissário, inelegibilidade e cassação",
+      "depois": "Critério de viabilidade fiscal de município (despesas obrigatórias cobertas por receita própria; arrecadação própria de pelo menos 10% da receita total)",
+      "motivo": "Remove jargão próprio e dependência de outra parte do plano; o novo é autocontido e numérico."
+    },
+    {
+      "id": "reformas-pacto-federativo",
+      "candidato": "cury",
+      "antes": "(ausente)",
+      "depois": "Revisão da divisão federativa dos tributos em favor dos municípios",
+      "motivo": "Candidato adicionado; ~76 palavras unindo as frases contíguas."
+    }
+  ],
+  "trechos": [
+    {
+      "subtema_id": "reformas-pacto-federativo",
+      "candidato_id": "lula",
+      "arquivo": "Lula_Plano_Original.md",
+      "query": "Para superar a desigualdade na capacidade dos estados e municípios de prestar melhores serviços à população, buscaremos fortalecer ainda mais a cooperação e a governança federativa, por meio de instrumentos como compartilhamento de infraestrutura pública digital, formação de servidores e elaboração de estratégias nacionais.",
+      "linha_inicio": 583,
+      "linha_fim": 587,
+      "pagina_pdf": 17,
+      "motivo_proposta": "Cooperação federativa por compartilhamento de infraestrutura pública digital, formação de servidores e estratégias nacionais.",
+      "flags": [
+        "Trecho cortado antes de 'Como já fizemos na atual gestão', que remeteria ao governo atual"
+      ],
+      "flags_resolucao": "Sem alternativa: o trecho já termina antes de 'Como já fizemos na atual gestão' e não tem sigla ou nome próprio; as demais passagens federativas do plano são ambientais ou de segurança, fora do subtema."
+    },
+    {
+      "subtema_id": "reformas-pacto-federativo",
+      "candidato_id": "flavio",
+      "arquivo": "Flavio_Plano_Original.md",
+      "query": "Promoveremos a revisão do pacto federativo e a redefinição das regras e dos processos orçamentários, e revisar a legislação para agilizar a aprovação, a liberação dos recursos e a prestação de contas. Hoje o dinheiro existe, mas emperra no caminho: o gestor local recebe o recurso e não consegue executá-lo, travado por exigências que consomem meses.",
+      "linha_inicio": 2613,
+      "linha_fim": 2618,
+      "pagina_pdf": 68,
+      "motivo_proposta": "Revisão do pacto federativo e da legislação para agilizar aprovação, liberação de recursos e prestação de contas, com o problema de execução local.",
+      "flags": [],
+      "flags_resolucao": "Ampliado no mesmo ponto do plano: acrescentada a frase contígua com o problema concreto (recurso que emperra na execução local). Sem nome próprio."
+    },
+    {
+      "subtema_id": "reformas-pacto-federativo",
+      "candidato_id": "caiado",
+      "arquivo": "Caiado_Plano_Original.md",
+      "query": "A União coordenará o que exige escala nacional e apoiará estados e municípios na execução. Consórcios, regiões integradas e transferências condicionadas a resultados permitirão soluções adaptadas às diferenças do país, sem centralização desnecessária.",
+      "linha_inicio": 207,
+      "linha_fim": 209,
+      "pagina_pdf": 5,
+      "motivo_proposta": "Divisão de papéis com consórcios, regiões integradas e transferências condicionadas a resultados.",
+      "flags": [],
+      "flags_resolucao": "Sem flag; mantido."
+    },
+    {
+      "subtema_id": "reformas-pacto-federativo",
+      "candidato_id": "renan",
+      "arquivo": "Renan_Plano_Original.md",
+      "query": "Será classificado como inviável o município incapaz de cobrir suas despesas obrigatórias com receita própria, com indicadores de Capacidade de Pagamento (CAPAG) estruturalmente comprometidos. Adotaremos como referência o critério já discutido pela PEC 188/2019: arrecadação direta de impostos de competência municipal (IPTU, ISS e ITBI), equivalente a pelo menos 10% da receita total.",
+      "linha_inicio": 562,
+      "linha_fim": 565,
+      "pagina_pdf": 17,
+      "motivo_proposta": "Critério de viabilidade fiscal de município: capacidade de pagamento e arrecadação própria de pelo menos 10% da receita total.",
+      "flags": [
+        "Contém siglas de uso público (CAPAG, PEC 188/2019, IPTU, ISS, ITBI), sem programa próprio"
+      ],
+      "flags_resolucao": "Trocado: o trecho anterior usava jargão próprio (Tutela Gerencial, Comissário, Inelegibilidade Superveniente, Cassação por Improbidade Gerencial). O trecho do Marco Gerencial (metas e indicadores) já está em trechos.json e foi descartado. O novo, do mesmo capítulo, traz critério objetivo e numérico (receita própria, 10% da receita total) sem jargão do autor; começa depois do rótulo 'Viabilidade fiscal.'."
+    },
+    {
+      "subtema_id": "reformas-sistema-politico",
+      "candidato_id": "flavio",
+      "arquivo": "Flavio_Plano_Original.md",
+      "query": "O foco deve ser a representatividade e a proximidade entre o eleitor e o eleito, superando o sistema atual em que a desconexão perdura ao longo de toda a legislatura de quatro anos. E propomos o fim da reeleição para o cargo de Presidente da República.",
+      "linha_inicio": 2545,
+      "linha_fim": 2548,
+      "pagina_pdf": 65,
+      "motivo_proposta": "Fim da reeleição para Presidente da República.",
+      "flags": [
+        "Cortada a frase seguinte, que cita partido e candidato; trecho de reeleição presidencial contígua a frase de princípio"
+      ],
+      "flags_resolucao": "Sem alternativa: a seção de reforma política é só esta; a frase seguinte cita partido e candidato. Mantido."
+    },
+    {
+      "subtema_id": "reformas-sistema-politico",
+      "candidato_id": "caiado",
+      "arquivo": "Caiado_Plano_Original.md",
+      "query": "Propor modelo em que parte dos representantes seja eleita em distritos territoriais e parte por listas partidárias, preservando a proporcionalidade e combinando vínculo local com representação das correntes de opinião.",
+      "linha_inicio": 401,
+      "linha_fim": 403,
+      "pagina_pdf": 9,
+      "motivo_proposta": "Sistema distrital misto: parte dos representantes em distritos e parte por listas partidárias.",
+      "flags": [],
+      "flags_resolucao": "Sem flag; mantido."
+    },
+    {
+      "subtema_id": "reformas-sistema-politico",
+      "candidato_id": "renan",
+      "arquivo": "Renan_Plano_Original.md",
+      "query": "O repasse do Fundo Partidário e do Fundo Eleitoral passará a ser calculado com base na qualidade gerencial dos mandatários. Partidos que selecionarem e mantiverem gestores competentes serão premiados; legendas que sustentarem prefeitos cassados ou com indicadores “vermelhos” sofrerão retenção de recursos.",
+      "linha_inicio": 671,
+      "linha_fim": 673,
+      "pagina_pdf": 17,
+      "motivo_proposta": "Repasse dos fundos Partidário e Eleitoral calculado pela qualidade gerencial dos mandatários, com retenção para legendas de prefeitos cassados.",
+      "flags": [
+        "Trecho do rótulo 'Vínculo com o Financiamento Partidário' omitido; trata de financiamento partidário, não do desenho do sistema eleitoral"
+      ],
+      "flags_resolucao": "Sem alternativa: o plano só trata de sistema político pelo vínculo do financiamento partidário à qualidade gerencial; não há proposta de desenho eleitoral. Mantido."
+    },
+    {
+      "subtema_id": "reformas-sistema-politico",
+      "candidato_id": "cury",
+      "arquivo": "Cury_Plano_Original1-2.md",
+      "query": "Propomos a adoção de um modelo semipresidencialista, no qual o Presidente da República compartilha a condução do governo com um Primeiro-Ministro escolhido a partir da maioria parlamentar. Esse modelo busca maior estabilidade política, eficiência administrativa e redução de crises institucionais.",
+      "linha_inicio": 1963,
+      "linha_fim": 1966,
+      "pagina_pdf": 59,
+      "motivo_proposta": "Adoção do semipresidencialismo, com Primeiro-Ministro escolhido a partir da maioria parlamentar.",
+      "flags": [],
+      "flags_resolucao": "Sem flag; mantido."
+    },
+    {
+      "subtema_id": "reformas-governo-digital",
+      "candidato_id": "lula",
+      "arquivo": "Lula_Plano_Original.md",
+      "query": "Vamos continuar investindo na universalização dos serviços públicos digitais de qualidade, e na construção de infraestruturas públicas digitais que deem suporte à personalização dos serviços. Vamos buscar alavancar novas iniciativas que melhorem e facilitem a experiência de uso de plataformas públicas",
+      "linha_inicio": 538,
+      "linha_fim": 541,
+      "pagina_pdf": 17,
+      "motivo_proposta": "Universalizar serviços públicos digitais e construir infraestruturas públicas digitais para personalizar serviços.",
+      "flags": [],
+      "flags_resolucao": "Trocado: o trecho anterior citava Portal da Transparência e Ouvidoria-Geral da União (nomes de órgãos) e tratava de transparência, não de serviços digitais. O novo corta antes de 'como o Gov.br' e do bloco que cita o governo Lula."
+    },
+    {
+      "subtema_id": "reformas-governo-digital",
+      "candidato_id": "flavio",
+      "arquivo": "Flavio_Plano_Original.md",
+      "query": "Vamos digitalizar 100% dos serviços públicos do Governo Federal passíveis de digitalização, sob o princípio do digital by design, e eliminar a exigência de reapresentar documentos que o Estado já possui. Se o governo já tem a informação, não vai pedir de novo.",
+      "linha_inicio": 968,
+      "linha_fim": 971,
+      "pagina_pdf": 24,
+      "motivo_proposta": "Digitalizar 100% dos serviços federais passíveis de digitalização e eliminar a reapresentação de documentos.",
+      "flags": [],
+      "flags_resolucao": "Sem flag; mantido."
+    },
+    {
+      "subtema_id": "reformas-governo-digital",
+      "candidato_id": "caiado",
+      "arquivo": "Caiado_Plano_Original.md",
+      "query": "Compartilhar cadastros, serviços administrativos, compras, patrimônio, tecnologia e dados. O cidadão terá identidade digital, canal único de atendimento e direito de não apresentar ao governo informação que já esteja em base pública, observadas a privacidade e a segurança.",
+      "linha_inicio": 212,
+      "linha_fim": 214,
+      "pagina_pdf": 5,
+      "motivo_proposta": "Compartilhar cadastros e dados entre órgãos, com identidade digital, canal único e dispensa de reapresentar informação pública.",
+      "flags": [],
+      "flags_resolucao": "Sem flag; mantido."
+    },
+    {
+      "subtema_id": "reformas-governo-digital",
+      "candidato_id": "cury",
+      "arquivo": "Cury_Plano_Original1-2.md",
+      "query": "Abrir uma empresa deverá ser rápido, simples e digital. Reduziremos exigências desnecessárias, integraremos sistemas públicos e diminuiremos o tempo necessário para formalização de novos negócios, estimulando investimentos e geração de empregos.",
+      "linha_inicio": 1294,
+      "linha_fim": 1297,
+      "pagina_pdf": 37,
+      "motivo_proposta": "Abertura de empresa digital, com menos exigências e integração de sistemas públicos.",
+      "flags": [],
+      "flags_resolucao": "Trocado: o trecho anterior era só aspiração ('referência mundial', 'velocidade da sociedade digital'). O novo traz mecanismo (reduzir exigências, integrar sistemas, cortar o tempo de formalização); limite: foca em empresas, não em todos os serviços ao cidadão."
+    },
+    {
+      "subtema_id": "reformas-pacto-federativo",
+      "candidato_id": "cury",
+      "arquivo": "Cury_Plano_Original1-2.md",
+      "query": "Será revisto o atual formato de divisão federativa dos tributos que, atualmente, favorece a União e os Estados desfavorecendo os Municípios. Entendemos que a dor humana, como a saúde, a educação, a segurança, ocorre, em destaque, nos municípios, que carregam a responsabilidade e o custo de lidar com essas dores. Portanto, apresentaremos proposta de revisão do pacto federativo no aspecto tributário, o ideal seria menos União Federal e mais municípios.",
+      "linha_inicio": 1218,
+      "linha_fim": 1225,
+      "pagina_pdf": null,
+      "motivo_proposta": "Revisão da divisão federativa dos tributos para dar mais recursos aos municípios.",
+      "flags": [],
+      "flags_resolucao": "Candidato adicionado: trecho concreto (revisão da divisão federativa dos tributos em favor dos municípios), antes não localizado por quebra de página; número de página solto no meio é ignorado pelo localizador."
+    }
+  ],
+  "enunciados": {
+    "reformas-pacto-federativo": "Como a divisão de responsabilidades e de recursos entre União, estados e municípios deve ser reformada?",
+    "reformas-sistema-politico": "Que mudança no sistema político e eleitoral deve ser feita?",
+    "reformas-governo-digital": "Como o governo deve usar a tecnologia para reduzir a burocracia e facilitar a vida do cidadão?"
+  }
+}
