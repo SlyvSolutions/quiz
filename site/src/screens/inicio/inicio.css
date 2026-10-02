@@ -1,0 +1,1084 @@
+/* Início: wizard fullscreen de 5 slides (deck 100dvh, sem scroll de página) */
+.inicio-wizard {
+  position: relative;
+  flex: 1 0 var(--mq-tela-altura);
+  display: flex;
+  flex-direction: column;
+  height: var(--mq-tela-altura);
+  min-height: 0;
+  overflow: clip;
+  background-color: var(--mq-preto);
+  color: var(--mq-branco);
+}
+
+.wizard-trilho {
+  flex: 1;
+  display: flex;
+  min-height: 0;
+}
+
+.wizard-slide {
+  flex: 0 0 100%;
+  display: none;
+  flex-direction: column;
+  align-items: center;
+  justify-content: safe center;
+  text-align: center;
+  gap: var(--mq-space-4);
+  padding: var(--mq-space-4) var(--mq-gutter) var(--mq-space-8);
+  overflow-y: auto;
+}
+
+.wizard-slide.visivel {
+  display: flex;
+}
+
+.wizard-tema-claro {
+  background-color: var(--mq-branco);
+  color: var(--mq-tinta);
+}
+
+.wizard-tema-escuro {
+  background-color: var(--mq-preto);
+  color: var(--mq-branco);
+}
+
+.inicio-wizard[data-tema="claro"] {
+  background-color: var(--mq-branco);
+  color: var(--mq-tinta);
+}
+
+.inicio-wizard[data-tema="escuro"] {
+  background-color: var(--mq-preto);
+  color: var(--mq-branco);
+}
+
+.wizard-slide[aria-hidden="true"] {
+  visibility: hidden;
+}
+
+.wizard-entrando {
+  animation: wizard-entrar var(--mq-dur-acao) var(--mq-ease-entrada);
+}
+
+@keyframes wizard-entrar {
+  from {
+    opacity: 0;
+    transform: translateY(var(--mq-desloc-acao));
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+.wizard-assinatura {
+  font-size: var(--mq-fs-small);
+  color: var(--mq-ink-muted);
+}
+
+.wizard-glorioso {
+  font-family: var(--mq-font-serif);
+  font-size: var(--mq-fs-h2);
+}
+
+.wizard-nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--mq-space-2);
+  padding: var(--mq-space-4) var(--mq-space-2);
+  max-width: 100%;
+}
+
+.wizard-dots {
+  flex: 1;
+  display: flex;
+  gap: var(--mq-space-2);
+  justify-content: center;
+  align-items: center;
+  min-width: 0;
+}
+
+.wizard-dot {
+  width: var(--mq-space-3);
+  height: var(--mq-space-3);
+  border-radius: var(--mq-radius-pill);
+  border: var(--mq-borda-fina) solid var(--mq-line);
+  background: transparent;
+  color: var(--mq-ink-muted);
+  font-size: var(--mq-fs-small);
+  min-width: var(--mq-alvo-toque);
+  min-height: var(--mq-alvo-toque);
+}
+
+.wizard-dot[aria-selected="true"] {
+  background-color: var(--mq-amarelo);
+  border-color: var(--mq-amarelo);
+  color: var(--mq-on-amarelo);
+  font-weight: var(--mq-fw-titulo);
+}
+
+.wizard-seta {
+  min-width: var(--mq-alvo-toque);
+  min-height: var(--mq-alvo-toque);
+  background: transparent;
+  border: var(--mq-borda-fina) solid var(--mq-line);
+  border-radius: var(--mq-radius-pill);
+  color: inherit;
+}
+
+.wizard-seta:disabled {
+  opacity: var(--mq-opacidade-fantasma);
+}
+
+.wizard-pular {
+  position: static;
+  flex: none;
+  align-self: flex-end;
+  margin: var(--mq-space-2) var(--mq-gutter) 0 0;
+  font-size: var(--mq-fs-small);
+  color: var(--mq-ink-muted);
+  background: none;
+  border: none;
+  min-height: var(--mq-alvo-toque);
+}
+
+.wizard-expansivel {
+  width: 100%;
+  text-align: start;
+  background-color: var(--mq-surface);
+  border: var(--mq-borda-fina) solid var(--mq-line);
+  border-radius: var(--mq-radius-lg);
+}
+
+.wizard-expansivel > summary {
+  display: flex;
+  align-items: baseline;
+  gap: var(--mq-space-4);
+  min-height: var(--mq-alvo-toque);
+  padding: var(--mq-space-2) var(--mq-space-4);
+  cursor: pointer;
+  list-style: none;
+}
+
+.wizard-expansivel > summary::-webkit-details-marker {
+  display: none;
+}
+
+.wizard-num {
+  font-size: var(--mq-fs-h3);
+  font-weight: var(--mq-fw-titulo);
+  line-height: 1;
+  color: var(--mq-ouro);
+}
+
+.wizard-nome {
+  flex: 1;
+  font-weight: var(--mq-fw-titulo);
+  font-size: var(--mq-fs-h3);
+  text-transform: uppercase;
+  letter-spacing: var(--mq-ls-titulo);
+}
+
+.wizard-expansivel > summary .icone-seta {
+  margin-left: auto;
+  align-self: center;
+  transition: transform var(--mq-dur-toque) var(--mq-ease-toque);
+}
+
+.wizard-expansivel[open] {
+  border: var(--mq-borda-forte) solid var(--mq-tinta);
+  box-shadow: var(--mq-shadow-offset);
+}
+
+.wizard-expansivel[open] > summary .icone-seta {
+  transform: rotate(90deg);
+}
+
+.wizard-expansivel .contexto-corpo {
+  padding: 0 var(--mq-space-4) var(--mq-space-4);
+  font-size: var(--mq-fs-body);
+  color: var(--mq-ink-muted);
+}
+
+/* Slide 2 — duelo lista-detalhe igual ao do slide 3 */
+.wizard-s2-lead {
+  max-width: var(--mq-leitura-max);
+  font-size: var(--mq-fs-body);
+  color: var(--mq-ink-muted);
+  text-wrap: balance;
+}
+
+.wizard-s2-lista {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+
+/* Entrada escalonada das 4 linhas, no mesmo ritmo do deck */
+.wizard-s2-lista > details {
+  animation: wizard-entrar var(--mq-dur-acao) var(--mq-ease-entrada) both;
+}
+
+.wizard-s2-lista > details:nth-child(2) {
+  animation-delay: var(--mq-stagger);
+}
+
+.wizard-s2-lista > details:nth-child(3) {
+  animation-delay: calc(var(--mq-stagger) * 2);
+}
+
+.wizard-s2-lista > details:nth-child(4) {
+  animation-delay: calc(var(--mq-stagger) * 3);
+}
+
+/* Linha do passo: filete simples como .wizard-veredito-linha do slide 3 */
+.wizard-expansivel.wizard-s2-passo {
+  background: transparent;
+  border: none;
+  border-radius: 0;
+}
+
+.wizard-expansivel.wizard-s2-passo[open] {
+  border: none;
+  box-shadow: none;
+}
+
+.wizard-expansivel.wizard-s2-passo > summary {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  row-gap: var(--mq-space-1);
+  gap: var(--mq-space-3);
+  width: 100%;
+  min-height: var(--mq-alvo-toque);
+  padding-block: var(--mq-space-2);
+  padding-inline: var(--mq-space-2);
+  border: none;
+  border-bottom: var(--mq-borda-fina) solid var(--mq-line);
+  border-radius: 0;
+  background: transparent;
+  cursor: pointer;
+  list-style: none;
+}
+
+.wizard-expansivel.wizard-s2-passo > summary::-webkit-details-marker {
+  display: none;
+}
+
+.wizard-expansivel.wizard-s2-passo > summary .wizard-num {
+  font-size: var(--mq-fs-body);
+}
+
+.wizard-expansivel.wizard-s2-passo > summary .wizard-nome {
+  flex: 1;
+  min-width: 0;
+  font-size: var(--mq-fs-nav);
+  font-weight: var(--mq-fw-medio);
+  letter-spacing: var(--mq-ls-nav);
+}
+
+.wizard-expansivel.wizard-s2-passo > summary .icone-seta {
+  margin-left: 0;
+  flex-shrink: 0;
+  transition: transform var(--mq-dur-toque) var(--mq-ease-toque);
+}
+
+.wizard-s2-passo > summary:focus-visible {
+  outline: var(--mq-borda-forte) solid var(--mq-ouro-escuro);
+  outline-offset: var(--mq-foco-offset);
+}
+
+/* Linha aberta: igual ao .wizard-veredito-linha.selecionado do slide 3 — borda completa, raio só no topo */
+.wizard-expansivel.wizard-s2-passo[open] > summary {
+  border: var(--mq-borda-forte) solid var(--mq-tinta);
+  border-radius: var(--mq-radius-lg) var(--mq-radius-lg) 0 0;
+  padding-inline: var(--mq-space-3);
+}
+
+/* Body do details: card colado na linha */
+.wizard-s2-passo > .contexto-corpo {
+  display: flex;
+  flex-direction: column;
+  gap: var(--mq-space-2);
+  min-height: var(--mq-passo-corpo-min-altura);
+  text-align: start;
+  background-color: var(--mq-surface);
+  border: var(--mq-borda-forte) solid var(--mq-tinta);
+  border-top: none;
+  border-radius: 0 0 var(--mq-radius-lg) var(--mq-radius-lg);
+  padding: var(--mq-space-3) var(--mq-space-4) var(--mq-space-4);
+  font-size: var(--mq-fs-body);
+  color: var(--mq-ink);
+}
+
+.wizard-expansivel.wizard-s2-passo[open] > summary .icone-seta {
+  transform: rotate(90deg);
+}
+
+/* Valor ouro à direita, igual ao .wizard-veredito-valor do slide 3 */
+.wizard-s2-tag {
+  font-size: var(--mq-fs-small);
+  font-weight: var(--mq-fw-titulo);
+  letter-spacing: var(--mq-ls-nav);
+  text-transform: uppercase;
+  color: var(--mq-ouro-escuro);
+  white-space: nowrap;
+  text-align: end;
+}
+
+/* Conteúdo do passo expandido — mesmo padrão do painel do slide 3 */
+.wizard-s2-passo > .contexto-corpo > p:not([class]) { margin: 0; }
+.wizard-s2-passo > .contexto-corpo > .eyebrow { margin: 0; }
+.wizard-s2-passo > .contexto-corpo > .wizard-detalhe-veredito { margin: 0; }
+.wizard-s2-passo > .contexto-corpo > .wizard-nota { margin: 0; }
+.wizard-s2-meta { margin-top: var(--mq-space-2); }
+.wizard-s2-codigo-linha { display: block; background-color: var(--mq-tinta); color: var(--mq-amarelo-claro); border-radius: var(--mq-radius-md); padding: var(--mq-space-1) var(--mq-space-2); font-size: var(--mq-fs-small); overflow-x: auto; margin-bottom: var(--mq-space-1); }
+.wizard-s2-meta-texto { font-size: var(--mq-fs-small); color: var(--mq-ink-muted); }
+
+/* Código dentro do aside do duelo */
+#jornada-detalhe .wizard-codigo {
+  margin: 0;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .wizard-s2-lista > details {
+    animation: none;
+  }
+}
+
+/* Demonstração do método: trecho real + a régua aplicada */
+.wizard-trecho {
+  width: 100%;
+  background-color: var(--mq-surface);
+  border: var(--mq-borda-forte) solid var(--mq-tinta);
+  box-shadow: var(--mq-shadow-offset);
+  border-radius: var(--mq-radius-lg);
+  padding: var(--mq-space-4) var(--mq-space-5);
+  text-align: start;
+}
+
+.wizard-trecho-texto {
+  font-family: var(--mq-font-citacao);
+  font-size: var(--mq-fs-body);
+}
+
+.wizard-trecho-ref {
+  font-size: var(--mq-fs-small);
+  color: var(--mq-ink-muted);
+}
+
+.wizard-trecho-forca {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--mq-space-2);
+  margin-top: var(--mq-space-3);
+}
+
+.wizard-trecho-forca[hidden] {
+  display: none;
+}
+
+.wizard-vereditos {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.wizard-vereditos[hidden] {
+  display: none;
+}
+
+/* Duelo lista-detalhe: clica na linha, o painel desliza e a lista encolhe */
+.wizard-duelo {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: var(--mq-space-4);
+}
+
+.wizard-veredito-linha {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  row-gap: var(--mq-space-1);
+  gap: var(--mq-space-3);
+  width: 100%;
+  padding-block: var(--mq-space-2);
+  border: none;
+  border-bottom: var(--mq-borda-fina) solid var(--mq-line);
+  background: transparent;
+  color: inherit;
+  text-align: start;
+  cursor: pointer;
+  min-height: var(--mq-alvo-toque);
+}
+
+.wizard-veredito-linha.selecionado {
+  border: var(--mq-borda-forte) solid var(--mq-tinta);
+  border-radius: var(--mq-radius-lg) var(--mq-radius-lg) 0 0;
+  padding-inline: var(--mq-space-3);
+}
+
+.wizard-veredito-linha .icone-seta {
+  flex-shrink: 0;
+  transition: transform var(--mq-dur-toque) var(--mq-ease-toque);
+}
+
+.wizard-veredito-linha.selecionado .icone-seta {
+  transform: rotate(90deg);
+}
+
+/* Painel expandido: card ligado à linha (borda só embaixo/laterais) */
+.wizard-veredito-painel {
+  display: flex;
+  flex-direction: column;
+  gap: var(--mq-space-2);
+  text-align: start;
+  background-color: var(--mq-surface);
+  border: var(--mq-borda-forte) solid var(--mq-tinta);
+  border-top: none;
+  border-radius: 0 0 var(--mq-radius-lg) var(--mq-radius-lg);
+  padding: var(--mq-space-3) var(--mq-space-4) var(--mq-space-4);
+}
+
+.wizard-veredito-painel[hidden] {
+  display: none;
+}
+
+.wizard-detalhe {
+  display: flex;
+  flex-direction: column;
+  gap: var(--mq-space-3);
+  text-align: start;
+  background-color: var(--mq-surface);
+  border: var(--mq-borda-forte) solid var(--mq-tinta);
+  box-shadow: var(--mq-shadow-offset);
+  border-radius: var(--mq-radius-lg);
+  padding: var(--mq-space-4) var(--mq-space-5);
+}
+
+.wizard-detalhe[hidden] {
+  display: none;
+}
+
+.wizard-detalhe.detalhe-entrando {
+  animation: painel-deslizar var(--mq-dur-acao) var(--mq-ease-entrada);
+}
+
+.wizard-detalhe-veredito {
+  font-weight: var(--mq-fw-titulo);
+  text-transform: uppercase;
+  color: var(--mq-ouro-escuro);
+}
+
+.wizard-detalhe-fechar {
+  align-self: flex-end;
+  min-width: var(--mq-alvo-toque);
+  min-height: var(--mq-alvo-toque);
+  background: transparent;
+  border: var(--mq-borda-fina) solid var(--mq-line);
+  border-radius: var(--mq-radius-pill);
+  color: inherit;
+}
+
+@media (min-width: 80ch) {
+  .wizard-nav {
+    gap: var(--mq-space-4);
+    padding-inline: var(--mq-gutter);
+  }
+
+  .wizard-dots {
+    gap: var(--mq-space-3);
+  }
+
+  .wizard-duelo {
+    flex-direction: row;
+    align-items: stretch;
+  }
+
+  .wizard-vereditos {
+    flex: 1;
+    min-width: 0;
+  }
+
+  .wizard-detalhe {
+    flex: 0 0 38%;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .wizard-detalhe.detalhe-entrando {
+    animation: none;
+  }
+}
+
+.wizard-veredito {
+  border-bottom: var(--mq-borda-fina) solid var(--mq-line);
+  text-align: start;
+}
+
+.wizard-veredito > summary {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: var(--mq-space-3);
+  padding-block: var(--mq-space-2);
+  cursor: pointer;
+  list-style: none;
+}
+
+.wizard-veredito > summary::-webkit-details-marker {
+  display: none;
+}
+
+.wizard-veredito > summary::marker {
+  content: none;
+}
+
+.wizard-veredito-criterio {
+  flex: 1;
+  min-width: 0;
+}
+
+.wizard-veredito-valor {
+  white-space: nowrap;
+}
+
+.wizard-veredito > summary .icone-seta {
+  margin-left: 0;
+  flex-shrink: 0;
+  align-self: center;
+  transition: transform var(--mq-dur-toque) var(--mq-ease-toque);
+}
+
+.wizard-veredito[open] > summary .icone-seta {
+  transform: rotate(90deg);
+}
+
+.wizard-veredito-corpo {
+  display: flex;
+  flex-direction: column;
+  gap: var(--mq-space-2);
+  padding-bottom: var(--mq-space-3);
+  font-size: var(--mq-fs-small);
+  color: var(--mq-ink-muted);
+}
+
+.wizard-veredito-criterio {
+  font-size: var(--mq-fs-nav);
+  font-weight: var(--mq-fw-medio);
+  letter-spacing: var(--mq-ls-nav);
+  text-transform: uppercase;
+}
+
+.wizard-veredito-valor {
+  font-size: var(--mq-fs-small);
+  font-weight: var(--mq-fw-titulo);
+  text-transform: uppercase;
+  color: var(--mq-ouro-escuro);
+  white-space: nowrap;
+  text-align: end;
+}
+
+.wizard-s3-acoes,
+.wizard-acoes {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: var(--mq-space-3);
+}
+
+/* Interrogação do sorteio: círculo discreto ao lado do nome */
+.wizard-ajuda {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: var(--mq-alvo-toque);
+  height: var(--mq-alvo-toque);
+  border-radius: var(--mq-radius-pill);
+  border: var(--mq-borda-fina) solid var(--mq-line);
+  background: transparent;
+  color: var(--mq-ink-muted);
+  font-weight: var(--mq-fw-titulo);
+  vertical-align: middle;
+}
+
+/* Bloco do sorteio justo + código real */
+.wizard-sorteio-justo {
+  width: 100%;
+  max-width: var(--mq-leitura-max);
+  display: flex;
+  flex-direction: column;
+  gap: var(--mq-space-2);
+  text-align: start;
+  background-color: var(--mq-surface-raised);
+  border: var(--mq-borda-fina) solid var(--mq-line);
+  border-radius: var(--mq-radius-lg);
+  padding: var(--mq-space-3) var(--mq-space-4);
+  font-size: var(--mq-fs-small);
+}
+
+.wizard-codigo {
+  background-color: var(--mq-tinta);
+  color: var(--mq-amarelo-claro);
+  border-radius: var(--mq-radius-md);
+  padding: var(--mq-space-2) var(--mq-space-3);
+  font-size: var(--mq-fs-small);
+  overflow-x: auto;
+}
+
+.wizard-nota {
+  font-size: var(--mq-fs-small);
+  color: var(--mq-ink-muted);
+}
+
+#sorteio-selo {
+  color: var(--mq-ink-muted);
+  font-weight: var(--mq-fw-titulo);
+}
+
+#sorteio-base-cta[hidden] {
+  display: none;
+}
+
+/* Selo do Missão: brota como carimbo quando o sorteio cai no Renan */
+.wizard-selo {
+  display: inline-flex;
+  position: relative;
+  align-items: center;
+  gap: var(--mq-space-2);
+  background-color: var(--mq-branco);
+  color: var(--mq-tinta);
+  border: var(--mq-borda-fina) solid var(--mq-tinta);
+  border-radius: var(--mq-radius-pill);
+  padding: var(--mq-space-2) var(--mq-space-4);
+  font-size: var(--mq-fs-nav);
+  letter-spacing: var(--mq-ls-nav);
+  text-transform: uppercase;
+}
+
+.wizard-selo[hidden] {
+  display: none;
+}
+
+.wizard-selo img {
+  width: var(--mq-space-5);
+  height: var(--mq-space-5);
+  object-fit: contain;
+}
+
+.wizard-selo.selo-nasce {
+  animation: selo-brotar var(--mq-dur-saida) var(--mq-ease-toque);
+}
+
+@keyframes selo-brotar {
+  from {
+    opacity: 0;
+    transform: scale(0.6);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .wizard-selo.selo-nasce {
+    animation: none;
+  }
+}
+
+/* Conteúdo metodológico inline (expande/recolhe no fluxo do slide) */
+.wizard-metodo-inline {
+  width: 100%;
+  max-width: var(--mq-leitura-max);
+  display: flex;
+  flex-direction: column;
+  gap: var(--mq-space-3);
+  padding: var(--mq-space-4) var(--mq-gutter);
+  background-color: var(--mq-surface);
+  color: var(--mq-ink);
+  border: var(--mq-borda-fina) solid var(--mq-line);
+  border-radius: var(--mq-radius-lg);
+  text-align: start;
+}
+
+.wizard-metodo-inline[hidden] {
+  display: none;
+}
+
+.wizard-metodo-inline h3 {
+  font-size: var(--mq-fs-h3);
+  margin: 0;
+}
+
+.wizard-metodo-inline .wizard-metodo-passos {
+  margin: 0;
+  padding-left: var(--mq-space-5);
+}
+
+.wizard-metodo-inline .wizard-sorteio-justo {
+  margin-top: var(--mq-space-2);
+}
+
+/* Selo menor ao lado do nome (slide 3) */
+.wizard-selo--mini {
+  font-size: var(--mq-fs-small);
+  padding: var(--mq-space-1) var(--mq-space-2);
+  gap: var(--mq-space-1);
+  vertical-align: middle;
+}
+
+.wizard-selo--mini img {
+  width: var(--mq-space-4);
+  height: var(--mq-space-4);
+}
+
+.wizard-selo--mini .dica-gatilho {
+  width: var(--mq-alvo-toque);
+  height: var(--mq-alvo-toque);
+  font-size: var(--mq-fs-small);
+}
+
+.wizard-metodo-passos {
+  width: 100%;
+  max-width: var(--mq-leitura-max);
+  display: flex;
+  flex-direction: column;
+  gap: var(--mq-space-2);
+  text-align: start;
+  list-style: none;
+  counter-reset: passo;
+  font-size: var(--mq-fs-small);
+}
+
+.wizard-metodo-passos > li {
+  counter-increment: passo;
+  display: flex;
+  gap: var(--mq-space-3);
+  align-items: baseline;
+}
+
+.wizard-metodo-passos > li::before {
+  content: counter(passo, decimal-leading-zero);
+  font-weight: var(--mq-fw-titulo);
+  color: var(--mq-ouro);
+}
+
+/* Onça do slide 4 em tamanho contido para o deck caber na viewport */
+.wizard-slide .inicio-objeto {
+  width: var(--mq-space-20);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .wizard-entrando {
+    animation: none;
+  }
+}
+
+/* Legado: hero + seções (substituídos pelo wizard; removidos quando o deck for validado) */
+.screen-inicio {
+  position: relative;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  background-color: var(--mq-preto);
+  color: var(--mq-branco);
+}
+
+.inicio-hero {
+  position: relative;
+  isolation: isolate;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: var(--mq-tela-altura);
+  padding: var(--mq-space-12) var(--mq-gutter);
+}
+
+.inicio-hero::before {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  top: 50%;
+  left: 50%;
+  width: 140%;
+  aspect-ratio: 1;
+  transform: translate(-50%, -62%);
+  background: var(--mq-brilho-amarelo);
+  opacity: var(--mq-opacidade-apoio);
+  pointer-events: none;
+}
+
+.inicio-hero-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  gap: var(--mq-space-8);
+  width: 100%;
+  max-width: var(--mq-container);
+}
+
+.inicio-objeto {
+  width: var(--mq-logo-hero);
+  aspect-ratio: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.inicio-objeto img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.inicio-logo {
+  display: flex;
+  flex-direction: column;
+  gap: var(--mq-space-4);
+  align-items: center;
+}
+
+.inicio-titulo {
+  font-size: var(--mq-fs-display);
+  line-height: 0.98;
+  color: var(--mq-branco);
+  text-wrap: balance;
+}
+
+.inicio-titulo .titulo-destaque {
+  color: var(--mq-amarelo);
+}
+
+.inicio-method-text {
+  max-width: var(--mq-leitura-max);
+  font-size: var(--mq-fs-body);
+  color: var(--mq-ink-muted);
+}
+
+.inicio-actions {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--mq-space-3);
+  width: 100%;
+}
+
+.inicio-actions .btn-pill {
+  width: 100%;
+  max-width: var(--mq-cta-max);
+}
+
+.inicio-aviso {
+  font-size: var(--mq-fs-small);
+  color: var(--mq-ink-muted);
+  max-width: var(--mq-leitura-max);
+}
+
+.inicio-links {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: var(--mq-space-2) var(--mq-space-6);
+}
+
+.inicio-links a {
+  display: inline-flex;
+  align-items: center;
+  min-height: var(--mq-alvo-toque);
+  font-size: var(--mq-fs-nav);
+  letter-spacing: var(--mq-ls-nav);
+  text-transform: uppercase;
+  font-weight: var(--mq-fw-medio);
+  color: var(--mq-amarelo);
+  text-decoration: none;
+}
+
+.inicio-links a:hover {
+  text-decoration: underline;
+}
+
+.link-bloqueado .icone {
+  color: var(--mq-amarelo);
+}
+
+/* Novas seções da landing page */
+.inicio-secoes {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--mq-surface);
+  color: var(--mq-ink);
+}
+
+.inicio-secao {
+  padding-block: var(--mq-space-secao);
+}
+
+.inicio-secao h2 {
+  font-size: var(--mq-fs-h2);
+  margin-bottom: var(--mq-space-8);
+  text-align: center;
+  text-wrap: balance;
+}
+
+.inicio-passos {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(var(--mq-coluna-min), 1fr));
+  gap: var(--mq-space-6);
+}
+
+.inicio-passo {
+  display: flex;
+  flex-direction: column;
+  gap: var(--mq-space-4);
+  padding: var(--mq-space-6);
+  background-color: var(--mq-surface-raised);
+  border-radius: var(--mq-radius-lg);
+  border: var(--mq-borda-fina) solid var(--mq-line);
+}
+
+.inicio-passo h3 {
+  font-size: var(--mq-fs-h3);
+  color: var(--mq-ink);
+}
+
+.inicio-passo p {
+  font-size: var(--mq-fs-body);
+  color: var(--mq-ink-muted);
+}
+
+.inicio-faq {
+  display: flex;
+  flex-direction: column;
+  gap: var(--mq-space-6);
+  max-width: var(--mq-leitura-max);
+  margin-inline: auto;
+}
+
+.inicio-faq-item {
+  display: flex;
+  flex-direction: column;
+  gap: var(--mq-space-2);
+  padding-bottom: var(--mq-space-6);
+  border-bottom: var(--mq-borda-fina) solid var(--mq-line);
+}
+
+.inicio-faq-item:last-child {
+  border-bottom: none;
+}
+
+.inicio-faq-pergunta {
+  font-weight: var(--mq-fw-medio);
+  font-size: var(--mq-fs-h3);
+  color: var(--mq-ink);
+}
+
+.inicio-faq-resposta {
+  font-size: var(--mq-fs-body);
+  color: var(--mq-ink-muted);
+}
+
+.inicio-cta-final {
+  background-color: var(--mq-preto);
+  color: var(--mq-branco);
+  text-align: center;
+  padding-block: var(--mq-space-secao);
+}
+
+.inicio-cta-final .conteudo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--mq-space-8);
+}
+
+.inicio-faq-lista {
+  margin-top: var(--mq-space-3);
+  margin-bottom: var(--mq-space-6);
+  margin-left: var(--mq-space-5);
+}
+
+.inicio-faq-acoes {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  gap: var(--mq-space-3);
+}
+
+@media (max-width: 79.99ch) {
+  .wizard-acoes {
+    position: static;
+    bottom: auto;
+    z-index: auto;
+    padding-block: 0;
+    background-color: transparent;
+  }
+  .wizard-veredito-criterio { flex: 1 0 100%; }
+  .wizard-veredito-valor { flex: 1; text-align: start; }
+}
+
+/* Bolinha que rola até os botões (slide 3, só mobile): some por padrão. */
+.rolar-bolha {
+  display: none;
+  flex: none;
+  width: var(--mq-alvo-toque);
+  height: var(--mq-alvo-toque);
+  align-items: center;
+  justify-content: center;
+  align-self: flex-end;
+  position: sticky;
+  bottom: var(--mq-space-4);
+  z-index: 1;
+  padding: 0;
+  border: none;
+  border-radius: var(--mq-radius-pill);
+  background-color: var(--mq-tinta);
+  color: var(--mq-amarelo);
+  font-size: var(--mq-fs-h3);
+  cursor: pointer;
+}
+
+@media (max-width: 79.99ch) {
+  .rolar-bolha:not([hidden]) {
+    display: inline-flex;
+  }
+}
+
+/* Compactação mobile: slides 1, 2 e 4 sem scroll */
+@media (max-width: 79.99ch) {
+  .wizard-slide[data-slide="1"],
+  .wizard-slide[data-slide="2"],
+  .wizard-slide[data-slide="4"] {
+    gap: var(--mq-space-2);
+    padding-top: var(--mq-space-2);
+    padding-bottom: var(--mq-space-4);
+  }
+  .wizard-slide[data-slide="4"] p:not(.wizard-assinatura):not(.eyebrow) {
+    font-size: var(--mq-fs-small);
+    line-height: var(--mq-lh-apoio);
+  }
+  .wizard-slide[data-slide="4"] .inicio-objeto {
+    width: var(--mq-space-12);
+  }
+  .wizard-slide[data-slide="2"] .wizard-s2-lead {
+    font-size: var(--mq-fs-small);
+    line-height: var(--mq-lh-apoio);
+  }
+}
+
+/* Critérios do trecho sorteado no demo: leitura em coluna, alinhada à esquerda */
+.wizard-criterios .slide-criterios {
+  text-align: left;
+}
+
+.wizard-criterios:empty {
+  display: none;
+}
