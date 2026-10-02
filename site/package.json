@@ -1,0 +1,30 @@
+{
+  "name": "missao-quiz",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "dev": "vite",
+    "manifesto": "vite-node scripts/gerar-manifesto.ts",
+    "painel": "vite-node scripts/build-painel.ts --escrever",
+    "verificar": "vite-node scripts/gerar-manifesto.ts && vite-node scripts/verificar-trechos.ts && vite-node scripts/build-painel.ts && vite-node scripts/verificar-mascaras.ts && vite-node scripts/verificar-programas.ts && vite-node scripts/verificar-quiz-subtemas.ts && vite-node scripts/verificar-demo.ts && vite-node scripts/verificar-anonimato.ts && vite-node scripts/verificar-blueprint.ts",
+    "build": "npm run verificar && tsc --noEmit && vite build",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run --passWithNoTests"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^26.6.3",
+    "jsdom": "^30.1.1",
+    "typescript": "~5.6.3",
+    "vite": "^6.0.0",
+    "vitest": "^2.1.0"
+  },
+  "dependencies": {
+    "html2canvas": "^1.4.1",
+    "zod": "^4.6.5"
+  }
+}
