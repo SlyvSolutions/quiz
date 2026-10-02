@@ -1,0 +1,264 @@
+/* Movimento: só os quatro gestos do design system. Telas de ação são quase paradas; telas de emoção se movem. */
+
+/* Gesto 2: entrada de bloco. A classe .entrada é posta por src/motion/entrada-de-bloco.ts */
+.entrada {
+  opacity: 0;
+  transform: translateY(var(--mq-desloc-acao));
+  transition:
+    opacity var(--mq-dur-acao) var(--mq-ease-entrada),
+    transform var(--mq-dur-acao) var(--mq-ease-entrada);
+  transition-delay: calc(var(--i, 0) * var(--mq-stagger));
+}
+
+.entrada.entrou {
+  opacity: 1;
+  transform: none;
+}
+
+/* Telas de emoção: mais lenta, com blur */
+[data-tema="escuro"] .entrada {
+  transform: translateY(var(--mq-desloc-emocao));
+  filter: blur(var(--mq-blur-emocao));
+  transition:
+    opacity var(--mq-dur-emocao) var(--mq-ease-entrada),
+    transform var(--mq-dur-emocao) var(--mq-ease-entrada),
+    filter var(--mq-dur-emocao) var(--mq-ease-entrada);
+  transition-delay: calc(var(--i, 0) * var(--mq-stagger));
+}
+
+[data-tema="escuro"] .entrada.entrou {
+  transform: none;
+  filter: none;
+}
+
+/* Gesto 1: troca de tela em íris a partir do clique (Livro Amarelo).
+   O círculo tem a cor da tela de destino e um anel amarelo na borda; --r cresce até cobrir tudo. */
+@property --r {
+  syntax: "<length>";
+  inherits: false;
+  initial-value: 0;
+}
+
+.troca {
+  --r: 0;
+  position: fixed;
+  inset: 0;
+  z-index: var(--mq-z-iris);
+  pointer-events: none;
+  background: radial-gradient(
+    circle at var(--x) var(--y),
+    var(--mq-surface) var(--r),
+    var(--mq-amarelo) var(--r),
+    var(--mq-amarelo) calc(var(--r) + var(--mq-space-3)),
+    transparent calc(var(--r) + var(--mq-space-3))
+  );
+  transition:
+    --r var(--mq-dur-emocao) var(--mq-ease-iris),
+    opacity var(--mq-dur-saida) linear;
+}
+
+.troca.expandindo {
+  --r: var(--r-final);
+}
+
+.troca.some {
+  opacity: 0;
+}
+
+/* Resposta ao toque: onda que nasce no ponto do clique */
+.btn-pill,
+.btn-cartao,
+.quiz-option-card,
+.ui-slide-close {
+  position: relative;
+}
+
+.btn-pill,
+.btn-cartao,
+.quiz-option-card,
+.ui-slide-close,
+.ui-modal-close {
+  overflow: hidden;
+}
+
+.onda {
+  position: absolute;
+  left: var(--x);
+  top: var(--y);
+  width: var(--d);
+  height: var(--d);
+  margin: calc(var(--d) / -2) 0 0 calc(var(--d) / -2);
+  border-radius: var(--mq-radius-pill);
+  background-color: currentcolor;
+  opacity: 0;
+  pointer-events: none;
+  animation: onda var(--mq-dur-acao) var(--mq-ease-entrada) forwards;
+}
+
+@keyframes onda {
+  from {
+    opacity: var(--mq-opacidade-apoio);
+    transform: scale(0);
+  }
+
+  to {
+    opacity: 0;
+    transform: scale(1);
+  }
+}
+
+.btn-pill:active:not(:disabled) {
+  transform: scale(calc(2 - var(--mq-escala-toque)));
+}
+
+.saindo-portal {
+  opacity: 0;
+  transform: translateY(calc(var(--mq-desloc-acao) * -1));
+  filter: blur(var(--mq-blur-emocao));
+  transition:
+    opacity var(--mq-dur-saida) var(--mq-ease-toque),
+    transform var(--mq-dur-saida) var(--mq-ease-toque),
+    filter var(--mq-dur-saida) var(--mq-ease-toque);
+}
+
+.flutuar {
+  animation: flutuar var(--mq-dur-flutua) ease-in-out infinite;
+}
+
+@keyframes flutuar {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+
+  50% {
+    transform: translateY(calc(var(--mq-desloc-flutua) * -1));
+  }
+}
+
+/* Anel pulsando no objeto que convida ao clique */
+.anel-convite {
+  position: relative;
+}
+
+.anel-convite::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border: var(--mq-borda-forte) solid var(--mq-ouro);
+  border-radius: var(--mq-radius-pill);
+  opacity: 0;
+  pointer-events: none;
+  animation: pulso-anel var(--mq-dur-pulso) ease-out infinite;
+}
+
+@keyframes pulso-anel {
+  from {
+    opacity: var(--mq-opacidade-apoio);
+    transform: scale(var(--mq-anel-escala-inicio));
+  }
+
+  to {
+    opacity: 0;
+    transform: scale(var(--mq-anel-escala-fim));
+  }
+}
+
+/* Uma palavra por página com brilho */
+.palavra-brilho {
+  background-image: var(--mq-brilho-palavra);
+  background-size: 200% 100%;
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color: transparent;
+  animation: brilho var(--mq-dur-brilho) linear infinite;
+}
+
+@keyframes brilho {
+  from {
+    background-position: 200% 0;
+  }
+
+  to {
+    background-position: 0 0;
+  }
+}
+
+/* Gesto 3: frase presa. --p (0 a 1) é posto por src/motion/frase-presa.ts; 0.5 = tudo visível */
+.frase-presa {
+  --p: 0.5;
+  position: relative;
+  height: var(--mq-frase-altura);
+  background-color: var(--mq-preto);
+  color: var(--mq-branco);
+}
+
+.frase-presa-pin {
+  position: var(--mq-pin);
+  top: 0;
+  min-height: var(--mq-tela-altura);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: var(--mq-space-10) var(--mq-gutter);
+  text-align: center;
+}
+
+.frase-presa-linha {
+  --entra: clamp(0, calc((var(--p) - var(--i, 0) * var(--mq-frase-entrada)) / var(--mq-frase-entrada)), 1);
+  --sai: clamp(0, calc((var(--p) - 0.75) * 4), 1);
+  font-family: var(--mq-font-serif);
+  font-weight: 300;
+  font-size: var(--mq-fs-assinatura);
+  line-height: 1.05;
+  opacity: calc(var(--entra) - var(--sai));
+  transform: translateY(calc((1 - var(--entra)) * var(--mq-desloc-emocao) - var(--sai) * var(--mq-desloc-emocao)));
+}
+
+.frase-presa-linha .glorioso {
+  color: var(--mq-amarelo);
+}
+
+/* Contadores e afins não animam sem motivo; o resto é resposta ao toque (150ms), definida nos componentes */
+
+/* Movimento reduzido: sem íris, blur, deslocamento, pin, flutuação, anel nem brilho.
+   Só trocas de opacidade de até 150ms. Vale para toda a aplicação (BP-012). */
+@media (prefers-reduced-motion: reduce) {
+  :root {
+    --mq-desloc-acao: 0%;
+    --mq-desloc-emocao: 0%;
+    --mq-desloc-flutua: 0%;
+    --mq-blur-emocao: 0;
+    --mq-escala-toque: 1;
+    --mq-sobe-card: 0%;
+    --mq-dur-acao: var(--mq-dur-toque);
+    --mq-dur-emocao: var(--mq-dur-toque);
+    --mq-dur-saida: var(--mq-dur-toque);
+    --mq-stagger: 0ms;
+    --mq-pin: static;
+    --mq-frase-altura: auto;
+  }
+
+  html {
+    scroll-behavior: auto;
+  }
+
+  *,
+  *::before,
+  *::after {
+    animation: none !important;
+  }
+
+  .palavra-brilho {
+    background-image: none;
+    -webkit-text-fill-color: currentcolor;
+    color: var(--mq-amarelo);
+  }
+
+  .troca,
+  .onda {
+    display: none;
+  }
+}

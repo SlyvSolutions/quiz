@@ -1,0 +1,12 @@
+@media (max-width: 600px) {
+  :root {
+    --mq-fs-eyebrow: 13px;
+    --mq-fs-nav: 14px;
+    --mq-fs-button: 15px;
+    --mq-fs-small: 16px;
+    --mq-ls-eyebrow: 0.2em;
+    --mq-ls-button: 0.12em;
+    --mq-ls-nav: 0.1em;
+    --mq-ls-label: 0.12em;
+  }
+}

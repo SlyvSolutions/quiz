@@ -1,0 +1,599 @@
+/* Layout fluido. Sem media query de largura em px (BP-010); o único ponto de quebra usa ch. */
+.tela {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+@media (orientation: portrait) {
+  /* Layout App-like Mobile: Sem scroll, 100svh estrito */
+  html, body, #app {
+    height: 100svh;
+    width: 100%;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .tela {
+    height: 100%;
+    overflow: hidden; /* Zero rolagem vertical geral */
+  }
+
+  /* O "miolo" rolável do app */
+  .tela > .conteudo {
+    flex: 1;
+    overflow-y: auto;
+    /* Adiciona padding extra no fundo pra não colar na action bar */
+    padding-bottom: calc(var(--mq-space-12) + var(--mq-safe-bottom)); 
+  }
+
+  #router-view,
+  .tela,
+  .tela > .conteudo {
+    min-height: 0;
+  }
+  #app > .app-footer {
+    display: none;
+  }
+}
+
+.conteudo {
+  width: 100%;
+  max-width: var(--mq-container);
+  margin-inline: auto;
+  padding-inline: var(--mq-gutter);
+}
+
+.secao {
+  padding-block: var(--mq-space-secao);
+}
+
+.secao-curta {
+  padding-block: var(--mq-space-10);
+}
+
+.pilha {
+  display: flex;
+  flex-direction: column;
+  gap: var(--mq-gap, var(--mq-space-6));
+}
+
+.linha {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: var(--mq-gap, var(--mq-space-3));
+}
+
+.grade {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, var(--mq-coluna-min)), 1fr));
+  gap: var(--mq-space-6);
+}
+
+.grade-larga {
+  --mq-coluna-min: var(--mq-coluna-larga-min);
+}
+
+.leitura {
+  max-width: var(--mq-leitura-max);
+}
+
+.centro {
+  text-align: center;
+  align-items: center;
+}
+
+/* Cabeçalho de tela: eyebrow, título, apoio */
+.tela-topo {
+  padding-top: var(--mq-space-12);
+  padding-bottom: var(--mq-space-8);
+}
+
+.tela-topo > .conteudo {
+  display: flex;
+  flex-direction: column;
+  gap: var(--mq-space-4);
+}
+
+/* Brilho amarelo desfocado num canto do fundo claro (permitido pelo design system) */
+.com-brilho {
+  position: relative;
+  isolation: isolate;
+  overflow: clip;
+}
+
+.com-brilho::before {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  top: -20%;
+  right: -25%;
+  width: 70%;
+  aspect-ratio: 1;
+  background: var(--mq-brilho-amarelo);
+  filter: blur(var(--mq-blur-overlay));
+  pointer-events: none;
+}
+
+/* Ações no fim da tela */
+.acoes {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--mq-space-3);
+}
+
+.acoes-empilhadas {
+  display: flex;
+  flex-direction: column;
+  gap: var(--mq-space-3);
+  width: 100%;
+  max-width: var(--mq-cta-max);
+}
+
+/* Celular em pé: em Método, Candidatos PR e Teste cego o cabeçalho rola junto com o conteúdo.
+   O scroll passa ao #app (cabeçalho, tela e rodapé oculto na mesma rolagem); o cabeçalho deixa de ser sticky. */
+@media (orientation: portrait) {
+  :is([data-tela="metodo"], [data-tela="parana"], [data-tela="teste-cego"]) #app {
+    overflow-y: auto;
+    overscroll-behavior: contain;
+  }
+
+  :is([data-tela="metodo"], [data-tela="parana"], [data-tela="teste-cego"]) .app-header {
+    position: static;
+  }
+
+  :is([data-tela="metodo"], [data-tela="parana"], [data-tela="teste-cego"]) #router-view {
+    flex: none;
+    height: auto;
+  }
+
+  :is([data-tela="metodo"], [data-tela="parana"], [data-tela="teste-cego"]) .tela {
+    height: auto;
+    overflow: visible;
+  }
+
+  :is([data-tela="metodo"], [data-tela="parana"], [data-tela="teste-cego"]) .tela > .conteudo {
+    flex: none;
+    overflow: visible;
+  }
+}
+
+/* Action Bar Mobile: Fixa CTAs no rodapé */
+@media (orientation: portrait) {
+  .mobile-action-bar {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    padding: var(--mq-space-4) var(--mq-gutter);
+    padding-bottom: calc(var(--mq-space-4) + var(--mq-safe-bottom));
+    background-color: var(--mq-surface);
+    border-top: var(--mq-borda-fina) solid var(--mq-line);
+    z-index: var(--mq-z-painel);
+    display: flex;
+    flex-direction: column;
+    gap: var(--mq-space-3);
+  }
+}
+
+/* Cabeçalho e rodapé do app */
+.app-header {
+  position: sticky;
+  top: 0;
+  z-index: var(--mq-z-cabecalho);
+  background-color: var(--mq-surface);
+  border-bottom: var(--mq-borda-fina) solid var(--mq-line);
+}
+
+.app-header-interno {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--mq-space-4);
+  min-height: var(--mq-cabecalho-altura);
+}
+
+.app-marca {
+  display: inline-flex;
+  align-items: center;
+  height: var(--mq-logo-cabecalho);
+  overflow: clip;
+  border-radius: var(--mq-radius-sm);
+}
+
+.app-marca img {
+  height: var(--mq-logo-cabecalho);
+  width: auto;
+}
+
+.app-inicio {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex: none;
+  min-width: var(--mq-alvo-toque);
+  min-height: var(--mq-alvo-toque);
+  color: inherit;
+  border-radius: var(--mq-radius-pill);
+}
+
+.app-inicio .icone {
+  transition: transform var(--mq-dur-toque) var(--mq-ease-toque);
+}
+
+.app-inicio:hover .icone,
+.app-inicio:focus-visible .icone {
+  transform: scale(var(--mq-escala-toque));
+}
+
+/* Botão do menu celular: mesmo alvo e visual do atalho de início */
+.app-menu {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex: none;
+  min-width: var(--mq-alvo-toque);
+  min-height: var(--mq-alvo-toque);
+  padding: 0;
+  background: none;
+  border: 0;
+  border-radius: var(--mq-radius-pill);
+  color: inherit;
+  cursor: pointer;
+}
+
+.app-menu .icone {
+  transition: transform var(--mq-dur-toque) var(--mq-ease-toque);
+}
+
+.app-menu:hover .icone,
+.app-menu:focus-visible .icone {
+  transform: scale(var(--mq-escala-toque));
+}
+
+/* A logo de fundo preto tem respiro preto em volta: aumenta e recua a margem, sem cortar a onça */
+.app-marca .logo-escuro {
+  height: calc(var(--mq-logo-cabecalho) * 1.5);
+  max-width: none;
+  margin-block: calc(var(--mq-logo-cabecalho) * -0.25);
+}
+
+/* A logo certa para cada fundo: texto preto no claro, fundo preto no escuro */
+.app-header .logo-escuro {
+  display: none;
+}
+
+[data-tema="escuro"] .app-header .logo-claro {
+  display: none;
+}
+
+[data-tema="escuro"] .app-header .logo-escuro {
+  display: block;
+}
+
+.app-nav {
+  display: none;
+  gap: var(--mq-space-6);
+}
+
+.app-nav a {
+  display: inline-flex;
+  align-items: center;
+  min-height: var(--mq-alvo-toque);
+  font-size: var(--mq-fs-nav);
+  letter-spacing: var(--mq-ls-nav);
+  text-transform: uppercase;
+  font-weight: var(--mq-fw-medio);
+  text-decoration: none;
+  border-bottom: var(--mq-borda-forte) solid transparent;
+  transition: border-color var(--mq-dur-toque) var(--mq-ease-toque);
+}
+
+.app-nav a:hover,
+.app-nav a[aria-current="page"] {
+  border-bottom-color: var(--mq-ouro);
+}
+
+/* Lista do menu celular: 3 destinos em coluna, cada um com alvo cheio */
+.app-menu-nav {
+  display: flex;
+  flex-direction: column;
+  gap: var(--mq-space-3);
+}
+
+.app-menu-link {
+  display: flex;
+  align-items: center;
+  min-height: var(--mq-alvo-toque);
+  padding: var(--mq-space-3) var(--mq-space-4);
+  border-radius: var(--mq-radius-lg);
+  font-size: var(--mq-fs-nav);
+  font-weight: var(--mq-fw-medio);
+  letter-spacing: var(--mq-ls-nav);
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+.app-menu-link[aria-current="page"] {
+  border-bottom: var(--mq-borda-forte) solid var(--mq-ouro);
+}
+
+[data-tela="inicio"] .app-header {
+  display: none;
+}
+
+/* O wizard ocupa a viewport inteira, sem scroll de página (os links do rodapé vivem no deck e no #metodo) */
+[data-tela="inicio"] .app-footer {
+  display: none;
+}
+
+.app-footer {
+  background-color: var(--mq-preto);
+  color: var(--mq-branco);
+  padding-block: var(--mq-space-12);
+  border-top: var(--mq-borda-forte) solid var(--mq-ouro);
+}
+
+.app-footer-interno {
+  display: flex;
+  flex-direction: column;
+  gap: var(--mq-space-6);
+}
+
+.app-footer-aviso {
+  max-width: var(--mq-leitura-max);
+  font-size: var(--mq-fs-small);
+  line-height: var(--mq-lh-apoio);
+}
+
+.app-footer-sdm {
+  max-width: var(--mq-leitura-max);
+  font-size: var(--mq-fs-small);
+  line-height: var(--mq-lh-apoio);
+}
+
+.app-footer-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--mq-space-2) var(--mq-space-6);
+}
+
+.app-footer-links a {
+  display: inline-flex;
+  align-items: center;
+  min-height: var(--mq-alvo-toque);
+  font-size: var(--mq-fs-nav);
+  letter-spacing: var(--mq-ls-nav);
+  text-transform: uppercase;
+  font-weight: var(--mq-fw-medio);
+  color: var(--mq-amarelo);
+  text-decoration: none;
+}
+
+.app-footer-links a:hover {
+  text-decoration: underline;
+}
+
+.app-footer :focus-visible {
+  outline-color: var(--mq-amarelo);
+}
+
+/* Ponto de quebra único: cerca de tablet. ch, não px. */
+@media (min-width: 80ch) {
+  .app-nav {
+    display: flex;
+  }
+
+  .app-menu {
+    display: none;
+  }
+
+  .app-footer-interno {
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+  }
+}
+
+/* Trilha da jornada: Teste cego, Revelação, Quiz, Resultado e Comparador (bloqueado até o fim) */
+.trilha {
+  flex: 1 1 0;
+  display: flex;
+  justify-content: flex-end;
+  min-width: 0;
+  overflow: hidden;
+  container-type: inline-size;
+}
+
+.trilha-lista {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  flex-wrap: nowrap;
+  gap: 0;
+}
+
+.trilha-link {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--mq-space-2);
+  min-height: var(--mq-alvo-toque);
+  padding: 0 var(--mq-space-1);
+  background: none;
+  border: 0;
+  color: inherit;
+  text-decoration: none;
+  cursor: pointer;
+  font-size: var(--mq-fs-nav);
+  font-weight: var(--mq-fw-medio);
+  letter-spacing: var(--mq-ls-nav);
+  text-transform: uppercase;
+}
+
+.trilha-num {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: calc(var(--mq-icone) + var(--mq-space-1));
+  height: calc(var(--mq-icone) + var(--mq-space-1));
+  border: var(--mq-borda-forte) solid var(--mq-ink);
+  border-radius: var(--mq-radius-pill);
+  font-size: var(--mq-fs-small);
+  font-weight: var(--mq-fw-titulo);
+  line-height: 1;
+  transition:
+    background-color var(--mq-dur-toque) var(--mq-ease-toque),
+    transform var(--mq-dur-toque) var(--mq-ease-toque);
+}
+
+.trilha-link:hover .trilha-num {
+  transform: scale(var(--mq-escala-toque));
+}
+
+.trilha-rotulo {
+  display: none;
+}
+
+.estado-feito .trilha-num {
+  background-color: var(--mq-ink);
+  color: var(--mq-surface);
+}
+
+.estado-atual .trilha-num {
+  background-color: var(--mq-amarelo);
+  color: var(--mq-on-amarelo);
+}
+
+.estado-bloqueado .trilha-link {
+  opacity: var(--mq-opacidade-apoio);
+  cursor: not-allowed;
+}
+
+.estado-bloqueado .trilha-num {
+  border-style: dashed;
+}
+
+.trilha-item {
+  position: relative;
+}
+
+/* Comparador recém-liberado: o anel pulsa para chamar atenção */
+.recem-liberado .trilha-num {
+  position: relative;
+}
+
+.recem-liberado .trilha-num::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border: var(--mq-borda-forte) solid var(--mq-ouro);
+  border-radius: var(--mq-radius-pill);
+  animation: pulso-anel var(--mq-dur-pulso) ease-out 3;
+}
+
+.link-bloqueavel {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--mq-space-2);
+}
+
+.link-bloqueavel[aria-disabled="true"],
+.link-bloqueado {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--mq-space-2);
+  min-height: var(--mq-alvo-toque);
+  font-size: var(--mq-fs-nav);
+  letter-spacing: var(--mq-ls-nav);
+  text-transform: uppercase;
+  font-weight: var(--mq-fw-medio);
+  opacity: var(--mq-opacidade-apoio);
+  cursor: not-allowed;
+  text-decoration: none;
+}
+
+.app-footer-links a:not([href]) .icone {
+  color: var(--mq-amarelo);
+}
+
+.link-bloqueado {
+  color: var(--mq-ink-muted);
+}
+
+@media (min-width: 80ch) {
+  .trilha-lista {
+    gap: var(--mq-space-4);
+  }
+}
+
+/* Nivel 1: cabe o rotulo do passo atual (medido no espaco real do nav + folga, em ch) */
+@container (min-width: 38ch) {
+  .estado-atual .trilha-rotulo {
+    display: inline;
+  }
+}
+
+/* Nivel 2: cabem todos os rotulos (medido no espaco real do nav + folga, em ch) */
+@container (min-width: 61ch) {
+  .trilha-rotulo {
+    display: inline;
+  }
+
+  .trilha-lista {
+    gap: var(--mq-space-1);
+  }
+
+  .trilha-link {
+    padding: 0;
+    gap: var(--mq-space-1);
+  }
+}
+
+/* Rede ultra-estreita: sem folga lateral nos elos e sem respiro entre bolinhas.
+   Mantem as cinco bolinhas visiveis e tocaveis quando o nav fica menor que elas. */
+@container (max-width: 38ch) {
+  .trilha-lista {
+    gap: 0;
+  }
+
+  .trilha-link {
+    padding: 0;
+  }
+}
+
+/* Aviso curto: por que uma etapa está bloqueada */
+.toast {
+  position: fixed;
+  left: 50%;
+  bottom: var(--mq-space-6);
+  z-index: var(--mq-z-modal);
+  display: flex;
+  align-items: center;
+  gap: var(--mq-space-3);
+  width: min(calc(100% - var(--mq-gutter) * 2), var(--mq-leitura-max));
+  padding: var(--mq-space-4) var(--mq-space-5);
+  background-color: var(--mq-tinta);
+  color: var(--mq-branco);
+  border: var(--mq-borda-forte) solid var(--mq-amarelo);
+  border-radius: var(--mq-radius-xl);
+  box-shadow: var(--mq-shadow-modal);
+  font-size: var(--mq-fs-small);
+  line-height: var(--mq-lh-apoio);
+  opacity: 0;
+  transform: translate(-50%, var(--mq-desloc-emocao));
+  transition:
+    opacity var(--mq-dur-saida) var(--mq-ease-entrada),
+    transform var(--mq-dur-saida) var(--mq-ease-entrada);
+}
+
+.toast.entrou {
+  opacity: 1;
+  transform: translate(-50%, 0);
+}
+
+.toast .icone {
+  color: var(--mq-amarelo);
+}
