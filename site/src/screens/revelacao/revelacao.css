@@ -106,7 +106,7 @@
   }
 
   /* A tela inteira rola: o título sai da frente e os cards ganham a altura toda. Antes, título e botão fixos
-     deixavam uma fresta de ~230px para a lista, que rolava presa dentro dela. */
+     deixavam só uma fresta para a lista, que rolava presa dentro dela. */
   .tela.screen-revelacao {
     overflow-y: auto;
     overscroll-behavior: contain;
