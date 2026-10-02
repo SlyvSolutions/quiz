@@ -1,0 +1,120 @@
+/* Revelação: tela de emoção. Escura, cards em sequência. */
+.screen-revelacao {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: var(--mq-space-16);
+}
+
+.rev-list {
+  display: flex;
+  flex-direction: column;
+  gap: var(--mq-space-8);
+}
+
+.rev-card {
+  display: flex;
+  flex-direction: column;
+  gap: var(--mq-space-6);
+  padding: var(--mq-space-6);
+  background-color: var(--mq-surface-raised);
+  border: var(--mq-borda-fina) solid var(--mq-line);
+  border-radius: var(--mq-radius-xl);
+}
+
+.rev-card:first-child {
+  border: var(--mq-borda-forte) solid var(--mq-ink);
+  box-shadow: var(--mq-shadow-offset);
+}
+
+.rev-topo {
+  display: flex;
+  align-items: center;
+  gap: var(--mq-space-4);
+}
+
+.rev-rank-badge {
+  font-size: var(--mq-fs-h1);
+  font-weight: var(--mq-fw-titulo);
+  line-height: 0.9;
+  color: var(--mq-amarelo);
+  min-width: var(--mq-avatar);
+}
+
+.rev-profile-info {
+  display: flex;
+  flex-direction: column;
+  gap: var(--mq-space-1);
+  min-width: 0;
+}
+
+.rev-columns {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, var(--mq-coluna-min)), 1fr));
+  gap: var(--mq-space-6);
+}
+
+.rev-col {
+  display: flex;
+  flex-direction: column;
+  gap: var(--mq-space-3);
+}
+
+.rev-col p {
+  font-family: var(--mq-font-citacao);
+  font-size: var(--mq-fs-body);
+  line-height: var(--mq-lh-corpo);
+}
+
+.rev-highlight-mask,
+.rev-highlight-orig {
+  padding: 0 var(--mq-space-1);
+  border-radius: var(--mq-radius-sm);
+  background-color: var(--mq-amarelo);
+  color: var(--mq-on-amarelo);
+}
+
+.rev-no-mask {
+  color: var(--mq-ink-muted);
+  font-family: var(--mq-font-sans);
+  font-style: normal;
+}
+
+.rev-link {
+  display: inline-flex;
+  align-items: center;
+  min-height: var(--mq-alvo-toque);
+  font-size: var(--mq-fs-nav);
+  letter-spacing: var(--mq-ls-nav);
+  text-transform: uppercase;
+  font-weight: var(--mq-fw-medio);
+  color: var(--mq-amarelo);
+}
+
+.rev-footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: var(--mq-space-10);
+}
+
+/* Celular/tablet em pé: toda ".tela > .conteudo" ganha flex:1 (layout.css). O rodapé não pode dividir a altura com a
+   lista de cards nem esticar o botão: fica com a altura do botão e grudado no fim da rolagem. */
+@media (orientation: portrait) {
+  .screen-revelacao {
+    padding-bottom: 0;
+  }
+}
+
+.tela.screen-revelacao > .rev-footer {
+  flex: none;
+  padding-block: var(--mq-space-3);
+  padding-bottom: calc(var(--mq-space-3) + var(--mq-safe-bottom));
+  background-color: var(--mq-surface);
+  border-top: var(--mq-borda-fina) solid var(--mq-line);
+}
+
+.rev-footer .btn-pill {
+  width: 100%;
+  max-width: var(--mq-cta-max);
+}
