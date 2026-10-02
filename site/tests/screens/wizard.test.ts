@@ -124,7 +124,7 @@ describe('expansíveis', () => {
     expect(s3.querySelector('#metodo-conteudo')).toBeNull();
     const overlay = criarConteudoMetodo();
     expect(overlay.textContent).toMatch(/Sem base para avaliar/);
-    expect(overlay.querySelectorAll('.wizard-metodo-passos > li').length).toBe(5);
+    expect(overlay.querySelectorAll('.wizard-metodo-passos > li').length).toBe(6);
     expect(s3.querySelector('#btn-metodo-abrir')).not.toBeNull();
     expect(overlay.textContent).toMatch(/O SORTEIO É JUSTO/);
     expect(overlay.querySelector('.wizard-codigo')?.textContent).toMatch(/Math\.random/);
@@ -145,13 +145,13 @@ describe('modal do método', () => {
     expect(document.querySelector('[role="dialog"]')).toBeNull();
   }
 
-  it('slide 3: o botão abre o modal com título e 5 passos, e fecha pelo X', async () => {
+  it('slide 3: o botão abre o modal com título e 6 passos, e fecha pelo X', async () => {
     const s3 = criarSlides(ctx())[2]!;
     (s3.querySelector('#btn-metodo-abrir') as HTMLButtonElement).click();
     const dialog = await esperarDialogo();
     expect(dialog).not.toBeNull();
     expect(dialog!.getAttribute('aria-label')).toBe('COMO FUNCIONA O MÉTODO');
-    expect(dialog!.querySelectorAll('.wizard-metodo-passos > li').length).toBe(5);
+    expect(dialog!.querySelectorAll('.wizard-metodo-passos > li').length).toBe(6);
     await fecharDialogo(dialog!);
   });
 
@@ -195,5 +195,23 @@ describe('swipe', () => {
     trilho.dispatchEvent(toque('touchstart', 50));
     trilho.dispatchEvent(toque('touchend', 300));
     expect(dotSelecionado()).toBe('1');
+  });
+});
+
+describe('textos dos slides batem com o que o site faz', () => {
+  const textoDoDeck = () => {
+    const deck = document.createElement('div');
+    deck.append(criarConteudoMetodo(), criarConteudoSorteio());
+    return deck.textContent ?? '';
+  };
+
+  it('não mostra códigos internos de regra (BR-xx) ao eleitor', () => {
+    expect(textoDoDeck()).not.toMatch(/BR-\d+/);
+  });
+
+  it('explica a concretude e que ela não mede se a ideia é boa', () => {
+    const t = textoDoDeck();
+    expect(t).toContain('Concretude');
+    expect(t).toContain('Não mede se a ideia é boa');
   });
 });
