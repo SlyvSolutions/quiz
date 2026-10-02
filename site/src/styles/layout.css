@@ -413,7 +413,9 @@
   align-items: center;
   justify-content: flex-end;
   flex-wrap: nowrap;
-  gap: 0;
+  gap: var(--mq-borda-fina);
+  width: 100%;
+  min-width: 0;
 }
 
 .trilha-link {
@@ -437,16 +439,24 @@
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  width: calc(var(--mq-icone) + var(--mq-space-1));
-  height: calc(var(--mq-icone) + var(--mq-space-1));
+  /* As cinco bolinhas sempre aparecem: o tamanho encolhe com o espaço do cabeçalho (cqi da .trilha), com teto. */
+  width: min(calc(var(--mq-icone) + var(--mq-space-1)), 17cqi);
+  aspect-ratio: 1;
+  flex-shrink: 1;
+  box-sizing: border-box;
   border: var(--mq-borda-forte) solid var(--mq-ink);
   border-radius: var(--mq-radius-pill);
-  font-size: var(--mq-fs-small);
+  font-size: min(var(--mq-fs-small), 7cqi);
   font-weight: var(--mq-fw-titulo);
   line-height: 1;
   transition:
     background-color var(--mq-dur-toque) var(--mq-ease-toque),
     transform var(--mq-dur-toque) var(--mq-ease-toque);
+}
+
+.trilha-num .icone {
+  width: 62%;
+  height: 62%;
 }
 
 .trilha-link:hover .trilha-num {
@@ -478,6 +488,8 @@
 
 .trilha-item {
   position: relative;
+  min-width: 0;
+  flex: 0 1 auto;
 }
 
 /* Comparador recém-liberado: o anel pulsa para chamar atenção */
