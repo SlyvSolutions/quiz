@@ -1,0 +1,1005 @@
+{
+ "total": 125,
+ "contrapontos": [
+  {
+   "chave": "caiado-economia|C1",
+   "contraponto": "O plano de Caiado descreve como caminho um ajuste fiscal sem aumento permanente de carga tributária, um 'Orçamento da Verdade' para revisar despesas, subsídios e benefícios tributários, contenção das despesas obrigatórias, concessões, parcerias e mobilização de capital privado nacional e estrangeiro (Fonte: Poder360, íntegra do plano; Gazeta do Povo, 'Caiado promete conter gastos'). O texto trata a consolidação fiscal como condição, e o setor privado como principal motor do investimento (Fonte: Plano de Governo Caiado 2027-2030, pág. 13). Uma avaliação externa considera o plano coerente no diagnóstico, mas incompleto na quantificação, e nota que os 25% são uma ambição declarada, não uma projeção de modelo (Fonte: Econocrítica, 'Avaliação empírica do plano econômico'). Conclusão: sustenta o veredito 'Parcial' do painel, pois há fontes qualitativas indicadas, embora nenhuma seja quantificada para a parte pública do aumento.",
+   "atualizado_em": null,
+   "candidato": "Ronaldo Caiado",
+   "tema": "Economia",
+   "criterio_id": "C1"
+  },
+  {
+   "chave": "caiado-economia|C2",
+   "contraponto": "O trecho enuncia uma meta de taxa de investimento, com 'direção' e não instrumento legal (Fonte: Plano de Governo Caiado, pág. 13). Os mecanismos que o plano associa à meta são concessões, PPPs, carteira de projetos, garantias e mercado de capitais (Fonte: Econocrítica; Poder360). Nenhuma das fontes consultadas aponta emenda constitucional ou lei específica como condição para a meta em si. O plano também prevê conter a despesa obrigatória, o que pode envolver mudança normativa, mas isso é medida distinta do trecho e sem detalhamento nas fontes. Conclusão: confirma o veredito 'Sem base para avaliar' para o trecho.",
+   "atualizado_em": null,
+   "candidato": "Ronaldo Caiado",
+   "tema": "Economia",
+   "criterio_id": "C2"
+  },
+  {
+   "chave": "caiado-economia|C3",
+   "contraponto": "O plano afirma que a execução do programa dependerá de cooperação entre os Poderes e de apoio do Congresso (Fonte: Lira da Liberdade, resumo da cobertura da Agência Brasil de 19/09/2026). O investimento público federal passa pela lei orçamentária, votada pelo Congresso (Fonte: Constituição Federal, arts. 165 e 166). Já a parcela privada, que o plano trata como principal, depende de concessões e regras de segurança jurídica, sem um único fluxo legislativo identificado nas fontes. Conclusão: relativiza o veredito 'Sem base para avaliar', porque há um canal identificável para a parte pública (o orçamento), mas não para a meta agregada.",
+   "atualizado_em": null,
+   "candidato": "Ronaldo Caiado",
+   "tema": "Economia",
+   "criterio_id": "C3"
+  },
+  {
+   "chave": "caiado-economia|C4",
+   "contraponto": "O plano parte de uma taxa de investimento de cerca de 17% do PIB, e os dados confirmam o ponto de partida: 17% em 2024 (Fonte: IBGE, via CNN Brasil) e 17,08% em 2025 (Fonte: Banco Mundial, via Econocrítica). A meta de 25% supera a média de 18,74% do período 2003-2014; no mesmo período, China, Índia e México registraram 42,4%, 31,6% e 24,7% (Fonte: BNDES, 'Parcerias público-privadas'). O mesmo estudo cita estimativa de que 25% de investimento sustentaria crescimento próximo de 5% ao ano. Não encontrei caso brasileiro documentado de alcance de 25% por instrumento comparável. Conclusão: sustenta o veredito 'Parcial' do painel, pois há dados de ponto de partida e referência internacional, mas não evidência de que o desenho proposto funciona.",
+   "atualizado_em": null,
+   "candidato": "Ronaldo Caiado",
+   "tema": "Economia",
+   "criterio_id": "C4"
+  },
+  {
+   "chave": "caiado-economia|C5",
+   "contraponto": "O trecho fala em avançar 'em direção a' cerca de 25%, e a ambição é descrita como elevação progressiva (Fonte: Plano de Governo Caiado, pág. 13). O plano cobre o período 2027-2030, mas as fontes consultadas não indicam ano para atingir a meta (Fonte: Econocrítica; Congresso em Foco). Conclusão: confirma o veredito 'Sem base para avaliar', com a ressalva de que o horizonte geral do plano é o mandato de 2027 a 2030.",
+   "atualizado_em": null,
+   "candidato": "Ronaldo Caiado",
+   "tema": "Economia",
+   "criterio_id": "C5"
+  },
+  {
+   "chave": "caiado-educacão|C1",
+   "contraponto": "O plano prevê apoio técnico e financeiro da União aos estados e municípios, financiamento com equidade e incentivos por melhoria de resultados, sem indicar fonte específica (Fonte: Plano de Governo Caiado 2027-2030, via Poder360; Band, 'Perfil e propostas de Caiado'). O plano também menciona direcionar recursos a escolas com melhor avaliação (Fonte: Viva, resumo do plano). Não encontrei estimativa de custo do pacto nem indicação de dotação orçamentária nas fontes consultadas. Conclusão: confirma o veredito 'Sem base para avaliar'.",
+   "atualizado_em": null,
+   "candidato": "Ronaldo Caiado",
+   "tema": "Educação",
+   "criterio_id": "C1"
+  },
+  {
+   "chave": "caiado-educacão|C2",
+   "contraponto": "A fundamentação da proposta de articulação federativa para a alfabetização encontra suporte no artigo 211, § 4º, da Constituição Federal de 1988, que preconiza a colaboração entre os entes públicos. Todavia, a imposição da adoção uniforme de uma metodologia específica de alfabetização esbarra em proteções normativas à autonomia educacional. O artigo 206, incisos II e III, da Constituição Federal estabelece como princípios do ensino a liberdade de aprender e ensinar e o pluralismo de ideias e de concepções pedagógicas. Do mesmo modo, a legislação educacional assegura às escolas públicas e aos corpos docentes a prerrogativa de formular sua própria proposta pedagógica no âmbito da gestão democrática (Fonte: Lei nº 9.394/1996, arts. 12 e 15). A determinação coercitiva de método de ensino por meio de programas federais colide com o pluralismo pedagógico e pode ser questionada judicialmente pelas redes de ensino municipais, demonstrando condicionamentos jurídicos relevantes para a matéria. Conclusão: relativiza o veredito 'Viável' do painel, pois o princípio constitucional do pluralismo de concepções pedagógicas e a autonomia das escolas inscritos na LDB limitam a imposição federal de metodologia de ensino.",
+   "atualizado_em": "2026-10-01",
+   "candidato": "Ronaldo Caiado",
+   "tema": "Educação",
+   "criterio_id": "C2"
+  },
+  {
+   "chave": "caiado-educacão|C3",
+   "contraponto": "A estruturação de um programa federal voltado à colaboração federativa no ensino inicial depende de aprovação legislativa quando houver criação de transferências financeiras regulares e novos incentivos fiscais. O artigo 211 da Constituição Federal e as diretrizes orçamentárias exigem que a destinação de assistência técnica e financeira da União a municípios seja regulamentada por lei e autorizada nas dotações orçamentárias anuais aprovadas pelo Congresso Nacional (Fonte: Lei nº 14.822/2024, LOA 2024). Além do trâmite legislativo orçamentário, a efetivação da política depende da adesão voluntária de governadores e prefeitos, que gerenciam a rede pública de ensino fundamental, exigindo negociação junto a entidades como o Conselho Nacional de Secretários de Educação e a União Nacional dos Dirigentes Municipais de Educação. A necessidade de articular maiorias legislativas para aprovar recursos e pactuar termos de cooperação com entes federativos confirma a vigência de condições políticas indispensáveis à execução do programa. Conclusão: sustenta o veredito 'Viável com condições' do painel, pois a instituição de cooperação financeira e diretrizes nacionais requer autorização do Congresso Nacional e adesão voluntária das redes subnacionais.",
+   "atualizado_em": "2026-10-01",
+   "candidato": "Ronaldo Caiado",
+   "tema": "Educação",
+   "criterio_id": "C3"
+  },
+  {
+   "chave": "caiado-educacão|C4",
+   "contraponto": "O relato que sustenta o método fônico descreve uma turma de 21 alunos em depósito próprio, sem controle, sem revisão e sem avaliação independente (Fonte: Zenodo, registro 15750432, relato de experiência de 2024 com 20 de 21 alunos em autonomia de leitura). Amostra única e pequena, sem grupo de comparação e sem acompanhamento, não constitui resultado medido em contexto comparável. O padrão do que conta como evidência está no relatório do National Reading Panel, que avaliou centenas de estudos controlados e concluiu que o ensino fonêmico sistemático acelera a decodificação quando há livros estruturados, avaliação diagnóstica e formação de professores (Fonte: National Reading Panel, 'Teaching Children to Read', 2000). Nada disso acompanha o relato de turma única. Conclusão: sustenta o veredito 'Sem base para avaliar' do painel, pois o relato isolado, sem controle e sem revisão, não é experiência documentada com fonte conferida.",
+   "atualizado_em": "2026-10-01",
+   "candidato": "Ronaldo Caiado",
+   "tema": "Educação",
+   "criterio_id": "C4"
+  },
+  {
+   "chave": "caiado-educacão|C5",
+   "contraponto": "O plano fixa a meta de alfabetização ao fim do 2º ano e lista o pacto entre as propostas de 2027 a 2030, com indicadores de acompanhamento (Fonte: Plano de Governo Caiado, via Poder360). Entre os compromissos nacionais para 2030, o plano inclui garantir alfabetização na idade certa (Fonte: Plano de Governo Caiado). Não há data para lançar o pacto nas fontes consultadas. Conclusão: relativiza o veredito 'Sem base para avaliar', pois o plano declara horizonte de 2030 para o compromisso, mas não prazo para formular e executar o pacto.",
+   "atualizado_em": null,
+   "candidato": "Ronaldo Caiado",
+   "tema": "Educação",
+   "criterio_id": "C5"
+  },
+  {
+   "chave": "caiado-reformas|C1",
+   "contraponto": "O plano propõe liderar a adoção do sistema distrital misto, com transição segura e amplamente debatida (Fonte: Plano de Governo Caiado 2027-2030, tema 3, via Poder360). As fontes consultadas descrevem a medida como mudança de regra eleitoral e não mencionam custo ou fonte de recursos (Fonte: Poder360; Congresso em Foco). Não encontrei estimativa de impacto financeiro em fonte pública confiável. Conclusão: confirma o veredito 'Sem base para avaliar'.",
+   "atualizado_em": null,
+   "candidato": "Ronaldo Caiado",
+   "tema": "Reformas",
+   "criterio_id": "C1"
+  },
+  {
+   "chave": "caiado-reformas|C2",
+   "contraponto": "O parecer que considera difícil a viabilidade jurídica do fim da reeleição no Poder Executivo ancora-se na rigidez do processo legislativo previsto no artigo 60 da Carta Magna. Não obstante, o instituto da reeleição sucessiva para presidente, governadores e prefeitos não integrava a redação originária da Constituição de 1988, tendo sido inserido no artigo 14, § 5º, por reforma intermediária promovida pela Emenda Constitucional nº 16/1997. Desse modo, o retorno à vedação da reeleição para mandatos subsequentes não atenta contra nenhuma das limitações materiais ao poder constituinte derivado, preservando a forma federativa, o voto periódico e direto, a separação de Poderes e os direitos fundamentais (Fonte: Constituição Federal de 1988, art. 60, § 4º). Sob o prisma dogmático do Direito Constitucional, a proposição é compatível com o controle judicial, carecendo apenas da observância formal do rito de emenda. Conclusão: relativiza o veredito 'Difícil' do painel, pois a supressão da reeleição constitui matéria juridicamente admitida por emenda constitucional e não vulnera qualquer das cláusulas pétreas da Carta Magna.",
+   "atualizado_em": "2026-10-01",
+   "candidato": "Ronaldo Caiado",
+   "tema": "Reformas",
+   "criterio_id": "C2"
+  },
+  {
+   "chave": "caiado-reformas|C3",
+   "contraponto": "A tramitação de Propostas de Emenda à Constituição voltadas ao fim da reeleição no Poder Executivo conta com deliberação efetiva nas lideranças legislativas federais: a CCJ do Senado aprovou a PEC 12/2022, que acaba com a reeleição para presidente, governadores e prefeitos e unifica as eleições, sob relatoria do senador Marcelo Castro (Fonte: Agência Senado, 'CCJ aprova PEC com fim da reeleição no Executivo e unificação das eleições', 21/05/2025). A proposta aglutina interesses de partidos de diferentes campos que buscam maior rotação no controle de prefeituras e governos. Embora o quórum de três quintos exija articulação robusta e o texto ainda dependa do Plenário, a aprovação na CCJ com calendário especial afasta a caracterização de obstáculo intransponível. Conclusão: relativiza o veredito 'Difícil' do painel, pois a extinção da reeleição conta com deliberação avançada e frente multipartidária no Congresso Nacional.",
+   "atualizado_em": "2026-10-01",
+   "candidato": "Ronaldo Caiado",
+   "tema": "Reformas",
+   "criterio_id": "C3"
+  },
+  {
+   "chave": "caiado-reformas|C4",
+   "contraponto": "O plano não cita precedente. A Alemanha adota sistema em que metade do Bundestag é eleita em distritos e metade por listas, mas o total de cadeiras de cada partido é definido pela votação proporcional nacional (Fonte: Biblioteca Digital da Câmara, estudo sobre o sistema alemão). Esse desenho difere dos modelos de superposição em algumas PECs brasileiras, e o mesmo estudo critica que uma PEC não incorporava mecanismos como cláusula de barreira e correção de proporcionalidade (Fonte: Biblioteca Digital da Câmara). Não encontrei avaliação de resultados que transfira a experiência alemã ao Brasil. Conclusão: sustenta o veredito 'Sem base para avaliar' do painel, pois o plano não cita precedente e não há medida a comparar com experiência documentada.",
+   "atualizado_em": null,
+   "candidato": "Ronaldo Caiado",
+   "tema": "Reformas",
+   "criterio_id": "C4"
+  },
+  {
+   "chave": "caiado-reformas|C5",
+   "contraponto": "A exequibilidade da apresentação e aprovação de uma emenda constitucional nos limites de quatro anos é amparada pelo histórico de deliberações do Congresso Nacional. O mandato presidencial fixado pela Constituição estende-se por quatro anos com início em primeiro de janeiro do ano seguinte à eleição (Fonte: Constituição Federal de 1988, art. 82). Grandes reformas estruturais do Estado brasileiro, a exemplo da Reforma da Previdência (Emenda Constitucional nº 103/2019) e da Reforma Tributária sobre o consumo (Emenda Constitucional nº 132/2023), foram propostas, debatidas e promulgadas dentro do intervalo de um único mandato presidencial de quatro anos. Sendo a supressão da reeleição matéria de artigo único e elevado interesse das forças políticas que renovam as bancadas parlamentares, o período legislativo do mandato mostra-se temporalmente suficiente para sua conclusão. Conclusão: sustenta o veredito 'Viável' do painel, pois o prazo constitucional de quatro anos de mandato presidencial é compatível com o ciclo de tramitação e promulgação de emendas à Constituição.",
+   "atualizado_em": "2026-10-01",
+   "candidato": "Ronaldo Caiado",
+   "tema": "Reformas",
+   "criterio_id": "C5"
+  },
+  {
+   "chave": "caiado-saúde|C1",
+   "contraponto": "O plano propõe um Sistema Nacional de Acesso e Regulação Inteligente e a mudança gradual do financiamento, para considerar população atendida, complexidade, qualidade e resultado, além do volume de procedimentos (Fonte: Futuro da Saúde, 'Planos para a saúde'). A campanha também critica a transparência e a agilidade da gestão do teto MAC (Fonte: CNN Brasil, 'Caiado defende vacinas e modernizar o SUS'). Não encontrei fonte de recursos específica para a estrutura tecnológica da regulação. Conclusão: confirma o veredito 'Sem base para avaliar'.",
+   "atualizado_em": null,
+   "candidato": "Ronaldo Caiado",
+   "tema": "Saúde",
+   "criterio_id": "C1"
+  },
+  {
+   "chave": "caiado-saúde|C2",
+   "contraponto": "A estipulação de metas de redução do tempo de espera por cirurgias e consultas especializadas no âmbito da administração federal ampara-se nas competências do Ministério da Saúde. O Sistema Único de Saúde é regido por diretrizes de organização e planejamento descentralizado, cabendo à direção nacional formular a política de saúde e coordenar as ações entre os entes (Fonte: Lei nº 8.080/1990, arts. 15 e 16). A pactuação de prazos e o incentivo ao atendimento célere qualificam-se como atos administrativos de coordenação e fixação de políticas públicas da pasta da Saúde. Conclusão: sustenta o veredito 'Viável' do painel, pois a Lei Orgânica da Saúde confere à União competência para fixar metas assistenciais por atos infralegais.",
+   "atualizado_em": "2026-10-01",
+   "candidato": "Ronaldo Caiado",
+   "tema": "Saúde",
+   "criterio_id": "C2"
+  },
+  {
+   "chave": "caiado-saúde|C3",
+   "contraponto": "A fixação governamental de metas para agilizar atendimentos eletivos no SUS fundamenta-se nos poderes de direção superior da administração pública federal pelo Presidente da República (Fonte: Constituição Federal de 1988, art. 84, II). Contudo, a realização material de cirurgias e exames não é executada pela União, mas por hospitais geridos por estados, municípios e entidades filantrópicas conveniadas. Conforme a jurisprudência do Supremo Tribunal Federal e as regras sanitárias, o repasse de recursos federais atrelados a metas depende de concordância e pactuação prévia na Comissão Intergestores Tripartite, sob pena de bloqueios e paralisias administrativas (Fonte: Lei nº 8.080/1990, art. 14-A). Além disso, entidades de prestadores de serviços de saúde frequentemente paralisam convênios para demandar a revisão da remuneração de procedimentos, o que exige contínuas concessões orçamentárias e negociação política com as bancadas parlamentares ligadas à saúde. Conclusão: relativiza o veredito 'Viável' do painel, pois o alcance de metas depende da concordância política e operacional de estados e municípios na pactuação de repasses do SUS.",
+   "atualizado_em": "2026-10-01",
+   "candidato": "Ronaldo Caiado",
+   "tema": "Saúde",
+   "criterio_id": "C3"
+  },
+  {
+   "chave": "caiado-saúde|C4",
+   "contraponto": "O painel cita o Sistema de Triagem de Manchester, que organiza o atendimento por prioridade nas urgências, um serviço diferente das filas de consultas, exames e cirurgias que o plano quer reordenar. Precedentes mais próximos são sistemas de pontuação por gravidade e tempo de espera para cirurgias eletivas, como o SWALIS, de origem italiana, usado em Goiás, Ceará e Rondônia (Fonte: Resolução CIB nº 111/2021 de Goiás; Nota Técnica da Secretaria de Saúde do Ceará; Protocolo da Secretaria de Rondônia). Não encontrei avaliação de resultados desses sistemas sobre tempo de espera ou mortalidade. Conclusão: sustenta o veredito 'Sem base para avaliar' do painel, pois o plano traz princípio sem conteúdo descrito e não há medida a comparar com experiência documentada.",
+   "atualizado_em": null,
+   "candidato": "Ronaldo Caiado",
+   "tema": "Saúde",
+   "criterio_id": "C4"
+  },
+  {
+   "chave": "caiado-saúde|C5",
+   "contraponto": "O dimensionamento temporal da meta de redução de filas de espera para o horizonte do ano de 2030 possui estrita consonância com a duração legal do mandato do Poder Executivo federal. Nos termos do artigo 82 da Carta Magna, o mandato do Presidente da República possui duração exata de quatro anos, tendo início em primeiro de janeiro do ano seguinte ao pleito eleitoral (Fonte: Constituição Federal de 1988, art. 82). Considerando que o mandato referente às eleições gerais de 2026 estende-se do dia 1º de janeiro de 2027 a 31 de dezembro de 2030, a meta estipulada no plano de governo encerra-se perfeitamente no último dia útil da referida gestão. O prazo de quatro anos é o mesmo utilizado pelo planejamento governamental de médio prazo consolidado no Plano Plurianual (Fonte: Lei nº 14.802/2024, PPA 2024-2027), assegurando conformidade temporal para execução orçamentária e operacional das fases do projeto. Conclusão: sustenta o veredito 'Viável' do painel, pois a data-limite de 2030 corresponde com exatidão ao término do mandato de quatro anos fixado pelo artigo 82 da Constituição Federal.",
+   "atualizado_em": "2026-10-01",
+   "candidato": "Ronaldo Caiado",
+   "tema": "Saúde",
+   "criterio_id": "C5"
+  },
+  {
+   "chave": "caiado-seguranca|C1",
+   "contraponto": "O plano propõe criar o Ministério da Segurança Pública, um Conselho Estratégico Nacional, uma rede de presídios de segurança máxima e a agência SULPOL (Fonte: Gazeta do Povo, 'O que Caiado prevê para a segurança pública'). As fontes consultadas não trazem custo dessas medidas. Os financiamentos federais existentes são o Fundo Nacional de Segurança Pública (Lei 13.756/2018) e o Funpen (Lei Complementar 79/1994) (Fonte: Plano Nacional de Segurança Pública 2021-2030, Ipea). Conclusão: confirma o veredito 'Sem base para avaliar', pois o plano não declara fonte para a nova estrutura.",
+   "atualizado_em": null,
+   "candidato": "Ronaldo Caiado",
+   "tema": "Segurança",
+   "criterio_id": "C1"
+  },
+  {
+   "chave": "caiado-seguranca|C2",
+   "contraponto": "A instituição de uma pena privativa de liberdade com patamar mínimo de 45 anos afronta regras basilares do ordenamento penal e proteções pétreas da Constituição Federal. O artigo 75 do Código Penal brasileiro estabelece como limite máximo para cumprimento de penas privativas de liberdade o período de 40 anos, patamar recentemente ampliado pelo pacote anticrime (Fonte: Decreto-Lei nº 2.848/1940, alterado pela Lei nº 13.964/2019). Além da colisão com o teto legal, a fixação de pena mínima de 45 anos colide frontalmente com a cláusula pétrea constante do artigo 5º, inciso XLVII, alínea 'b', da Constituição Federal de 1988, que proíbe expressamente penas de caráter perpétuo, e com o princípio da individualização da pena (art. 5º, XLVI). A fixação de um mínimo superior à expectativa média de cumprimento residual após a idade penal incorreria em invalidação imediata pelo Supremo Tribunal Federal, evidenciando grave obstáculo normativo. Conclusão: sustenta o veredito 'Difícil' do painel, pois a proposta colide com o teto legal do Código Penal e infringe a vedação constitucional absoluta a penas de caráter perpétuo.",
+   "atualizado_em": "2026-10-01",
+   "candidato": "Ronaldo Caiado",
+   "tema": "Segurança",
+   "criterio_id": "C2"
+  },
+  {
+   "chave": "caiado-seguranca|C3",
+   "contraponto": "A classificação da viabilidade política como condicionada decorre da necessidade de aprovação de lei ordinária por maioria simples no Congresso Nacional (Fonte: Constituição Federal de 1988, arts. 47 e 61). A agenda de recrudescimento penal tem tração comprovada: a Câmara aprovou em 2024 o projeto que restringe a saída temporária de presos, reservando-a a estudo e trabalho (Fonte: Agência Câmara de Notícias, 'Câmara aprova projeto que restringe saída temporária de presos', 20/03/2024, PL 2253/22). Essa predisposição reduz os custos de articulação do Executivo em pautas penais repressivas, sem eliminar a necessidade de compor maioria. Conclusão: sustenta o veredito 'Viável com condições' do painel, pois há apoio parlamentar demonstrado a pautas penais duras, mantida a exigência de aprovação pelo Congresso.",
+   "atualizado_em": "2026-10-01",
+   "candidato": "Ronaldo Caiado",
+   "tema": "Segurança",
+   "criterio_id": "C3"
+  },
+  {
+   "chave": "caiado-seguranca|C4",
+   "contraponto": "O painel cita a Lei 13.673/2018, mas os registros do Congresso indicam que o ministério foi criado pela MP 821/2018, convertida na Lei 13.690/2018 (Fonte: Congresso Nacional, MPV 821/2018; Agência Câmara). O ministério foi criado por divisão do Ministério da Justiça e teve competência de coordenar a integração da segurança pública com os entes federativos (Fonte: Agência Brasil, 'Temer sanciona lei'). Segundo registro enciclopédico, existiu de fevereiro de 2018 a janeiro de 2019, quando foi fundido de volta (Fonte: Wikipédia). Não encontrei avaliação de resultados desse período. Conclusão: sustenta o veredito 'Sem base para avaliar' do painel, pois o plano traz diagnóstico sem proposta e não há medida a comparar com experiência documentada.",
+   "atualizado_em": null,
+   "candidato": "Ronaldo Caiado",
+   "tema": "Segurança",
+   "criterio_id": "C4"
+  },
+  {
+   "chave": "caiado-seguranca|C5",
+   "contraponto": "O plano cobre 2027-2030 e inclui compromisso nacional de reduzir de forma consistente a violência letal e o poder das facções até 2030 (Fonte: Plano de Governo Caiado, via Poder360). Não há data para criar o ministério nas fontes consultadas. O Plano Nacional de Segurança Pública 2021-2030 já traz metas até 2030, como taxa de homicídios abaixo de 16 por 100 mil (Fonte: Decreto 10.822/2021), mas isso pertence ao governo federal e não ao plano do candidato. Conclusão: confirma o veredito 'Sem base para avaliar' quanto à criação do ministério.",
+   "atualizado_em": null,
+   "candidato": "Ronaldo Caiado",
+   "tema": "Segurança",
+   "criterio_id": "C5"
+  },
+  {
+   "chave": "cury-economia|C1",
+   "contraponto": "O trecho é um princípio sobre o papel do Estado e do mercado. O plano trata do custeio em outra parte: déficit público próximo de zero durante o mandato, metas de gasto por ministério, inteligência artificial fiscalizando despesas e projetos apoiados em concessões, fundos rotativos e capital privado (Fonte: planodegoverno2026.com.br, resumo do plano registrado no TSE). O texto do plano também prevê eliminar gastos improdutivos e reduzir gradualmente a dívida pública (Fonte: Plano de Governo Augusto Cury 2026, via Poder360). Essas medidas não se vinculam ao trecho, que não prevê despesa. Conclusão: confirma o veredito 'Sem base para avaliar' para o trecho, com a ressalva de que o plano traz diretrizes fiscais em outros capítulos.",
+   "atualizado_em": null,
+   "candidato": "Augusto Cury",
+   "tema": "Economia",
+   "criterio_id": "C1"
+  },
+  {
+   "chave": "cury-economia|C2",
+   "contraponto": "A busca por uma meta fiscal de déficit primário próximo de zero ampara-se perfeitamente no ordenamento financeiro em vigor. A Lei de Responsabilidade Fiscal determina que o projeto de Lei de Diretrizes Orçamentárias conterá anexo de metas fiscais, no qual serão fixadas as metas anuais de receitas e despesas e o resultado primário para o exercício de referência e os dois seguintes (Fonte: Lei Complementar nº 101/2000, art. 4º, § 1º). Adicionalmente, o Regime Fiscal Sustentável aprovado em 2023 estabelece metas de resultado primário para o governo central com bandas de tolerância de 0,25 ponto percentual do PIB para mais ou para menos (Fonte: Lei Complementar nº 200/2023, art. 2º). A fixação de um resultado primário equilibrado ou com déficit neutro é compatível com a sistemática das leis complementares fiscais vigentes, dispensando qualquer alteração na legislação estrutural ou emenda constitucional. Conclusão: sustenta o veredito 'Viável' do painel, pois a Lei de Responsabilidade Fiscal e o Regime Fiscal Sustentável já oferecem os instrumentos normativos para a fixação e o controle da meta de déficit zero.",
+   "atualizado_em": "2026-10-01",
+   "candidato": "Augusto Cury",
+   "tema": "Economia",
+   "criterio_id": "C2"
+  },
+  {
+   "chave": "cury-economia|C3",
+   "contraponto": "A classificação da viabilidade política da meta fiscal como direta desconsidera os entraves entre Executivo e Legislativo. Embora a elaboração do orçamento seja iniciativa do Presidente (Fonte: Constituição Federal de 1988, art. 165), o alcance do equilíbrio exige que o Congresso aprove medidas de receita e contenha despesas. Em 2024, o ministro da Fazenda relatou publicamente dificuldades com o governo e o Congresso para cumprir a meta, com a devolução da MP do PIS/Cofins apontada como derrota (Fonte: Diário do Comércio, 'Haddad enfrenta desafios com governo e Congresso para cumprir meta fiscal', 15/06/2024). A dependência do consentimento congressual afasta a hipótese de viabilidade sem negociações difíceis. Conclusão: relativiza o veredito 'Viável' do painel, pois o cumprimento do déficit zero depende da anuência política do Congresso em aprovar medidas de receita e conter despesas.",
+   "atualizado_em": "2026-10-01",
+   "candidato": "Augusto Cury",
+   "tema": "Economia",
+   "criterio_id": "C3"
+  },
+  {
+   "chave": "cury-economia|C4",
+   "contraponto": "A evidência técnica sobre a eficácia de metas de déficit zero ancoradas no Regime Fiscal Sustentável suscita ressalvas em análises macrofiscais oficiais. De acordo com a Instituição Fiscal Independente do Senado Federal, a redução do déficit primário em 2024 derivou primordialmente de receitas extraordinárias e temporárias, a exemplo de transações tributárias excepcionais e dividendos estatais, ao passo que o déficit estrutural da União manteve trajetória de crescimento contínuo (Fonte: Instituição Fiscal Independente do Senado Federal, Relatório de Acompanhamento Fiscal nº 97, fevereiro de 2025). Economistas de órgãos de pesquisa ressaltam que sem reformas com corte estrutural em gastos obrigatórios previdenciários e assistenciais, a imposição de déficit próximo de zero resulta em paralisia de despesas discricionárias e investimentos públicos essenciais, comprometendo a sustentabilidade técnica do ajuste no médio prazo. Conclusão: relativiza o veredito 'Viável' do painel, pois relatórios da Instituição Fiscal Independente indicam que o equilíbrio fiscal corrente dependeu de receitas não recorrentes em meio ao avanço do déficit estrutural.",
+   "atualizado_em": "2026-10-01",
+   "candidato": "Augusto Cury",
+   "tema": "Economia",
+   "criterio_id": "C4"
+  },
+  {
+   "chave": "cury-economia|C5",
+   "contraponto": "O trecho não traz prazo. Outras partes do plano trazem referências temporais: déficit próximo de zero durante o mandato (Fonte: planodegoverno2026.com.br) e corte da carga tributária ao fim da transição econômica (Fonte: Terra, 'Eleições 2026: plano de Augusto Cury'). Esses prazos se referem a metas fiscais e tributárias, não à diretriz do trecho. Conclusão: confirma o veredito 'Sem base para avaliar' para o trecho, ainda que o plano declare horizontes em outros pontos da agenda econômica.",
+   "atualizado_em": null,
+   "candidato": "Augusto Cury",
+   "tema": "Economia",
+   "criterio_id": "C5"
+  },
+  {
+   "chave": "cury-educacão|C1",
+   "contraponto": "O plano dedica um capítulo a currículo, tempo integral e gestão da emoção, mas não expõe como financiar essas propostas (Fonte: InfoMoney, coluna de Diogo França, 'O que cada candidato planeja para a Educação'). A análise do Plano Aberto também indica que a entrega não tem custo, cobertura ou prazo demonstrados (Fonte: planoaberto.org, ficha de Augusto Cury). Há um canal de financiamento existente: desde 2026 a criação de matrículas em tempo integral é custeada pelo Fundeb, com mínimo de 4% dos recursos do Fundo (Fonte: Centro de Referências em Educação Integral, citando o art. 212-A, XV da Constituição). Esse canal existe independentemente do plano, e o Congresso já zerou a verba do programa federal de tempo integral na LOA 2025 (Fonte: Centro de Referências em Educação Integral). Conclusão: confirma o veredito 'Sem base para avaliar', pois o plano não declara fonte própria para a diretriz.",
+   "atualizado_em": null,
+   "candidato": "Augusto Cury",
+   "tema": "Educação",
+   "criterio_id": "C1"
+  },
+  {
+   "chave": "cury-educacão|C2",
+   "contraponto": "A imposição da elaboração de planos individuais de inclusão escolar tem sustentação nos marcos normativos de proteção à pessoa com deficiência. A legislação impõe ao poder público o dever de garantir e implementar um sistema educacional inclusivo em todos os níveis, proibindo a recusa de matrícula e assegurando a oferta de profissionais de apoio e atendimento educacional especializado (Fonte: Lei nº 13.146/2015, Estatuto da Pessoa com Deficiência, art. 28). Do mesmo modo, a Lei de Diretrizes e Bases da Educação Nacional define que os sistemas de ensino devem assegurar aos educandos com deficiência currículos, métodos, técnicas e recursos educativos para atender às suas necessidades específicas (Fonte: Lei nº 9.394/1996, art. 59). A criação de diretrizes para que as escolas desenvolvam planos pedagógicos inclusivos insere-se na aplicação dos comandos legais vigentes, não dependendo de inovações no ordenamento jurídico. Conclusão: sustenta o veredito 'Viável' do painel, pois o Estatuto da Pessoa com Deficiência e a Lei de Diretrizes e Bases já tornam mandatória a implementação de mecanismos institucionais de inclusão escolar.",
+   "atualizado_em": "2026-10-01",
+   "candidato": "Augusto Cury",
+   "tema": "Educação",
+   "criterio_id": "C2"
+  },
+  {
+   "chave": "cury-educacão|C3",
+   "contraponto": "A viabilidade política de padronizar exigências operacionais de inclusão em todas as escolas enfrenta atritos federativos com administrações municipais. Embora a União possua competência regulamentar infralegal (Fonte: Constituição Federal de 1988, art. 84, VI), a obrigatoriedade de disponibilizar atendentes especializados e planos adaptados por aluno recai diretamente sobre os orçamentos de redes municipais de ensino, as quais concentram as matrículas dos anos iniciais da educação básica. Tentativas anteriores de regulamentação do atendimento inclusivo provocaram mobilização de entidades representativas de pessoas com deficiência, parlamentares e associações de municípios, resultando em questionamentos perante o Poder Judiciário (Fonte: STF, Medida Cautelar na ADI nº 6.590, decisão publicada em 21/12/2020, que suspendeu decreto de política de educação especial). Essa divergência de interesses entre as esferas federativas e os grupos representativos impõe tensões políticas que dificultam a implantação uniforme da diretriz. Conclusão: relativiza o veredito 'Viável' do painel, pois o ônus financeiro concentrado sobre os municípios e disputas com entidades de classe geram resistências políticas e federativas à implementação compulsória.",
+   "atualizado_em": "2026-10-01",
+   "candidato": "Augusto Cury",
+   "tema": "Educação",
+   "criterio_id": "C3"
+  },
+  {
+   "chave": "cury-educacão|C4",
+   "contraponto": "O plano defende gestão da emoção como ferramenta para reduzir ansiedade, depressão e bullying nas escolas (Fonte: Plano de Governo Augusto Cury 2026, via Poder360; Terra). Há evidência internacional para programas escolares de aprendizagem socioemocional: uma meta-análise de 213 programas, com 270.034 estudantes, encontrou melhora em habilidades sociais e emocionais, comportamento e desempenho, equivalente a 11 pontos percentuais de ganho em rendimento (Fonte: Durlak et al., Child Development, 2011). O estudo indica que os resultados dependem da qualidade da implementação. Não encontrei avaliação independente da metodologia específica do plano, e a colunista do InfoMoney nota que o capítulo se organiza em torno da metodologia do próprio autor. Conclusão: relativiza o veredito 'Sem base para avaliar', pois há evidência sobre educação socioemocional em geral, mas não sobre a abordagem proposta.",
+   "atualizado_em": null,
+   "candidato": "Augusto Cury",
+   "tema": "Educação",
+   "criterio_id": "C4"
+  },
+  {
+   "chave": "cury-educacão|C5",
+   "contraponto": "O plano não declara prazo para o trecho, e o Plano Aberto registra que o plano não declara meta própria, base ou prazo para a área (Fonte: planoaberto.org). Como referência externa, o novo PNE prevê até 50% das matrículas da educação básica em tempo integral em dez anos, meta que o governo federal diz poder cumprir antes do prazo (Fonte: Fato News, 21/09/2026). Esse prazo pertence ao PNE e não ao plano do candidato. Conclusão: confirma o veredito 'Sem base para avaliar'.",
+   "atualizado_em": null,
+   "candidato": "Augusto Cury",
+   "tema": "Educação",
+   "criterio_id": "C5"
+  },
+  {
+   "chave": "cury-reformas|C1",
+   "contraponto": "O plano propõe idade mínima de 50 anos para ministros do STF e quarentena partidária de cinco anos, junto com mandato de oito anos e redução da Corte para nove integrantes (Fonte: Congresso em Foco; Band, 'Fim do Senado e STF eleito'). As fontes descrevem a medida como regra de elegibilidade e composição, e nenhuma menciona despesa associada ou fonte de recurso. Não encontrei estimativa de custo em fonte pública confiável. Conclusão: relativiza o veredito 'Sem base para avaliar', porque a ausência de custo declarado pode refletir a natureza normativa da medida, embora não haja evidência de impacto financeiro. (Pesquisado em: Congresso em Foco; Band; Agenda do Poder)",
+   "atualizado_em": null,
+   "candidato": "Augusto Cury",
+   "tema": "Reformas",
+   "criterio_id": "C1"
+  },
+  {
+   "chave": "cury-reformas|C2",
+   "contraponto": "O plano não trata do instrumento legal, mas o texto vigente do art. 101 da Constituição fixa a idade entre 35 e 70 anos para ministros do STF (Fonte: Constituição Federal, art. 101, redação da EC 122/2022, portal do STF e normas.leg.br). Como o piso etário e os requisitos de escolha estão no texto constitucional, alterá-los exige emenda. O próprio art. 101 já foi alterado por emenda, e há proposta em tramitação no Senado para elevar a idade mínima para 60 anos (Fonte: Grupo A Hora, 03/09/2026). Conclusão: confirma o veredito 'Difícil', pois não há via de lei ordinária para a alteração.",
+   "atualizado_em": null,
+   "candidato": "Augusto Cury",
+   "tema": "Reformas",
+   "criterio_id": "C2"
+  },
+  {
+   "chave": "cury-reformas|C3",
+   "contraponto": "O plano atribui a mudança à reforma do STF, sem detalhar a tramitação (Fonte: Congresso em Foco). O art. 60, § 2º da Constituição exige que a proposta seja votada em cada Casa, em dois turnos, com três quintos dos votos dos membros, o que equivale a 308 deputados e 49 senadores (Fonte: Constituição Federal, art. 60, § 2º, Senado Federal; cálculo sobre 513 deputados e 81 senadores). O Presidente pode propor emenda (art. 60, II), mas não a promulga sozinho. Além disso, a Constituição não pode ser emendada durante intervenção federal, estado de defesa ou de sítio (art. 60, § 1º). Conclusão: confirma o veredito 'Difícil'.",
+   "atualizado_em": null,
+   "candidato": "Augusto Cury",
+   "tema": "Reformas",
+   "criterio_id": "C3"
+  },
+  {
+   "chave": "cury-reformas|C4",
+   "contraponto": "O plano não cita precedentes para a combinação de idade mínima de 50 anos e quarentena partidária de cinco anos. A pesquisa encontrou paralelos parciais: o Tribunal Constitucional alemão exige 40 anos de idade, tem mandato de 12 anos sem recondução e limite de 68 anos (Fonte: Exame; Migalhas). A Itália tem mandato fixo de nove anos, e a França tem mandato de nove anos sem idade mínima formal (Fonte: Migalhas). Não encontrei, nessas fontes, corte com quarentena partidária de cinco anos, nem avaliação de efeitos de um piso de 50 anos. Conclusão: confirma o veredito 'Sem base para avaliar', pois os precedentes tratam de idade e mandato, mas não da combinação proposta.",
+   "atualizado_em": null,
+   "candidato": "Augusto Cury",
+   "tema": "Reformas",
+   "criterio_id": "C4"
+  },
+  {
+   "chave": "cury-reformas|C5",
+   "contraponto": "Nas descrições do plano consultadas, a reforma do STF (mandato de oito anos, idade mínima e quarentena) aparece sem cronograma de implementação (Fonte: Congresso em Foco; Band; Agenda do Poder, 'Crise no STF leva candidatos à Presidência a defender mudanças'). Como depende de emenda constitucional, o tempo real depende da votação no Congresso (Fonte: Constituição Federal, art. 60, § 2º). Não encontrei prazo público declarado pelo plano. Conclusão: confirma o veredito 'Sem base para avaliar'.",
+   "atualizado_em": null,
+   "candidato": "Augusto Cury",
+   "tema": "Reformas",
+   "criterio_id": "C5"
+  },
+  {
+   "chave": "cury-saúde|C1",
+   "contraponto": "O plano de Cury afirma que gastos improdutivos serão eliminados e os recursos redirecionados a educação, saúde, segurança, infraestrutura e inovação, com foco em gastar melhor (Fonte: Plano de Governo Augusto Cury 2026, registrado no TSE, texto divulgado pelo Poder360). Um resumo do plano indica como financiamento geral déficit próximo de zero, metas de gasto por ministério, concessões, fundos rotativos e capital privado, sem vincular essas fontes à Telessaúde ou à redução de filas (Fonte: planodegoverno2026.com.br). A análise do capítulo de saúde feita pela ONG Motirô-BA também aponta lacunas sobre como as propostas seriam implementadas (Fonte: Agência Aids). Conclusão: confirma o veredito 'Sem base para avaliar' para o trecho, pois há diretriz fiscal genérica, mas nenhuma fonte de recurso específica para esta proposta.",
+   "atualizado_em": null,
+   "candidato": "Augusto Cury",
+   "tema": "Saúde",
+   "criterio_id": "C1"
+  },
+  {
+   "chave": "cury-saúde|C2",
+   "contraponto": "A análise jurídica sobre a implementação de uma plataforma nacional de telessaúde no Sistema Único de Saúde apoia-se em autorizações legais plenamente estabelecidas. O Congresso Nacional promulgou a Lei nº 14.510/2022, que alterou a Lei Orgânica da Saúde para autorizar e disciplinar a prática da telessaúde em todo o território nacional, abrangendo o SUS, a saúde suplementar e a medicina privada (Fonte: Lei nº 14.510/2022, que altera a Lei nº 8.080/1990). O dispositivo assegura autonomia ao profissional de saúde, consentimento do paciente e confidencialidade de dados, conferindo competência direta ao Ministério da Saúde para regulamentar e disponibilizar plataformas públicas de teleconsulta sem necessidade de aprovação de nova lei primária. O ordenamento jurídico vigente já contempla, portanto, todas as condições legais necessárias para que o Ministério da Saúde estruture sistemas informatizados e expanda a telessaúde por ato infralegal ordinário. Conclusão: relativiza o veredito 'Viável com condições' do painel, pois a Lei nº 14.510/2022 já introduziu a telessaúde na Lei Orgânica da Saúde, tornando desnecessária nova legislação primária para instituir a plataforma.",
+   "atualizado_em": "2026-10-01",
+   "candidato": "Augusto Cury",
+   "tema": "Saúde",
+   "criterio_id": "C2"
+  },
+  {
+   "chave": "cury-saúde|C3",
+   "contraponto": "A criação e a manutenção de uma infraestrutura digital de telessaúde de âmbito nacional impõem despesas contínuas de tecnologia e interoperabilidade no Poder Executivo, com previsão na Lei Orçamentária Anual (Fonte: Constituição Federal de 1988, art. 165, III). A consolidação da ferramenta requer ainda conformidade com as normas éticas da profissão médica: a telemedicina é permitida no território nacional nos termos da regulamentação do Conselho Federal de Medicina, que exige prontuário, sigilo e interoperabilidade (Fonte: Resolução CFM nº 2.314/2022, DOU de 05/05/2022). A exigência de respaldo orçamentário anual e de observância das regras profissionais atesta a necessidade de articulação prévia. Conclusão: sustenta o veredito 'Viável com condições' do painel, pois a implantação depende de dotação na LOA e de consonância com as normas éticas profissionais.",
+   "atualizado_em": "2026-10-01",
+   "candidato": "Augusto Cury",
+   "tema": "Saúde",
+   "criterio_id": "C3"
+  },
+  {
+   "chave": "cury-saúde|C4",
+   "contraponto": "O trecho afirma que há filas, falta de especialistas e desigualdade regional de acesso. Os dados sustentam o diagnóstico: em 2024 o Sudeste tinha 3,77 médicos por mil habitantes e o Norte 1,70; o Maranhão registrava 1,27 e o Distrito Federal 6,28 (Fonte: Demografia Médica no Brasil 2025, FMUSP/AMB/Ministério da Saúde, via Estratégia Med). O Sudeste concentra 55,4% dos especialistas e o Norte 5,9% (Fonte: Ministério da Saúde, gov.br, abril/2025). Não encontrei avaliação de resultados da Telessaúde Brasil proposta no plano, que é a solução, não o trecho. Conclusão: sustenta o veredito 'Viável com condições' do painel, pois há resultados medidos no SUS em escopo regional, mas sem precedente de plataforma nacional com IA e com barreira de conectividade documentada.",
+   "atualizado_em": null,
+   "candidato": "Augusto Cury",
+   "tema": "Saúde",
+   "criterio_id": "C4"
+  },
+  {
+   "chave": "cury-saúde|C5",
+   "contraponto": "O plano cita metas como resolver cerca de 80% das consultas básicas por atendimento digital e atender em até 30 minutos, além de mencionar esperas por especialistas acima de 50 dias (Fonte: planodegoverno2026.com.br, resumo do plano registrado no TSE; Terra, 'Eleições 2026: plano de Augusto Cury'). Nas fontes consultadas essas metas aparecem sem data de cumprimento. Não encontrei fonte pública confiável com prazo para o trecho analisado. Conclusão: confirma o veredito 'Sem base para avaliar'. (Pesquisado em: planodegoverno2026.com.br; Terra; ND Mais)",
+   "atualizado_em": null,
+   "candidato": "Augusto Cury",
+   "tema": "Saúde",
+   "criterio_id": "C5"
+  },
+  {
+   "chave": "cury-seguranca|C1",
+   "contraponto": "O plano prevê recriar o Ministério da Segurança Pública, integrar as forças e usar inteligência artificial, além de focar em patrimônio e financiamento das facções (Fonte: Congresso em Foco). As fontes consultadas não indicam custo nem fonte de recurso específica para a integração. Os principais mecanismos federais existentes são o Fundo Nacional de Segurança Pública e o Funpen (Fonte: Agência Câmara, notícia sobre a PEC 18/2025). Como referência de ordem de grandeza, o investimento federal no sistema de centros integrados de comando e controle superou R$ 810 milhões (Fonte: Piloto Policial, com base em contratos do Ministério da Justiça). Conclusão: confirma o veredito 'Sem base para avaliar', pois o plano não declara o custo da integração.",
+   "atualizado_em": null,
+   "candidato": "Augusto Cury",
+   "tema": "Segurança",
+   "criterio_id": "C1"
+  },
+  {
+   "chave": "cury-seguranca|C2",
+   "contraponto": "O plano propõe integração plena entre Polícia Federal, polícias civis, polícias militares e guardas municipais. A Lei 13.675/2018 já integra esses órgãos ao Susp, para atuarem de forma cooperativa e sistêmica (art. 9º) e prevê operações com planejamento e execução integrados (art. 10) (Fonte: Lei 13.675/2018, Planalto e normas.leg.br). Há ressalvas: a lei manda atuar dentro dos limites das competências de cada órgão, sem criar polícias ou alterar atribuições (Fonte: Conjur, 'Susp é avanço necessário'). Além disso, o governo federal enviou a PEC 18/2025 para constitucionalizar o Susp e ampliar competências, o que indica que modelos mais fortes de coordenação podem exigir mudança constitucional (Fonte: Agência Câmara). Conclusão: sustenta o veredito 'Parcial' do painel, pois a integração cabe na lei vigente (SUSP), mas medidas que ampliem competências exigem lei nova.",
+   "atualizado_em": null,
+   "candidato": "Augusto Cury",
+   "tema": "Segurança",
+   "criterio_id": "C2"
+  },
+  {
+   "chave": "cury-seguranca|C3",
+   "contraponto": "O plano trata a integração como atuação coordenada do Executivo. A Lei 13.675/2018 já a autoriza, mas o art. 9º, § 4º dá aos sistemas estaduais e municipais liberdade de organização e funcionamento (Fonte: Lei 13.675/2018, normas.leg.br). Isso significa que a União depende da adesão de estados e municípios, não de nova votação no Congresso. Recursos para fundos e programas dependem de dotação na lei orçamentária, e a recriação de ministério, prevista no plano, é matéria de lei (Fonte: Constituição Federal, art. 88; Congresso em Foco). Conclusão: sustenta o veredito 'Parcial' do painel, pois a integração cabe ao Executivo, mas recriar o Ministério e fixar mandato dependem de lei votada no Congresso.",
+   "atualizado_em": null,
+   "candidato": "Augusto Cury",
+   "tema": "Segurança",
+   "criterio_id": "C3"
+  },
+  {
+   "chave": "cury-seguranca|C4",
+   "contraponto": "A avaliação de insuficiência de bases documentais para medir os efeitos da autonomização da pasta da Segurança Pública desconsidera a existência de indicadores estatísticos oficiais sobre o tema. Em fevereiro de 2018, o governo federal editou a Medida Provisória nº 821, convertida na Lei nº 13.690/2018, que criou formalmente o Ministério da Segurança Pública e desvinculou a gestão policial do Ministério da Justiça (Fonte: Diário Oficial da União, publicação da Lei nº 13.690/2018 em 11/07/2018). Dados consolidados do setor de segurança pública revelam que o país registrou uma inflexão na curva nacional de letalidade violenta durante aquele ciclo institucional, com a taxa de mortes violentas intencionais recuando de 31,6 para 27,5 por 100 mil habitantes entre 2017 e 2018 (Fonte: Fórum Brasileiro de Segurança Pública, 13º Anuário Brasileiro de Segurança Pública, 2019). Esses relatórios empíricos com séries temporais fornecem elementos quantitativos concretos para a mensuração comparativa dos efeitos técnicos de uma pasta especializada sobre as forças federais. Conclusão: relativiza o veredito 'Sem base para avaliar' do painel, pois existem dados estatísticos oficiais e independentes sobre os indicadores de criminalidade no ciclo de vigência da pasta em 2018.",
+   "atualizado_em": "2026-10-01",
+   "candidato": "Augusto Cury",
+   "tema": "Segurança",
+   "criterio_id": "C4"
+  },
+  {
+   "chave": "cury-seguranca|C5",
+   "contraponto": "O plano não declara prazo para a integração nas fontes consultadas (Fonte: Congresso em Foco; Plano de Governo Augusto Cury 2026, via Poder360). A lei vigente tem referenciais próprios: a Política Nacional de Segurança Pública prevê duração de 10 anos, e estados e municípios têm dois anos para elaborar planos de segurança (Fonte: Senado Notícias, sobre o PLC 19/2018 que originou a Lei 13.675/2018). Esses prazos pertencem à lei, não ao plano do candidato. Conclusão: confirma o veredito 'Sem base para avaliar', pois o candidato não fixa prazo próprio.",
+   "atualizado_em": null,
+   "candidato": "Augusto Cury",
+   "tema": "Segurança",
+   "criterio_id": "C5"
+  },
+  {
+   "chave": "flavio-economia|C1",
+   "contraponto": "O plano liga a redução de tributos sobre consumo, energia e combustíveis à revisão da reforma tributária e a um 'tesouraço' nos gastos, com corte de ao menos dez ministérios, de cargos comissionados e de supersalários (Fonte: plano de governo, caps. 'Brasil Mais Barato' e 'Brasil que Não Volta Atrás'; Agência Brasil, setembro de 2026; Money Times, 13/08/2026). Nas fontes consultadas não encontrei estimativa do valor da renúncia nem de quanto o corte de despesas compensaria. A LRF exige estimativa de impacto e compensação para renúncia de receita (Fonte: LC 101/2000, art. 14, citada pelo painel), e o precedente de 2022 mostra que o Congresso pode afastar essa exigência: a LC 194/2022 dispensou a aplicação dos arts. 14, 17 e 35 da LRF (Fonte: LC 194/2022, art. 8º, Planalto). Conclusão: relativiza o veredito do painel — o plano indica uma fonte genérica (corte de despesas), mas sem valores que permitam verificar a compensação.",
+   "atualizado_em": null,
+   "candidato": "Flávio Bolsonaro",
+   "tema": "Economia",
+   "criterio_id": "C1"
+  },
+  {
+   "chave": "flavio-economia|C2",
+   "contraponto": "O plano promete reduzir impostos sobre energia e combustíveis e reduzir o IVA, o que inclui revisar a reforma tributária (Fonte: plano de governo, cap. 'Brasil Mais Barato'). O instrumento depende do tributo: a desoneração e a reoneração de tributos federais sobre combustíveis em 2022 e 2023 passaram por medida provisória e ato do Executivo (Fonte: Mais Retorno, 02/01/2023). Já CBS e IBS foram instituídos por lei complementar (LC 214/2025), suas alíquotas definitivas dependem de resolução do Senado (art. 349) e o calendário principal está na Constituição, de modo que alterá-lo exigiria nova emenda (Fonte: Sólides, 'Cronograma da reforma tributária'; Buscador NCM). O ICMS sobre energia e combustíveis é estadual e já tem teto de 17% a 18% pela LC 194/2022 (Fonte: Comsefaz, Nota Técnica 023/2023). Conclusão: relativiza o veredito do painel — lei ordinária ou MP bastam para alguns tributos federais, mas a redução do IVA prometida pode exigir lei complementar, resolução do Senado ou emenda constitucional.",
+   "atualizado_em": null,
+   "candidato": "Flávio Bolsonaro",
+   "tema": "Economia",
+   "criterio_id": "C2"
+  },
+  {
+   "chave": "flavio-economia|C3",
+   "contraponto": "O plano fala em revisão e redimensionamento da reforma tributária e da carga sobre produção e consumo, sem detalhar a via legislativa (Fonte: plano de governo, cap. 'Brasil Mais Barato'). Para tributos alterados por lei ordinária, vale a maioria simples do art. 47 da Constituição, como diz o painel. Mexer na estrutura do IVA envolve quórum maior: lei complementar exige maioria absoluta (Fonte: Constituição Federal, art. 69) e mudar o calendário da reforma exige emenda constitucional, com votação em dois turnos nas duas Casas (Fonte: Sólides, 'Cronograma da reforma tributária'). A fixação das alíquotas definitivas passa pelo Senado (Fonte: Buscador NCM, citando o art. 349 da LC 214/2025). Conclusão: relativiza o veredito do painel — a dependência do Congresso se confirma, mas o quórum pode ser superior à maioria simples.",
+   "atualizado_em": null,
+   "candidato": "Flávio Bolsonaro",
+   "tema": "Economia",
+   "criterio_id": "C3"
+  },
+  {
+   "chave": "flavio-economia|C4",
+   "contraponto": "O plano invoca o histórico do governo anterior, com quedas nas contas de energia e telefone, no preço da gasolina e em bens de consumo (Fonte: plano de governo, cap. 'Brasil Mais Barato'). A LC 194/2022 de fato limitou o ICMS de combustíveis, energia, telecomunicações e transporte coletivo à alíquota geral, entre 17% e 18% (Fonte: Comsefaz, Nota Técnica 023/2023). O custo fiscal está documentado: o Comsefaz, que reúne secretários estaduais de Fazenda, estimou queda de R$ 109 bilhões na arrecadação de ICMS em 12 meses, e a lei previu compensação da União por abatimento de dívidas dos estados (Fonte: Comsefaz, 27/11/2023; LC 194/2022, art. 3º, Planalto). O Orçamento do governo anterior para 2023 também previa R$ 80,2 bilhões adicionais em incentivos e desonerações, incluindo PIS/Cofins sobre combustíveis, que o governo seguinte reonerou em parte (Fonte: Mais Retorno, 02/01/2023). Não encontrei estudo independente que meça a duração do efeito sobre os preços ao consumidor. Conclusão: relativiza o veredito do painel — o precedente de corte existe, mas com custo fiscal elevado e efeito sobre preços não confirmado por estudo nas fontes consultadas.",
+   "atualizado_em": null,
+   "candidato": "Flávio Bolsonaro",
+   "tema": "Economia",
+   "criterio_id": "C4"
+  },
+  {
+   "chave": "flavio-economia|C5",
+   "contraponto": "A avaliação sobre a duração temporal da meta de crescimento de 4% ao ano apoia-se nos limites do mandato governamental. O artigo 82 da Constituição Federal delimita com clareza a duração do mandato do Presidente da República em quatro anos (Fonte: Constituição Federal de 1988, art. 82). Da mesma forma, os instrumentos constitucionais de programação econômica e orçamentária do Estado brasileiro, com destaque para o Plano Plurianual, cobrem um horizonte de quatro anos de execução (Fonte: Constituição Federal de 1988, art. 165, I). Quando uma plataforma eleitoral fixa metas quantitativas vinculadas ao desempenho do Produto Interno Bruto 'ao longo da próxima década', ela estipula compromissos que ultrapassam a vigência da gestão eleita em seis anos, invadindo os mandatos de administrações seguintes. Por carecer de mecanismos institucionais capazes de vincular mandatos futuros, a proposição temporal excede o alcance executivo direto do governo. Conclusão: sustenta o veredito 'Parcial' do painel, pois a projeção para uma década inteira extrapola substancialmente o período de quatro anos do mandato constitucional do Executivo.",
+   "atualizado_em": "2026-10-01",
+   "candidato": "Flávio Bolsonaro",
+   "tema": "Economia",
+   "criterio_id": "C5"
+  },
+  {
+   "chave": "flavio-educacão|C1",
+   "contraponto": "O plano trata o Programa Acolher (páginas 34 a 36, segundo o índice do TSE) como uma rede de apoio que remunera estudantes de bom desempenho, e apresenta a fonte de recursos de forma geral no eixo 'O Brasil que Não Volta Atrás': um corte de gastos chamado de 'tesouraço', a redução de dez ministérios e a revisão do pacto federativo (Fonte: Agência Brasil, 18/09/2026; TSE, Propostas de Governo – Flávio Bolsonaro). Nas reportagens consultadas não há valor por bolsa, número de bolsistas, custo total nem vínculo entre essas economias e o Acolher (Fonte: Jornal de Brasília/Folha, 13/08/2026; Correio Braziliense, 14/08/2026). O diretor-executivo do Todos Pela Educação avaliou que a proposta lembra mais uma iniciativa pontual de uma secretaria pequena do que uma estratégia nacional (Fonte: Jornal de Brasília/Folha, 13/08/2026). Não consegui abrir o PDF integral do plano, apenas o índice do TSE e a cobertura de imprensa. Conclusão: confirma o veredito 'Sem base para avaliar': existe uma diretriz fiscal genérica, mas nenhuma fonte específica para as bolsas.",
+   "atualizado_em": null,
+   "candidato": "Flávio Bolsonaro",
+   "tema": "Educação",
+   "criterio_id": "C1"
+  },
+  {
+   "chave": "flavio-educacão|C2",
+   "contraponto": "A premissa de que a imposição do método fônico é parcialmente viável no plano regulatório fundamenta-se nas prerrogativas da União em relação à coordenação das diretrizes pedagógicas nacionais (Fonte: Lei nº 9.394/1996, art. 9º, IV). No entanto, o sistema normativo do ensino brasileiro não confere ao governo federal poder para anular a autonomia didática das escolas públicas estaduais e municipais, que detêm a competência de formular seu próprio projeto pedagógico segundo o artigo 12 da Lei de Diretrizes e Bases da Educação Nacional. A vinculação de transferências de recursos ou avaliações oficiais exclusivamente à adoção de uma metodologia particular demandaria a revisão das diretrizes homologadas da Base Nacional Comum Curricular perante o Conselho Nacional de Educação (Fonte: Resolução CNE/CP nº 2/2017). Sem essa reforma colegiada nas instâncias normativas da educação, a exigência de método único permanece sem amparo integral na ordem legal. Conclusão: sustenta o veredito 'Parcial' do painel, pois a imposição de um método pedagógico coercitivo depende de revisão da BNCC e esbarra na autonomia didática assegurada pela LDB.",
+   "atualizado_em": "2026-10-01",
+   "candidato": "Flávio Bolsonaro",
+   "tema": "Educação",
+   "criterio_id": "C2"
+  },
+  {
+   "chave": "flavio-educacão|C3",
+   "contraponto": "O plano não diz por qual via o Acolher seria instituído, e a cobertura da Folha observa que parte das propostas de educação já consta das políticas federais atuais (Fonte: Jornal de Brasília/Folha, 13/08/2026). O art. 47 da Constituição fixa maioria simples para as deliberações das Casas, salvo exceção constitucional, e a criação de despesa nova passa pela lei orçamentária, que o Congresso aprova (Fonte: Constituição Federal, arts. 47 e 166, Planalto). O painel parece tratar só do Acolher. A priorização do método fônico é distinta: na gestão anterior, a Política Nacional de Alfabetização foi instituída por decreto (Fonte: Decreto nº 9.765/2019, Planalto), e a LDB assegura liberdade de organização aos sistemas de ensino (Fonte: Lei nº 9.394/1996, art. 8º, § 2º). Logo, o MEC pode induzir o método por ato do Executivo e por incentivos, mas não impor a estados e municípios. Conclusão: relativiza parcialmente o veredito do painel. Ele se confirma para as bolsas do Acolher, que dependem do Congresso, e não se aplica à priorização do método fônico, que pode avançar sem votação.",
+   "atualizado_em": null,
+   "candidato": "Flávio Bolsonaro",
+   "tema": "Educação",
+   "criterio_id": "C3"
+  },
+  {
+   "chave": "flavio-educacão|C4",
+   "contraponto": "O relato que sustenta o método fônico descreve uma turma de 21 alunos em depósito próprio, sem controle, sem revisão e sem avaliação independente (Fonte: Zenodo, registro 15750432, relato de experiência de 2024 com 20 de 21 alunos em autonomia de leitura). Amostra única e pequena, sem grupo de comparação e sem acompanhamento, não constitui resultado medido em contexto comparável. O padrão do que conta como evidência está no relatório do National Reading Panel, que avaliou centenas de estudos controlados e concluiu que o ensino fonêmico sistemático acelera a decodificação quando há livros estruturados, avaliação diagnóstica e formação de professores (Fonte: National Reading Panel, 'Teaching Children to Read', 2000). Nada disso acompanha o relato de turma única. Conclusão: sustenta o veredito 'Sem base para avaliar' do painel, pois o relato isolado, sem controle e sem revisão, não é experiência documentada com fonte conferida.",
+   "atualizado_em": "2026-10-01",
+   "candidato": "Flávio Bolsonaro",
+   "tema": "Educação",
+   "criterio_id": "C4"
+  },
+  {
+   "chave": "flavio-educacão|C5",
+   "contraponto": "O plano tem horizonte geral de 2027 a 2030, conforme seu subtítulo 'Diretrizes do Plano de Governo 2027-2030' (Fonte: Portal Cláudio Dantas, 13/08/2026). Em outras áreas há metas datadas, como zerar o desmatamento ilegal até 2029 (Fonte: Viva, 18/08/2026). Nas descrições do Acolher, do método fônico e da alfabetização na idade certa que consultei, não aparece prazo de início nem meta com data (Fonte: Correio Braziliense, 14/08/2026; Jornal de Brasília/Folha, 13/08/2026; SBT News, 2026). Uma análise da imprensa também aponta lacunas sobre como o plano melhoraria o ensino (Fonte: Tribuna da Internet, 16/09/2026). Não consegui abrir o PDF integral, então prazos no corpo do texto não podem ser totalmente excluídos. Conclusão: confirma o veredito 'Sem base para avaliar': nas fontes consultadas não há prazo declarado para essas propostas.",
+   "atualizado_em": null,
+   "candidato": "Flávio Bolsonaro",
+   "tema": "Educação",
+   "criterio_id": "C5"
+  },
+  {
+   "chave": "flavio-reformas|C1",
+   "contraponto": "O plano apresenta o fim da reeleição como mudança de regra eleitoral, sem mencionar custo ou fonte de recursos (Fonte: plano de governo, cap. 'Brasil que Cumpre a Constituição'). A PEC protocolada em 02/03/2026 proíbe a reeleição para presidente, mantém a possibilidade para governadores e prefeitos e não cria despesa nova segundo as descrições públicas do texto (Fonte: Diário de Pernambuco, 03/2026; Imirante, 03/03/2026). Não encontrei estimativa de impacto orçamentário para a proposta. Conclusão: confirma o veredito do painel — a proposta não envolve despesa direta que exija fonte de recurso.",
+   "atualizado_em": null,
+   "candidato": "Flávio Bolsonaro",
+   "tema": "Reformas",
+   "criterio_id": "C1"
+  },
+  {
+   "chave": "flavio-reformas|C2",
+   "contraponto": "O plano afirma que já existe PEC protocolada no Senado com o fim da reeleição presidencial (Fonte: plano de governo, cap. 'Brasil que Cumpre a Constituição'). A PEC foi protocolada em 02/03/2026 com 30 assinaturas, acima das 27 exigidas para iniciar a tramitação, e valeria a partir da promulgação para o presidente eleito em outubro de 2026 (Fonte: Diário de Pernambuco, 03/2026; Tribuna do Sertão, 03/03/2026). A reeleição para cargos do Executivo foi instituída em 1997, no governo Fernando Henrique Cardoso, o que confirma que só uma emenda ao texto constitucional pode revertê-la (Fonte: Imirante, 03/03/2026). Conclusão: confirma o veredito 'Difícil' do painel — a proposta exige emenda constitucional, e o protocolo cumpre apenas a etapa inicial.",
+   "atualizado_em": null,
+   "candidato": "Flávio Bolsonaro",
+   "tema": "Reformas",
+   "criterio_id": "C2"
+  },
+  {
+   "chave": "flavio-reformas|C3",
+   "contraponto": "O plano trata a PEC como já apresentada e não descreve estratégia de aprovação (Fonte: plano de governo). A PEC precisa de três quintos dos votos em dois turnos em cada Casa, o que equivale a ao menos 49 senadores, e começa pela CCJ do Senado, seguindo para comissão especial e plenário (Fonte: Diário de Pernambuco, 03/2026; Imirante, 03/03/2026). Uma proposta semelhante, que acabaria com a reeleição para presidente, governadores e prefeitos e criaria mandatos de cinco anos, foi discutida em maio de 2025 e não avançou (Fonte: Imirante, 03/03/2026). Nas fontes consultadas não localizei avanço da PEC de Flávio além do protocolo. Conclusão: confirma o veredito 'Difícil' do painel.",
+   "atualizado_em": null,
+   "candidato": "Flávio Bolsonaro",
+   "tema": "Reformas",
+   "criterio_id": "C3"
+  },
+  {
+   "chave": "flavio-reformas|C4",
+   "contraponto": "A justificativa da PEC sustenta que a reeleição, aprovada em 1997, compromete a alternância no Executivo e leva o presidente a governar em lógica de campanha permanente (Fonte: Diário de Pernambuco, 03/2026, justificativa da PEC). Há precedente institucional: o Brasil vedava a reeleição antes de 1997, e México, Guatemala, Honduras e Paraguai a proíbem por completo, segundo levantamentos da região (Fonte: Brookings, 'Reelection, Continuity and Hyper-Presidentialism in Latin America'; Universidad de Navarra, Global Affairs, 2021). As listas variam por fonte e ano, e o Brookings observa que a reeleição imediata tem favorecido o presidente ou o partido no poder na região. Não encontrei estudo que demonstre que o mandato único melhora resultados de governo. Conclusão: relativiza o veredito do painel — há precedente institucional, mas a evidência sobre os efeitos do mandato único é limitada nas fontes consultadas.",
+   "atualizado_em": null,
+   "candidato": "Flávio Bolsonaro",
+   "tema": "Reformas",
+   "criterio_id": "C4"
+  },
+  {
+   "chave": "flavio-reformas|C5",
+   "contraponto": "O plano não declara prazo para a aprovação da PEC (Fonte: plano de governo, cap. 'Brasil que Cumpre a Constituição'). O único parâmetro temporal está no texto da PEC: ela entraria em vigor na promulgação e valeria para o presidente eleito em outubro de 2026, o que implica que só teria efeito sobre esse mandato se fosse promulgada antes de o presidente exercer o cargo (Fonte: Diário de Pernambuco, 03/2026; Imirante, 03/03/2026). Conclusão: confirma o veredito 'Sem base para avaliar' do painel — não há cronograma de tramitação declarado.",
+   "atualizado_em": null,
+   "candidato": "Flávio Bolsonaro",
+   "tema": "Reformas",
+   "criterio_id": "C5"
+  },
+  {
+   "chave": "flavio-saúde|C1",
+   "contraponto": "O plano promete fortalecer e ampliar a atenção à saúde mental, com diagnóstico precoce de TDAH, atenção à depressão, ansiedade e Alzheimer, sem indicar dotação (Fonte: plano de governo, cap. 'Brasil que Prepara'). A pesquisa mostra que já existe uma linha de custeio federal: o Ministério da Saúde ampliou o custeio da Rede de Atenção Psicossocial em R$ 414 milhões por ano em 2023, alta de 27% do orçamento da rede, e em mais R$ 383 milhões por ano em 2024 (Fonte: Ministério da Saúde, 2023; Agência Gov, 10/10/2024). Desde 2018, os recursos dos CAPS estão incorporados ao bloco de custeio de média e alta complexidade, o que dificulta identificar quanto se gasta com eles (Fonte: SciELO, 'O financiamento federal dos CAPS no Brasil'). Conclusão: confirma o veredito 'Sem base para avaliar' do painel — o plano não declara a fonte, embora a rede existente tenha financiamento próprio dentro do orçamento da saúde.",
+   "atualizado_em": null,
+   "candidato": "Flávio Bolsonaro",
+   "tema": "Saúde",
+   "criterio_id": "C1"
+  },
+  {
+   "chave": "flavio-saúde|C2",
+   "contraponto": "A classificação jurídica da expansão da Estratégia Saúde da Família e do cuidado à terceira idade como dependente de condições legais ampara-se no princípio da legalidade administrativa. Contudo, a organização e o fortalecimento da atenção primária e do atendimento integral aos idosos já se encontram plenamente fundamentados na legislação federal. O Estatuto da Pessoa Idosa estabelece em seu artigo 15 a garantia de atenção integral à saúde da pessoa idosa por intermédio do SUS, assegurando o atendimento geriátrico e gerontológico em ambulatórios e domicílios (Fonte: Lei nº 10.741/2003, art. 15). Adicionalmente, as diretrizes da Estratégia Saúde da Família são regulamentadas na Política Nacional de Atenção Básica mediante atos normativos do Ministério da Saúde (Fonte: Portaria de Consolidação GM/MS nº 2/2017). Não se faz necessária nova autorização legal do Poder Legislativo para ampliar equipes multiprofissionais, dependendo a matéria unicamente de atos infralegais do Ministério da Saúde e do Fundo Nacional de Saúde. Conclusão: relativiza o veredito 'Viável com condições' do painel, pois o Estatuto da Pessoa Idosa e a Lei Orgânica da Saúde já fornecem base legal para que a ampliação ocorra exclusivamente por portaria ministerial.",
+   "atualizado_em": "2026-10-01",
+   "candidato": "Flávio Bolsonaro",
+   "tema": "Saúde",
+   "criterio_id": "C2"
+  },
+  {
+   "chave": "flavio-saúde|C3",
+   "contraponto": "A concretização da ampliação da Estratégia Saúde da Família e do atendimento geriátrico depende de condições políticas no âmbito orçamentário e federativo. A criação de novas equipes de Saúde da Família e de unidades móveis impõe incremento substancial nas transferências federais fundo a fundo destinadas a estados e municípios, demandando autorização formal de limites financeiros no projeto da Lei Orçamentária Anual votado anualmente pelo Congresso Nacional (Fonte: Constituição Federal de 1988, art. 165, § 5º). Além do aval do parlamento aos créditos orçamentários, a implementação das ações requer pactuação política na Comissão Intergestores Tripartite, sob pena de recusa de prefeitos que arcam com a contratação de pessoal e manutenção física dos postos de atendimento (Fonte: Lei nº 8.080/1990, art. 14-A). Essas exigências de autorização congressual e cooperação interfederativa corroboram a presença de requisitos políticos necessários à efetivação da proposta. Conclusão: sustenta o veredito 'Viável com condições' do painel, pois a expansão do financiamento primário exige aprovação orçamentária do Congresso Nacional e pactuação operacional com gestores municipais.",
+   "atualizado_em": "2026-10-01",
+   "candidato": "Flávio Bolsonaro",
+   "tema": "Saúde",
+   "criterio_id": "C3"
+  },
+  {
+   "chave": "flavio-saúde|C4",
+   "contraponto": "A afirmação sobre a atenção básica ao idoso apoia-se em divulgação da Fiocruz que relata associação entre a Estratégia Saúde da Família e a proteção de idosos contra a mortalidade precoce (Fonte: Fiocruz, portal IdeiaSUS, 'Como a Saúde da Família prolonga a vida de idosos', publicado em 21/10/2024). Trata-se de peça de divulgação institucional, sem estudo controlado lido nem desenho que isole o efeito do programa na saúde do idoso. Sem retaguarda de geriatria, exames de imagem e farmácia básica contínua, o aumento de equipes não resolve sozinho quadros crônicos complexos, o que limita o alcance do resultado relatado a parte do objetivo. Conclusão: sustenta o veredito 'Parcial' do painel, pois há evidência relatada de parte do objetivo, sem medição controlada do efeito.",
+   "atualizado_em": "2026-10-01",
+   "candidato": "Flávio Bolsonaro",
+   "tema": "Saúde",
+   "criterio_id": "C4"
+  },
+  {
+   "chave": "flavio-saúde|C5",
+   "contraponto": "O trecho do plano sobre saúde mental usa verbos no futuro ('vamos fortalecer e ampliar') sem data ou meta numérica (Fonte: plano de governo, cap. 'Brasil que Prepara'). O único marco temporal geral é o mandato 2027–2030 (Fonte: capa do plano de governo). Conclusão: confirma o veredito 'Sem base para avaliar' do painel.",
+   "atualizado_em": null,
+   "candidato": "Flávio Bolsonaro",
+   "tema": "Saúde",
+   "criterio_id": "C5"
+  },
+  {
+   "chave": "flavio-seguranca|C1",
+   "contraponto": "O plano afirma que o governo federal destina cerca de 0,4% de seus gastos à segurança pública e promete dobrar os investimentos federais no mandato, sem apontar a origem dos recursos (Fonte: plano de governo, cap. 'Brasil sem Medo', seção 'Menos verbo mais verba'). O dado de partida é compatível com o Anuário Brasileiro de Segurança Pública 2026: a segurança representou 0,37% das despesas da União em 2025, e o gasto federal caiu de R$ 21,9 bilhões em 2024 para R$ 18 bilhões em 2025, queda que o Anuário atribui em parte ao fim de despesas emergenciais de Defesa Civil no Rio Grande do Sul (Fonte: Anuário, conforme Brasil Paralelo, 23/07/2026). Dobrar o patamar de 2025 exigiria cerca de R$ 18 bilhões adicionais ao ano ao fim do mandato, cálculo simples sobre esse dado. Como fonte geral do ajuste, o plano cita o corte de ministérios e despesas, sem vinculá-lo à segurança (Fonte: Agência Brasil, setembro de 2026). Conclusão: confirma o veredito 'Sem base para avaliar' do painel — o diagnóstico do plano se sustenta nos dados, mas a fonte do dinheiro não é declarada.",
+   "atualizado_em": null,
+   "candidato": "Flávio Bolsonaro",
+   "tema": "Segurança",
+   "criterio_id": "C1"
+  },
+  {
+   "chave": "flavio-seguranca|C2",
+   "contraponto": "A classificação jurídica da tipificação do narcoterrorismo fundamenta-se nas particularidades da legislação penal especial do país. O ordenamento jurídico pátrio disciplina o crime de tráfico de entorpecentes na Lei nº 11.343/2006 e as facções criminosas na Lei nº 12.850/2013, ao passo que a definição de terrorismo encontra-se estritamente delimitada a condutas praticadas por razões de xenofobia, discriminação ou preconceito de raça, cor, etnia e religião (Fonte: Lei nº 13.260/2016, art. 2º). Diante do princípio da taxatividade e da reserva legal formal expressos no artigo 5º, inciso XXXIX, da Constituição Federal, o Poder Executivo não pode estender as penalidades do terrorismo a organizações de narcotráfico por decreto administrativo. A criação do tipo híbrido de narcoterrorismo depende de projeto de lei ordinária que altere os diplomas penais, respeitando as garantias constitucionais do devido processo legal e a vedação à ampliação penal analógica. Conclusão: sustenta o veredito 'Viável com condições' do painel, pois o princípio da legalidade estrita exige a edição de lei ordinária nova pelo Congresso para tipificar o delito de narcoterrorismo.",
+   "atualizado_em": "2026-10-01",
+   "candidato": "Flávio Bolsonaro",
+   "tema": "Segurança",
+   "criterio_id": "C2"
+  },
+  {
+   "chave": "flavio-seguranca|C3",
+   "contraponto": "A necessidade de maioria simples no Congresso Nacional para nova tipificação penal reflete o rito do processo legislativo ordinário (Fonte: Constituição Federal de 1988, arts. 47 e 61). Contudo, proposições que ampliam o conceito de terrorismo enfrentam controvérsia: o PL 1.595/2019 sobre ações contraterroristas teve discussão marcada por divergência entre governistas e oposição na Câmara (Fonte: Agência Câmara de Notícias, 'Comissão aprova proposta sobre ações contraterroristas', 17/09/2021). Essa polarização exige concessões e negociações intensas do governo. Conclusão: sustenta o veredito 'Viável com condições' do painel, pois a expansão de tipificações de terrorismo divide as comissões e exige complexa composição de maioria.",
+   "atualizado_em": "2026-10-01",
+   "candidato": "Flávio Bolsonaro",
+   "tema": "Segurança",
+   "criterio_id": "C3"
+  },
+  {
+   "chave": "flavio-seguranca|C4",
+   "contraponto": "O plano associa mais verba federal a medidas como o presídio de segurança máxima no modelo de El Salvador, o sistema de reconhecimento facial Muralha Brasileira e a tropa de fronteira (Fonte: plano de governo, cap. 'Brasil sem Medo'). Há evidência indireta sobre gasto e resultado: o relator setorial do Orçamento de 2026 apontou que o gasto total com segurança, somando União, estados e municípios, fica próximo de 3% do PIB, acima da média mundial de 1% a 2% (Fonte: Câmara dos Deputados, 09/12/2025), e o Ministério da Justiça informa que os estados executaram 61% dos repasses do Fundo Nacional de Segurança Pública desde 2019 (Fonte: Ministério da Justiça, 07/01/2026). Sobre programas brasileiros, estudo com controle sintético mostra que o Pacto pela Vida, de Pernambuco, reduziu homicídios em 2007–2014 e deixou de ser eficaz depois (Fonte: Economia Aplicada, USP, 2022). Não encontrei avaliação comparável dos itens específicos do plano. Conclusão: relativiza o veredito do painel — a experiência brasileira sugere que o volume de recursos, isolado, não garante resultado.",
+   "atualizado_em": null,
+   "candidato": "Flávio Bolsonaro",
+   "tema": "Segurança",
+   "criterio_id": "C4"
+  },
+  {
+   "chave": "flavio-seguranca|C5",
+   "contraponto": "A impossibilidade de fixar prazo para a declaração de facções como entidades narcoterroristas resulta da ausência de balizas temporais no plano de governo. A Constituição Federal estabelece que o mandato presidencial tem a extensão de quatro anos, período dentro do qual as ações governamentais devem ser programadas e entregues à sociedade (Fonte: Constituição Federal de 1988, art. 82). Entretanto, o texto examinado utiliza a locução no futuro verbal sem estipular data, semestre de apresentação de anteprojeto ao Poder Legislativo ou fases de implementação institucional. Na administração pública, a viabilidade temporal de uma política demanda o estabelecimento de marcos de execução para que se possa fiscalizar o avanço legislativo e orçamentário da iniciativa. Em virtude do silêncio do documento sobre cronogramas ou prazos de implementação da medida, inexiste parâmetro material para aferir sua execução no tempo. Conclusão: sustenta o veredito 'Sem base para avaliar' do painel, pois o plano de governo não fixa datas, cronograma ou marcos temporais para o envio e a efetivação da proposta.",
+   "atualizado_em": "2026-10-01",
+   "candidato": "Flávio Bolsonaro",
+   "tema": "Segurança",
+   "criterio_id": "C5"
+  },
+  {
+   "chave": "lula-economia|C1",
+   "contraponto": "A verificação de lastro orçamentário para a meta de redução continuada das taxas de juros esbarra na própria natureza das variáveis de política monetária no ordenamento fiscal brasileiro. A taxa de juros básica da economia (Selic) não é fixada mediante reserva orçamentária ou previsão de despesas na Lei Orçamentária Anual, mas pelo Comitê de Política Monetária do Banco Central do Brasil no cumprimento do regime de metas de inflação (Fonte: Decreto Federal nº 3.088/1999). A política do Regime Fiscal Sustentável dispõe sobre regras de despesas primárias e metas de resultado para o governo central, sem regular diretamente o nível dos juros de mercado ou a taxa básica de redesconto (Fonte: Lei Complementar nº 200/2023). Por não ser um elemento derivado de dotação contábil do Orçamento Geral da União, a evolução das taxas de juros vincula-se a expectativas econômicas e choques de preços, inexistindo mecanismo financeiro direto no plano orçamentário para assegurar sua trajetória de queda. Conclusão: sustenta o veredito 'Sem base para avaliar' do painel, pois a determinação da taxa de juros não decorre de reserva orçamentária ou dotação da Lei Orçamentária Anual, dependendo de política monetária autônoma.",
+   "atualizado_em": "2026-10-01",
+   "candidato": "Luiz Inácio Lula da Silva",
+   "tema": "Economia",
+   "criterio_id": "C1"
+  },
+  {
+   "chave": "lula-economia|C2",
+   "contraponto": "O plano trata a queda dos juros como resultado de condições macroeconômicas e não propõe alterar a regra que define a taxa (Fonte: plano de governo, conforme O Tempo, 25/08/2026). A Lei Complementar 179/2021 define a estabilidade de preços como objetivo fundamental do Banco Central, atribui ao Conselho Monetário Nacional a fixação das metas e reserva ao Banco Central, de forma privativa, a condução da política monetária (Fonte: LC 179/2021, arts. 1º e 2º, Planalto). Diretores e presidente têm mandato fixo de quatro anos, com nomes aprovados pelo Senado (Fonte: LC 179/2021, art. 4º). Assim, a Selic não é definida por decreto ou lei ordinária do Executivo, e mudar esse desenho exigiria nova lei complementar, o que o plano não propõe. Conclusão: sustenta o veredito 'Viável' do painel, pois manter o arcabouço fiscal já em vigor não exige mudança de norma e a taxa de juros é fixada pelo BC sob a LC 179/2021.",
+   "atualizado_em": null,
+   "candidato": "Luiz Inácio Lula da Silva",
+   "tema": "Economia",
+   "criterio_id": "C2"
+  },
+  {
+   "chave": "lula-economia|C3",
+   "contraponto": "A indicação de viabilidade política para a condução do arcabouço fiscal apoia-se no fato de que o Regime Fiscal Sustentável já se encontra aprovado e em vigor (Fonte: Lei Complementar nº 200/2023). Entretanto, a manutenção das metas exige aprovações contínuas no Congresso, e o próprio ministro da Fazenda atribuiu publicamente o risco de descumprimento às derrotas do governo no parlamento em 2023 (Fonte: Poder360, 'Derrotas no Congresso impedem deficit zero sustentável, diz Haddad', 30/08/2024). A necessidade de obter votos majoritários contínuos para medidas de receita revela que a disciplina fiscal enfrenta negociações complexas na arena legislativa. Conclusão: relativiza o veredito 'Viável' do painel, pois a manutenção das metas do arcabouço fiscal demanda aprovação contínua de medidas legislativas sob pressão parlamentar.",
+   "atualizado_em": "2026-10-01",
+   "candidato": "Luiz Inácio Lula da Silva",
+   "tema": "Economia",
+   "criterio_id": "C3"
+  },
+  {
+   "chave": "lula-economia|C4",
+   "contraponto": "O plano sustenta que os juros concentram renda e propõe reduzi-los de forma sustentada (Fonte: plano de governo, conforme O Tempo, 25/08/2026). Sobre a premissa, análise de dados do Imposto de Renda indica que juros altos alimentaram um crescimento da renda financeira que favoreceu os mais ricos, enquanto emprego, salários e programas sociais melhoraram a base da distribuição (Fonte: análise divulgada pelo Brasil 247, agosto/setembro de 2026). Sobre o objetivo, há precedentes brasileiros de queda longa da Selic com desfechos distintos: de 12% em 2011 para 7,25% até abril de 2013, seguida de alta a 14,25% em julho de 2015 (Fonte: InvestNews, 11/07/2024; Exponencial/Creditas), e de 14,25% em 2016 a 2% em 2020, período em que analistas associaram a queda ao teto de gastos e à reforma da Previdência (Fonte: XP Investimentos, 06/08/2020). Como o plano não indica o instrumento, a comparação com esses casos é apenas indicativa. Conclusão: relativiza o veredito do painel — há precedentes do resultado desejado, mas não da política proposta.",
+   "atualizado_em": null,
+   "candidato": "Luiz Inácio Lula da Silva",
+   "tema": "Economia",
+   "criterio_id": "C4"
+  },
+  {
+   "chave": "lula-economia|C5",
+   "contraponto": "O plano fala em redução sustentada dos juros, sem data ou meta numérica para a Selic (Fonte: plano de governo, conforme O Tempo, 25/08/2026). A única trajetória com números vem do mercado: o boletim Focus projeta Selic de 13,75% no fim de 2026, 12% em 2027, 10,5% em 2028 e 10% em 2029 (Fonte: Gazeta Mercantil, setembro de 2026), o que é projeção de analistas e não compromisso do plano. Conclusão: confirma o veredito 'Sem base para avaliar' do painel.",
+   "atualizado_em": null,
+   "candidato": "Luiz Inácio Lula da Silva",
+   "tema": "Economia",
+   "criterio_id": "C5"
+  },
+  {
+   "chave": "lula-educacão|C1",
+   "contraponto": "O trecho apresenta MEC Livros e MEC Idiomas como iniciativas já lançadas, e não como promessas novas. Por isso o plano não detalha custeio futuro. Fora do plano, o MEC divulgou que o MEC Idiomas demanda R$ 1,68 milhão por ano e atende cerca de 16 mil estudantes por semestre (Fonte: Agência Brasil, 'MEC disponibiliza aplicativo gratuito com oito mil livros', 06/04/2026; Poder360, 11/04/2026). Não encontrei valor de custeio anual do MEC Livros em fonte pública confiável, apenas a capacidade de empréstimos das licenças, como 224 mil empréstimos anuais de lançamentos e best-sellers (Fonte: Agência Gov/MEC, 07/04/2026). Também não encontrei em qual ação orçamentária os apps são pagos. Não consegui abrir o PDF integral do plano para verificar se há previsão de custeio em outro ponto. Conclusão: relativiza o veredito 'Sem base para avaliar'. O plano continua sem declarar a fonte, mas há custo oficial divulgado para o MEC Idiomas e nenhum para o MEC Livros. (Pesquisado em: Agência Brasil, Poder360, Agência Gov, Correio Braziliense.)",
+   "atualizado_em": null,
+   "candidato": "Luiz Inácio Lula da Silva",
+   "tema": "Educação",
+   "criterio_id": "C1"
+  },
+  {
+   "chave": "lula-educacão|C2",
+   "contraponto": "A avaliação sobre a ausência de base normativa para a ampliação de livros digitais e do ensino de idiomas pode ser confrontada com o arcabouço regulatório já existente na administração pública federal. No tocante aos materiais didáticos, o Programa Nacional do Livro e do Material Didático é estruturado para fornecer obras impressas e conteúdos educacionais digitais a escolas públicas, sem demandar aprovação de nova lei (Fonte: Decreto Federal nº 9.099/2017). Da mesma forma, o ensino obrigatório de língua inglesa a partir do sexto ano do ensino fundamental já consta no artigo 35-A da Lei de Diretrizes e Bases da Educação Nacional, facultando a inclusão de outras línguas conforme a disponibilidade das redes de ensino (Fonte: Lei nº 9.394/1996). Esses instrumentos normativos conferem ao Ministério da Educação atribuição técnica e regulatória para estruturar programas, selecionar obras digitais e apoiar a capacitação linguística mediante editais ordinários. Conclusão: relativiza o veredito 'Sem base para avaliar' do painel, pois o Decreto Federal nº 9.099/2017 e a Lei nº 9.394/1996 já oferecem amparo regulatório para a expansão de conteúdos digitais e programas de idiomas pelo Ministério da Educação.",
+   "atualizado_em": "2026-10-01",
+   "candidato": "Luiz Inácio Lula da Silva",
+   "tema": "Educação",
+   "criterio_id": "C2"
+  },
+  {
+   "chave": "lula-educacão|C3",
+   "contraponto": "O plano apresenta as plataformas como já em operação, o que indica execução administrativa. Os dois apps foram anunciados e lançados pelo MEC, com acervo ampliado depois sem lei nova: o MEC Livros passou a mais de 25 mil títulos e cerca de 1,2 milhão de usuários cadastrados (Fonte: Agência Gov/MEC, setembro de 2026; Agência Brasil, 29/06/2026). A base constitucional mais direta é o art. 84, II, que dá ao Presidente a direção superior da administração federal. O art. 84, IV, citado pelo painel, trata de decretos para a fiel execução das leis (Fonte: Constituição Federal, art. 84, Planalto). O Congresso só entra indiretamente, porque a despesa depende de dotação na lei orçamentária anual (Fonte: Constituição Federal, arts. 165 a 167). Como os valores divulgados são pequenos, como R$ 1,68 milhão por ano no MEC Idiomas, não há indício de que a continuidade dependa de votação específica (Fonte: Agência Brasil, 06/04/2026). Conclusão: confirma o veredito 'Viável', com a ressalva de que a continuidade depende de dotação orçamentária anual.",
+   "atualizado_em": null,
+   "candidato": "Luiz Inácio Lula da Silva",
+   "tema": "Educação",
+   "criterio_id": "C3"
+  },
+  {
+   "chave": "lula-educacão|C4",
+   "contraponto": "O plano usa o lançamento das plataformas como evidência de entrega. Os dados oficiais confirmam a implementação e o uso: o MEC Livros tem mais de 25 mil títulos, cerca de 1,2 milhão de usuários cadastrados e 450 mil horas de leitura, e o MEC Idiomas tem mais de 212 mil usuários ativos e cerca de 800 aulas (Fonte: Agência Gov/MEC, setembro de 2026; Agência Brasil, 29/06/2026). Esses números medem adesão e uso. Não encontrei avaliação independente de impacto em aprendizagem, leitura ou proficiência em idiomas. Além disso, o público de 18 a 34 anos é a maior parcela dos usuários com empréstimos ativos, e o MEC descreve o alvo como estudantes da rede pública em especial (Fonte: Agência Gov/MEC, setembro de 2026; gov.br/mec, abril de 2026). O acesso exige conta gov.br e dispositivo com internet. Conclusão: sustenta o veredito 'Sem base para avaliar' do painel, pois não há fonte oficial aberta e conferida sobre experiência comparável com a medida do trecho.",
+   "atualizado_em": null,
+   "candidato": "Luiz Inácio Lula da Silva",
+   "tema": "Educação",
+   "criterio_id": "C4"
+  },
+  {
+   "chave": "lula-educacão|C5",
+   "contraponto": "A ausência de cronograma explícito no plano de governo para a expansão de conteúdos digitais e inclusão de novas línguas fundamenta a dificuldade de monitoramento da proposta no horizonte temporal do mandato. No setor público, planos educacionais requerem metas periódicas e fases de distribuição articuladas ao orçamento plurianual, como ocorre com as metas decenais do Plano Nacional de Educação (Fonte: Lei nº 13.005/2014). Embora o Fundo Nacional de Desenvolvimento da Educação organize compras públicas por ciclos regulares de inscrição e avaliação de obras, o texto do plano limita-se a empregar formulação genérica de continuidade, sem assinalar marcos de implementação, etapas anuais ou ano de entrega para a inclusão dos acervos digitais e ampliação curricular pretendida. Essa omissão textual impede que órgãos de controle e a sociedade meçam o ritmo de cumprimento das metas dentro do quadriênio governamental de 2027 a 2030 estabelecido pelo artigo 82 da Constituição Federal de 1988. Conclusão: sustenta o veredito 'Sem base para avaliar' do painel, pois a redação da proposta não estabelece datas, etapas de execução ou prazos verificáveis para a implementação das medidas no ciclo de governo.",
+   "atualizado_em": "2026-10-01",
+   "candidato": "Luiz Inácio Lula da Silva",
+   "tema": "Educação",
+   "criterio_id": "C5"
+  },
+  {
+   "chave": "lula-reformas|C1",
+   "contraponto": "O trecho apresenta a reforma como fato consumado (aprovada) e não menciona custo ou fonte de recursos. A reforma é uma troca de tributos, não uma despesa nova: a EC 132/2023 fixou que o novo imposto deve arrecadar o mesmo que os cinco tributos atuais rendem à União, aos estados e aos municípios, princípio de neutralidade que impede aumento ou redução da carga (Fonte: Exame, 06/02/2025, com Melina Rocha, NEF/FGV). A LC 214/2025 prevê teto de referência de 26,5% para a soma de CBS e IBS (Fonte: Netrin, 'Reforma Tributária 2026'), e as alíquotas definitivas ainda dependem de resolução do Senado (Fonte: LC 214/2025, art. 349, conforme Buscador NCM). Conclusão: relativiza o veredito do painel — o plano não declara a fonte, mas o desenho legal da reforma dispensa financiamento adicional por ser neutro em arrecadação.",
+   "atualizado_em": null,
+   "candidato": "Luiz Inácio Lula da Silva",
+   "tema": "Reformas",
+   "criterio_id": "C1"
+  },
+  {
+   "chave": "lula-reformas|C2",
+   "contraponto": "A classificação da viabilidade jurídica como difícil decorre da exigência de emenda constitucional para alterar a repartição de competências na segurança pública, prevista no artigo 144 da Constituição Federal de 1988. Contudo, sob a ótica estritamente formal e material do controle de constitucionalidade, a redistribuição de encargos administrativos e diretrizes nacionais de segurança não ofende as cláusulas pétreas que protegem a forma federativa de Estado, os direitos individuais e o voto (Fonte: Constituição Federal de 1988, art. 60, § 4º). Propostas de Emenda à Constituição que reorganizam atribuições de órgãos policiais federais e criam instâncias integradas de coordenação nacional inserem-se nas possibilidades de reforma do texto magno, tendo precedentes históricos em reformas administrativas e tributárias anteriores que alteraram o equilíbrio federativo sem anulação judicial. A complexidade do rito de dois turnos em cada Casa legislativa diz respeito à tramitação política, e não a vício de inconstitucionalidade preliminar da matéria. Conclusão: relativiza o veredito 'Difícil' do painel, pois a revisão de competências no artigo 144 da Constituição Federal é juridicamente viável por via de emenda sem violar cláusulas pétreas.",
+   "atualizado_em": "2026-10-01",
+   "candidato": "Luiz Inácio Lula da Silva",
+   "tema": "Reformas",
+   "criterio_id": "C2"
+  },
+  {
+   "chave": "lula-reformas|C3",
+   "contraponto": "O encaminhamento de proposta de alteração constitucional sobre a segurança pública enfrenta resistência federativa: governadores de oposição resistem à ampliação da atuação da União, temendo perda de autonomia sobre suas polícias, enquanto o governo nega interferência nas competências estaduais (Fonte: G1, 'PEC da Segurança: Lula faz reunião com governadores e defende pacto contra o crime organizado', 31/10/2024). Na mesma reunião, o governador de Goiás classificou a PEC como usurpação do poder dos estados e o de São Paulo apontou interferência na autonomia, ainda que otimista com o diálogo (Fonte: Estadão, 'Lula apresenta PEC da Segurança, mas governadores cobram outras ações', 31/10/2024). Como a aprovação exige três quintos em dois turnos em cada Casa (Fonte: Constituição Federal de 1988, art. 60, § 2º), a divergência entre Executivo e estados corrobora a fricção política. Conclusão: sustenta o veredito 'Difícil' do painel, pois o quórum qualificado encontra resistência explícita de governadores à centralização.",
+   "atualizado_em": "2026-10-01",
+   "candidato": "Luiz Inácio Lula da Silva",
+   "tema": "Reformas",
+   "criterio_id": "C3"
+  },
+  {
+   "chave": "lula-reformas|C4",
+   "contraponto": "O plano apresenta a reforma como conquista, sem citar experiência internacional (Fonte: plano de governo, trecho citado). O IVA é amplamente adotado: a média não ponderada da OCDE em 2023 foi de 19,2%, e os tributos sobre consumo respondem por cerca de 30% da receita tributária, segundo a OCDE (Fonte: Exame, 'Com alíquota de 26,5%, Brasil deve ter um dos maiores IVAs do mundo'). O modelo dual, com parcela federal e outra subnacional, tem no Canadá um comparável estudado (Fonte: PUC Goiás, estudo comparativo entre o IVA dual brasileiro e o GST/HST canadense). Por outro lado, a alíquota de referência de 26,5% seria a segunda maior entre os países com IVA, atrás da Hungria (Fonte: Exame; HLB Brasil), e especialistas dizem que isso reflete a carga atual e não a reforma (Fonte: Exame, 06/02/2025). Conclusão: sustenta o veredito 'Sem base para avaliar' do painel, pois o trecho traz balanço de emenda constitucional já aprovada, sem proposta nova, e não há medida a comparar com experiência documentada.",
+   "atualizado_em": null,
+   "candidato": "Luiz Inácio Lula da Silva",
+   "tema": "Reformas",
+   "criterio_id": "C4"
+  },
+  {
+   "chave": "lula-reformas|C5",
+   "contraponto": "O trecho do plano usa o verbo no futuro (o número de impostos cairá), sem indicar datas (Fonte: plano de governo, trecho citado). O prazo existe na norma: 2026 é ano de teste (CBS 0,9% e IBS 0,1%), em 2027 a CBS passa a ser cobrada integralmente, PIS e Cofins são extintos e o IPI é zerado, de 2029 a 2032 o IBS substitui gradualmente ICMS e ISS, e em 2033 o sistema opera em regime pleno (Fonte: EC 132/2023, ADCT arts. 125 a 129, conforme Barbieri Advogados; Sólides, 'Cronograma da reforma tributária'). Conclusão: relativiza o veredito do painel — o plano não declara prazo, mas o calendário da lei que ele invoca é público e escalonado até 2033.",
+   "atualizado_em": null,
+   "candidato": "Luiz Inácio Lula da Silva",
+   "tema": "Reformas",
+   "criterio_id": "C5"
+  },
+  {
+   "chave": "lula-saúde|C1",
+   "contraponto": "O trecho descreve o apoio à atenção básica como algo já realizado, sem indicar fonte para novas ações (Fonte: plano de governo, trecho citado). A fonte existe no orçamento vigente: a LOA 2026, sancionada em 14/01/2026, prevê R$ 271,3 bilhões para o Ministério da Saúde, mantendo o piso de 15% da receita, e R$ 61,4 bilhões para a atenção primária, alta de 10,7% sobre 2025 (Fonte: Futuro da Saúde, 26/01/2026). O piso federal de 15% da receita corrente líquida é regra constitucional (Fonte: Futuro da Saúde, 13/05/2025). As emendas parlamentares passaram de cerca de 1% do orçamento da saúde até 2013 para cerca de 12% nos últimos anos, o que reduz a parcela que o Executivo aloca livremente (Fonte: Futuro da Saúde, 26/01/2026, com Francisco Funcia). Conclusão: relativiza o veredito do painel — o plano não declara a fonte, mas o financiamento da atenção básica está previsto no orçamento e no piso constitucional.",
+   "atualizado_em": null,
+   "candidato": "Luiz Inácio Lula da Silva",
+   "tema": "Saúde",
+   "criterio_id": "C1"
+  },
+  {
+   "chave": "lula-saúde|C2",
+   "contraponto": "A classificação da expansão do Programa Mais Médicos como viável sob condições apoia-se na exigência genérica de suporte normativo. Contudo, o ordenamento jurídico brasileiro já possui disciplina legal completa e estruturada para a contratação e o provimento de profissionais de saúde em áreas prioritárias do SUS. O programa foi instituído pela Lei nº 12.871/2013 e teve sua base normativa aperfeiçoada e modernizada pela Lei nº 14.621/2023, que instituiu a Estratégia Nacional de Formação de Especialistas para a Saúde e assegurou prorrogações e indenizações para fixação em municípios vulneráveis (Fonte: Lei nº 14.621/2023). O Supremo Tribunal Federal já declarou a constitucionalidade dos mecanismos de contratação do programa na Ação Direta de Inconstitucionalidade nº 5.035. Dessa forma, a ampliação do número de vagas e editais não depende de aprovação de nova lei primária pelo Congresso, consistindo em ato de gestão discricionária e regulamentação infralegal do Ministério da Saúde. Conclusão: relativiza o veredito 'Viável com condições' do painel, pois a sanção da Lei nº 14.621/2023 e a jurisprudência do STF já pacificaram as bases jurídicas para a ampliação do programa por ato administrativo.",
+   "atualizado_em": "2026-10-01",
+   "candidato": "Luiz Inácio Lula da Silva",
+   "tema": "Saúde",
+   "criterio_id": "C2"
+  },
+  {
+   "chave": "lula-saúde|C3",
+   "contraponto": "A viabilidade política da ampliação do Programa Mais Médicos está condicionada à aprovação contínua das dotações na Lei Orçamentária Anual (Fonte: Constituição Federal de 1988, art. 166). O programa teve sua reformulação aprovada pelo Senado em 2023, com a MP 1.165/2023 criando a Estratégia Nacional de Formação de Especialistas e indo à sanção após negociação sobre Revalida e incentivos de fixação (Fonte: Agência Senado, 'Aprovada pelo Senado, MP do Mais Médicos vai à sanção', 20/06/2023). A tramitação mostrou governabilidade com atritos: dispensas de Revalida, prorrogações e incentivos exigiram mediação com bancadas corporativas e da saúde. Conclusão: sustenta o veredito 'Viável com condições' do painel, pois a destinação orçamentária depende do crivo anual do Congresso e de diálogo com corporações médicas.",
+   "atualizado_em": "2026-10-01",
+   "candidato": "Luiz Inácio Lula da Silva",
+   "tema": "Saúde",
+   "criterio_id": "C3"
+  },
+  {
+   "chave": "lula-saúde|C4",
+   "contraponto": "A avaliação do impacto do Programa Mais Médicos conta com auditoria do Tribunal de Contas da União que apontou fragilidades de monitoramento e casos de substituição indevida de médicos nas equipes de atenção básica (Fonte: TCU, Acórdão 331/2015-Plenário, auditoria operacional sobre o Mais Médicos). Em acompanhamento posterior, o próprio Tribunal registrou dados que comprovam a eficácia do programa na ampliação do acesso, ao mesmo tempo em que determinou correções em repasses e transparência financeira junto à Opas (Fonte: Portal TCU, 'TCU aponta que Mais Médicos é eficaz mas precisa corrigir falhas financeiras', 14/03/2017, Acórdão 360/2017-Plenário). O quadro é misto: acesso ampliado de um lado, rotatividade, falhas de monitoramento e dependência de arranjos temporários de outro, sem solução documentada para a fixação definitiva em áreas vulneráveis. Conclusão: relativiza o veredito 'Viável' do painel, pois as auditorias do TCU mostram eficácia no acesso acompanhada de falhas estruturais de monitoramento e fixação.",
+   "atualizado_em": "2026-10-01",
+   "candidato": "Luiz Inácio Lula da Silva",
+   "tema": "Saúde",
+   "criterio_id": "C4"
+  },
+  {
+   "chave": "lula-saúde|C5",
+   "contraponto": "O trecho é retrospectivo e não traz meta com data (Fonte: plano de governo, trecho citado). O único cronograma encontrado é da política vigente: o novo modelo de cofinanciamento da atenção primária vale desde 2024, com regra de transição que impede queda nos repasses em relação às doze parcelas anteriores (Fonte: Portaria GM/MS 3.493/2024, Ministério da Saúde), e as regras de 2026 foram revistas pela Portaria GM/MS 10.994/2026 (Fonte: Confederação Nacional de Municípios). Isso não configura prazo para novas metas de expansão. Conclusão: confirma o veredito 'Sem base para avaliar' do painel.",
+   "atualizado_em": null,
+   "candidato": "Luiz Inácio Lula da Silva",
+   "tema": "Saúde",
+   "criterio_id": "C5"
+  },
+  {
+   "chave": "lula-seguranca|C1",
+   "contraponto": "O trecho citado é uma diretriz sem valores, mas o capítulo de segurança do plano prevê R$ 10 bilhões do Fundo Nacional de Investimento em Infraestrutura Social para estados e municípios investirem em equipamentos e infraestrutura, no âmbito do programa Brasil Contra o Crime Organizado, lançado em maio de 2026 (Fonte: plano de governo, conforme Exame, 24/08/2026, e Gazeta do Povo, 19/08/2026). A PEC 18/2025, aprovada na Câmara, prevê novas fontes para o Fundo Nacional de Segurança Pública e o Funpen, incluindo parte das receitas de apostas e do Fundo Social do pré-sal (Fonte: Agência Senado, 05/03/2026). Já a Câmara retirou do projeto antifacção a Cide sobre apostas, que financiaria o combate ao crime organizado (Fonte: Agência Câmara, 24/02/2026). Conclusão: relativiza o veredito do painel — o trecho não declara fonte, mas o plano indica uma dotação específica, e o financiamento estável depende de proposta ainda em tramitação.",
+   "atualizado_em": null,
+   "candidato": "Luiz Inácio Lula da Silva",
+   "tema": "Segurança",
+   "criterio_id": "C1"
+  },
+  {
+   "chave": "lula-seguranca|C2",
+   "contraponto": "O trecho é uma diretriz geral, mas o plano condiciona parte da estrutura a mudança constitucional: a criação do Ministério da Segurança Pública depende da aprovação da PEC da Segurança (Fonte: plano de governo, conforme A Crítica de Campo Grande). A PEC 18/2025 altera os arts. 21 a 24 e outros dispositivos e dá status constitucional ao Susp, criado por lei em 2018 (Fonte: Câmara dos Deputados, ficha de tramitação; Ministério da Justiça, 05/03/2026). A Lei Antifacção, já sancionada em 2026, faz parte do arcabouço legal que o plano diz aprofundar (Fonte: plano de governo, conforme Gazeta do Povo, 19/08/2026). Conclusão: relativiza o veredito do painel — o trecho isolado é vago, mas o plano identifica a PEC como condição para a reestruturação federal.",
+   "atualizado_em": null,
+   "candidato": "Luiz Inácio Lula da Silva",
+   "tema": "Segurança",
+   "criterio_id": "C2"
+  },
+  {
+   "chave": "lula-seguranca|C3",
+   "contraponto": "O plano indica que a reestruturação federal (Ministério da Segurança Pública e consolidação do Susp) depende da PEC da Segurança (Fonte: plano de governo, conforme A Crítica de Campo Grande). A PEC 18/2025 passou na Câmara em 04/03/2026, com 487 votos favoráveis no primeiro turno e 461 no segundo, e aguarda o Senado desde março (Fonte: Ministério da Justiça, 05/03/2026; site oficial de Lula). Uma comissão do Senado aprovou o texto-base em 02/09/2026 (Fonte: Diário do Grande ABC, 02/09/2026). Emendas constitucionais exigem três quintos dos votos em cada Casa, em dois turnos (Fonte: Constituição Federal, art. 60, § 2º). Já as ações operacionais do programa Brasil Contra o Crime Organizado seguem em execução com estados e municípios. Conclusão: relativiza o veredito do painel — a dependência do Congresso é identificável para a parte estrutural da proposta e está em curso no Senado.",
+   "atualizado_em": null,
+   "candidato": "Luiz Inácio Lula da Silva",
+   "tema": "Segurança",
+   "criterio_id": "C3"
+  },
+  {
+   "chave": "lula-seguranca|C4",
+   "contraponto": "O plano combina retomada de territórios, asfixia financeira do crime e presença do Estado em áreas vulneráveis, incluindo urbanização de favelas (Fonte: plano de governo, conforme Contracs, 10/08/2026). Há avaliações brasileiras de programas de presença estatal focalizada: estudo com controle sintético concluiu que o Pacto pela Vida, de Pernambuco, reduziu homicídios entre 2007 e 2014, mas perdeu eficácia depois (Fonte: Economia Aplicada, USP, 2022), e outro estudo aponta queda expressiva nos primeiros anos, seguida de reversão, tanto no Pacto pela Vida quanto nas UPPs do Rio (Fonte: Revista Econômica do Nordeste, 2024). O plano afirma que ações de asfixia financeira desde 2023 causaram R$ 35,8 bilhões em prejuízos às organizações criminosas, dado do próprio programa que não verifiquei em fonte independente (Fonte: Contracs, 10/08/2026). Conclusão: relativiza o veredito do painel — existem precedentes comparáveis, com resultados iniciais positivos e sustentação incerta.",
+   "atualizado_em": null,
+   "candidato": "Luiz Inácio Lula da Silva",
+   "tema": "Segurança",
+   "criterio_id": "C4"
+  },
+  {
+   "chave": "lula-seguranca|C5",
+   "contraponto": "Não encontrei fonte pública confiável com prazo ou cronograma para a diretriz de proteção e presença do Estado em territórios dominados pelo crime. As reportagens sobre o plano citam medidas como o programa Brasil Contra o Crime Organizado, a adequação de 138 presídios para segurança máxima e a criação do Ministério da Segurança Pública após a PEC, sem datas de cumprimento (Fonte: Exame, 24/08/2026; site oficial de Lula; A Crítica de Campo Grande). Não li o plano completo, então não descarto que haja cronograma nele. Conclusão: sustenta o veredito 'Sem base para avaliar' do painel por falta de evidência contrária. (Pesquisado em: Gazeta do Povo, Exame, Contracs, A Crítica de Campo Grande, site oficial de Lula, Câmara dos Deputados, Agência Senado)",
+   "atualizado_em": null,
+   "candidato": "Luiz Inácio Lula da Silva",
+   "tema": "Segurança",
+   "criterio_id": "C5"
+  },
+  {
+   "chave": "renan-economia|C1",
+   "contraponto": "O plano propõe trocar o Bolsa Família pelas 'Frentes Cidadãs', com trabalho remunerado para a população em idade ativa, e apresenta o programa como parte de um ajuste que prevê economia de R$ 1,1 trilhão até 2031 (Fonte: Livro Amarelo/plano registrado no TSE, cap. 5; CNN Brasil, 21/07/2026). Os recursos de origem existem: a LOA 2025 reservou R$ 158 bilhões ao Bolsa Família e R$ 113,6 bilhões ao BPC (Fonte: Agência Senado, 14/04/2025), e o Tesouro contabilizou R$ 129 bilhões em BPC em 2025 (Fonte: Tesouro Nacional, via CNN Brasil, 29/01/2026). Porém, nas fontes consultadas não localizei estimativa de custo líquido das Frentes Cidadãs. Em entrevista, o candidato disse que o participante receberia benefício, vale-alimentação, vale-transporte e bônus, e que o poder público custearia vagas em cidades sem oferta de emprego (Fonte: O Povo, reportagem sobre entrevista ao Domingo Espetacular), o que acrescenta custos de gestão e material sobre a transferência atual. Conclusão: relativiza o veredito do painel — a origem geral do dinheiro (realocação do orçamento assistencial) está declarada, mas o plano não quantifica se essa verba cobre o novo modelo.",
+   "atualizado_em": null,
+   "candidato": "Renan Santos",
+   "tema": "Economia",
+   "criterio_id": "C1"
+  },
+  {
+   "chave": "renan-economia|C2",
+   "contraponto": "O plano defende extinguir o modelo atual do Bolsa Família e substituí-lo por frentes de trabalho remuneradas, sem detalhar no resumo registrado o instrumento jurídico (Fonte: plano registrado no TSE; Gazeta do Povo, 21/07/2026). A Constituição, porém, tem um ponto de atrito: o art. 6º, parágrafo único, incluído pela EC 114/2021, assegura a todo brasileiro em situação de vulnerabilidade uma renda básica familiar, em programa permanente de transferência de renda, com normas e requisitos definidos em lei (Fonte: Constituição Federal, art. 6º, parágrafo único; Câmara dos Deputados). A própria Lei 14.601/2023 declara o Bolsa Família como etapa de implementação dessa renda básica (Fonte: Lei 14.601/2023, art. 1º, § 1º, Planalto). Como a lei pode definir requisitos de acesso, a via ordinária é possível; mas há doutrina que sustenta que condicionar o direito à participação no mercado de trabalho extrapola a competência do legislador (Fonte: artigo 'O Direito à Renda Básica Familiar', Revista Labuta/UERJ), o que abre risco de questionamento judicial. Conclusão: relativiza o veredito do painel — a lei ordinária é o caminho mais provável, mas a constitucionalidade de condicionar o benefício a trabalho é contestável e não está pacificada.",
+   "atualizado_em": null,
+   "candidato": "Renan Santos",
+   "tema": "Economia",
+   "criterio_id": "C2"
+  },
+  {
+   "chave": "renan-economia|C3",
+   "contraponto": "A reestruturação da garantia de renda mínima com substituição por programas de trabalho envolve alteração da legislação federal por lei ordinária, aprovada por maioria dos votos (Fonte: Constituição Federal de 1988, arts. 47 e 61). O Bolsa Família está regulamentado pela Lei nº 14.601/2023, sendo legalmente viável revogar ou alterar seu arcabouço por nova deliberação. Entretanto, reformulações de benefícios massivos exigem articulação com bancadas, comissões de seguridade e sociedade civil, com regras de transição para evitar perdas a famílias de baixa renda. Conclusão: sustenta o veredito 'Viável com condições' do painel, pois a substituição exige lei ordinária e composição majoritária no parlamento.",
+   "atualizado_em": "2026-10-01",
+   "candidato": "Renan Santos",
+   "tema": "Economia",
+   "criterio_id": "C3"
+  },
+  {
+   "chave": "renan-economia|C4",
+   "contraponto": "A evidência sobre esquemas de trabalho público vem do experimento indiano avaliado em programa de garantia de emprego rural: renda dos domicílios beneficiários subiu 13,9%, a pobreza caiu 25,8% e 86% dos ganhos vieram de salários privados, não do programa (Fonte: NBER Working Paper nº 23838, 'General Equilibrium Effects of (Improving) Public Employment Programs', 2017). Ou seja, funciona no curto prazo via aquecimento local, sem prova de inserção permanente no mercado formal. O Banco Mundial registra que obras públicas como rede de proteção exigem desenho cuidadoso de custos de gestão e focalização para não perder eficiência frente a transferências diretas (Fonte: Banco Mundial, 'Public Works as a Safety Net', 2013). A substituição ampla de transferência por frentes segue não testada em escala. Conclusão: sustenta o veredito 'Parcial' do painel, pois há ganho documentado no curto prazo, mas sem prova de inserção permanente nem de substituição em escala.",
+   "atualizado_em": "2026-10-01",
+   "candidato": "Renan Santos",
+   "tema": "Economia",
+   "criterio_id": "C4"
+  },
+  {
+   "chave": "renan-economia|C5",
+   "contraponto": "O plano declara prazos para outras metas — desfavelização em dez anos, economia de R$ 1,1 trilhão até 2031 e déficit nominal zero em quatro anos (Fonte: CNN Brasil, 21/07/2026; Gazeta do Povo, 21/07/2026; renanpresidente.com.br/propostas) —, mas não encontrei prazo ou cronograma específico para implantar as Frentes Cidadãs nas fontes públicas consultadas. Reportagens indicam que o detalhamento é remetido ao Livro Amarelo integral, e o PDF registrado no TSE é um resumo de 51 páginas (Fonte: planodegoverno2026.com.br; Gazeta do Povo, 12/08/2026). Não li o Livro Amarelo completo, então não posso descartar que haja cronograma nele. Conclusão: sustenta o veredito 'Sem base para avaliar' do painel por falta de evidência contrária. (Pesquisado em: TSE/plano registrado, Gazeta do Povo, CNN Brasil, Poder360, site da campanha)",
+   "atualizado_em": null,
+   "candidato": "Renan Santos",
+   "tema": "Economia",
+   "criterio_id": "C5"
+  },
+  {
+   "chave": "renan-educacão|C1",
+   "contraponto": "A avaliação sobre a insuficiência de lastro financeiro específico sustenta-se nas exigências materiais para a implementação do sistema fônico em escala nacional. Embora o estabelecimento de diretrizes no Ministério da Educação envolva custos administrativos baixos, a universalização do método exige a reformulação e reimpressão de milhões de livros escolares distribuídos pelo Fundo Nacional de Desenvolvimento da Educação, além de convênios para cursos presenciais de capacitação a centenas de milhares de professores alfabetizadores municipais (Fonte: Ministério da Educação, Relatório de Gestão do FNDE, 2023). Os programas de apoio à educação básica da União constam da Lei Orçamentária Anual com dotações detalhadas em rubricas próprias (Fonte: Lei nº 14.822/2024). A ausência de cálculo do impacto das novas contratações pedagógicas e das alterações de materiais didáticos no texto da proposta deixa o compromisso financeiro sem especificação orçamentária concreta. Conclusão: sustenta o veredito 'Parcial' do painel, pois a substituição de materiais didáticos e a capacitação nacional de docentes demandam custos orçamentários expressivos não quantificados no plano de governo.",
+   "atualizado_em": "2026-10-01",
+   "candidato": "Renan Santos",
+   "tema": "Educação",
+   "criterio_id": "C1"
+  },
+  {
+   "chave": "renan-educacão|C2",
+   "contraponto": "A competência privativa da União para legislar sobre diretrizes e bases da educação nacional confere respaldo legal à elaboração de parâmetros educacionais centrais pelo Ministério da Educação (Fonte: Constituição Federal de 1988, art. 22, XXIV). Contudo, a efetivação de um método didático universal encontra limites no artigo 15 da Lei de Diretrizes e Bases da Educação Nacional, que assegura aos sistemas de ensino e às escolas progressivos graus de autonomia pedagógica, administrativa e de gestão financeira (Fonte: Lei nº 9.394/1996). Adicionalmente, alterações curriculares obrigatórias necessitam de homologação técnica perante o Conselho Nacional de Educação por meio de resoluções regulamentares da Base Nacional Comum Curricular, não cabendo ao Poder Executivo impô-las sumariamente sem a devida observância desse processo colegiado e federativo. Tais exigências normativas justificam a imposição de condicionantes regulatórias prévias. Conclusão: sustenta o veredito 'Viável com condições' do painel, pois a adoção de metodologia obrigatória requer tramitação junto ao Conselho Nacional de Educação e observância da autonomia pedagógica das redes.",
+   "atualizado_em": "2026-10-01",
+   "candidato": "Renan Santos",
+   "tema": "Educação",
+   "criterio_id": "C2"
+  },
+  {
+   "chave": "renan-educacão|C3",
+   "contraponto": "A definição de parâmetros para o ensino fundamental por atos do Ministério da Educação fundamenta-se nas prerrogativas do Poder Executivo de editar decretos para a fiel execução de políticas públicas (Fonte: Constituição Federal de 1988, art. 84, IV). Contudo, a imposição de método pedagógico por decreto federal já provocou reação institucional: o Projeto de Decreto Legislativo 123/19, que susta a Política Nacional de Alfabetização do governo Bolsonaro, argumenta que o decreto tenta impor uma única opção metodológica e viola a autonomia dos entes federados (Fonte: Agência Câmara de Notícias, 'Proposta susta Política Nacional de Alfabetização', 19/07/2019). Especialistas ouvidos à época alertaram que realidades diferentes exigem abordagens diversas e que a padronização limita as possibilidades de ensinar e aprender (Fonte: G1, 'Lacunas da Política Nacional de Alfabetização fazem especialistas acenderem luz amarela de alerta', 12/04/2019). Conclusão: relativiza o veredito 'Viável' do painel, pois a oposição de redes de ensino e associações a método imposto acarreta resistência parlamentar e atritos federativos.",
+   "atualizado_em": "2026-10-01",
+   "candidato": "Renan Santos",
+   "tema": "Educação",
+   "criterio_id": "C3"
+  },
+  {
+   "chave": "renan-educacão|C4",
+   "contraponto": "A experiência do Ceará com alfabetização tem documentação pública consistente, mas aponta para governança, não para método. O Banco Mundial registra que o PAIC combinou cooperação federativa, assistência técnica aos 184 municípios, materiais estruturados, formação de professores, avaliação anual padronizada e incentivos como a cota-parte do ICMS atrelada a resultados educacionais (Fonte: Banco Mundial, 'Learning With the State of Ceara in Brazil'). Em dez anos, o índice de crianças não alfabetizadas na idade certa caiu de 32% para 0,7% (Fonte: Governo do Ceará, 'Ceará comemora 10 anos de melhoria da aprendizagem', 11/01/2018). Nada disso testa o método fônico isolado: o resultado veio do sistema integrado de incentivos e monitoramento. Conclusão: sustenta o veredito 'Viável com condições' do painel, pois as evidências do caso cearense comprovam a necessidade de um sistema integrado de governança, e não apenas a escolha do método.",
+   "atualizado_em": "2026-10-01",
+   "candidato": "Renan Santos",
+   "tema": "Educação",
+   "criterio_id": "C4"
+  },
+  {
+   "chave": "renan-educacão|C5",
+   "contraponto": "O capítulo de educação lista dez propostas, entre elas o código de conduta, o ranking de disciplina, a conversão de escolas críticas ao modelo civil-militar e a abolição das cotas, sem datas nem etapas (Fonte: Livro Amarelo, resumo executivo, cap. IX). A única qualificação temporal é que a militarização das escolas seria uma medida provisória, sem definir duração (Fonte: Livro Amarelo, cap. IX, proposta 8). O documento afirma reunir o que se pretende implementar nos próximos quatro anos, e o único calendário explícito do bloco de reformas aparece no ajuste fiscal, com PEC de Transição antes da posse (Fonte: Livro Amarelo, seção 'Um livro como plano de governo' e cap. I). O prazo efetivo também depende de fatores externos, como o julgamento no STF das ADIs 7662 e 7675, suspenso por pedido de vista em 26/05/2026 (Fonte: Conjur, 26/05/2026). Conclusão: confirma o veredito 'Sem base para avaliar': o plano não fixa prazo para nenhuma das medidas de educação.",
+   "atualizado_em": null,
+   "candidato": "Renan Santos",
+   "tema": "Educação",
+   "criterio_id": "C5"
+  },
+  {
+   "chave": "renan-reformas|C1",
+   "contraponto": "O plano condiciona o repasse do Fundo Partidário e do Fundo Eleitoral à qualidade gerencial dos mandatários, com retenção para partidos que sustentem gestores cassados ou com indicadores vermelhos (Fonte: Livro Amarelo, resumo executivo, cap. IV, 'Vínculo com o Financiamento Partidário'). Para essa parte, o painel tem razão: a retenção usa dinheiro já orçado, como o Fundo Eleitoral de R$ 4,96 bilhões definido para 2022 e 2024, e não cria despesa nova (Fonte: TSE, página do FEFC). O mesmo capítulo, porém, cria o Comissariado Federal de Gestão Pública, com comissários alocados nos municípios, o regime de Tutela Gerencial e comissões federais extraordinárias de até 24 meses, sem estimativa de custo nem fonte de recursos (Fonte: Livro Amarelo, cap. IV). Além disso, os critérios de divisão do fundo eleitoral hoje estão na lei e se baseiam no desempenho eleitoral e no tamanho das bancadas (Fonte: TSE, Acórdão no Processo Administrativo 0600628-33.2020, sobre os arts. 16-C e 16-D da Lei 9.504/1997). Conclusão: sustenta o veredito 'Sem base para avaliar' do painel, pois o contexto não trata do custo do sistema de metas nem do Comissariado, e não indica fonte de recurso.",
+   "atualizado_em": null,
+   "candidato": "Renan Santos",
+   "tema": "Reformas",
+   "criterio_id": "C1"
+  },
+  {
+   "chave": "renan-reformas|C2",
+   "contraponto": "O plano apresenta a Lei de Responsabilidade Gerencial como um conjunto de mudanças legislativas que inclui inelegibilidade superveniente e cassação por improbidade gerencial (Fonte: Livro Amarelo, cap. IV). O art. 14, § 9º da Constituição confirma que outros casos de inelegibilidade dependem de lei complementar e devem servir a fins como proteger a probidade administrativa e a moralidade, e o TSE já decidiu que a norma não é autoaplicável (Fonte: Constituição Federal, art. 14, § 9º; TSE, Súmula 13, conforme Biblioteca Digital do TSE). O caminho por lei complementar é viável: o STF declarou constitucional a Lei da Ficha Limpa (LC 135/2010) em 2012, mas decidiu antes que ela não valia para a eleição de 2010 por causa da anterioridade eleitoral do art. 16 (Fonte: STF, ADCs 29 e 30, e RE 633703, Tema 387). Não encontrei decisão sobre se descumprir metas de indicadores como IDEB ou saneamento se enquadra nos fins do § 9º; a LC 64/1990 hoje liga inelegibilidade a contas rejeitadas por irregularidade insanável, não a resultados setoriais (Fonte: TRE-PI, Revista, sobre o art. 1º, I, g, da LC 64/1990). As demais peças exigem normas de outro tipo: a distribuição dos fundos partidário e eleitoral está em lei ordinária, e a dissolução de administrações municipais por comissão federal não tem previsão equivalente na Constituição, que trata da intervenção em municípios no art. 35, leitura minha. Conclusão: confirma o veredito 'Difícil' para a inelegibilidade, com a ressalva de que a retenção de fundos exige apenas lei ordinária e a Cláusula Antimáfia pode exigir mais que lei complementar.",
+   "atualizado_em": null,
+   "candidato": "Renan Santos",
+   "tema": "Reformas",
+   "criterio_id": "C2"
+  },
+  {
+   "chave": "renan-reformas|C3",
+   "contraponto": "O plano trata a proposta como legislação a ser aprovada e reconhece que oligarquias regionais têm poder desproporcional no Congresso, o que ele próprio aponta como obstáculo político (Fonte: Livro Amarelo, caps. III e IV). O art. 69 da Constituição exige maioria absoluta em cada Casa para lei complementar, um quórum menor que o de emenda constitucional, e o projeto atinge os interesses financeiros e eleitorais dos próprios parlamentares e partidos. O Congresso já aprovou medidas do mesmo tipo: a LC 135/2010, sancionada em 4 de junho de 2010, e a EC 108/2020, que passou a exigir distribuição de parte do ICMS municipal por indicadores de aprendizagem (Fonte: Congresso em Foco, 23/03/2011; MEC, material sobre o ICMS Educacional). Não avaliei a composição atual do Congresso nem a viabilidade de coalizão. Conclusão: confirma o veredito 'Difícil' quanto à dependência do Congresso, mas relativiza a magnitude: o quórum é o de lei complementar, e há precedentes de aprovação de regras que condicionam recursos e elegibilidade.",
+   "atualizado_em": null,
+   "candidato": "Renan Santos",
+   "tema": "Reformas",
+   "criterio_id": "C3"
+  },
+  {
+   "chave": "renan-reformas|C4",
+   "contraponto": "O plano diz inspirar a Cláusula Antimáfia na legislação italiana e propõe metas com base em IDEB, cobertura vacinal, saneamento e crescimento (Fonte: Livro Amarelo, cap. IV). Na Itália, o art. 143 do TUEL permite dissolver conselhos municipais quando há elementos concretos, unívocos e relevantes de ligação ou condicionamento por organizações mafiosas; o procedimento parte da prefeitura (prefetto) e termina em decreto do chefe de Estado, e a Corte Constitucional o qualifica como medida governamental extraordinária (Fonte: Câmara dos Deputados da Itália, dossiê AC0273; Studio Cataldi). O gatilho italiano é a infiltração criminosa, não o desempenho em indicadores, e a decisão é administrativa, não judicial como o plano propõe ao atribuí-la ao STJ. No Brasil, já existe o condicionamento de recursos a resultados educacionais: a EC 108/2020 exige distribuir ao menos 10% da cota municipal do ICMS por indicadores de aprendizagem e equidade, e o VAAR do Fundeb dá 2,5 pontos percentuais de complementação a redes que evoluem nos indicadores; 25 estados aprovaram leis do ICMS Educacional entre 2021 e 2023 (Fonte: MPRJ, Nota Técnica CNPG 13/2022; Mariza Abreu, apresentação de dez/2024). Não encontrei avaliação de impacto desses mecanismos nem experiência que ligue inelegibilidade de gestores a metas de indicadores. Conclusão: sustenta o veredito 'Parcial' do painel, pois há precedentes para cada peça isolada, mas sem evidência para intervenção federal gradual ou comissariado com mandatos fixos.",
+   "atualizado_em": null,
+   "candidato": "Renan Santos",
+   "tema": "Reformas",
+   "criterio_id": "C4"
+  },
+  {
+   "chave": "renan-reformas|C5",
+   "contraponto": "O capítulo IV descreve o Comissariado, o Marco Gerencial, a escalada de consequências, a Cláusula Antimáfia e o vínculo com o financiamento partidário sem datas ou etapas (Fonte: Livro Amarelo, cap. IV). O único cronograma de reformas do bloco está no ajuste fiscal, com PEC de Transição a ser aprovada antes da posse, e o documento afirma apenas que reúne o que pretende implementar nos próximos quatro anos (Fonte: Livro Amarelo, cap. I e seção 'Um livro como plano de governo'). O prazo tem também um limite externo: pela anterioridade do art. 16 da Constituição, lei que altera o processo eleitoral não vale para eleição realizada em menos de um ano da sua vigência, e o STF aplicou esse limite à Lei da Ficha Limpa em 2010 (Fonte: STF, RE 633703, Tema 387). Se a lei complementar de inelegibilidade não estiver em vigor um ano antes de uma eleição, não valeria para ela; a leitura é minha, pois o STF discutiu a regra em relação à LC 135/2010 e não a este projeto. Conclusão: confirma o veredito 'Sem base para avaliar': o plano não declara prazo, e o limite existente vem da Constituição, não do documento.",
+   "atualizado_em": null,
+   "candidato": "Renan Santos",
+   "tema": "Reformas",
+   "criterio_id": "C5"
+  },
+  {
+   "chave": "renan-saúde|C1",
+   "contraponto": "A análise do lastro orçamentário da padronização de protocolos e sistemas de classificação de risco no Sistema Único de Saúde fundamenta-se nas características operacionais da medida. O desenvolvimento de diretrizes clínicas e o aprimoramento de sistemas informacionais já mantidos pelo Ministério da Saúde demandam despesas de custeio administrativo de baixa monta frente à dotação total da atenção especializada na Lei Orçamentária Anual da União (Fonte: Lei nº 14.822/2024). No entanto, o plano de governo apoia sua sustentabilidade financeira em premissas de desvinculações e revisões constitucionais amplas, sem discriminar as linhas de custeio tecnológico exigidas para conectar prontuários e unidades básicas municipais em nível nacional. Sem a previsão das dotações para o suporte de rede e servidores de dados no plano de despesas do Ministério da Saúde, o financiamento da integração técnica permanece indeterminado no detalhamento das contas federais. Conclusão: sustenta o veredito 'Parcial' do painel, pois, embora o custo normativo inicial seja reduzido, o plano carece de detalhamento orçamentário para o suporte e a integração tecnológica dos sistemas locais.",
+   "atualizado_em": "2026-10-01",
+   "candidato": "Renan Santos",
+   "tema": "Saúde",
+   "criterio_id": "C1"
+  },
+  {
+   "chave": "renan-saúde|C2",
+   "contraponto": "O parecer que considera viável a aplicação de critérios unificados de classificação de risco apoia-se nas competências do Ministério da Saúde fixadas na legislação sanitária. A Lei Orgânica da Saúde estabelece a competência da União para definir normas técnicas e acompanhar serviços de saúde (Fonte: Lei nº 8.080/1990, art. 15). Contudo, a estruturação e a ordenação do fluxo de atendimento e consultas especializadas constituem atribuição executiva da gestão local dos municípios, no âmbito da descentralização político-administrativa estabelecida pelo artigo 198 da Constituição Federal de 1988. O Supremo Tribunal Federal, ao fixar teses sobre a repartição de competências no SUS, ressalta a responsabilidade solidária dos entes e a observância da pactuação tripartite, vedando imposições unilaterais que desconsiderem realidades locais ou anulem o papel regulador de prefeituras (Fonte: STF, Tema 793 de Repercussão Geral, acórdão publicado em 16/04/2020). A unificação de filas por ato exclusivamente federal pode suscitar questionamentos judiciais por violação da autonomia administrativa municipal. Conclusão: relativiza o veredito 'Viável' do painel, pois a descentralização constitucional do SUS e a jurisprudência do Supremo Tribunal Federal impõem limites à fixação unilateral de critérios de regulação sem pactuação local.",
+   "atualizado_em": "2026-10-01",
+   "candidato": "Renan Santos",
+   "tema": "Saúde",
+   "criterio_id": "C2"
+  },
+  {
+   "chave": "renan-saúde|C3",
+   "contraponto": "A viabilidade política de padronizar a regulação das filas do Sistema Único de Saúde não depende unicamente de deliberações no Congresso Nacional, mas da governança federativa intersetorial da saúde. A legislação do setor condiciona a implementação de diretrizes operacionais de âmbito nacional à negociação e pactuação prévia na Comissão Intergestores Tripartite, composta pelo Ministério da Saúde, Conselho Nacional de Secretários de Saúde e Conselho Nacional de Secretarias Municipais de Saúde (Fonte: Lei nº 8.080/1990, art. 14-A). A tentativa de subordinar regras de agendamento municipal e estadual a um comando federal uniforme costuma deflagrar resistências em assembleias legislativas e câmaras municipais, mobilizando frentes parlamentares federais ligadas a estados e municípios. Sem adesão dos secretários locais, o Poder Executivo federal enfrenta entraves práticos e disputas federativas que reduzem a celeridade da execução da política pública, afastando a hipótese de viabilidade desprovida de atritos federativos. Conclusão: relativiza o veredito 'Viável' do painel, pois a obrigatoriedade legal de pactuação com governos estaduais e prefeituras na Comissão Intergestores Tripartite impõe obstáculos políticos à implementação centralizada.",
+   "atualizado_em": "2026-10-01",
+   "candidato": "Renan Santos",
+   "tema": "Saúde",
+   "criterio_id": "C3"
+  },
+  {
+   "chave": "renan-saúde|C4",
+   "contraponto": "A evidência sobre triagem clínica tem medida brasileira: revisão integrativa de 14 estudos sobre o Protocolo de Manchester encontrou confiabilidade de moderada a quase perfeita e validade com sensibilidade e especificidade satisfatórias, com bom poder de predição de internação e mortalidade hospitalar, recomendando novos estudos para modificações de uso mais seguro (Fonte: SciELO, Revista da Escola de Enfermagem da USP, v. 49, n. 1, 'Produção científica sobre a validade e confiabilidade do Protocolo de Manchester: revisão integrativa da literatura'). No Brasil, o protocolo é adotado na maioria dos serviços de urgência como direcionador da classificação de risco. Para filas eletivas e ambulatoriais do SUS, porém, não há estudo de sistema nacional por grau de risco, e a aplicação depende de capacitação e pactuação local. Conclusão: sustenta o veredito 'Parcial' do painel, pois há evidência medida em urgências, mas sem prova em escala nacional para filas eletivas.",
+   "atualizado_em": "2026-10-01",
+   "candidato": "Renan Santos",
+   "tema": "Saúde",
+   "criterio_id": "C4"
+  },
+  {
+   "chave": "renan-saúde|C5",
+   "contraponto": "O plano afirma que o sistema digital inspirado no DoctorSV terá inicialmente um piloto em algumas cidades cobertas pelo SUS e depois será implementado em âmbito nacional (Fonte: Livro Amarelo, cap. VII, p. 26). Essa sequência vale para o sistema digital de saúde e não é aplicada expressamente à ENER, ao PRONTO nem ao FNMA, que aparecem sem etapas ou datas. A única meta numérica do capítulo é atingir média de 80% de resolução na atenção primária, sem ano de referência (Fonte: Livro Amarelo, cap. VII). O documento diz de forma geral que reúne o que pretende implementar nos próximos quatro anos, sem cronograma por capítulo, ao contrário do capítulo de terras raras, que traz fases com anos (Fonte: Livro Amarelo, seção 'Um livro como plano de governo' e cap. XI). Conclusão: sustenta o veredito 'Sem base para avaliar' do painel, pois o trecho traz diagnóstico, sem proposta, e não há prazo declarado.",
+   "atualizado_em": null,
+   "candidato": "Renan Santos",
+   "tema": "Saúde",
+   "criterio_id": "C5"
+  },
+  {
+   "chave": "renan-seguranca|C1",
+   "contraponto": "O capítulo de segurança do plano não traz custo nem fonte própria para os decretos, mas o documento vincula a guerra ao crime ao ajuste fiscal: diz que só com equilíbrio fiscal será possível realizar a 'destruição do crime organizado' e projeta economia de R$ 1,1 trilhão até 2031 com a PEC de Transição (Fonte: Livro Amarelo, resumo executivo, cap. I, 'Um Remédio Amargo'). O plano também prevê usar o retorno financeiro da exploração de terras raras para ampliar o investimento em segurança pública, sem valor definido (Fonte: Livro Amarelo, cap. XI), e reportagens indicam redirecionamento de recursos da Lei Rouanet para a segurança (Fonte: Metrópoles, 'Superpresídio, Bolsa Família e mais: o que diz o plano de Renan Santos'). Como referência de ordem de grandeza, a intervenção federal no Rio de Janeiro em 2018, restrita a um estado e a cerca de 10 meses, teve R$ 1,2 bilhão destinado (Fonte: TCU, auditoria do Gabinete de Intervenção Federal, 2023), enquanto o país gastou R$ 163,1 bilhões com segurança pública em 2025, com queda de 17,7% nas despesas da União (Fonte: Anuário Brasileiro de Segurança Pública 2026, via Band). Conclusão: relativiza parcialmente o veredito, pois há indicação genérica de fontes, mas nenhuma é quantificada ou vinculada às operações de retomada territorial; o 'Sem base para avaliar' se mantém quanto ao custo específico da medida.",
+   "atualizado_em": null,
+   "candidato": "Renan Santos",
+   "tema": "Segurança",
+   "criterio_id": "C1"
+  },
+  {
+   "chave": "renan-seguranca|C2",
+   "contraponto": "O plano sustenta que as operações seriam feitas por 'sucessivos decretos de Estado de Defesa em áreas sob comando das facções', seguidas de uma Lei Antifacção, e afirma que o arcabouço é compatível com a Constituição (Fonte: Livro Amarelo, cap. II, 'Prendeu, Matou?'). O art. 136 da Constituição limita cada decreto a 30 dias, prorrogáveis uma vez por igual período (§ 2º), exige 'locais restritos e determinados' e restringe as hipóteses a grave e iminente instabilidade institucional ou calamidade natural (Fonte: Constituição Federal, art. 136, caput e § 2º, Planalto); o art. 60, § 1º ainda veda emendas durante o estado de defesa, o que obrigaria a aprovar qualquer alteração antes da decretação. Uma leitura literal do plano admite decretos sucessivos em áreas diferentes, cada um com seu próprio prazo de 30 + 30 dias, o que não exigiria emenda, mas encadear decretos na mesma área além de 60 dias esbarraria no texto constitucional; esta é uma leitura do texto, pois não encontrei jurisprudência do STF nem doutrina específica sobre decretos em cadeia (Pesquisado em: STF, Jusbrasil, Câmara dos Deputados). Além disso, a Lei 15.358/2026 já em vigor cobre parte da agenda penal (domínio social estruturado, perda de bens), mas medidas como a retirada de direitos políticos e civis de associados a facções são questionadas por especialistas por conflitarem com o art. 15 da Constituição (Fonte: Migalhas, análise da Lei 15.358/26). Conclusão: sustenta o veredito 'Parcial' do painel, pois os decretos cabem no art. 136 (limite de 30+30 dias), mas as medidas mais severas da Lei Antifacção exigem lei ou emenda.",
+   "atualizado_em": null,
+   "candidato": "Renan Santos",
+   "tema": "Segurança",
+   "criterio_id": "C2"
+  },
+  {
+   "chave": "renan-seguranca|C3",
+   "contraponto": "O plano prevê que os decretos seriam depois amparados por uma Lei Antifacção, que só existe com aprovação do Congresso, além de intervenção federal e emprego das Forças Armadas via GLO (Fonte: Livro Amarelo, cap. II). O desenho constitucional dá ao Presidente a iniciativa: o decreto é editado após ouvir os Conselhos da República e de Defesa Nacional, que são consultivos, e o Congresso o aprecia depois, em até 10 dias, decidindo por maioria absoluta; se rejeitado, o estado de defesa cessa imediatamente (Fonte: Constituição Federal, art. 136, caput e §§ 4º, 6º e 7º, Planalto; Politize!, 'Estado de defesa, estado de sítio e intervenção federal'). Ou seja, a dependência é de controle posterior, e não de autorização prévia como o veredito do painel sugere, mas a continuidade e as prorrogações ficam sujeitas ao voto do Congresso, e toda a parte legislativa do plano (Lei Antifacção, federalização, tribunais especializados) depende de aprovação ordinária. Não avaliei a composição atual do Congresso, portanto a dificuldade política em si não foi medida. Conclusão: sustenta o veredito 'Parcial' do painel, pois cada decreto é apreciado pelo Congresso por maioria absoluta, mas a parte de direitos políticos sem condenação exigiria quórum de emenda.",
+   "atualizado_em": null,
+   "candidato": "Renan Santos",
+   "tema": "Segurança",
+   "criterio_id": "C3"
+  },
+  {
+   "chave": "renan-seguranca|C4",
+   "contraponto": "O plano cita expressamente o modelo salvadorenho (CECOT) como inspiração e defende a retomada territorial como resposta ao controle de facções sobre cerca de 20% da população (Fonte: Livro Amarelo, cap. II). Segundo a Human Rights Watch, a taxa de homicídios de El Salvador caiu do pico de 105 por 100 mil em 2015 para o menor nível histórico em 2024, conforme números oficiais; a mesma fonte registra que o regime, vigente desde março de 2022, foi prorrogado 45 vezes, com mais de 90 mil detidos, entre eles mais de 3 mil crianças, e ao menos 458 mortes sob custódia segundo uma organização local (Fonte: Human Rights Watch, Informe Mundial 2026: El Salvador). Ali o regime é aprovado pelo Legislativo e renovado a cada 30 dias sem teto, enquanto o art. 136, § 2º da Constituição brasileira permite uma única prorrogação. No Brasil, o precedente mais próximo, a intervenção federal no Rio em 2018, teve queda de 13,6% nos homicídios dolosos entre março e novembro, mas alta de 38% nas mortes por intervenção policial, e o TCU concluiu que os resultados se limitaram ao período analisado (Fonte: Correio Braziliense, 28/12/2018; TCU, 'Intervenção federal no Estado do Rio teve baixos resultados de longo prazo'). Conclusão: sustenta o veredito 'Parcial' do painel, pois El Salvador registra queda forte de homicídios com violações documentadas, mas a intervenção no Rio em 2018 teve resultado fraco com mais mortes por ação policial.",
+   "atualizado_em": null,
+   "candidato": "Renan Santos",
+   "tema": "Segurança",
+   "criterio_id": "C4"
+  },
+  {
+   "chave": "renan-seguranca|C5",
+   "contraponto": "O plano declara que o governo vai declarar a Guerra ao Crime no primeiro dia de mandato e que a campanha, com GLO e Estado de Defesa, começa desde o primeiro dia; o documento afirma reunir o que se pretende implementar nos próximos quatro anos (Fonte: Livro Amarelo, cap. II, e seção 'Um livro como plano de governo'). O texto fixa, portanto, uma data de início, mas não um prazo de conclusão da retomada territorial; o único horizonte de término encontrado é oral: em entrevista, o candidato disse pretender recuperar todas as áreas dominadas por facções em até um ano (Fonte: Correio da Manhã, 'Renan Santos defende regime de exceção em favelas e bomba atômica', ago/2026). Juridicamente, o decreto inicial é possível no primeiro dia, pois depende só da oitiva dos Conselhos e é depois apreciado pelo Congresso em até 10 dias, mas a Lei Antifacção que o plano prevê 'em seguida' não tem data (Fonte: Constituição Federal, art. 136, § 6º, Planalto). Conclusão: sustenta o veredito 'Sem base para avaliar' do painel, pois o contexto descreve 'sucessivos decretos' e a Lei Antifacção 'em seguida', sem data nem prazo.",
+   "atualizado_em": null,
+   "candidato": "Renan Santos",
+   "tema": "Segurança",
+   "criterio_id": "C5"
+  }
+ ]
+}

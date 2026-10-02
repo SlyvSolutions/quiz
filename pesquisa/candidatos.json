@@ -1,0 +1,33 @@
+{
+  "geradoEm": "2026-09-30",
+  "origem": "site/src/screens/resultado/index.ts + site/src/screens/comparador/index.ts (NOME_CANDIDATOS)",
+  "candidatos": [
+    {
+      "id": "lula",
+      "nome": "Lula",
+      "partido": "PT"
+    },
+    {
+      "id": "flavio",
+      "nome": "Flávio Bolsonaro",
+      "partido": "PL"
+    },
+    {
+      "id": "renan",
+      "nome": "Renan Santos",
+      "partido": "Missão"
+    },
+    {
+      "id": "caiado",
+      "nome": "Ronaldo Caiado",
+      "partido": "PSD"
+    },
+    {
+      "id": "cury",
+      "nome": "Augusto Cury",
+      "partido": "Sem Partido"
+    }
+  ],
+  "pendencias": [],
+  "fontePartidoCaiado": "Planos_TSE/Caiado_Plano_Original.md, linha 66 (cabeçalho do plano depositado no TSE: 'Plano de Governo 2027 a 2030 · PSD · Caiado e Kassab')"
+}
