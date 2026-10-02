@@ -258,7 +258,15 @@
 .app-marca .logo-escuro {
   height: calc(var(--mq-logo-cabecalho) * 1.5);
   max-width: none;
+  flex: none;
   margin-block: calc(var(--mq-logo-cabecalho) * -0.25);
+}
+
+/* A marca do cabeçalho tem a mesma largura nos dois temas (a logo escura é um quadro largo com respiro preto
+   nas laterais, que sai pelo clip). Sem isso ela ocupava o dobro do espaço e espremia as bolinhas da jornada. */
+.app-header .app-marca {
+  width: calc(var(--mq-logo-cabecalho) * 1.3);
+  justify-content: center;
 }
 
 /* A logo certa para cada fundo: texto preto no claro, fundo preto no escuro */

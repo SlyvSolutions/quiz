@@ -104,10 +104,31 @@
   .screen-revelacao {
     padding-bottom: 0;
   }
+
+  /* A tela inteira rola: o título sai da frente e os cards ganham a altura toda. Antes, título e botão fixos
+     deixavam uma fresta de ~230px para a lista, que rolava presa dentro dela. */
+  .tela.screen-revelacao {
+    overflow-y: auto;
+    overscroll-behavior: contain;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  .tela.screen-revelacao > * {
+    flex-shrink: 0;
+  }
+
+  .tela.screen-revelacao > .rev-list {
+    flex: none;
+    overflow: visible;
+  }
 }
 
 .tela.screen-revelacao > .rev-footer {
   flex: none;
+  position: sticky;
+  bottom: 0;
+  z-index: var(--mq-z-painel);
+  margin-top: auto;
   padding-block: var(--mq-space-3);
   padding-bottom: calc(var(--mq-space-3) + var(--mq-safe-bottom));
   background-color: var(--mq-surface);
