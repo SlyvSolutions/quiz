@@ -1,0 +1,265 @@
+/* Quiz: tela de ação. Fundo claro, uma pergunta por vez. */
+.screen-quiz {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: var(--mq-space-8);
+  padding-block: var(--mq-space-10) var(--mq-space-16);
+  width: 100%;
+  max-width: var(--mq-container);
+  margin-inline: auto;
+  padding-inline: var(--mq-gutter);
+}
+
+.quiz-header {
+  display: flex;
+  flex-direction: column;
+  gap: var(--mq-space-3);
+}
+
+.quiz-question {
+  max-width: var(--mq-leitura-max);
+}
+
+.quiz-options {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, var(--mq-coluna-min)), 1fr));
+  gap: var(--mq-space-5);
+}
+
+.quiz-option-card {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--mq-surface);
+  border: var(--mq-borda-fina) solid var(--mq-line);
+  border-radius: var(--mq-radius-lg);
+  box-shadow: var(--mq-shadow-card);
+  transition:
+    transform var(--mq-dur-toque) var(--mq-ease-toque),
+    box-shadow var(--mq-dur-toque) var(--mq-ease-toque),
+    border-color var(--mq-dur-toque) var(--mq-ease-toque);
+}
+
+.quiz-option-card:hover {
+  transform: translateY(var(--mq-sobe-card));
+  border-color: color-mix(in srgb, var(--mq-ink) 40%, transparent);
+}
+
+.quiz-option-card.selecionada {
+  transform: scale(var(--mq-escala-toque));
+  /* quem tem o visual é a frente e o verso, para o giro levar a moldura junto */
+  background-color: transparent;
+  border: 0;
+  box-shadow: none;
+}
+
+/* Ao escolher, as outras opções recuam e o card escolhido cresce sozinho (sem esticar as vizinhas) */
+.quiz-options:has(.selecionada) {
+  align-items: start;
+}
+
+.quiz-options:has(.selecionada) .quiz-option-card:not(.selecionada) {
+  opacity: var(--mq-opacidade-fantasma);
+}
+
+.quiz-options:has(.selecionada) .quiz-option-content {
+  cursor: default;
+}
+
+/* O card que vira: frente (o trecho) e verso (os critérios) ocupam a mesma célula; a altura é a do maior */
+.quiz-flip {
+  flex: 1;
+  display: grid;
+  perspective: var(--mq-perspectiva-flip);
+}
+
+.quiz-flip-giro {
+  display: grid;
+  transform-style: preserve-3d;
+  transition: transform var(--mq-dur-acao) var(--mq-ease-entrada);
+}
+
+.quiz-flip.virado .quiz-flip-giro {
+  transform: rotateY(var(--mq-giro-flip));
+}
+
+.quiz-face {
+  grid-area: 1 / 1;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  border-radius: var(--mq-radius-lg);
+  backface-visibility: hidden;
+}
+
+.quiz-frente {
+  justify-content: space-between;
+}
+
+/* O card escolhido é amarelo na frente; o verso é preto */
+.selecionada .quiz-frente {
+  background-color: var(--mq-amarelo);
+  color: var(--mq-on-amarelo);
+  border: var(--mq-borda-forte) solid var(--mq-ink);
+  box-shadow: var(--mq-shadow-offset);
+}
+
+/* O verso usa o tema escuro (fundo preto, texto branco, foco amarelo) só por tokens */
+.quiz-verso {
+  transform: rotateY(var(--mq-giro-flip));
+  justify-content: flex-start;
+  background-color: var(--mq-surface);
+  color: var(--mq-ink);
+  border: var(--mq-borda-forte) solid var(--mq-ink);
+  box-shadow: var(--mq-shadow-offset);
+}
+
+.quiz-verso {
+  scroll-margin-top: calc(var(--mq-cabecalho-altura) + var(--mq-space-4));
+}
+
+.quiz-verso:focus-visible {
+  outline: var(--mq-borda-forte) solid var(--mq-focus);
+  outline-offset: var(--mq-foco-offset);
+}
+
+.quiz-verso .slide-criterios {
+  flex: 1;
+  background-color: transparent;
+  border: 0;
+  border-radius: var(--mq-radius-lg);
+}
+
+/* O selo de força é tinta sobre preto: um fio de borda mantém o contorno */
+.quiz-verso .selo-concretude {
+  border: var(--mq-borda-fina) solid var(--mq-line);
+}
+
+.quiz-verso .slide-criterios-just {
+  color: var(--mq-ink);
+  opacity: var(--mq-opacidade-apoio);
+}
+
+/* Movimento reduzido: sem giro, a troca é imediata */
+@media (prefers-reduced-motion: reduce) {
+  .quiz-flip-giro {
+    transition: none;
+    transform-style: flat;
+  }
+
+  .quiz-flip.virado .quiz-flip-giro,
+  .quiz-verso {
+    transform: none;
+  }
+
+  .quiz-face {
+    backface-visibility: visible;
+  }
+
+  .quiz-verso,
+  .quiz-flip.virado .quiz-frente {
+    visibility: hidden;
+  }
+
+  .quiz-flip.virado .quiz-verso {
+    visibility: visible;
+  }
+}
+
+.quiz-option-content {
+  flex: 1;
+  padding: var(--mq-space-6);
+  cursor: pointer;
+  border-radius: var(--mq-radius-lg);
+}
+
+.quiz-option-content p {
+  font-family: var(--mq-font-citacao);
+  font-size: var(--mq-fs-body);
+  line-height: var(--mq-lh-corpo);
+}
+
+.quiz-option-content:focus-visible {
+  outline-offset: calc(var(--mq-foco-offset) * -1);
+}
+
+.quiz-option-card .btn-resumo {
+  align-self: flex-start;
+  margin: 0 var(--mq-space-3) var(--mq-space-3);
+}
+
+.quiz-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--mq-space-3);
+}
+
+/* ========================================================
+   Adaptações App-Like Mobile (Portrait)
+   ======================================================== */
+@media (orientation: portrait) {
+  .screen-quiz {
+    padding-inline: 0;
+    padding-block: var(--mq-space-6) 0;
+  }
+  
+  .quiz-header, .quiz-question, .quiz-nav {
+    padding-inline: var(--mq-gutter);
+  }
+  
+  .quiz-options {
+    padding-inline: var(--mq-space-3);
+    gap: var(--mq-space-3);
+  }
+  
+  .quiz-option-content {
+    padding: var(--mq-space-4);
+  }
+  
+  .quiz-option-content p {
+    font-size: var(--mq-fs-h3); /* Texto mais legível no celular */
+  }
+
+  /* Botão de contexto full-width no celular */
+  .quiz-option-card .btn-resumo {
+    width: calc(100% - var(--mq-space-6));
+    margin: 0 auto var(--mq-space-3);
+    justify-content: center;
+  }
+  
+  /* O app é travado em 100svh no celular: o quiz rola por dentro (pergunta, opções e critérios do verso). */
+  .screen-quiz {
+    height: 100%;
+    min-height: 0;
+    overflow-y: auto;
+    overscroll-behavior: contain;
+    -webkit-overflow-scrolling: touch;
+    gap: var(--mq-space-5);
+  }
+
+  /* Barra de ação grudada no fim da rolagem: nunca cobre as opções nem o verso. */
+  .screen-quiz .quiz-nav {
+    position: sticky;
+    bottom: 0;
+    z-index: var(--mq-z-painel);
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: stretch;
+    gap: var(--mq-space-2);
+    margin-top: auto;
+    padding-block: var(--mq-space-3);
+    padding-bottom: calc(var(--mq-space-3) + var(--mq-safe-bottom));
+    background-color: var(--mq-surface);
+    border-top: var(--mq-borda-fina) solid var(--mq-line);
+  }
+
+  .screen-quiz .quiz-nav .btn-pill {
+    flex: 1 1 12ch;
+    width: auto;
+    justify-content: center;
+  }
+
+  .screen-quiz .quiz-nav .quiz-escape-btn {
+    flex: 3 1 20ch;
+  }
+}
