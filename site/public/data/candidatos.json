@@ -1,0 +1,27 @@
+[
+  {
+    "id": "lula",
+    "nome": "Lula",
+    "partido": "PT"
+  },
+  {
+    "id": "flavio",
+    "nome": "Flávio Bolsonaro",
+    "partido": "PL"
+  },
+  {
+    "id": "renan",
+    "nome": "Renan Santos",
+    "partido": "Missão"
+  },
+  {
+    "id": "caiado",
+    "nome": "Ronaldo Caiado",
+    "partido": "PSD"
+  },
+  {
+    "id": "cury",
+    "nome": "Augusto Cury",
+    "partido": "Sem Partido"
+  }
+]

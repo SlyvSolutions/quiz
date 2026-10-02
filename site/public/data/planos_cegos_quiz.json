@@ -1,0 +1,538 @@
+[
+  {
+    "id": "lula-seguranca-prisional",
+    "apelido_neutro": "Candidato A",
+    "eixo": "Segurança",
+    "subtema_id": "seguranca-prisional",
+    "texto_mascarado": "Fortaleceremos o sistema penitenciário federal, ampliando sua capacidade operacional e de isolamento de lideranças criminosas, e implantaremos um protocolo nacional de classificação e transferência de presos de alta periculosidade, baseado em critérios objetivos e evidências.",
+    "contexto_mascarado": "Fortaleceremos o sistema penitenciário federal, ampliando sua capacidade operacional e de isolamento de lideranças criminosas, e implantaremos um protocolo nacional de classificação e transferência de presos de alta periculosidade, baseado em critérios objetivos e evidências.\n\nVamos fortalecer ainda mais as ações de segurança na Amazônia Legal, em cooperação federativa e consolidando o modelo das Forças Integradas de Combate ao Crime Organizado (FICCOs) como política de Estado. Manteremos as Forças Armadas presentes nas fronteiras amazônicas e na Pan-Amazônia, com patrulhamento fluvial e aéreo, inteligência policial e ambiental e cooperação com os países da Organização do Tratado de Cooperação Amazônica (OTCA). Daremos continuidade aos investimentos em radares, drones, sensores, imagens de satélite e centros integrados de comando e controle para fortalecer o monitoramento territorial, integrar a detecção do desmatamento às ações de segurança e incorporar o controle das rotas fluviais ao sistema nacional de enfrentamento ao crime ambiental. O combate à mineração ilegal continuará sendo prioridade estratégica, com investigação financeira obrigatória em todas as ações de desarticulação de organizações criminosas."
+  },
+  {
+    "id": "flavio-seguranca-prisional",
+    "apelido_neutro": "Candidato B",
+    "eixo": "Segurança",
+    "subtema_id": "seguranca-prisional",
+    "texto_mascarado": "Chefes de quadrilha e marginais de alta periculosidade serão tirados de circulação e isolados. Com isso, os bandidos vão deixar de controlar as facções criminosas de dentro dos presídios, como ocorre hoje. Eles vão viver sem celular, sem visita íntima e com visitas monitoradas. Em parceria com os governos estaduais, vamos criar meio milhão de novas vagas no sistema prisional em 4 anos e zerar o déficit carcerário.",
+    "contexto_mascarado": "Mais presídios, menos bandidos soltos O Brasil terá 5 novos presídios de segurança máxima no modelo adotado por El Salvador. Junto com os atuais 5 presídios federais, eles formarão o Complexo Federal de Segurança Máxima. Para tirar o medo do cidadão e botar medo no bandido, ele vai se chamar [nome do complexo prisional]. Chefes de quadrilha e marginais de alta periculosidade serão tirados de circulação e isolados. Com isso, os bandidos vão deixar de controlar as facções criminosas de dentro dos presídios, como ocorre hoje. Eles vão viver sem celular, sem visita íntima e com visitas monitoradas. Em parceria com os governos estaduais, vamos criar meio milhão de novas vagas no sistema prisional em 4 anos e zerar o déficit carcerário. Quem comete crimes graves vai entender que prisão é punição."
+  },
+  {
+    "id": "caiado-seguranca-prisional",
+    "apelido_neutro": "Candidato C",
+    "eixo": "Segurança",
+    "subtema_id": "seguranca-prisional",
+    "texto_mascarado": "Criar uma Rede Nacional de Presídios de Segurança Máxima, com padrões comuns para unidades federais e estaduais. Identificar e separar os integrantes das organizações criminosas conforme suas funções de comando, financiamento, disciplina, comunicação e recrutamento.",
+    "contexto_mascarado": "9. Retomar o controle do sistema penitenciário • Criar uma Rede Nacional de Presídios de Segurança Máxima, com padrões comuns para unidades federais e estaduais. Identificar e separar os integrantes das organizações criminosas conforme suas funções de comando, financiamento, disciplina, comunicação e recrutamento. • Aplicar às lideranças o [regime disciplinar especial para lideranças criminosas], com isolamento em cela individual, bloqueio de celulares, monitoramento ambiental, proibição de visitas íntimas e progressão somente após o cumprimento de 90% da pena, impedindo que os presídios sejam utilizados para transmitir ordens ou administrar atividades criminosas. [***]"
+  },
+  {
+    "id": "renan-seguranca-prisional",
+    "apelido_neutro": "Candidato D",
+    "eixo": "Segurança",
+    "subtema_id": "seguranca-prisional",
+    "texto_mascarado": "As lideranças condenadas serão deslocadas a superpresídios de segurança máxima em regiões remotas, no modelo do CECOT salvadorenho, equipados com blindagem eletromagnética e biometria contínua, neutralizando o comando das facções a partir do cárcere.",
+    "contexto_mascarado": "Para que esse arcabouço jurídico encontre tradução operacional, propomos um conjunto integrado de medidas de combate ao tráfico e ao crime de rua. No primeiro front, vamos reconquistar o controle estatal sobre portos, aeroportos e fronteiras secas com scanners tridimensionais e inteligência integrada; implementar sistemas de monitoramento aéreo, espacial e amazônico; e apertar os mecanismos de asfixia financeira que cortam o oxigênio econômico das facções. As lideranças condenadas serão deslocadas a superpresídios de segurança máxima em regiões remotas, no modelo do CECOT salvadorenho, equipados com blindagem eletromagnética e biometria contínua, neutralizando o comando das facções a partir do cárcere. No segundo front, contra a criminalidade urbana cotidiana, vamos utilizar mudanças penais e implementação de tecnologia de ponta. Um novo sistema de drones e totens de denúncia transformará a reação ao crime em prevenção, com patrulhamento autônomo e reconhecimento facial em tempo real, integrado ao uso de dados genéticos e identificação facial para a resolução de crimes hediondos. Leis específicas deverão endereçar a reincidência e os roubos de eletrônicos, aumentando penas e criando efeitos dissuasivos para os crimes que mais aterrorizam o brasileiro comum."
+  },
+  {
+    "id": "lula-seguranca-fronteiras",
+    "apelido_neutro": "Candidato A",
+    "eixo": "Segurança",
+    "subtema_id": "seguranca-fronteiras",
+    "texto_mascarado": "Manteremos as Forças Armadas presentes nas fronteiras amazônicas e na Pan-Amazônia, com patrulhamento fluvial e aéreo, inteligência policial e ambiental e cooperação com os países da Organização do Tratado de Cooperação Amazônica (OTCA).",
+    "contexto_mascarado": "Vamos fortalecer ainda mais as ações de segurança na Amazônia Legal, em cooperação federativa e consolidando o modelo das Forças Integradas de Combate ao Crime Organizado (FICCOs) como política de Estado. Manteremos as Forças Armadas presentes nas fronteiras amazônicas e na Pan-Amazônia, com patrulhamento fluvial e aéreo, inteligência policial e ambiental e cooperação com os países da Organização do Tratado de Cooperação Amazônica (OTCA). Daremos continuidade aos investimentos em radares, drones, sensores, imagens de satélite e centros integrados de comando e controle para fortalecer o monitoramento territorial, integrar a detecção do desmatamento às ações de segurança e incorporar o controle das rotas fluviais ao sistema nacional de enfrentamento ao crime ambiental. O combate à mineração ilegal continuará sendo prioridade estratégica, com investigação financeira obrigatória em todas as ações de desarticulação de organizações criminosas."
+  },
+  {
+    "id": "flavio-seguranca-fronteiras",
+    "apelido_neutro": "Candidato B",
+    "eixo": "Segurança",
+    "subtema_id": "seguranca-fronteiras",
+    "texto_mascarado": "Fuzis e drogas que abastecem 100% das facções serão interceptados por terra, pelos portos e pelo espaço aéreo. Vamos desorganizar o crime organizado e asfixiar o crime física e financeiramente.",
+    "contexto_mascarado": "da Força Aérea Brasileira, equipada com armas de guerra, inteligência e tecnologia, responsável por criar um paredão na fronteira. Fuzis e drogas que abastecem 100% das facções serão interceptados por terra, pelos portos e pelo espaço aéreo. Vamos desorganizar o crime organizado e asfixiar o crime física e financeiramente.\n\nMais presídios, menos bandidos soltos O Brasil terá 5 novos presídios de segurança máxima no modelo adotado por El Salvador. Junto com os atuais 5 presídios federais, eles formarão o Complexo Federal de Segurança Máxima. Para tirar o medo do cidadão e botar medo no bandido, ele vai se chamar [nome do complexo prisional]. Chefes de quadrilha e marginais de alta periculosidade serão tirados de circulação e isolados. Com isso, os bandidos vão deixar de controlar as facções criminosas de dentro dos presídios, como ocorre hoje. Eles vão viver sem celular, sem visita íntima e com visitas monitoradas. Em parceria com os governos estaduais, vamos criar meio milhão de novas vagas no sistema prisional em 4 anos e zerar o déficit carcerário. Quem comete crimes graves vai entender que prisão é punição."
+  },
+  {
+    "id": "caiado-seguranca-fronteiras",
+    "apelido_neutro": "Candidato C",
+    "eixo": "Segurança",
+    "subtema_id": "seguranca-fronteiras",
+    "texto_mascarado": "Implantar Centros Integrados de Comando e Controle nas regiões críticas do arco amazônico, da fronteira Oeste, da tríplice fronteira, do litoral e dos principais portos.",
+    "contexto_mascarado": "Retomar a Amazônia, proteger as fronteiras, portos e aeroportos • Implantar o Comando Nacional de Proteção de Fronteiras e Corredores Logísticos, reunindo Forças Armadas, Polícia Federal, Polícia Rodoviária Federal, forças estaduais, órgãos ambientais e autoridades portuárias e aeroportuárias na defesa permanente das fronteiras brasileiras, portos e aeroportos, e na recuperação do controle territorial da Amazônia Legal pelo Estado brasileiro, e, de forma complementar, no apoio aos estados e DF em ações de reintegração de territórios ao Estado brasileiro. • Criar zonas prioritárias de recuperação da soberania, a exemplo da Amazônia, com presença permanente do Estado após a retomada dos territórios, para assegurar o combate permanente ao tráfico de drogas e armas, ao garimpo ilegal, à grilagem, aos crimes ambientais, ao tráfico humano e à exploração sexual. • Implantar Centros Integrados de Comando e Controle nas regiões críticas do arco amazônico, da fronteira Oeste, da tríplice fronteira, do litoral e dos principais portos. • Investir nas tecnologias mais avançadas para controle e patrulhamento das fronteiras brasileiras – inteligência artificial, aeronaves remotamente pilotadas, sensores, radares, satélites SAR (Synthetic Aperture Radar), com tecnologia que permite “enxergar” em profundidade, câmeras de alta resolução com software embarcado de Inteligência Artificial, que permite a transformação da imagem em dados de investigação, entre outras --, incluindo a modernização e ampliação do SISFRON (Exército), CINDACTA (Aeronáutica) e SisGAAZ (Marinha). • Estabelecer uma Política Nacional de Segurança Portuária e Aeroportuária, com protocolos de segurança e ferramentas tecnológicas que garantam um combate efetivo ao tráfico internacional de drogas e de armas, para que o Brasil deixe de ser um hub internacional do crime organizado."
+  },
+  {
+    "id": "renan-seguranca-fronteiras",
+    "apelido_neutro": "Candidato D",
+    "eixo": "Segurança",
+    "subtema_id": "seguranca-fronteiras",
+    "texto_mascarado": "No primeiro front, vamos reconquistar o controle estatal sobre portos, aeroportos e fronteiras secas com scanners tridimensionais e inteligência integrada; implementar sistemas de monitoramento aéreo, espacial e amazônico; e apertar os mecanismos de asfixia financeira que cortam o oxigênio econômico das facções.",
+    "contexto_mascarado": "[***] ▪ intervenção federal em estados com controle territorial faccional, e emprego das Forças Armadas via Garantia da Lei e da Ordem (GLO) com autorização para uso de força pesada em territórios classificados como dominados. Para que esse arcabouço jurídico encontre tradução operacional, propomos um conjunto integrado de medidas de combate ao tráfico e ao crime de rua. No primeiro front, vamos reconquistar o controle estatal sobre portos, aeroportos e fronteiras secas com scanners tridimensionais e inteligência integrada; implementar sistemas de monitoramento aéreo, espacial e amazônico; e apertar os mecanismos de asfixia financeira que cortam o oxigênio econômico das facções. As lideranças condenadas serão deslocadas a superpresídios de segurança máxima em regiões remotas, no modelo do CECOT salvadorenho, equipados com blindagem eletromagnética e biometria contínua, neutralizando o comando das facções a partir do cárcere. No segundo front, contra a criminalidade urbana cotidiana, vamos utilizar mudanças penais e implementação de tecnologia de ponta."
+  },
+  {
+    "id": "cury-seguranca-fronteiras",
+    "apelido_neutro": "Candidato E",
+    "eixo": "Segurança",
+    "subtema_id": "seguranca-fronteiras",
+    "texto_mascarado": "De forma integrada e respeitando as competências constitucionais de cada instituição, fortaleceremos a atuação das Forças Armadas no controle estratégico das fronteiras nacionais, intensificando a presença do Exército nas fronteiras terrestres, da Marinha nos portos e vias navegáveis estratégicas e da Força Aérea Brasileira no monitoramento e repressão ao uso de pistas clandestinas e rotas aéreas ilícitas, especialmente para combater o tráfico internacional de drogas, armas e o contrabando.",
+    "contexto_mascarado": "Implantaremos o programa [programa de integração das forças policiais], integrando tecnologia, inteligência e atuação rápida das forças policiais. O objetivo será antecipar riscos, responder rapidamente às ocorrências e aumentar a sensação de segurança da população em áreas urbanas e rurais. d) Cooperação internacional O crime organizado atua além das fronteiras nacionais. Fortaleceremos a cooperação com organismos internacionais e países vizinhos para combater o tráfico internacional, crimes financeiros, terrorismo, lavagem de dinheiro e organizações criminosas transnacionais. De forma integrada e respeitando as competências constitucionais de cada instituição, fortaleceremos a atuação das Forças Armadas no controle estratégico das fronteiras nacionais, intensificando a presença do Exército nas fronteiras terrestres, da Marinha nos portos e vias navegáveis estratégicas e da Força Aérea Brasileira no monitoramento e repressão ao uso de pistas clandestinas e rotas aéreas ilícitas, especialmente para combater o tráfico internacional de drogas, armas e o contrabando. e) Combate estruturado ao crime organizado O enfrentamento ao crime organizado será prioridade de Estado, com integração total entre forças policiais, inteligência financeira e cooperação internacional. O"
+  },
+  {
+    "id": "lula-seguranca-inteligencia",
+    "apelido_neutro": "Candidato A",
+    "eixo": "Segurança",
+    "subtema_id": "seguranca-inteligencia",
+    "texto_mascarado": "Consolidaremos o Sistema de Inteligência de Segurança Pública e Justiça Criminal, modernizaremos o SINESP e a Infoseg e ampliaremos as Forças Integradas de Combate ao Crime Organizado (FICCOs).",
+    "contexto_mascarado": "Consolidaremos o Sistema de Inteligência de Segurança Pública e Justiça Criminal, modernizaremos o SINESP e a Infoseg e ampliaremos as Forças Integradas de Combate ao Crime Organizado (FICCOs).\n\nA revogação dos decretos editados no governo anterior, que facilitavam o acesso a armas de fogo, foi uma medida acertada. Por isso, manteremos uma política de controle de armas e munições, fundamental para reduzir a violência e fortalecer uma política democrática de segurança pública. Aprimoraremos os mecanismos de rastreabilidade de armas e munições e reforçaremos a capacidade de fiscalização da Polícia Federal e do Exército sobre empresas de segurança privada, defesa pessoal e registros de caçadores, atiradores e colecionadores."
+  },
+  {
+    "id": "flavio-seguranca-inteligencia",
+    "apelido_neutro": "Candidato B",
+    "eixo": "Segurança",
+    "subtema_id": "seguranca-inteligencia",
+    "texto_mascarado": "Vamos fazer consórcios e convênios com estados e municípios para investir em inteligência, retomada de territórios alinhada a políticas públicas estruturantes, tecnologia, armamentos de última geração e valorização do policial.",
+    "contexto_mascarado": "Terrorista vai ser tratado como terrorista Vamos declarar guerra ao crime organizado. PCC, CV, milícias e todas as outras facções serão declaradas como organizações narcoterroristas. Elas serão combatidas com força, inteligência e integração para que seus líderes sejam presos e seus negócios ilícitos, asfixiados. Vamos seguir o dinheiro do crime: bloquearemos ativos e desarticularemos a lavagem de dinheiro que sustenta as facções. Bandido armado com fuzil na mão vai ser abatido pelas forças de segurança. Vamos fazer consórcios e convênios com estados e municípios para investir em inteligência, retomada de territórios alinhada a políticas públicas estruturantes, tecnologia, armamentos de última geração e valorização do policial. Quem vai voltar a mandar no Brasil será a lei."
+  },
+  {
+    "id": "caiado-seguranca-inteligencia",
+    "apelido_neutro": "Candidato C",
+    "eixo": "Segurança",
+    "subtema_id": "seguranca-inteligencia",
+    "texto_mascarado": "Integrar os bancos de dados da União, dos estados, do Distrito Federal, do Ministério Público e do Poder Judiciário, reunindo antecedentes, mandados, vínculos com organizações criminosas, informações penitenciárias, perfis genéticos e dados biométricos.",
+    "contexto_mascarado": "3. Implantar o Sistema Nacional de Inteligência Criminal • Integrar os bancos de dados da União, dos estados, do Distrito Federal, do Ministério Público e do Poder Judiciário, reunindo antecedentes, mandados, vínculos com organizações criminosas, informações penitenciárias, perfis genéticos e dados biométricos. • Estimular a adoção de boletim de ocorrência unificado e utilizar inteligência artificial para cruzar dados, identificar redes criminosas, orientar operações e acompanhar a movimentação interestadual de suspeitos e presos."
+  },
+  {
+    "id": "renan-seguranca-inteligencia",
+    "apelido_neutro": "Candidato D",
+    "eixo": "Segurança",
+    "subtema_id": "seguranca-inteligencia",
+    "texto_mascarado": "Um novo sistema de drones e totens de denúncia transformará a reação ao crime em prevenção, com patrulhamento autônomo e reconhecimento facial em tempo real, integrado ao uso de dados genéticos e identificação facial para a resolução de crimes hediondos.",
+    "contexto_mascarado": "As lideranças condenadas serão deslocadas a superpresídios de segurança máxima em regiões remotas, no modelo do CECOT salvadorenho, equipados com blindagem eletromagnética e biometria contínua, neutralizando o comando das facções a partir do cárcere. No segundo front, contra a criminalidade urbana cotidiana, vamos utilizar mudanças penais e implementação de tecnologia de ponta. Um novo sistema de drones e totens de denúncia transformará a reação ao crime em prevenção, com patrulhamento autônomo e reconhecimento facial em tempo real, integrado ao uso de dados genéticos e identificação facial para a resolução de crimes hediondos. Leis específicas deverão endereçar a reincidência e os roubos de eletrônicos, aumentando penas e criando efeitos dissuasivos para os crimes que mais aterrorizam o brasileiro comum. Sobretudo, desde o primeiro dia do governo, estaremos em campanha contra o crime organizado, utilizando os mecanismos da GLO e do Estado de Defesa para romper o controle territorial das facções."
+  },
+  {
+    "id": "cury-seguranca-inteligencia",
+    "apelido_neutro": "Candidato E",
+    "eixo": "Segurança",
+    "subtema_id": "seguranca-inteligencia",
+    "texto_mascarado": "A segurança pública será fortalecida pelo uso de câmeras inteligentes, reconhecimento de padrões, análise preditiva, drones, monitoramento integrado e inteligência artificial. Essas ferramentas ampliarão a capacidade preventiva das forças de segurança e reduzirão a criminalidade.",
+    "contexto_mascarado": "Financeiras (COAF) e dos demais órgãos de inteligência, focando não apenas no confronto físico, mas no corte das vias financeiras que sustentam as facções. c) Tecnologia e Inteligência Artificial A segurança pública será fortalecida pelo uso de câmeras inteligentes, reconhecimento de padrões, análise preditiva, drones, monitoramento integrado e inteligência artificial. Essas ferramentas ampliarão a capacidade preventiva das forças de segurança e reduzirão a criminalidade. [programa de integração das forças policiais]: será o maior programa já realizado no Brasil que integra, treina, equipa e valoriza todas as forças policiais: Polícia Federal, Polícia Militar, Polícia Civil e a [polícia municipal preventiva], treinados pela elite das forças policiais envolvidas. Implantaremos o programa [programa de integração das forças policiais], integrando tecnologia, inteligência e atuação rápida das forças policiais. O objetivo será antecipar riscos, responder rapidamente às ocorrências e aumentar a sensação de segurança da população em áreas urbanas e rurais. d) Cooperação internacional O crime organizado atua além das fronteiras nacionais. Fortaleceremos a cooperação com organismos internacionais e países vizinhos para combater o tráfico internacional, crimes financeiros, terrorismo, lavagem de dinheiro e organizações criminosas transnacionais."
+  },
+  {
+    "id": "lula-economia-regra-fiscal",
+    "apelido_neutro": "Candidato A",
+    "eixo": "Economia",
+    "subtema_id": "economia-regra-fiscal",
+    "texto_mascarado": "Aprimoraremos o modelo de centralização e compartilhamento de serviços de suporte (gestão de pessoas, orçamento, contratações etc.) entre ministérios e órgãos do Executivo federal, que tanto contribui para racionalizar o uso dos recursos e conferir mais qualidade ao gasto público.",
+    "contexto_mascarado": "Aprimoraremos o modelo de centralização e compartilhamento de serviços de suporte (gestão de pessoas, orçamento, contratações etc.) entre ministérios e órgãos do Executivo federal, que tanto contribui para racionalizar o uso dos recursos e conferir mais qualidade ao gasto público.\n\nNo governo [***], voltamos a usar o poder de compra do Estado como uma ferramenta crucial de desenvolvimento, indução de políticas e investimentos, inovação, estabelecimento de padrões de sustentabilidade e soberania. No [***], vamos aprimorar os mecanismos de utilização do poder de compra do Estado em todos os níveis da federação, estimulando o desenvolvimento nos territórios e a descentralização das contratações públicas por meio de plataformas como o [plataforma federal de contratações públicas]."
+  },
+  {
+    "id": "flavio-economia-regra-fiscal",
+    "apelido_neutro": "Candidato B",
+    "eixo": "Economia",
+    "subtema_id": "economia-regra-fiscal",
+    "texto_mascarado": "Apresentaremos uma reformulação nas atuais regras fiscais, com regras claras focadas na estabilização e na redução da dívida pública conforme determina a Constituição. Vamos construir o equilíbrio fiscal duradouro, entregando superávits primários e limitando o crédito subsidiado com recursos do Tesouro, mitigando pressões inflacionárias. E haverá uma regra clara de controle de gastos discricionários dos três Poderes da União.",
+    "contexto_mascarado": "uma legislação que já nasceu cheia de exceções e teve as próprias regras furadas mais de uma dezena de vezes, abrindo novos gastos fora do limite e levando a dívida ao assombroso patamar atual. Vamos fazer o oposto: faremos nossos gastos caberem no orçamento, o que permitirá cobrar menos impostos e não empurrará dívida para as próximas gerações. Apresentaremos uma reformulação nas atuais regras fiscais, com regras claras focadas na estabilização e na redução da dívida pública conforme determina a Constituição. Vamos construir o equilíbrio fiscal duradouro, entregando superávits primários e limitando o crédito subsidiado com recursos do Tesouro, mitigando pressões inflacionárias. E haverá uma regra clara de controle de gastos discricionários dos três Poderes da União. Regras claras trazem previsibilidade e credibilidade, tornando o país mais atrativo e competitivo. A meta é alcançar, no menor prazo possível, a estabilidade e depois a queda da relação Dívida/PIB, o que puxa os juros para a média internacional e leva a inflação ao centro da meta. Não é abstração de economista: é o que faz o crediário caber no bolso, o financiamento da casa ser possível e o salário parar de derreter no fim do mês."
+  },
+  {
+    "id": "caiado-economia-regra-fiscal",
+    "apelido_neutro": "Candidato C",
+    "eixo": "Economia",
+    "subtema_id": "economia-regra-fiscal",
+    "texto_mascarado": "A estabilização fiscal será o ponto de partida para reduzir juros, recuperar investimento e proteger as políticas sociais. O ajuste não será baseado em aumentos sucessivos de impostos nem em cortes lineares. O foco será impedir que as despesas obrigatórias cresçam acima da capacidade da economia, eliminar privilégios, rever gastos e benefícios sem resultado e reconstruir a confiança na trajetória da dívida.",
+    "contexto_mascarado": "ESTABILIZAÇÃO FISCAL\n\nSumário executivo A estabilização fiscal será o ponto de partida para reduzir juros, recuperar investimento e proteger as políticas sociais. O ajuste não será baseado em aumentos sucessivos de impostos nem em cortes lineares. O foco será impedir que as despesas obrigatórias cresçam acima da capacidade da economia, eliminar privilégios, rever gastos e benefícios sem resultado e reconstruir a confiança na trajetória da dívida. A estratégia será plurianual, transparente e socialmente responsável. Algumas despesas produtivas poderão crescer, mas o conjunto do gasto corrente deverá avançar abaixo do PIB, abrindo espaço para superávits primários progressivos e investimento público de qualidade."
+  },
+  {
+    "id": "renan-economia-regra-fiscal",
+    "apelido_neutro": "Candidato D",
+    "eixo": "Economia",
+    "subtema_id": "economia-regra-fiscal",
+    "texto_mascarado": "a chamada “PEC do Equilíbrio Fiscal”, que promove a desindexação de benefícios previdenciários e assistenciais do salário mínimo (corrigindo-os apenas pela inflação), a desvinculação dos pisos de saúde e educação da receita, a revisão do abono salarial e a redução de renúncias fiscais (gastos tributários), com economia projetada de R$ 1,1 trilhão até 2031.",
+    "contexto_mascarado": "[***]\n\nO ajuste fiscal necessário é da ordem de R$ 250 bilhões anuais, segundo Mansueto de Almeida. Para realizar esse tipo de mudança, qualquer governo a partir de 2027 precisará desindexar e desvincular despesas e reformar a previdência. [***] O primeiro ato de um governo da [***], na verdade a ser endereçado mesmo antes da posse, será a aprovação de uma PEC de Transição, como a promovida por [***] em 2022. No nosso caso, a PEC de Transição deverá utilizar como base um projeto já protocolado por nosso deputado [***] em 2024, a chamada “PEC do Equilíbrio Fiscal”, que promove a desindexação de benefícios previdenciários e assistenciais do salário mínimo (corrigindo-os apenas pela inflação), a desvinculação dos pisos de saúde e educação da receita, a revisão do abono salarial e a redução de renúncias fiscais (gastos tributários), com economia projetada de R$ 1,1 trilhão até 2031."
+  },
+  {
+    "id": "cury-economia-regra-fiscal",
+    "apelido_neutro": "Candidato E",
+    "eixo": "Economia",
+    "subtema_id": "economia-regra-fiscal",
+    "texto_mascarado": "O equilíbrio das contas públicas será uma prioridade nacional. Um país que gasta continuamente mais do que arrecada compromete o futuro de seus filhos, aumenta os juros, reduz investimentos e limita sua capacidade de crescer. Nossa meta será perseguir o déficit próximo de zero, sem aventuras fiscais, preservando investimentos estratégicos e fortalecendo a confiança dos brasileiros e dos investidores nacionais e internacionais.",
+    "contexto_mascarado": "PRINCIPAIS TESES PARA CONSTRUIR O [lema do plano] Um Brasil para as próximas gerações 1. RESPONSABILIDADE FISCAL E CRESCIMENTO SUSTENTÁVEL a) Déficit público próximo de zero durante o mandato O equilíbrio das contas públicas será uma prioridade nacional. Um país que gasta continuamente mais do que arrecada compromete o futuro de seus filhos, aumenta os juros, reduz investimentos e limita sua capacidade de crescer. Nossa meta será perseguir o déficit próximo de zero, sem aventuras fiscais, preservando investimentos estratégicos e fortalecendo a confiança dos brasileiros e dos investidores nacionais e internacionais. b) Controle rigoroso dos gastos públicos O dinheiro público pertence ao cidadão. Cada ministério deverá estabelecer metas de eficiência, redução de desperdícios e avaliação permanente dos resultados. Gastos improdutivos serão eliminados e os recursos direcionados para educação, saúde, segurança, infraestrutura e inovação. O Estado deverá gastar melhor, e não simplesmente gastar mais. c) Redução gradual e sustentável da dívida pública A elevada dívida pública compromete uma parcela significativa dos recursos do país e reduz a capacidade do Estado de investir em áreas essenciais."
+  },
+  {
+    "id": "lula-economia-minerais-criticos",
+    "apelido_neutro": "Candidato A",
+    "eixo": "Economia",
+    "subtema_id": "economia-minerais-criticos",
+    "texto_mascarado": "Desenvolveremos uma política específica para minerais críticos e terras raras, capaz de organizar suas cadeias produtivas, diferenciar seus usos tecnológicos e evitar a simples exportação de matérias-primas estratégicas. promoveremos uma estratégia regional de mapeamento, beneficiamento e agregação de valor, para inserir o país de forma soberana nas cadeias globais de valor desses recursos.",
+    "contexto_mascarado": "Desenvolveremos uma política específica para minerais críticos e terras raras, capaz de organizar suas cadeias produtivas, diferenciar seus usos tecnológicos e evitar a simples exportação de matérias-primas estratégicas. promoveremos uma estratégia regional de mapeamento, beneficiamento e agregação de valor, para inserir o país de forma soberana nas cadeias globais de valor desses recursos.\n\nA política de comércio exterior deve continuar alinhada aos objetivos das políticas industrial, tecnológica e de inovação. Melhorar a inserção externa da economia brasileira será decisivo para garantir escala e competitividade global. Para isso, vamos estimular as exportações industriais, ampliar a presença em novos mercados e tornar a pauta exportadora mais concentrada em produtos com maior valor agregado, e aprimorando continuamente os instrumentos de defesa comercial."
+  },
+  {
+    "id": "flavio-economia-minerais-criticos",
+    "apelido_neutro": "Candidato B",
+    "eixo": "Economia",
+    "subtema_id": "economia-minerais-criticos",
+    "texto_mascarado": "Em vez de somente exportar a pedra bruta e comprar de volta o produto acabado, vamos agregar valor no Brasil, conectando nossa riqueza mineral, nossa energia e a demanda dos data centers e das novas tecnologias numa estratégia única. O Estado atuará como regulador e coordenador, não como empresário, apoiado em seis pilares: marco regulatório claro e estável, licenciamento ágil e técnico, atração de capital e tecnologia, verticalização com incentivos de mercado, governança e transparência.",
+    "contexto_mascarado": "Temos lítio, nióbio, grafite, cobre, níquel, urânio e terras-raras, insumos essenciais para semicondutores, baterias, turbinas eólicas, veículos elétricos, defesa e inteligência artificial. E temos algo que quase ninguém tem junto: o mineral e a energia limpa e competitiva para transformá-lo aqui dentro. Em vez de somente exportar a pedra bruta e comprar de volta o produto acabado, vamos agregar valor no Brasil, conectando nossa riqueza mineral, nossa energia e a demanda dos data centers e das novas tecnologias numa estratégia única. O Estado atuará como regulador e coordenador, não como empresário, apoiado em seis pilares: marco regulatório claro e estável, licenciamento ágil e técnico, atração de capital e tecnologia, verticalização com incentivos de mercado, governança e transparência. Vamos trabalhar para atrair o capital estrangeiro e a tecnologia que já existem no mundo, aplicando aqui o que outros países já dominam e transferindo esse conhecimento ao Brasil. Para termos sucesso nesse desafio, vamos tratar o investimento na mineração com o mesmo respeito e atenção com que trataremos o investimento na indústria de transformação. Estabeleceremos parcerias internacionais com todos os"
+  },
+  {
+    "id": "caiado-economia-minerais-criticos",
+    "apelido_neutro": "Candidato C",
+    "eixo": "Economia",
+    "subtema_id": "economia-minerais-criticos",
+    "texto_mascarado": "Usar crédito, inovação, infraestrutura e acordos de investimento para instalar separação, refino, metalurgia, química, produção de ligas, ímãs, cátodos, baterias e reciclagem. Incentivos terão prazo, metas e contrapartidas de tecnologia, emprego e exportação de maior valor.",
+    "contexto_mascarado": "5. Verticalização e conteúdo tecnológico Usar crédito, inovação, infraestrutura e acordos de investimento para instalar separação, refino, metalurgia, química, produção de ligas, ímãs, cátodos, baterias e reciclagem. Incentivos terão prazo, metas e contrapartidas de tecnologia, emprego e exportação de maior valor.\n\n6. Parcerias internacionais diversificadas Negociar com diferentes polos econômicos, evitando dependência de um único comprador ou fornecedor. Acesso a recursos será associado a processamento no Brasil, formação de profissionais, pesquisa conjunta, transferência tecnológica e integração de empresas nacionais.\n\n7. Segurança de barragens e rejeitos Fortalecer fiscalização independente, sensores, auditorias, planos de emergência, comunicação com comunidades e descaracterização de estruturas de maior risco. Responsabilidade financeira pelo fechamento e acidentes será garantida por seguros, garantias e fundos vinculados."
+  },
+  {
+    "id": "renan-economia-minerais-criticos",
+    "apelido_neutro": "Candidato D",
+    "eixo": "Economia",
+    "subtema_id": "economia-minerais-criticos",
+    "texto_mascarado": "Celebração de acordos bilaterais com Estados Unidos e União Europeia que garantam off-take agreements (compromissos de compra de longo prazo) e transferência tecnológica em processamento de terras raras.",
+    "contexto_mascarado": "e acesso aos mercados de defesa de alta tecnologia. O [***], portanto, avança com as seguintes propostas fundamentais: ▪ Celebração de acordos bilaterais com Estados Unidos e União Europeia que garantam off-take agreements (compromissos de compra de longo prazo) e transferência tecnológica em processamento de terras raras. Neste contexto, devemos consolidar a agenda aberta pela proposta de grupo de trabalho feita pela Embaixada dos EUA ao IBRAM em 2025, que evoluiu para o Fórum Brasil-EUA sobre Minerais Críticos (2026), elevando-a a um acordo em nível federal. ▪ Estabelecimento de zonas econômicas especiais (ZEEs) dedicadas ao processamento e manufatura de componentes de terras raras, com incentivos fiscais e regulatórios que atraiam investimento direto estrangeiro qualificado."
+  },
+  {
+    "id": "cury-economia-minerais-criticos",
+    "apelido_neutro": "Candidato E",
+    "eixo": "Economia",
+    "subtema_id": "economia-minerais-criticos",
+    "texto_mascarado": "O Brasil possui algumas das maiores reservas de minerais estratégicos do planeta. Nossa política será agregar valor a essas riquezas naturais por meio da industrialização, evitando a simples exportação de matéria-prima. Incentivaremos cadeias produtivas completas, desde a mineração responsável até a fabricação de produtos tecnológicos de alto valor agregado.",
+    "contexto_mascarado": "Essa indústria poderá gerar milhares de empregos altamente qualificados e transformar o Brasil em um polo tecnológico regional. d) Indústria farmacêutica, biotecnologia e saúde A pandemia demonstrou que nenhum país pode depender integralmente de medicamentos e insumos produzidos no exterior. Ampliaremos a capacidade nacional de pesquisa, desenvolvimento e fabricação de medicamentos, vacinas, equipamentos médicos e produtos biotecnológicos, fortalecendo nossa autonomia e ampliando as exportações de produtos de alto valor agregado. e) Terras raras e minerais estratégicos O Brasil possui algumas das maiores reservas de minerais estratégicos do planeta. Nossa política será agregar valor a essas riquezas naturais por meio da industrialização, evitando a simples exportação de matéria-prima. Incentivaremos cadeias produtivas completas, desde a mineração responsável até a fabricação de produtos tecnológicos de alto valor agregado. f) [corredores regionais de exportação] Criaremos [corredores regionais de exportação], distribuídos pelas macrorregiões brasileiras, por exemplo, no Ceará, na Bahia, no Rio de Janeiro, em São Paulo e no Rio Grande do Sul, e articulados a portos, aeroportos, ferrovias e centros de armazenagem."
+  },
+  {
+    "id": "lula-economia-agro",
+    "apelido_neutro": "Candidato A",
+    "eixo": "Economia",
+    "subtema_id": "economia-agro",
+    "texto_mascarado": "Queremos consolidar o crédito como instrumento de modernização, priorizando o financiamento de máquinas, equipamentos, sistemas de irrigação e tecnologias para o aumento da produtividade. Buscaremos também continuar diversificando as fontes de financiamento, estimulando o mercado de capitais e títulos do agronegócio. Haverá medidas para simplificar ainda mais o acesso ao crédito, com processos menos burocráticos e critérios claros.",
+    "contexto_mascarado": "No [***], foram batidos recordes de produção de grãos, graças a uma oferta crescente de crédito rural, em condições adequadas à produção agrícola. Continuaremos fortalecendo o crédito rural, ampliando os recursos do Plano Safra e assegurando juros compatíveis com a rentabilidade da atividade agropecuária. Queremos consolidar o crédito como instrumento de modernização, priorizando o financiamento de máquinas, equipamentos, sistemas de irrigação e tecnologias para o aumento da produtividade. Buscaremos também continuar diversificando as fontes de financiamento, estimulando o mercado de capitais e títulos do agronegócio. Haverá medidas para simplificar ainda mais o acesso ao crédito, com processos menos burocráticos e critérios claros."
+  },
+  {
+    "id": "flavio-economia-agro",
+    "apelido_neutro": "Candidato B",
+    "eixo": "Economia",
+    "subtema_id": "economia-agro",
+    "texto_mascarado": "Vamos ampliar o Seguro Rural e trazer ferramentas de securitização e reorganização das dívidas do setor, dando ao produtor o horizonte de mais de um ano que ele precisa para planejar. Vamos ampliar a capacidade de armazenamento das safras, para garantir melhores preços ao produtor e oferta contínua à população, e buscar soluções diplomáticas eficazes contra sanções dos Estados Unidos, da China e da Europa aos produtos nacionais.",
+    "contexto_mascarado": "previsibilidade para produzir. Vamos ampliar o Seguro Rural e trazer ferramentas de securitização e reorganização das dívidas do setor, dando ao produtor o horizonte de mais de um ano que ele precisa para planejar. Vamos ampliar a capacidade de armazenamento das safras, para garantir melhores preços ao produtor e oferta contínua à população, e buscar soluções diplomáticas eficazes contra sanções dos Estados Unidos, da China e da Europa aos produtos nacionais. Segurança alimentar também é não depender do exterior para produzir. O Brasil importa a maior parte dos fertilizantes que usa, e essa dependência fragiliza o produtor e pressiona o preço da comida. Vamos apoiar a produção nacional de fertilizantes, aproveitando as reservas de minerais que o país possui, como o potássio e o fosfato, para que o campo brasileiro produza com mais autonomia e a mesa do brasileiro fique mais protegida. A terra também precisa ter dono claro, e nós já provamos que sabemos entregar isso. No governo [***], foram emitidos mais de 450 mil documentos de titulação de imóveis rurais, mais do que nos dez anos anteriores somados."
+  },
+  {
+    "id": "caiado-economia-agro",
+    "apelido_neutro": "Candidato C",
+    "eixo": "Economia",
+    "subtema_id": "economia-agro",
+    "texto_mascarado": "Direcionar os recursos públicos prioritariamente para garantias, seguro, redução de riscos e investimentos em irrigação e armazenagem. Criar um fundo garantidor para o crédito agrícola privado e dar previsibilidade ao financiamento das safras e dos projetos de longo prazo. Estruturar um Plano Safra plurianual, com horizonte de cinco anos, para dar previsibilidade e planejamento de longo prazo ao setor produtivo.",
+    "contexto_mascarado": "4. Construir uma nova arquitetura de financiamento do agro Direcionar os recursos públicos prioritariamente para garantias, seguro, redução de riscos e investimentos em irrigação e armazenagem. Criar um fundo garantidor para o crédito agrícola privado e dar previsibilidade ao financiamento das safras e dos projetos de longo prazo. Estruturar um Plano Safra plurianual, com horizonte de cinco anos, para dar previsibilidade e planejamento de longo prazo ao setor produtivo.\n\n5. Consolidar o agro no mercado de capitais Padronizar e fortalecer os instrumentos de financiamento, incluindo CRA, Fiagro, debêntures e securitização. Assegurar estabilidade aos contratos e à cessão de recebíveis, aproximando o setor dos investidores institucionais e dos mercados internacionais de capital. Ampliar o uso da Cédula de Produto Rural e demais instrumentos de mercado como complemento, e não substituto, do crédito oficial, que permanece essencial à competitividade do setor."
+  },
+  {
+    "id": "renan-economia-agro",
+    "apelido_neutro": "Candidato D",
+    "eixo": "Economia",
+    "subtema_id": "economia-agro",
+    "texto_mascarado": "A política de Zonas Econômicas Especiais, as linhas de crédito do BNDES condicionadas a metas de exportação e a busca de acordos comerciais bilaterais serão nossos principais instrumentos. Em paralelo, o Plano Safra será reorganizado para premiar produtores que invistam em processamento e verticalização.",
+    "contexto_mascarado": "A meta é simples: nenhuma colheita brasileira a partir de 2035 deve depender de fertilizante russo, bielorrusso ou marroquino. O quarto pilar é o salto na agroindústria e nas cadeias produtivas completas. O exemplo do suco de laranja, em que o Brasil se tornou líder mundial na exportação do suco industrializado, mostra o caminho. Replicaremos esse modelo no café, na soja, no cacau, na carne e em outros produtos dos quais hoje exportamos a matéria-prima e importamos de volta o valor agregado. A política de Zonas Econômicas Especiais, as linhas de crédito do BNDES condicionadas a metas de exportação e a busca de acordos comerciais bilaterais serão nossos principais instrumentos. Em paralelo, o Plano Safra será reorganizado para premiar produtores que invistam em processamento e verticalização. O quinto pilar é a correção da narrativa educacional e cultural sobre o agronegócio. Enquanto hoje a educação brasileira está tomada por uma narrativa que retrata o agro como antagonista da sustent[***]"
+  },
+  {
+    "id": "cury-economia-agro",
+    "apelido_neutro": "Candidato E",
+    "eixo": "Economia",
+    "subtema_id": "economia-agro",
+    "texto_mascarado": "A incerteza climática é um dos maiores riscos para a produção nacional. Ampliaremos significativamente a cobertura do Programa de Subvenção ao Prêmio do Seguro Rural (PSR), garantindo que o produtor tenha um antídoto contra eventos climáticos extremos. O seguro deixará de ser um luxo para tornar-se uma ferramenta indispensável de fomento ao crédito rural, gestão de risco e prevenção contra o endividamento sistêmico no campo.",
+    "contexto_mascarado": "Objetivo é dobrar a produção de alimentos nos próximos 10 anos, para que possamos alimentar mais de 2 bilhões de seres humanos e, assim, poderemos estar de igual para igual no tabuleiro das nações, em destaque com os Estados Unidos e China. O Brasil será “vendido” como supermercado do mundo e não como celeiro do mundo. h) Gestão de Risco e Seguro Rural A incerteza climática é um dos maiores riscos para a produção nacional. Ampliaremos significativamente a cobertura do Programa de Subvenção ao Prêmio do Seguro Rural (PSR), garantindo que o produtor tenha um antídoto contra eventos climáticos extremos. O seguro deixará de ser um luxo para tornar-se uma ferramenta indispensável de fomento ao crédito rural, gestão de risco e prevenção contra o endividamento sistêmico no campo. 9. INFRAESTRUTURA PARA O DESENVOLVIMENTO a) Ampliação das concessões e parcerias público-privadas"
+  },
+  {
+    "id": "lula-educacao-ensino-superior",
+    "apelido_neutro": "Candidato A",
+    "eixo": "Educação",
+    "subtema_id": "educacao-ensino-superior",
+    "texto_mascarado": "Haverá também novo ciclo expansão e interiorização da educação superior pública para superar os vazios educacionais e as assimetrias regionais. Adotaremos medidas para aperfeiçoar a assistência estudantil, para garantir a permanência e a conclusão dos cursos pelos estudantes nas instituições públicas.",
+    "contexto_mascarado": "Daremos sequência ao fomento ao ensino superior no [***]. Além de concluir as obras em curso, inclusive dos novos campi, será concluída a implantação da nova unidade do ITA, no Ceará, e da Universidade Indígena e da Universidade do Esporte. Haverá também novo ciclo expansão e interiorização da educação superior pública para superar os vazios educacionais e as assimetrias regionais. Adotaremos medidas para aperfeiçoar a assistência estudantil, para garantir a permanência e a conclusão dos cursos pelos estudantes nas instituições públicas.\n\n[***]\n\nContinuaremos a investir na ampliação e na melhoria da qualidade de pósgraduação nas áreas de conhecimento, nas regiões e nas localidades pouco ou não atendidas."
+  },
+  {
+    "id": "flavio-educacao-ensino-superior",
+    "apelido_neutro": "Candidato B",
+    "eixo": "Educação",
+    "subtema_id": "educacao-ensino-superior",
+    "texto_mascarado": "E os cursos de pós-graduação voltados ao mercado, o lato sensu, vão aproximar empresas e universidades: as instituições de ensino poderão receber recursos em troca da formação dos profissionais de que o país precisa, premiando quem forma para o emprego que existe.",
+    "contexto_mascarado": "O Brasil não pode formar gente para o passado enquanto o mundo do trabalho corre para a frente. No ensino superior, vamos transferir a governança para o Ministério da Ciência, Tecnologia e Inovações, unificando ciência e ensino superior sob o mesmo teto. A CAPES e o CNPq passarão a priorizar o impacto produtivo, a inovação e a transferência de tecnologia, para que a pesquisa feita na universidade chegue à indústria e vire produto, emprego e renda, em vez de ficar na estante. E os cursos de pós-graduação voltados ao mercado, o lato sensu, vão aproximar empresas e universidades: as instituições de ensino poderão receber recursos em troca da formação dos profissionais de que o país precisa, premiando quem forma para o emprego que existe. Vamos também aprimorar o financiamento estudantil. O modelo atual afasta o jovem de baixa renda, que desiste da faculdade com medo de terminar o curso afogado em dívida, antes mesmo do primeiro emprego. Em lugar dele, vamos adotar o Empréstimo Contingente à Renda: o estudante só começa a pagar quando estiver empregado e ganhando, o valor da parcela é proporcional ao que ele recebe e o prazo é bem mais longo. Estudar deixa de ser uma aposta arriscada e volta a ser o caminho seguro para subir na vida."
+  },
+  {
+    "id": "caiado-educacao-ensino-superior",
+    "apelido_neutro": "Candidato C",
+    "eixo": "Educação",
+    "subtema_id": "educacao-ensino-superior",
+    "texto_mascarado": "Elevar exigências de avaliação, fechar ou reestruturar cursos persistentemente insuficientes e combater evasão. Reformar formação em engenharia, ciência, saúde, educação e tecnologia, aproximando currículos de pesquisa, prática profissional e demandas sociais.",
+    "contexto_mascarado": "14. Ensino superior com qualidade e relevância Elevar exigências de avaliação, fechar ou reestruturar cursos persistentemente insuficientes e combater evasão. Reformar formação em engenharia, ciência, saúde, educação e tecnologia, aproximando currículos de pesquisa, prática profissional e demandas sociais.\n\n15. Universidade, empresa e inovação Criar mestrados profissionais robustos, residências tecnológicas e mecanismos simples de parceria entre universidades, ICTs e empresas. Valorizar professores com experiência externa e pesquisadores que gerem conhecimento, patentes, soluções públicas e novos negócios. [***]"
+  },
+  {
+    "id": "renan-educacao-ensino-superior",
+    "apelido_neutro": "Candidato D",
+    "eixo": "Educação",
+    "subtema_id": "educacao-ensino-superior",
+    "texto_mascarado": "Por fim, temos no horizonte uma ambiciosa reforma do ensino superior, dentro da qual devemos também enfrentar uma série de questões centrais, que tensionarão esta relação ainda mais: devemos realocar os recursos atualmente investidos em cursos bacharelescos para a área de STEM; substituir o sistema de cotas por um sistema de bolsas de mérito;",
+    "contexto_mascarado": "Devemos criar outros instrumentos para a retenção do aluno em sala para além da progressão. Por fim, temos no horizonte uma ambiciosa reforma do ensino superior, dentro da qual devemos também enfrentar uma série de questões centrais, que tensionarão esta relação ainda mais: devemos realocar os recursos atualmente investidos em cursos bacharelescos para a área de STEM; substituir o sistema de cotas por um sistema de bolsas de mérito; criar faculdades cuja oferta de cursos dialogue com as necessidades de desenvolvimento industrial delineadas no plano industrial da [***]; criar centro de pesquisa universitários voltados para explorar o potencial das terras raras e criar a tecnologia capaz de produzir uma cadeia produtiva completa, que vá da extração do minério até a produção de componentes tecnológicos avançados. Nosso modelo deverá ser o de países como China, Cingapura e Israel, entre outros, amplamente exitosos na preparação de quadros qualificados para inovação e tecnologia. As propostas principais da [***] para a educação obedecem a duas injunções principais, que foram colocadas como problemas na seção anterior. O partido [***], portanto, avança com as seguintes propostas fundamentais: [***]"
+  },
+  {
+    "id": "cury-educacao-ensino-superior",
+    "apelido_neutro": "Candidato E",
+    "eixo": "Educação",
+    "subtema_id": "educacao-ensino-superior",
+    "texto_mascarado": "Os campi universitários devem tornar-se ambientes de inovação, com incubadoras, laboratórios tecnológicos, centros de pesquisa aplicada e programas de incentivo à criação de startups. O conhecimento produzido nas universidades deve gerar empresas, empregos, novas tecnologias e oportunidades para as futuras gerações.",
+    "contexto_mascarado": "A produção científica deve deixar de ser uma atividade isolada para tornar-se um dos principais motores do desenvolvimento nacional. Precisamos ampliar os investimentos em pesquisa, fortalecer nossos pesquisadores e criar um ambiente que estimule a criatividade, a investigação científica e a busca permanente por soluções para os grandes desafios do Brasil. Também queremos uma universidade que empreende. Os campi universitários devem tornar-se ambientes de inovação, com incubadoras, laboratórios tecnológicos, centros de pesquisa aplicada e programas de incentivo à criação de startups. O conhecimento produzido nas universidades deve gerar empresas, empregos, novas tecnologias e oportunidades para as futuras gerações. Da mesma forma, precisamos construir uma universidade que produz patentes. O Brasil possui pesquisadores talentosos e inúmeras descobertas científicas que, muitas vezes, permanecem restritas às publicações acadêmicas. Nosso objetivo é estimular o registro de patentes, fortalecer a cultura da propriedade intelectual e ampliar a transferência de tecnologia para o setor produtivo, transformando conhecimento em inovação de impacto."
+  },
+  {
+    "id": "lula-educacao-alfabetizacao",
+    "apelido_neutro": "Candidato A",
+    "eixo": "Educação",
+    "subtema_id": "educacao-alfabetizacao",
+    "texto_mascarado": "Seguiremos com as ações e políticas já pactuadas com os estados e municípios brasileiros para chegarmos à meta de 80% das nossas crianças alfabetizadas na idade certa. Ao mesmo tempo, continuaremos fortalecendo as políticas de enfrentamento do analfabetismo na população adulta e vamos instituir uma estratégia nacional permanente de recomposição e aceleração das aprendizagens, com atenção especial aos anos finais do ensino fundamental e ao ensino médio.",
+    "contexto_mascarado": "O [programa federal de alfabetização na idade certa] instituiu uma estratégia nacional de cooperação federativa, cujos resultados – 66% das crianças alfabetizadas na idade certa em 2025 - superaram a meta prevista de 64%. Seguiremos com as ações e políticas já pactuadas com os estados e municípios brasileiros para chegarmos à meta de 80% das nossas crianças alfabetizadas na idade certa.\n\nAo mesmo tempo, continuaremos fortalecendo as políticas de enfrentamento do analfabetismo na população adulta e vamos instituir uma estratégia nacional permanente de recomposição e aceleração das aprendizagens, com atenção especial aos anos finais do ensino fundamental e ao ensino médio."
+  },
+  {
+    "id": "flavio-educacao-alfabetizacao",
+    "apelido_neutro": "Candidato B",
+    "eixo": "Educação",
+    "subtema_id": "educacao-alfabetizacao",
+    "texto_mascarado": "O começo de tudo é alfabetizar direito. Vamos priorizar o método fônico, que é o de melhor resultado comprovado pela ciência, ensinando a criança a ligar cada som à sua letra, em vez das abordagens que fracassaram por décadas.",
+    "contexto_mascarado": "educação, o Brasil aparece na 65ª posição entre 81 países em matemática. Faltou método, faltou cobrança e sobrou ideologia. O começo de tudo é alfabetizar direito. Vamos priorizar o método fônico, que é o de melhor resultado comprovado pela ciência, ensinando a criança a ligar cada som à sua letra, em vez das abordagens que fracassaram por décadas. E, para o aluno com dificuldade ao longo do ensino fundamental, vamos criar o [programa de reforço escolar entre alunos]: um aluno com bom desempenho é remunerado para dar reforço aos colegas que precisam, de forma remota ou presencial. Todos ganham, quem precisa recebe ajuda de alguém próximo, que fala a sua língua, e quem ajuda ganha uma renda e aprende ainda mais ao ensinar. O objetivo é claro: ninguém avança de série sem ter aprendido. A escola será cobrada pelo que existe para fazer. A gestão passa a ser baseada em indicadores de resultado e proficiência, e o financiamento seguirá o orçamento"
+  },
+  {
+    "id": "caiado-educacao-alfabetizacao",
+    "apelido_neutro": "Candidato C",
+    "eixo": "Educação",
+    "subtema_id": "educacao-alfabetizacao",
+    "texto_mascarado": "Apoiar estados e municípios para que todas as crianças leiam, escrevam, compreendam e dominem fundamentos matemáticos até o fim do 2º ano. Oferecer formação, material baseado em evidências, avaliação diagnóstica, tutoria e incentivo por melhoria com equidade.",
+    "contexto_mascarado": "Propostas para 2027–2030 1. [programa federal de alfabetização e matemática] Apoiar estados e municípios para que todas as crianças leiam, escrevam, compreendam e dominem fundamentos matemáticos até o fim do 2º ano. Oferecer formação, material baseado em evidências, avaliação diagnóstica, tutoria e incentivo por melhoria com equidade.\n\n2. Primeira infância com qualidade Universalizar pré-escola e ampliar creches prioritariamente para famílias vulneráveis e territórios com baixa oferta, combinando construção, conveniamento regulado e apoio a municípios. Avaliar qualidade, formação de profissionais, desenvolvimento infantil e integração com saúde e assistência."
+  },
+  {
+    "id": "renan-educacao-alfabetizacao",
+    "apelido_neutro": "Candidato D",
+    "eixo": "Educação",
+    "subtema_id": "educacao-alfabetizacao",
+    "texto_mascarado": "Também buscaremos a adoção universal do sistema fônico de alfabetização, que se encontra amparado pelas melhores evidências científicas disponíveis, dando aliás respaldo a uma orientação que já se encontra contemplada na BNCC e na Política Nacional de Alfabetização.",
+    "contexto_mascarado": "Em um país de tradição universitária incipiente como o Brasil, que ainda possui um perfil marcadamente elitista, a maior parte da sociedade possui somente esta escolaridade em seu limite. Portanto, nos concentraremos em pensar soluções frontais e exequíveis para estes dois problemas. [***] No Brasil, o melhor exemplo de elevação da educação básica encontra-se no Ceará e é, portanto, a este modelo que nos remetemos, pensando modos de adequar as suas práticas no contexto nacional. Também buscaremos a adoção universal do sistema fônico de alfabetização, que se encontra amparado pelas melhores evidências científicas disponíveis, dando aliás respaldo a uma orientação que já se encontra contemplada na BNCC e na Política Nacional de Alfabetização. Para além disso, devemos impor um sistema de ranqueamento das escolas mais violentas do país e um código de conduta disciplinar para o estudante com previsões de sanções efetivas. Nas escolas localizadas em regiões com elevada criminalidade ou que atestem graves problemas indisciplinares, buscaremos ampliar a competência da União para ela proceder à adoção do modelo de escolas civis-militares. Atualmente, a competência da União em educação é bastante limitada."
+  },
+  {
+    "id": "lula-educacao-tempo-integral",
+    "apelido_neutro": "Candidato A",
+    "eixo": "Educação",
+    "subtema_id": "educacao-tempo-integral",
+    "texto_mascarado": "A partir de 2026, com a inclusão, no Fundeb, do financiamento à educação em tempo integral, a expectativa é que a ampliação dessa modalidade se acelere, garantindo melhores condições de aprendizado para os estudantes.",
+    "contexto_mascarado": "O fomento à expansão da educação em tempo integral terá absoluta prioridade no [***]. Entre 2023 e 2025, 1,8 milhão de novas matrículas foram registradas. A partir de 2026, com a inclusão, no Fundeb, do financiamento à educação em tempo integral, a expectativa é que a ampliação dessa modalidade se acelere, garantindo melhores condições de aprendizado para os estudantes.\n\n[***]\n\nCom recursos do [programa federal de investimentos em infraestrutura], apoiamos, no [***], estados e municípios na melhoria e expansão de sua infraestrutura de educação básica. Repassamos recursos para a construção de 686 escolas de educação em tempo integral. Na segunda edição do [programa federal de investimentos em infraestrutura], manteremos o apoio a estados e municípios. Vale lembrar que o governo [***] também retomou obras que estavam paralisadas em governos anteriores – no caso da educação, são 5.967 creches, escolas, quadras esportivas e outros equipamentos que tiveram seus contratos repactuados e voltaram a receber recursos para conclusão."
+  },
+  {
+    "id": "flavio-educacao-tempo-integral",
+    "apelido_neutro": "Candidato B",
+    "eixo": "Educação",
+    "subtema_id": "educacao-tempo-integral",
+    "texto_mascarado": "Apoiamos a escola em tempo integral, para que a criança tenha mais tempo de aprendizado, reforço e atividades formativas, e não fique entregue à própria sorte no contraturno.",
+    "contexto_mascarado": "Os professores terão qualificação contínua baseada em evidências científicas, e não em modismos pedagógicos, com formação que os prepare para ensinar bem, e não para militar em sala de aula. A educação será orientada pelo conhecimento e livre de doutrinação político-partidária, respeitando a liberdade de consciência e o papel das famílias. Escola é lugar de aprender a pensar, não de aprender o que pensar, e quem decide sobre os valores que o filho recebe são os pais. Vamos ampliar as Escolas Cívico-Militares, que uniram disciplina e bom desempenho onde foram implantadas, e garantir atendimento ao aluno com altas habilidades, que hoje se perde por falta de estímulo: a política nacional que trata do tema é lei mas segue sem implementação, e nós vamos tirá-la do papel. Vamos ainda levar robótica, computadores, tablets e internet às escolas, e incluir no currículo competências para a economia digital, preparando o jovem para lidar com o próprio dinheiro, empreender e usar as novas tecnologias, entre elas a inteligência artificial. Apoiamos a escola em tempo integral, para que a criança tenha mais tempo de aprendizado, reforço e atividades formativas, e não fique entregue à própria sorte no contraturno. Manteremos as escolas abertas nas férias com o Escola"
+  },
+  {
+    "id": "caiado-educacao-tempo-integral",
+    "apelido_neutro": "Candidato C",
+    "eixo": "Educação",
+    "subtema_id": "educacao-tempo-integral",
+    "texto_mascarado": "Ampliar vagas priorizando educação infantil, anos finais e ensino médio em territórios vulneráveis. O tempo adicional incluirá aprendizagem, esporte, cultura, projeto de vida, ciência e apoio aos estudantes, não mera permanência física.",
+    "contexto_mascarado": "9. Escola em tempo integral com propósito Ampliar vagas priorizando educação infantil, anos finais e ensino médio em territórios vulneráveis. O tempo adicional incluirá aprendizagem, esporte, cultura, projeto de vida, ciência e apoio aos estudantes, não mera permanência física.\n\n10. Bolsa de permanência focalizada Aperfeiçoar incentivos financeiros a estudantes de baixa renda com maior risco de abandono, vinculados à matrícula, frequência e conclusão, sem punir famílias por falhas da oferta escolar. Integrar benefício a orientação, saúde mental e formação profissional.\n\n11. Segurança e convivência escolar Criar política nacional de prevenção à violência, protocolos de ameaça, mediação, equipes de apoio, proteção digital e articulação com saúde e segurança. Ambientes seguros exigem autoridade, vínculo, participação familiar e resposta precoce a sofrimento e bullying."
+  },
+  {
+    "id": "flavio-reformas-pacto-federativo",
+    "apelido_neutro": "Candidato B",
+    "eixo": "Reformas",
+    "subtema_id": "reformas-pacto-federativo",
+    "texto_mascarado": "Promoveremos a revisão do pacto federativo e a redefinição das regras e dos processos orçamentários, e revisar a legislação para agilizar a aprovação, a liberação dos recursos e a prestação de contas. Hoje o dinheiro existe, mas emperra no caminho: o gestor local recebe o recurso e não consegue executá-lo, travado por exigências que consomem meses.",
+    "contexto_mascarado": "Vamos retomar e aprofundar esse caminho. Promoveremos a revisão do pacto federativo e a redefinição das regras e dos processos orçamentários, e revisar a legislação para agilizar a aprovação, a liberação dos recursos e a prestação de contas. Hoje o dinheiro existe, mas emperra no caminho: o gestor local recebe o recurso e não consegue executá-lo, travado por exigências que consomem meses. Destravar isso é fazer a escola ser reformada mais rápido, o posto de saúde funcionar antes e o dinheiro do cidadão render mais perto de casa. No mesmo esforço de organizar melhor o orçamento, daremos mais transparência, controle e rastreabilidade às emendas parlamentares, priorizando sua alocação em políticas públicas prioritárias do Plano Plurianual, aprovado pelo parlamento."
+  },
+  {
+    "id": "caiado-reformas-pacto-federativo",
+    "apelido_neutro": "Candidato C",
+    "eixo": "Reformas",
+    "subtema_id": "reformas-pacto-federativo",
+    "texto_mascarado": "A União coordenará o que exige escala nacional e apoiará estados e municípios na execução. Consórcios, regiões integradas e transferências condicionadas a resultados permitirão soluções adaptadas às diferenças do país, sem centralização desnecessária.",
+    "contexto_mascarado": "4. Respeitar a federação e aproximar decisões do território A União coordenará o que exige escala nacional e apoiará estados e municípios na execução. Consórcios, regiões integradas e transferências condicionadas a resultados permitirão soluções adaptadas às diferenças do país, sem centralização desnecessária.\n\n5. Fazer o Estado funcionar como uma organização integrada Compartilhar cadastros, serviços administrativos, compras, patrimônio, tecnologia e dados. O cidadão terá identidade digital, canal único de atendimento e direito de não apresentar ao governo informação que já esteja em base pública, observadas a privacidade e a segurança.\n\n6. Planejar antes de anunciar e concluir o que foi iniciado Criar carteira nacional de projetos com estudos, licenças, modelagem e cronograma, priorizando a conclusão de obras e serviços paralisados quando houver viabilidade. Novos compromissos só serão assumidos com fonte de financiamento, governança e capacidade de execução."
+  },
+  {
+    "id": "renan-reformas-pacto-federativo",
+    "apelido_neutro": "Candidato D",
+    "eixo": "Reformas",
+    "subtema_id": "reformas-pacto-federativo",
+    "texto_mascarado": "Será classificado como inviável o município incapaz de cobrir suas despesas obrigatórias com receita própria, com indicadores de Capacidade de Pagamento (CAPAG) estruturalmente comprometidos. Adotaremos como referência o critério já discutido pela PEC 188/2019: arrecadação direta de impostos de competência municipal (IPTU, ISS e ITBI), equivalente a pelo menos 10% da receita total.",
+    "contexto_mascarado": "Nessa linha, o governo da [***] vai promover a maior reorganização territorial da história republicana brasileira: a [programa federal de fusão de municípios], programa federal de fusão de municípios inviáveis em unidades administrativas com escala suficiente para entregar serviços públicos de qualidade. A consolidação tomará como referência metodológica a tese dos amálgamas municipais desenvolvida na UFPB, que demonstra a possibilidade técnica de reduzir o número de municípios brasileiros em até 70%, de 5.570 para algo próximo de 1.656, combinando contiguidade geográfica, complementaridade econômica e capacidades fiscais entre municípios vizinhos da mesma unidade da federação. A consolidação operará segundo critérios objetivos de viabilidade, articulados em quatro eixos: Viabilidade fiscal. Será classificado como inviável o município incapaz de cobrir suas despesas obrigatórias com receita própria, com indicadores de Capacidade de Pagamento (CAPAG) estruturalmente comprometidos. Adotaremos como referência o critério já discutido pela PEC 188/2019: arrecadação direta de impostos de competência municipal (IPTU, ISS e ITBI), equivalente a pelo menos 10% da receita total. Hoje, uma parcela robusta dos municípios brasileiros não atinge esse patamar. Viabilidade geográfica."
+  },
+  {
+    "id": "flavio-reformas-sistema-politico",
+    "apelido_neutro": "Candidato B",
+    "eixo": "Reformas",
+    "subtema_id": "reformas-sistema-politico",
+    "texto_mascarado": "O foco deve ser a representatividade e a proximidade entre o eleitor e o eleito, superando o sistema atual em que a desconexão perdura ao longo de toda a legislatura de quatro anos. E propomos o fim da reeleição para o cargo de Presidente da República.",
+    "contexto_mascarado": "Reforma política A reforma política é urgente e será prioridade. O modelo atual favorece a perpetuação de políticas de \"meia-entrada\", o capitalismo de compadrio e a falta de atenção às necessidades básicas da população. Houve, recentemente, uma queda importante no número de partidos com assento no parlamento, mas é preciso ir além, para que os partidos tenham de fato nitidez programática e densidade. O foco deve ser a representatividade e a proximidade entre o eleitor e o eleito, superando o sistema atual em que a desconexão perdura ao longo de toda a legislatura de quatro anos. E propomos o fim da reeleição para o cargo de Presidente da República. Ao contrário do [***], o nosso projeto é de país, não de poder. Já existe uma PEC protocolada no Senado Federal com essa proposta, de autoria do [***]."
+  },
+  {
+    "id": "caiado-reformas-sistema-politico",
+    "apelido_neutro": "Candidato C",
+    "eixo": "Reformas",
+    "subtema_id": "reformas-sistema-politico",
+    "texto_mascarado": "Propor modelo em que parte dos representantes seja eleita em distritos territoriais e parte por listas partidárias, preservando a proporcionalidade e combinando vínculo local com representação das correntes de opinião.",
+    "contexto_mascarado": "Propostas para 2027–2030 1. Liderar a adoção do sistema distrital misto Propor modelo em que parte dos representantes seja eleita em distritos territoriais e parte por listas partidárias, preservando a proporcionalidade e combinando vínculo local com representação das correntes de opinião.\n\n2. Estabelecer transição segura e amplamente debatida Construir a reforma com o Congresso, Justiça Eleitoral, partidos, especialistas e sociedade, definindo desenho dos distritos, regras de listas, critérios de proporcionalidade, calendário de implantação e proteção à representação regional e de minorias.\n\n3. Fortalecer a democracia interna dos partidos Exigir regras transparentes para convenções, escolha de dirigentes e candidatos, participação dos filiados, prestação de contas e solução de conflitos internos, respeitada a autonomia partidária prevista na Constituição."
+  },
+  {
+    "id": "renan-reformas-sistema-politico",
+    "apelido_neutro": "Candidato D",
+    "eixo": "Reformas",
+    "subtema_id": "reformas-sistema-politico",
+    "texto_mascarado": "O repasse do Fundo Partidário e do Fundo Eleitoral passará a ser calculado com base na qualidade gerencial dos mandatários. Partidos que selecionarem e mantiverem gestores competentes serão premiados; legendas que sustentarem prefeitos cassados ou com indicadores “vermelhos” sofrerão retenção de recursos.",
+    "contexto_mascarado": "Municípios com desempenho crítico entrarão em [regime de tutela da gestão municipal], exigindo dupla assinatura (Prefeito e [agente federal de fiscalização municipal]) para gastos. Gestores que falharem reiteradamente nas metas de longo prazo estarão sujeitos à Inelegibilidade Superveniente e ao processo de Cassação por [improbidade na gestão municipal] perante os Tribunais de Justiça. ▪ Cláusula Antimáfia: Inspirada na legislação italiana, a lei permitirá ao STJ decretar a dissolução imediata de administrações capturadas pelo crime organizado ou milícias. Nesses casos, o mandato eletivo é extinto e o município passa a ser gerido por uma comissão extraordinária federal por até 24 meses, quebrando o nexo entre o poder político local e as facções criminosas. ▪ Vínculo com o Financiamento Partidário: O repasse do Fundo Partidário e do Fundo Eleitoral passará a ser calculado com base na qualidade gerencial dos mandatários. Partidos que selecionarem e mantiverem gestores competentes serão premiados; legendas que sustentarem prefeitos cassados ou com indicadores “vermelhos” sofrerão retenção de recursos. A [lei de responsabilidade da gestão municipal] transformará a administração municipal de um feudo político em uma unidade de entrega técnica."
+  },
+  {
+    "id": "cury-reformas-sistema-politico",
+    "apelido_neutro": "Candidato E",
+    "eixo": "Reformas",
+    "subtema_id": "reformas-sistema-politico",
+    "texto_mascarado": "Propomos a adoção de um modelo semipresidencialista, no qual o Presidente da República compartilha a condução do governo com um Primeiro-Ministro escolhido a partir da maioria parlamentar. Esse modelo busca maior estabilidade política, eficiência administrativa e redução de crises institucionais.",
+    "contexto_mascarado": "16. REFORMA POLÍTICA E INSTITUCIONAL a) Implantação do semipresidencialismo Propomos a adoção de um modelo semipresidencialista, no qual o Presidente da República compartilha a condução do governo com um Primeiro-Ministro escolhido a partir da maioria parlamentar. Esse modelo busca maior estabilidade política, eficiência administrativa e redução de crises institucionais. b) Reforma do sistema político O sistema político será modernizado para reduzir a fragmentação partidária, fortalecer a governabilidade e aumentar a representatividade. Serão discutidas medidas como cláusulas de desempenho mais rigorosas, maior transparência partidária e aprimoramento do sistema eleitoral. c) Reforma do Supremo Tribunal Federal Defendemos uma reforma institucional do Supremo Tribunal Federal para garantir maior equilíbrio entre os Poderes, previsibilidade jurídica e fortalecimento da segurança institucional. O objetivo é preservar a independência do Judiciário, ao mesmo tempo em que se aprimora sua governança e critérios de atuação. d) Modernização do Estado brasileiro"
+  },
+  {
+    "id": "lula-reformas-governo-digital",
+    "apelido_neutro": "Candidato A",
+    "eixo": "Reformas",
+    "subtema_id": "reformas-governo-digital",
+    "texto_mascarado": "Vamos continuar investindo na universalização dos serviços públicos digitais de qualidade, e na construção de infraestruturas públicas digitais que deem suporte à personalização dos serviços. Vamos buscar alavancar novas iniciativas que melhorem e facilitem a experiência de uso de plataformas públicas",
+    "contexto_mascarado": "Vamos continuar investindo na universalização dos serviços públicos digitais de qualidade, e na construção de infraestruturas públicas digitais que deem suporte à personalização dos serviços. Vamos buscar alavancar novas iniciativas que melhorem e facilitem a experiência de uso de plataformas públicas, como o Gov. br, que já reúne mais de 5 mil serviços públicos federais.\n\nInstituiremos uma Política Nacional de Letramento Digital, estruturada para capacitar cidadãos de todas as idades a navegar criticamente na rede, combater a desinformação, proteger sua privacidade e transformar o ecossistema digital em um espaço de geração de renda, educação continuada e pleno exercício da cidadania. Propomos a criação de um Conselho Nacional pela Soberania Digital, com participação da sociedade."
+  },
+  {
+    "id": "flavio-reformas-governo-digital",
+    "apelido_neutro": "Candidato B",
+    "eixo": "Reformas",
+    "subtema_id": "reformas-governo-digital",
+    "texto_mascarado": "Vamos digitalizar 100% dos serviços públicos do Governo Federal passíveis de digitalização, sob o princípio do digital by design, e eliminar a exigência de reapresentar documentos que o Estado já possui. Se o governo já tem a informação, não vai pedir de novo.",
+    "contexto_mascarado": "Vamos digitalizar 100% dos serviços públicos do Governo Federal passíveis de digitalização, sob o princípio do digital by design, e eliminar a exigência de reapresentar documentos que o Estado já possui. Se o governo já tem a informação, não vai pedir de novo. A identidade digital única, com autenticação integrada ao Gov.br, permitirá que assistentes automatizados montem a trilha de serviços de cada cidadão, inclusive por comando de voz, o que facilita a vida de quem tem mais idade ou menos familiaridade com tecnologia. Em vez de o cidadão procurar o serviço, o serviço passa a encontrá-lo. Vamos assegurar que esses serviços sejam simples, intuitivos e acessíveis a qualquer cidadão. O Brasil se tornou uma das maiores referências mundiais em governo digital, graças ao trabalho do governo [***]. Vamos aprofundar essa liderança e fazê-la chegar a cada brasileiro, onde quer que ele viva, até que nenhum serviço público exija sair de casa ou perder o dia de trabalho."
+  },
+  {
+    "id": "caiado-reformas-governo-digital",
+    "apelido_neutro": "Candidato C",
+    "eixo": "Reformas",
+    "subtema_id": "reformas-governo-digital",
+    "texto_mascarado": "Compartilhar cadastros, serviços administrativos, compras, patrimônio, tecnologia e dados. O cidadão terá identidade digital, canal único de atendimento e direito de não apresentar ao governo informação que já esteja em base pública, observadas a privacidade e a segurança.",
+    "contexto_mascarado": "5. Fazer o Estado funcionar como uma organização integrada Compartilhar cadastros, serviços administrativos, compras, patrimônio, tecnologia e dados. O cidadão terá identidade digital, canal único de atendimento e direito de não apresentar ao governo informação que já esteja em base pública, observadas a privacidade e a segurança.\n\n6. Planejar antes de anunciar e concluir o que foi iniciado Criar carteira nacional de projetos com estudos, licenças, modelagem e cronograma, priorizando a conclusão de obras e serviços paralisados quando houver viabilidade. Novos compromissos só serão assumidos com fonte de financiamento, governança e capacidade de execução."
+  },
+  {
+    "id": "cury-reformas-governo-digital",
+    "apelido_neutro": "Candidato E",
+    "eixo": "Reformas",
+    "subtema_id": "reformas-governo-digital",
+    "texto_mascarado": "Abrir uma empresa deverá ser rápido, simples e digital. Reduziremos exigências desnecessárias, integraremos sistemas públicos e diminuiremos o tempo necessário para formalização de novos negócios, estimulando investimentos e geração de empregos.",
+    "contexto_mascarado": "Nos próximos anos, o Brasil poderá formar uma das maiores economias empreendedoras do mundo. Nosso plano prevê apoio técnico, crédito, desburocratização e incentivo à inovação para criar milhões de novos empreendedores capazes de impulsionar o crescimento econômico. d) Regularização fundiária Milhões de brasileiros vivem sobre imóveis sem documentação definitiva. A regularização fundiária permitirá segurança jurídica, valorização patrimonial, acesso ao crédito e inclusão econômica dessas famílias, movimentando trilhões de reais em ativos atualmente improdutivos. e) Simplificação para abertura de empresas Abrir uma empresa deverá ser rápido, simples e digital. Reduziremos exigências desnecessárias, integraremos sistemas públicos e diminuiremos o tempo necessário para formalização de novos negócios, estimulando investimentos e geração de empregos. Esse formato aproxima-se dos grandes programas de governo internacionais, como o Projeto Nacional de Desenvolvimento da Coreia do Sul e os planos estratégicos adotados por países como Singapura e Irlanda. 4. [eixo de industrialização do plano] a) Programa Nacional para implantação de 10 mil novas indústrias (em destaque agroindústrias pequenas, médias e grandes) O Brasil precisa voltar a ser uma potência industrial."
+  },
+  {
+    "id": "cury-reformas-pacto-federativo",
+    "apelido_neutro": "Candidato E",
+    "eixo": "Reformas",
+    "subtema_id": "reformas-pacto-federativo",
+    "texto_mascarado": "Será revisto o atual formato de divisão federativa dos tributos que, atualmente, favorece a União e os Estados desfavorecendo os Municípios. Entendemos que a dor humana, como a saúde, a educação, a segurança, ocorre, em destaque, nos municípios, que carregam a responsabilidade e o custo de lidar com essas dores. Portanto, apresentaremos proposta de revisão do pacto federativo no aspecto tributário, o ideal seria menos União Federal e mais municípios.",
+    "contexto_mascarado": "Caso sejam identificadas distorções ou prejuízos relevantes, serão propostos os ajustes necessários, respeitando os princípios constitucionais e a segurança jurídica. Defenderemos a simplificação dos tributos, a redução da burocracia, a unificação de procedimentos e a diminuição dos custos de conformidade para empresas e cidadãos. Um sistema tributário mais simples, transparente e eficiente aumenta a competitividade, reduz litígios, favorece o ambiente de negócios e estimula novos investimentos. Será revisto o atual formato de divisão federativa dos tributos que, atualmente, favorece a União e os Estados desfavorecendo os Municípios. Entendemos que a dor humana, como a saúde, a educação, a segurança, ocorre, em destaque, nos municípios, que carregam a responsabilidade e o custo de lidar com essas dores. Portanto, apresentaremos proposta de revisão do pacto federativo no aspecto tributário, o ideal seria menos União Federal e mais municípios. g) Compromisso com uma carga tributária menor ao fim da transição A simplificação do sistema tributário já está em curso e será conduzida com responsabilidade até sua implantação plena. Nosso compromisso não será apenas administrar a transição, mas trabalhar para que ela resulte em carga menor para o cidadão e para o setor produtivo."
+  },
+  {
+    "id": "lula-saude-filas-regulacao",
+    "apelido_neutro": "Candidato A",
+    "eixo": "Saúde",
+    "subtema_id": "saude-filas-regulacao",
+    "texto_mascarado": "Aprimoraremos ainda mais a regulação do acesso à atenção especializada, garantindo maior transparência das filas e utilizando inteligência artificial, com fila única digital e ordenada pelo risco clínico, com transporte sanitário em todas as regiões de saúde.",
+    "contexto_mascarado": "Aprimoraremos ainda mais a regulação do acesso à atenção especializada, garantindo maior transparência das filas e utilizando inteligência artificial, com fila única digital e ordenada pelo risco clínico, com transporte sanitário em todas as regiões de saúde.\n\nVamos consolidar, em todo o Brasil, a maior rede pública de cuidado ao câncer do mundo, com prevenção, diagnóstico e tratamento ao câncer com equipamentos e tratamentos modernos e atualização de novos medicamentos quimioterápicos e imunoterápicos. Consolidaremos o [centro federal de telediagnóstico do câncer], reduzindo o tempo para realização de diagnóstico das biopsias nas regiões remotas ou com déficit de profissionais. Ampliaremos os Centros Especializados de diagnóstico e tratamento do câncer (UNACONS e CACONS), com expansão de centros de radioterapia e cirurgias."
+  },
+  {
+    "id": "flavio-saude-filas-regulacao",
+    "apelido_neutro": "Candidato B",
+    "eixo": "Saúde",
+    "subtema_id": "saude-filas-regulacao",
+    "texto_mascarado": "Para usar bem o que já existe, vamos contratar serviços e exames na rede privada nos horários ociosos: há aparelho parado enquanto gente espera meses pelo mesmo exame, e aproveitar essa capacidade é atender mais sem construir do zero.",
+    "contexto_mascarado": "Vamos assegurar uma remuneração que cubra o custo real do atendimento, para que o dinheiro público seja justo com quem atende e o cidadão tenha atendimento até onde hoje falta. Vamos ampliar a Estratégia Saúde da Família, levando o cuidado para perto de casa, e criar o Programa de Atendimento aos Idosos, com atendimento facilitado e adequado a quem envelhece, para que o idoso não enfrente o mesmo percurso cansativo de sempre para se cuidar. Vamos ainda ampliar o acesso a exames preventivos e manter a imunização e o incentivo à produção nacional de vacinas, porque prevenir é sempre mais barato e mais humano do que tratar tarde. Para usar bem o que já existe, vamos contratar serviços e exames na rede privada nos horários ociosos: há aparelho parado enquanto gente espera meses pelo mesmo exame, e aproveitar essa capacidade é atender mais sem construir do zero. Vamos também fortalecer a Rede Nacional de Hospitais Inteligentes (EBSERH), modernizando os hospitais universitários federais. Vamos também levar o atendimento até quem não consegue chegar até ele. Com a telessaúde e o teleatendimento por aplicativo, médicos de regiões com baixa demanda poderão atender pacientes onde as filas são longas, aproximando o cuidado de quem vive longe de um grande centro."
+  },
+  {
+    "id": "caiado-saude-filas-regulacao",
+    "apelido_neutro": "Candidato C",
+    "eixo": "Saúde",
+    "subtema_id": "saude-filas-regulacao",
+    "texto_mascarado": "Até 2030, reduzir em pelo menos 50% o tempo mediano das filas prioritárias nas regiões com maior espera, usando 2027 como linha de base; 100% das filas estratégicas com prioridade clínica, rastreabilidade e indicador público.",
+    "contexto_mascarado": "META 2030\n\nAté 2030, reduzir em pelo menos 50% o tempo mediano das filas prioritárias nas regiões com maior espera, usando 2027 como linha de base; 100% das filas estratégicas com prioridade clínica, rastreabilidade e indicador público."
+  },
+  {
+    "id": "renan-saude-filas-regulacao",
+    "apelido_neutro": "Candidato D",
+    "eixo": "Saúde",
+    "subtema_id": "saude-filas-regulacao",
+    "texto_mascarado": "devemos estabelecer uma fila a partir do grau de risco, não mais da simples prioridade cronológica, fundada nos seguintes critérios: (i) gravidade clínica atual; (ii) risco de progressão em curto e médio prazo; (iii) impacto funcional (a ameaça de perda da capacidade laboral e autonomia do paciente); (iv) vulnerabilidade social associada; (v) tempo acumulado de espera.",
+    "contexto_mascarado": "Ao se debruçar no assunto, nosso grupo setorial de pesquisadores de Saúde delineou o planejamento para aperfeiçoar a gestão da saúde brasileira com foco na questão do acesso. Na parte final da pesquisa, endereçamos uma ideia ventilada na pré-campanha: a de inserir compensações tributárias para o cuidado com a saúde física. [***] A orientação principal deste capítulo é enfrentar dois problemas conexos: a dificuldade de acesso, que em todas as pesquisas é indicada pela população como o maior problema da saúde, e a elevada onerosidade do sistema. A ideia central de nossa proposta é criar a [sistema de fila por grau de risco], um sistema de fila viva, que não fique engessado na ordem cronológica, mas atenda critérios objetivos de prioridade relativos ao estado do paciente. Com isso, devemos estabelecer uma fila a partir do grau de risco, não mais da simples prioridade cronológica, fundada nos seguintes critérios: (i) gravidade clínica atual; (ii) risco de progressão em curto e médio prazo; (iii) impacto funcional (a ameaça de perda da capacidade laboral e autonomia do paciente); (iv) vulnerabilidade social associada; (v) tempo acumulado de espera."
+  },
+  {
+    "id": "cury-saude-filas-regulacao",
+    "apelido_neutro": "Candidato E",
+    "eixo": "Saúde",
+    "subtema_id": "saude-filas-regulacao",
+    "texto_mascarado": "Antes da consulta, sistemas inteligentes poderão realizar uma triagem clínica inicial, coletando sintomas, identificando fatores de risco e organizando informações que auxiliem o profissional de saúde. Esses sistemas contribuirão para: Classificação automática de risco; Priorização dos casos mais graves; Redução das filas de espera;",
+    "contexto_mascarado": "O acesso à saúde não poderá depender do CEP onde o cidadão nasceu.\n\n3. INTELIGÊNCIA ARTIFICIAL A SERVIÇO DA VIDA A inteligência artificial não substituirá o médico, pelo contrário, será uma poderosa aliada da medicina. Antes da consulta, sistemas inteligentes poderão realizar uma triagem clínica inicial, coletando sintomas, identificando fatores de risco e organizando informações que auxiliem o profissional de saúde. Esses sistemas contribuirão para: • Classificação automática de risco; • Priorização dos casos mais graves; • Redução das filas de espera; • Otimização do tempo médico; • Maior precisão no encaminhamento dos pacientes."
+  },
+  {
+    "id": "lula-saude-prontuario-eletronico",
+    "apelido_neutro": "Candidato A",
+    "eixo": "Saúde",
+    "subtema_id": "saude-prontuario-eletronico",
+    "texto_mascarado": "é a integração entre a Atenção Primária, a Vigilância em Saúde, a Assistência Farmacêutica e a Atenção Especializada, com prontuário compartilhado, fluxos claros de referência e contrarreferência",
+    "contexto_mascarado": "Um dos mais importantes avanços no sistema, que já começamos a implementar e ganhará velocidade e escala na [***], é a integração entre a Atenção Primária, a Vigilância em Saúde, a Assistência Farmacêutica e a Atenção Especializada, com prontuário compartilhado, fluxos claros de referência e contrarreferência e articulação com as Ofertas de Cuidados Integrados (OCI), propiciando o conhecimento e a articulação do cuidado ao longo de toda a trajetória do usuário na rede.\n\nVamos acelerar os esforços na consolidação do prontuário único do cidadão, que já avança por meio da Rede Nacional de Dados em Saúde (RNDS). Essa integração dos sistemas de informação interfederativos permitirá disponibilizar diretamente no celular a marcação de consultas nas UBS e os resultados de exames, especialmente em regiões de vulnerabilidade e vazios assistenciais. Vamos acelerar a utilização de inteligência artificial para a triagem, a priorização de casos graves, a regulação por risco clínico e o diagnóstico em áreas com escassez de especialistas."
+  },
+  {
+    "id": "flavio-saude-prontuario-eletronico",
+    "apelido_neutro": "Candidato B",
+    "eixo": "Saúde",
+    "subtema_id": "saude-prontuario-eletronico",
+    "texto_mascarado": "Vamos implantar o prontuário eletrônico único, vinculado ao CPF e integrado ao Gov.br, interoperável entre as redes pública e privada, com histórico completo de consultas, exames, vacinas e prescrições, sempre observados o consentimento do paciente, a LGPD, o sigilo médico e os protocolos de segurança",
+    "contexto_mascarado": "espalhada em papéis, sistemas e unidades que não conversam entre si. O médico que atende hoje não sabe o que outro médico já descobriu. Esse trabalho foi iniciado no Governo [***]: criamos o [aplicativo federal de saúde digital] e a rede nacional que deu ao cidadão acesso ao seu histórico e começou a conectar os sistemas de saúde do país. Agora vamos concluí-lo. Vamos implantar o prontuário eletrônico único, vinculado ao CPF e integrado ao Gov.br, interoperável entre as redes pública e privada, com histórico completo de consultas, exames, vacinas e prescrições, sempre observados o consentimento do paciente, a LGPD, o sigilo médico e os protocolos de segurança O ganho é direto e pode salvar a sua vida. O médico do pronto-socorro saberá na hora quais remédios você toma e a que você é alérgico. O especialista não vai pedir de novo o exame que você fez no mês passado, nem fazer você esperar mais um mês pelo resultado. Um problema detectado no posto de saúde não se perde no caminho até o hospital. Você deixa de carregar pastas de papel e de repetir a mesma história em cada atendimento, e passa a ser tratado por quem já conhece o seu caso."
+  },
+  {
+    "id": "caiado-saude-prontuario-eletronico",
+    "apelido_neutro": "Candidato C",
+    "eixo": "Saúde",
+    "subtema_id": "saude-prontuario-eletronico",
+    "texto_mascarado": "Construir identidade clínica digital e interoperabilidade entre APS, especialista, laboratório, hospital, UTI, farmácia, reabilitação e vigilância. Adotar padrões abertos, segurança cibernética, governança, LGPD, registro de acesso e responsabilização clara. Transformar prontuários em instrumentos ativos de cuidado, com alertas para risco, rastreamento, vacinação, retorno pós-alta e abandono de tratamento.",
+    "contexto_mascarado": "Infraestrutura Nacional de Dados em Saúde\n\n• Construir identidade clínica digital e interoperabilidade entre APS, especialista, laboratório, hospital, UTI, farmácia, reabilitação e vigilância. • Adotar padrões abertos, segurança cibernética, governança, LGPD, registro de acesso e responsabilização clara. • Transformar prontuários em instrumentos ativos de cuidado, com alertas para risco, rastreamento, vacinação, retorno pós-alta e abandono de tratamento.\n\nAplicativo nacional do cidadão e canais inclusivos • Serviços digitais centrados no cidadão. Reunir vacinas, consultas, exames, receitas, resultados, posição na fila, alertas e remarcação em um canal nacional autenticado, preservando atendimento presencial e alternativas para pessoas com baixa conectividade ou letramento digital."
+  },
+  {
+    "id": "renan-saude-prontuario-eletronico",
+    "apelido_neutro": "Candidato D",
+    "eixo": "Saúde",
+    "subtema_id": "saude-prontuario-eletronico",
+    "texto_mascarado": "irá conectar a atenção primária, os serviços especializados, os hospitais públicos e privados, laboratórios e farmácias, servindo de repositório para todas as informações do paciente acessíveis a qualquer tempo.",
+    "contexto_mascarado": "4 Criação do [prontuário eletrônico nacional] que irá conectar a atenção\n\nprimária, os serviços especializados, os hospitais públicos e privados, laboratórios e farmácias, servindo de repositório para todas as informações do paciente acessíveis a qualquer tempo. Integração do [prontuário eletrônico nacional] ao sistema digital de saúde.\n\n5 Adoção do modelo Hub-and-Spoke com o objetivo de dirimir a descoordenação na atuação dos mu-\n\nnicípios, concentrando demandas mais complexas nos centros regionais de referência, impedindo que sejam utilizados para demandas difusas e primárias.\n\n6 Criação do [fundo federal de repasses à saúde municipal] com repasses aos municípios condi-"
+  },
+  {
+    "id": "cury-saude-prontuario-eletronico",
+    "apelido_neutro": "Candidato E",
+    "eixo": "Saúde",
+    "subtema_id": "saude-prontuario-eletronico",
+    "texto_mascarado": "O SUS é uma das maiores conquistas sociais do Brasil. Nossa prioridade será fortalecer sua gestão por meio da digitalização dos prontuários, integração dos sistemas, redução das filas, melhoria da eficiência administrativa e utilização de indicadores de desempenho para aprimorar continuamente os serviços prestados.",
+    "contexto_mascarado": "Professores, gestores, alunos e famílias receberão formação para construir ambientes escolares mais saudáveis, cooperativos e preparados para os desafios da sociedade contemporânea. 6. SAÚDE INTEGRAL a) Fortalecimento da atenção primária A atenção básica continuará sendo o principal eixo do Sistema Único de Saúde. Investiremos na prevenção de doenças, no acompanhamento das famílias e na ampliação das equipes multiprofissionais, reduzindo internações evitáveis e melhorando a qualidade de vida da população. b) Modernização do SUS O SUS é uma das maiores conquistas sociais do Brasil. Nossa prioridade será fortalecer sua gestão por meio da digitalização dos prontuários, integração dos sistemas, redução das filas, melhoria da eficiência administrativa e utilização de indicadores de desempenho para aprimorar continuamente os serviços prestados. c) Expansão da telemedicina Creremos transformar o Brasil em um maior centro de telemedicina do mundo. A tecnologia permitirá levar atendimento especializado, o mais rápido possível, a regiões distantes e reduzir desigualdades no acesso à saúde. Ampliaremos as consultas remotas, os laudos digitais e a integração entre hospitais, clínicas e unidades básicas, proporcionando atendimento mais rápido e eficiente."
+  },
+  {
+    "id": "lula-saude-atencao-primaria",
+    "apelido_neutro": "Candidato A",
+    "eixo": "Saúde",
+    "subtema_id": "saude-atencao-primaria",
+    "texto_mascarado": "Seguiremos mantendo o apoio à expansão e qualificação das equipes de saúde da família, em especial as equipes multiprofissionais, que serão peça central no cuidado à uma população que envelhece com velocidade. Fortaleceremos instrumentos de indução e de financiamento para adoção de parâmetros de qualidade no atendimento, em especial em territórios de maior vulnerabilidade social.",
+    "contexto_mascarado": "Seguiremos mantendo o apoio à expansão e qualificação das equipes de saúde da família, em especial as equipes multiprofissionais, que serão peça central no cuidado à uma população que envelhece com velocidade. Fortaleceremos instrumentos de indução e de financiamento para adoção de parâmetros de qualidade no atendimento, em especial em territórios de maior vulnerabilidade social.\n\nAvançamos na modernização, com a entrega de 5.257 kits de equipamentos para implantar teleconsultas. Vamos intensificar o apoio ao uso de ferramentas de saúde digital, como teleconsultas, teleorientação e teleacolhimento na rede básica de saúde. E vamos continuar investindo no aumento de oferta de exames e recursos diagnósticos, para aumentar a capacidade resolutiva das equipes e evitar encaminhamentos desnecessários à atenção especializada."
+  },
+  {
+    "id": "flavio-saude-atencao-primaria",
+    "apelido_neutro": "Candidato B",
+    "eixo": "Saúde",
+    "subtema_id": "saude-atencao-primaria",
+    "texto_mascarado": "Vamos também levar o atendimento até quem não consegue chegar até ele. Com a telessaúde e o teleatendimento por aplicativo, médicos de regiões com baixa demanda poderão atender pacientes onde as filas são longas, aproximando o cuidado de quem vive longe de um grande centro.",
+    "contexto_mascarado": "construir do zero. Vamos também fortalecer a Rede Nacional de Hospitais Inteligentes (EBSERH), modernizando os hospitais universitários federais. Vamos também levar o atendimento até quem não consegue chegar até ele. Com a telessaúde e o teleatendimento por aplicativo, médicos de regiões com baixa demanda poderão atender pacientes onde as filas são longas, aproximando o cuidado de quem vive longe de um grande centro. E um sistema de entrega de remédio em domicílio vai garantir que o idoso, a pessoa com deficiência e o doente crônico não precisem escolher entre buscar o tratamento e pagar o transporte. A tecnologia também ajuda a cuidar antes de a doença se agravar. Com inteligência artificial de apoio à prevenção, o sistema poderá identificar quem corre maior risco de adoecer e chamar essa pessoa para se cuidar a tempo, em vez de esperar que ela chegue ao pronto-socorro quando já é grave. É a diferença entre tratar no começo e tratar quando já não há muito a fazer."
+  },
+  {
+    "id": "caiado-saude-atencao-primaria",
+    "apelido_neutro": "Candidato C",
+    "eixo": "Saúde",
+    "subtema_id": "saude-atencao-primaria",
+    "texto_mascarado": "Planejar nacionalmente necessidades de médicos, enfermagem, multiprofissionais, especialistas, intensivistas, emergencistas, saúde mental, oncologia, geriatria, pediatria, saúde indígena, tecnologia e gestão. Expandir formação e residência onde houver vazios assistenciais, com incentivos para fixação territorial, carreira acadêmico-assistencial e educação permanente.",
+    "contexto_mascarado": "Força de trabalho para o SUS do futuro\n\n• Planejar nacionalmente necessidades de médicos, enfermagem, multiprofissionais, especialistas, intensivistas, emergencistas, saúde mental, oncologia, geriatria, pediatria, saúde indígena, tecnologia e gestão. • Expandir formação e residência onde houver vazios assistenciais, com incentivos para fixação territorial, carreira acadêmico-assistencial e educação permanente. • Criar programas nacionais de qualificação em emergência, UTI, telessaúde, segurança do paciente, dados e uso responsável de IA.\n\nValorizar e cuidar de quem cuida • Proteção e desenvolvimento dos profissionais. Fortalecer educação permanente, segurança no trabalho, apoio à saúde mental e prevenção de violência e burnout, além de exigir campos de prática, preceptoria e avaliação de qualidade na formação."
+  },
+  {
+    "id": "cury-saude-atencao-primaria",
+    "apelido_neutro": "Candidato E",
+    "eixo": "Saúde",
+    "subtema_id": "saude-atencao-primaria",
+    "texto_mascarado": "Nosso compromisso é estabelecer uma meta nacional de atendimento digital em até trinta minutos para os casos compatíveis com telemedicina. Para isso será criada uma plataforma nacional integrada, conectando profissionais de todas as regiões do país em uma única rede pública digital.",
+    "contexto_mascarado": "A tecnologia deve reduzir burocracias para que o médico possa dedicar mais tempo ao que realmente importa: cuidar das pessoas. 4. ATENDIMENTO RÁPIDO E INTEGRADO Nosso compromisso é estabelecer uma meta nacional de atendimento digital em até trinta minutos para os casos compatíveis com telemedicina. Para isso será criada uma plataforma nacional integrada, conectando profissionais de todas as regiões do país em uma única rede pública digital. Quando houver disponibilidade em um Estado, o atendimento poderá beneficiar imediatamente um paciente localizado em qualquer outra região. A distância deixará de ser uma barreira para o acesso à saúde. 5. UMA REDE NACIONAL DE MÉDICOS DE EXCELÊNCIA A qualidade da medicina digital dependerá da qualidade dos profissionais. O programa reunirá médicos de diferentes especialidades, estimulando a participação de profissionais altamente qualificados por meio de incentivos específicos para atuação na plataforma nacional. Também será implantado um sistema permanente de avaliação da qualidade dos atendimentos, baseado em indicadores clínicos, satisfação dos pacientes e atualização profissional contínua."
+  }
+]

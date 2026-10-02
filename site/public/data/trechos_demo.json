@@ -1,0 +1,57 @@
+[
+  {
+    "id": "demo-lula-saude",
+    "candidato_id": "lula",
+    "eixo": "Saúde",
+    "arquivo": "Lula_Plano_Original.md",
+    "linha_inicio": 1352,
+    "linha_fim": 1353,
+    "texto_literal": "Retomamos o Farmácia Popular, ampliando para 41 o número de medicamentos gratuitos distribuídos.",
+    "texto_mascarado": "Retomamos o Farmácia Popular, ampliando para 41 o número de medicamentos gratuitos distribuídos.",
+    "hash_texto": "205f9c88e2e055f2d2b63ec6770fc88473cbf56cf0a12b2a8928e613f3251fae"
+  },
+  {
+    "id": "demo-caiado-economia",
+    "candidato_id": "caiado",
+    "eixo": "Economia",
+    "arquivo": "Caiado_Plano_Original.md",
+    "linha_inicio": 547,
+    "linha_fim": 549,
+    "texto_literal": "COMPROMISSO: estabilizar a dívida, reconstruir superávits, proteger o investimento e reduzir o peso dos juros sem transferir a conta aos mais pobres e sem recorrer a aumentos permanentes de carga tributária.",
+    "texto_mascarado": "COMPROMISSO: estabilizar a dívida, reconstruir superávits, proteger o investimento e reduzir o peso dos juros sem transferir a conta aos mais pobres e sem recorrer a aumentos permanentes de carga tributária.",
+    "hash_texto": "c2af069667b7467f85718e4858ea61fe0c8c0e2c55d6209e6648eeb0dfb75c4f"
+  },
+  {
+    "id": "demo-cury-educacao",
+    "candidato_id": "cury",
+    "eixo": "Educação",
+    "arquivo": "Cury_Plano_Original1-2.md",
+    "linha_inicio": 2672,
+    "linha_fim": 2675,
+    "texto_literal": "O Projeto Brasil Neuroinclusivo institui uma política permanente de Estado para acolher crianças, adolescentes e adultos neurodivergentes, particularmente pessoas com autismo, TDAH, dislexia, transtornos de aprendizagem e altas habilidades.",
+    "texto_mascarado": "O Projeto Brasil Neuroinclusivo institui uma política permanente de Estado para acolher crianças, adolescentes e adultos neurodivergentes, particularmente pessoas com autismo, TDAH, dislexia, transtornos de aprendizagem e altas habilidades.",
+    "hash_texto": "9abef82055a887e3f7bff975c0d4dad16881431c75c54fb34f258de32e314d49"
+  },
+  {
+    "id": "demo-renan-reformas",
+    "candidato_id": "renan",
+    "eixo": "Reformas",
+    "arquivo": "Renan_Plano_Original.md",
+    "linha_inicio": 1837,
+    "linha_fim": 1838,
+    "texto_literal": "Nossa proposta é a desfavelização integral do Brasil em dez anos, transformando as 12.348 favelas em bairros formais, com títulos de propriedade, regras urbanísticas, presença do Estado e mistura de classes sociais.",
+    "texto_mascarado": "Nossa proposta é a desfavelização integral do Brasil em dez anos, transformando as 12.348 favelas em bairros formais, com títulos de propriedade, regras urbanísticas, presença do Estado e mistura de classes sociais.",
+    "hash_texto": "2dea8b3198ededdb5142ae2a0ff6d96c59af8cb2c74213a61e805c547c88aa8a"
+  },
+  {
+    "id": "demo-flavio-seguranca",
+    "candidato_id": "flavio",
+    "eixo": "Segurança",
+    "arquivo": "Flavio_Plano_Original.md",
+    "linha_inicio": 562,
+    "linha_fim": 563,
+    "texto_literal": "Bandido armado com fuzil na mão vai ser abatido pelas forças de segurança.",
+    "texto_mascarado": "Bandido armado com fuzil na mão vai ser abatido pelas forças de segurança.",
+    "hash_texto": "d560dde90f6f76aed5e04f76a6c7e0ee8a339ab34ad44cf4d0598907fd895811"
+  }
+]

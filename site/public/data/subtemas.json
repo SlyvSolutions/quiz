@@ -1,0 +1,92 @@
+[
+  {
+    "id": "seguranca-prisional",
+    "eixo": "Segurança",
+    "nome": "Sistema prisional",
+    "enunciado": "O que o governo deve fazer para enfrentar a superlotação e o comando do crime organizado dentro do sistema prisional?"
+  },
+  {
+    "id": "seguranca-fronteiras",
+    "eixo": "Segurança",
+    "nome": "Fronteiras, portos e aeroportos",
+    "enunciado": "Como o governo federal deve reforçar o controle de fronteiras, portos e aeroportos contra o tráfico de drogas e armas?"
+  },
+  {
+    "id": "seguranca-inteligencia",
+    "eixo": "Segurança",
+    "nome": "Inteligência, dados e tecnologia policial",
+    "enunciado": "Como o governo deve usar dados, inteligência e tecnologia para a atuação policial?"
+  },
+  {
+    "id": "economia-minerais-criticos",
+    "eixo": "Economia",
+    "nome": "Minerais críticos e terras raras",
+    "enunciado": "O que o governo deve fazer para que o Brasil aproveite seus minerais críticos e terras raras, em vez de apenas exportá-los como matéria-prima?"
+  },
+  {
+    "id": "economia-agro",
+    "eixo": "Economia",
+    "nome": "Agro: crédito, seguro e valor agregado",
+    "enunciado": "Qual deve ser o instrumento do governo para apoiar o produtor rural em crédito, seguro e agregação de valor?"
+  },
+  {
+    "id": "economia-regra-fiscal",
+    "eixo": "Economia",
+    "nome": "Regra fiscal e controle de gastos",
+    "enunciado": "Como o governo deve controlar os gastos e reequilibrar as contas públicas?"
+  },
+  {
+    "id": "educacao-ensino-superior",
+    "eixo": "Educação",
+    "nome": "Ensino superior",
+    "enunciado": "Que medidas o governo deve adotar no ensino superior (financiamento, acesso, cursos e vínculo com a pesquisa e o setor produtivo)?"
+  },
+  {
+    "id": "educacao-alfabetizacao",
+    "eixo": "Educação",
+    "nome": "Alfabetização na idade certa",
+    "enunciado": "Como o governo deve garantir que as crianças sejam alfabetizadas na idade certa?"
+  },
+  {
+    "id": "educacao-tempo-integral",
+    "eixo": "Educação",
+    "nome": "Escola em tempo integral",
+    "enunciado": "Como o governo deve expandir a escola em tempo integral?"
+  },
+  {
+    "id": "reformas-pacto-federativo",
+    "eixo": "Reformas",
+    "nome": "Pacto federativo",
+    "enunciado": "Como a divisão de responsabilidades e de recursos entre União, estados e municípios deve ser reformada?"
+  },
+  {
+    "id": "reformas-sistema-politico",
+    "eixo": "Reformas",
+    "nome": "Sistema político e eleitoral",
+    "enunciado": "Que mudança no sistema político e eleitoral deve ser feita?"
+  },
+  {
+    "id": "reformas-governo-digital",
+    "eixo": "Reformas",
+    "nome": "Governo digital e desburocratização",
+    "enunciado": "Como o governo deve usar a tecnologia para reduzir a burocracia e facilitar a vida do cidadão?"
+  },
+  {
+    "id": "saude-filas-regulacao",
+    "eixo": "Saúde",
+    "nome": "Filas e regulação de especialistas",
+    "enunciado": "Qual destas propostas você prefere para reduzir a espera por consultas e exames com especialistas no SUS?"
+  },
+  {
+    "id": "saude-prontuario-eletronico",
+    "eixo": "Saúde",
+    "nome": "Prontuário eletrônico único",
+    "enunciado": "Qual destas propostas você prefere para integrar o histórico de saúde do paciente entre unidades e serviços?"
+  },
+  {
+    "id": "saude-atencao-primaria",
+    "eixo": "Saúde",
+    "nome": "Atenção primária e fixação de profissionais",
+    "enunciado": "Qual destas propostas você prefere para fortalecer a atenção primária e levar profissionais de saúde onde há falta deles?"
+  }
+]

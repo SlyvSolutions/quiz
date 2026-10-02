@@ -1,0 +1,177 @@
+[
+  {
+    "criterio_id": "C1",
+    "trecho_id": "demo-lula-saude",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto trazem balanço de medida já adotada, sem proposta; não há custo nem fonte de recurso a avaliar.",
+    "fonte": "Lula_Plano_Original.md:1352-1353"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "demo-lula-saude",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto trazem balanço de medida já adotada, sem proposta; não é possível identificar a norma aplicável.",
+    "fonte": "Lula_Plano_Original.md:1352-1353"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "demo-lula-saude",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto trazem balanço de medida já adotada, sem proposta; não é possível identificar quem decide.",
+    "fonte": "Lula_Plano_Original.md:1352-1353"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "demo-lula-saude",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto trazem balanço de medida já adotada, sem proposta; não há medida a comparar com experiência documentada.",
+    "fonte": "Lula_Plano_Original.md:1352-1353"
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "demo-lula-saude",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto trazem balanço de medida já adotada, sem proposta; não há prazo declarado.",
+    "fonte": "Lula_Plano_Original.md:1352-1353"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "demo-caiado-economia",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto trazem compromisso geral, sem valor, instrumento nem prazo; não há custo nem fonte de recurso a avaliar.",
+    "fonte": "Caiado_Plano_Original.md:547-549"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "demo-caiado-economia",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto trazem compromisso geral, sem valor, instrumento nem prazo; não é possível identificar a norma aplicável.",
+    "fonte": "Caiado_Plano_Original.md:547-549"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "demo-caiado-economia",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto trazem compromisso geral, sem valor, instrumento nem prazo; não é possível identificar quem decide.",
+    "fonte": "Caiado_Plano_Original.md:547-549"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "demo-caiado-economia",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto trazem compromisso geral, sem valor, instrumento nem prazo; não há medida a comparar com experiência documentada.",
+    "fonte": "Caiado_Plano_Original.md:547-549"
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "demo-caiado-economia",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto trazem compromisso geral, sem valor, instrumento nem prazo; não há prazo declarado.",
+    "fonte": "Caiado_Plano_Original.md:547-549"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "demo-cury-educacao",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto trazem proposta genérica ('política permanente de Estado') sem instrumento, meta nem prazo; não há custo nem fonte de recurso a avaliar.",
+    "fonte": "Cury_Plano_Original1-2.md:2672-2675"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "demo-cury-educacao",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto trazem proposta genérica ('política permanente de Estado') sem instrumento, meta nem prazo; não é possível identificar a norma aplicável.",
+    "fonte": "Cury_Plano_Original1-2.md:2672-2675"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "demo-cury-educacao",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto trazem proposta genérica ('política permanente de Estado') sem instrumento, meta nem prazo; não é possível identificar quem decide.",
+    "fonte": "Cury_Plano_Original1-2.md:2672-2675"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "demo-cury-educacao",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto trazem proposta genérica ('política permanente de Estado') sem instrumento, meta nem prazo; não há medida a comparar com experiência documentada.",
+    "fonte": "Cury_Plano_Original1-2.md:2672-2675"
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "demo-cury-educacao",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto trazem proposta genérica ('política permanente de Estado') sem instrumento, meta nem prazo; não há prazo declarado.",
+    "fonte": "Cury_Plano_Original1-2.md:2672-2675"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "demo-renan-reformas",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho propõe transformar 12.348 favelas em bairros formais em dez anos, sem custo nem fonte de recurso.",
+    "fonte": "Renan_Plano_Original.md:1837-1838"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "demo-renan-reformas",
+    "veredito": "Parcial",
+    "justificativa": "A titulação de moradores cabe na regularização fundiária urbana já prevista em lei (Lei 13.465/2017); as regras urbanísticas e a mistura de classes não têm instrumento indicado no trecho.",
+    "fonte": "Renan_Plano_Original.md:1837-1838; Lei 13.465/2017"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "demo-renan-reformas",
+    "veredito": "Parcial",
+    "justificativa": "A União pode atuar na titulação e no financiamento; o ordenamento do uso do solo urbano é competência municipal (CF arts. 30, VIII, e 182).",
+    "fonte": "Renan_Plano_Original.md:1837-1838; CF arts. 30, VIII, e 182"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "demo-renan-reformas",
+    "veredito": "Parcial",
+    "justificativa": "Favela-Bairro melhorou acesso a serviços sem elevar valor dos imóveis e com deterioração em dez anos; titulação elevou moradia e educação, sem efeito em crédito; escala muito menor que a proposta.",
+    "fonte": "BID; Urban Studies 2018; J. Public Economics"
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "demo-renan-reformas",
+    "veredito": "Parcial",
+    "justificativa": "O trecho declara prazo de dez anos, maior que o mandato de quatro anos (CF art. 82), sem marco verificável dentro do mandato.",
+    "fonte": "Renan_Plano_Original.md:1837-1838; CF art. 82"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "demo-flavio-seguranca",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho não trata do custo nem da fonte de recurso da medida.",
+    "fonte": "Flavio_Plano_Original.md:562-563"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "demo-flavio-seguranca",
+    "veredito": "Parcial",
+    "justificativa": "A frase (L562-563) cabe na legítima defesa (CP art. 25; Lei 13.060/2014; Decreto 12.341/2024) quando presentes seus requisitos; como regra categórica, exigiria lei nova (CF art. 22, I).",
+    "fonte": "Flavio_Plano_Original.md:562-563; CP art. 25; Lei 13.060/2014; Decreto 12.341/2024"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "demo-flavio-seguranca",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho não diz quais forças de segurança nem quem ordena a medida; não é possível identificar quem decide.",
+    "fonte": "Flavio_Plano_Original.md:562-563"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "demo-flavio-seguranca",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "Não há, nesta avaliação, fonte oficial aberta e conferida sobre experiência comparável com a medida do trecho.",
+    "fonte": "Flavio_Plano_Original.md:562-563"
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "demo-flavio-seguranca",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho não declara prazo.",
+    "fonte": "Flavio_Plano_Original.md:562-563"
+  }
+]

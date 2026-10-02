@@ -1,0 +1,91 @@
+{
+  "versao": 2,
+  "publicado_em": "2026-10-01T21:00:00-03:00",
+  "escala": [
+    "Viável",
+    "Viável com condições",
+    "Parcial",
+    "Difícil",
+    "Inviável nos termos propostos",
+    "Sem base para avaliar"
+  ],
+  "regras": [
+    "Os mesmos cinco critérios e a mesma escala valem para os cinco candidatos, incluindo o do Partido Missão.",
+    "Toda avaliação tem justificativa e fonte. Sem fonte, o veredito é 'Sem base para avaliar'.",
+    "'Difícil' e 'Inviável nos termos propostos' só valem com norma ou dado público citado.",
+    "Não há ranking de candidatos nem nota geral por candidato. O Resultado mostra, ao lado da afinidade, a concretude média dos planos de cada candidato (porcentagem de critérios avaliados nos trechos), sem ordenar por ela, e o modal de cada candidato traz as propostas. O selo de cada trecho mostra a concretude: quantos dos cinco critérios deu para avaliar com fonte (N de 5). 'Sem base para avaliar' indica falta de fonte para sustentar um nível e não conta como avaliado. Concretude não mede se a proposta é boa; o veredito de cada critério mostra isso, um a um.",
+    "Os critérios valem igual para os cinco candidatos. Se algum mudar, a nova versão é publicada com a data e reaplicada aos cinco. O C4 exige fonte aberta conferida, com resultado medido (documento lido, URL e citação literal); relato auto-depositado sem controle, notícia de meta futura e divulgação institucional fraca não sustentam nível sozinhos."
+  ],
+  "criterios": [
+    {
+      "id": "C1",
+      "nome": "Fonte de recurso declarada",
+      "pergunta": "O plano diz de onde vem o dinheiro desta proposta?",
+      "evidencia": "Texto do próprio plano (arquivo e linhas).",
+      "niveis": {
+        "Viável": "O plano indica a fonte de recurso e ela existe e comporta o custo.",
+        "Viável com condições": "O plano indica a fonte, mas ela depende de um evento nomeado, como a aprovação de uma receita nova.",
+        "Parcial": "O plano indica fonte para parte do custo ou de forma genérica.",
+        "Difícil": "A fonte indicada é insuficiente ou está comprometida, com dado público citado.",
+        "Inviável nos termos propostos": "A fonte indicada é vedada por norma citada ou não cobre o custo por ordem de grandeza, com dado citado.",
+        "Sem base para avaliar": "O plano não trata do custo ou não há fonte para sustentar um nível."
+      }
+    },
+    {
+      "id": "C2",
+      "nome": "Exigência de mudança constitucional ou legal",
+      "pergunta": "A proposta exige emenda constitucional ou lei nova para existir?",
+      "evidencia": "Artigo da Constituição ou lei vigente citado.",
+      "niveis": {
+        "Viável": "Cabe na lei vigente, sem mudança de norma.",
+        "Viável com condições": "Exige lei ordinária ou ato infralegal de rito simples.",
+        "Parcial": "Parte da proposta cabe na lei vigente e parte exige mudança.",
+        "Difícil": "Exige lei complementar ou emenda constitucional.",
+        "Inviável nos termos propostos": "Conflita com cláusula pétrea ou com artigo que a veda, citado.",
+        "Sem base para avaliar": "A proposta é vaga demais para saber qual norma se aplica."
+      }
+    },
+    {
+      "id": "C3",
+      "nome": "Dependência do Congresso",
+      "pergunta": "A proposta depende de aprovação do Congresso Nacional?",
+      "evidencia": "Norma que define a competência (Constituição ou lei) citada.",
+      "niveis": {
+        "Viável": "É competência do Executivo, sem votação.",
+        "Viável com condições": "Depende de votação por maioria simples.",
+        "Parcial": "Parte é do Executivo e parte depende de votação.",
+        "Difícil": "Depende de quórum qualificado, como maioria absoluta ou três quintos.",
+        "Inviável nos termos propostos": "Depende de decisão que a norma reserva a outro Poder ou ente, citada.",
+        "Sem base para avaliar": "Não é possível identificar quem decide."
+      }
+    },
+    {
+      "id": "C4",
+      "nome": "Precedente ou evidência de que funciona",
+      "pergunta": "Existe experiência documentada que funcionou, no Brasil ou em outro país?",
+      "evidencia": "Fonte pública aberta e conferida (documento lido, com URL e citação literal): órgão oficial, estudo, avaliação ou lei, com resultado medido.",
+      "niveis": {
+        "Viável": "Há experiência documentada com resultado positivo em contexto comparável.",
+        "Viável com condições": "Há experiência positiva, mas em contexto diferente, com a diferença nomeada.",
+        "Parcial": "Há evidência mista ou de resultado positivo só em parte do objetivo.",
+        "Difícil": "A experiência documentada mostra resultado fraco ou problemas relevantes.",
+        "Inviável nos termos propostos": "A experiência documentada mostra falha ou dano, com fonte.",
+        "Sem base para avaliar": "Não há experiência documentada acessível para comparar."
+      }
+    },
+    {
+      "id": "C5",
+      "nome": "Prazo declarado",
+      "pergunta": "O plano declara em quanto tempo a proposta será cumprida?",
+      "evidencia": "Texto do próprio plano (arquivo e linhas).",
+      "niveis": {
+        "Viável": "O plano declara prazo e ele cabe no mandato.",
+        "Viável com condições": "O plano declara prazo que depende de etapa anterior nomeada.",
+        "Parcial": "O plano declara prazo só para parte, ou sem data verificável.",
+        "Difícil": "O prazo declarado é apertado frente ao rito necessário, com norma citada.",
+        "Inviável nos termos propostos": "O prazo declarado é menor que o mínimo previsto em norma citada.",
+        "Sem base para avaliar": "O plano não declara prazo."
+      }
+    }
+  ]
+}

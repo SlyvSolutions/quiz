@@ -1,0 +1,2347 @@
+[
+  {
+    "criterio_id": "C1",
+    "trecho_id": "lula-seguranca-prisional",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto não indicam valor, fonte de recurso nem origem do orçamento para ampliar o sistema penitenciário federal; o contexto menciona só 'continuidade dos investimentos' em outro tema.",
+    "fonte": "Lula_Plano_Original.md:1031-1034"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "lula-seguranca-prisional",
+    "veredito": "Viável com condições",
+    "justificativa": "A inclusão e a transferência de presos no sistema federal já têm lei (Lei 11.671/2008, arts. 1º e 3º), mas o protocolo nacional é um ato novo, infralegal, de rito simples. Se o protocolo alcançar os sistemas estaduais, normas gerais de execução penal são matéria concorrente (CF art. 24, I).",
+    "fonte": "Lula_Plano_Original.md:1031-1034; Lei 11.671/2008, arts. 1º e 3º; CF art. 24, I (https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11671.htm)"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "lula-seguranca-prisional",
+    "veredito": "Viável",
+    "justificativa": "Fortalecer o sistema federal e editar protocolo nacional são atos do Executivo federal, sem votação. A parte de execução penal estadual depende de pactuação com os estados, que o trecho não descreve.",
+    "fonte": "Lula_Plano_Original.md:1031-1034; CF art. 24, I (https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm) (conferido)"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "lula-seguranca-prisional",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "Esta versão não traz experiência documentada com fonte conferida para este trecho.",
+    "fonte": "Pesquisa de precedentes não realizada para este trecho nesta versão."
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "lula-seguranca-prisional",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto não declaram prazo para ampliar o sistema penitenciário federal nem para implantar o protocolo.",
+    "fonte": "Lula_Plano_Original.md:1031-1052"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "lula-seguranca-fronteiras",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto falam em 'continuidade dos investimentos' em radares, drones e sensores, sem valor nem fonte de recurso.",
+    "fonte": "Lula_Plano_Original.md:1040-1052"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "lula-seguranca-fronteiras",
+    "veredito": "Viável",
+    "justificativa": "Manter as Forças Armadas nas fronteiras com patrulhamento e cooperação com os países da OTCA é manutenção de atuação existente (LC 97/1999, art. 16-A); o trecho não propõe norma nova.",
+    "fonte": "Lula_Plano_Original.md:1042-1045; LC 97/1999, art. 16-A (e art. 15); CF art. 142 (https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp97.htm)"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "lula-seguranca-fronteiras",
+    "veredito": "Viável",
+    "justificativa": "O emprego das Forças Armadas e a cooperação com países da OTCA são atos do Executivo federal; o trecho não propõe lei nova.",
+    "fonte": "Lula_Plano_Original.md:1042-1045; CF art. 84, VII e XIII; LC 97/1999, art. 15 (https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm ; https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp97.htm)"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "lula-seguranca-fronteiras",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "Esta versão não traz experiência documentada com fonte conferida para este trecho.",
+    "fonte": "Pesquisa de precedentes não realizada para este trecho nesta versão."
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "lula-seguranca-fronteiras",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto não declaram prazo; 'manteremos' e 'continuidade' não são prazo.",
+    "fonte": "Lula_Plano_Original.md:1040-1052"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "lula-seguranca-inteligencia",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto não indicam custo nem fonte de recurso para consolidar o sistema de inteligência, modernizar o SINESP e a Infoseg ou ampliar as FICCOs.",
+    "fonte": "Lula_Plano_Original.md:1011-1021"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "lula-seguranca-inteligencia",
+    "veredito": "Viável",
+    "justificativa": "O Sinesp já existe em lei (Lei 12.681/2012, art. 1º) e sua modernização é ato de gestão do Executivo; a rastreabilidade de armas e a fiscalização citadas no contexto operam por decretos e portarias sob a Lei 10.826/2003.",
+    "fonte": "Lula_Plano_Original.md:1011-1013; Lei 12.681/2012, art. 1º (https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12681.htm) (conferido)"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "lula-seguranca-inteligencia",
+    "veredito": "Viável",
+    "justificativa": "Consolidar e modernizar sistemas federais e ampliar as FICCOs são atos do Executivo, sem votação.",
+    "fonte": "Lula_Plano_Original.md:1011-1013; Lei 12.681/2012, art. 1º (conferido)"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "lula-seguranca-inteligencia",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "Esta versão não traz experiência documentada com fonte conferida para este trecho.",
+    "fonte": "Pesquisa de precedentes não realizada para este trecho nesta versão."
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "lula-seguranca-inteligencia",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto não declaram prazo para consolidar, modernizar ou ampliar.",
+    "fonte": "Lula_Plano_Original.md:1011-1021"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "lula-economia-regra-fiscal",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto não indicam custo nem fonte de recurso para o modelo de serviços compartilhados nem valor de economia esperada.",
+    "fonte": "Lula_Plano_Original.md:551-562"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "lula-economia-regra-fiscal",
+    "veredito": "Viável",
+    "justificativa": "Organizar serviços de suporte compartilhados entre ministérios é ato do Presidente sobre a administração federal (CF art. 84, VI, 'a', desde que sem aumento de despesa nem extinção de órgãos); a margem de preferência em compras já está na Lei 14.133/2021, art. 26.",
+    "fonte": "Lula_Plano_Original.md:551-554; CF art. 84, VI, 'a' (https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm); Lei 14.133/2021, art. 26 (https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm) (conferido)"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "lula-economia-regra-fiscal",
+    "veredito": "Viável",
+    "justificativa": "Centralizar e compartilhar serviços entre órgãos do Executivo federal é competência do Presidente, sem votação (CF art. 84, VI, 'a').",
+    "fonte": "Lula_Plano_Original.md:551-554; CF art. 84, VI, 'a' (conferido)"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "lula-economia-regra-fiscal",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "Esta versão não traz experiência documentada com fonte conferida para este trecho.",
+    "fonte": "Pesquisa de precedentes não realizada para este trecho nesta versão."
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "lula-economia-regra-fiscal",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho não declara prazo; o 'próximo mandato' do contexto (L559) refere-se ao poder de compra, não ao modelo de serviços compartilhados.",
+    "fonte": "Lula_Plano_Original.md:551-562"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "lula-economia-minerais-criticos",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto descrevem uma política específica e uma estratégia regional, sem valor, fonte de recurso nem instrumento de financiamento.",
+    "fonte": "Lula_Plano_Original.md:2028-2032"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "lula-economia-minerais-criticos",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho propõe 'política específica' sem dizer o instrumento (lei, decreto ou fomento); a norma aplicável varia com o desenho (CF art. 20, IX; DL 227/1967).",
+    "fonte": "Lula_Plano_Original.md:2028-2032; CF art. 20, IX (conferido)"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "lula-economia-minerais-criticos",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho não define se a política será decreto ou lei; sem o instrumento, não é possível identificar quem decide.",
+    "fonte": "Lula_Plano_Original.md:2028-2032"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "lula-economia-minerais-criticos",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "Esta versão não traz experiência documentada com fonte conferida para este trecho.",
+    "fonte": "Pesquisa de precedentes não realizada para este trecho nesta versão."
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "lula-economia-minerais-criticos",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto não declaram prazo para a política nem para a estratégia regional.",
+    "fonte": "Lula_Plano_Original.md:2028-2032"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "lula-economia-agro",
+    "veredito": "Parcial",
+    "justificativa": "O trecho e o contexto apontam o Plano Safra ampliado e mercado de capitais e títulos do agronegócio como fontes de financiamento, sem valores nem parcela de cada uma.",
+    "fonte": "Lula_Plano_Original.md:2420-2429"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "lula-economia-agro",
+    "veredito": "Viável",
+    "justificativa": "Os instrumentos citados (crédito rural oficial, equalização, Plano Safra por resolução do CMN) já constam da Lei Agrícola (Lei 8.171/1991, arts. 48 e 49); o trecho não propõe lei nova.",
+    "fonte": "Lula_Plano_Original.md:2424-2429; Lei 8.171/1991, arts. 48-49 (https://www.planalto.gov.br/ccivil_03/leis/l8171.htm) (conferido)"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "lula-economia-agro",
+    "veredito": "Viável",
+    "justificativa": "O Plano Safra é fixado por resolução do CMN e a alocação por dotação na LOA (a aprovação anual do orçamento não rebaixa o nível); o trecho não propõe votação específica.",
+    "fonte": "Lula_Plano_Original.md:2424-2429; Lei 8.171/1991, arts. 48-49 (conferido)"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "lula-economia-agro",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "Esta versão não traz experiência documentada com fonte conferida para este trecho.",
+    "fonte": "Pesquisa de precedentes não realizada para este trecho nesta versão."
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "lula-economia-agro",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto não declaram prazo; 'continuaremos' e 'haverá medidas' não são prazo.",
+    "fonte": "Lula_Plano_Original.md:2420-2429"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "lula-educacao-ensino-superior",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto não indicam valor nem fonte de recurso para o novo ciclo de expansão nem para a assistência estudantil.",
+    "fonte": "Lula_Plano_Original.md:1239-1259"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "lula-educacao-ensino-superior",
+    "veredito": "Parcial",
+    "justificativa": "A assistência estudantil já tem lei (Lei 14.914/2024, art. 1º) e cabe nela; criar cada universidade federal nova exige lei ordinária de iniciativa do Presidente (CF arts. 48, XI e 61, §1º, II). O trecho não diz se o novo ciclo cria universidades ou só campi.",
+    "fonte": "Lula_Plano_Original.md:1242-1246; Lei 14.914/2024, art. 1º (https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/L14914.htm); CF arts. 48, XI e 61, §1º (https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm) (conferido)"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "lula-educacao-ensino-superior",
+    "veredito": "Parcial",
+    "justificativa": "Assistência estudantil e campi são do Executivo; criação de universidade nova depende de lei ordinária votada por maioria simples (CF art. 48, XI).",
+    "fonte": "Lula_Plano_Original.md:1242-1246; CF arts. 48, XI e 61, §1º, II (conferido)"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "lula-educacao-ensino-superior",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "Esta versão não traz experiência documentada com fonte conferida para este trecho.",
+    "fonte": "Pesquisa de precedentes não realizada para este trecho nesta versão."
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "lula-educacao-ensino-superior",
+    "veredito": "Parcial",
+    "justificativa": "O contexto fixa 'no próximo mandato' para dar sequência ao fomento ao ensino superior, sem data nem marco para o novo ciclo de expansão.",
+    "fonte": "Lula_Plano_Original.md:1239-1241"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "lula-educacao-alfabetizacao",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto não indicam custo nem fonte de recurso para a meta de 80% nem para a estratégia de recomposição.",
+    "fonte": "Lula_Plano_Original.md:1135-1144"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "lula-educacao-alfabetizacao",
+    "veredito": "Viável com condições",
+    "justificativa": "Seguir as ações já pactuadas cabe na norma vigente. A estratégia nacional de recomposição é nova, mas o texto não indica lei e ela pode ser instituída por ato do Executivo (CF art. 84, VI, a), de rito simples.",
+    "fonte": "Lula_Plano_Original.md:1137-1144; CF art. 84, VI, a (https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm)"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "lula-educacao-alfabetizacao",
+    "veredito": "Viável",
+    "justificativa": "As ações e a estratégia são do Executivo federal em cooperação com estados e municípios já pactuada; o trecho não propõe lei.",
+    "fonte": "Lula_Plano_Original.md:1137-1144; Decreto 11.556/2023 arts. 2º, 6º e 9º; LDB art. 8º, §1º; CF art. 211, caput e §1º (https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/decreto/d11556.htm ; https://www.planalto.gov.br/ccivil_03/leis/l9394.htm)"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "lula-educacao-alfabetizacao",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "Esta versão não traz experiência documentada com fonte conferida para este trecho.",
+    "fonte": "Pesquisa de precedentes não realizada para este trecho nesta versão."
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "lula-educacao-alfabetizacao",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho declara a meta de 80% sem data e a estratégia 'permanente' sem prazo; o contexto traz só a série até 2025.",
+    "fonte": "Lula_Plano_Original.md:1135-1144"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "lula-educacao-tempo-integral",
+    "veredito": "Parcial",
+    "justificativa": "O trecho indica o Fundeb como fonte do tempo integral desde 2026 e o contexto indica o Novo PAC para infraestrutura, sem valor, meta de matrículas nem parcela de cada fonte.",
+    "fonte": "Lula_Plano_Original.md:1156-1178"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "lula-educacao-tempo-integral",
+    "veredito": "Viável",
+    "justificativa": "O financiamento do tempo integral pelo Fundeb a partir de 2026 está previsto na Constituição (art. 212-A, XV, EC 135/2024); o trecho não propõe mudança de norma.",
+    "fonte": "Lula_Plano_Original.md:1158-1160; CF art. 212-A, XV (EC 135/2024); também art. 212-A, V e XIV; Lei 14.640/2023 (Programa Escola em Tempo Integral) (https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm ; https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14640.htm)"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "lula-educacao-tempo-integral",
+    "veredito": "Viável",
+    "justificativa": "O repasse da complementação da União ao Fundeb segue regra constitucional vigente (CF art. 212-A, V), e o apoio por meio do Novo PAC é execução do Executivo. A proposta descrita é o fomento da União, que não depende de votação; a oferta de vagas cabe a estados e municípios, mas não é a medida proposta.",
+    "fonte": "Lula_Plano_Original.md:1158-1160; CF art. 212-A, V (https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm)"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "lula-educacao-tempo-integral",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "Esta versão não traz experiência documentada com fonte conferida para este trecho.",
+    "fonte": "Pesquisa de precedentes não realizada para este trecho nesta versão."
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "lula-educacao-tempo-integral",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho diz 'a partir de 2026' para o financiamento e 'expectativa' de aceleração; o contexto diz 'prioridade no novo mandato', sem meta nem prazo de cumprimento.",
+    "fonte": "Lula_Plano_Original.md:1156-1178"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "lula-reformas-governo-digital",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto falam em 'continuar investindo' em serviços e infraestruturas digitais, sem valor nem fonte de recurso.",
+    "fonte": "Lula_Plano_Original.md:538-549"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "lula-reformas-governo-digital",
+    "veredito": "Viável",
+    "justificativa": "Continuar investindo em serviços digitais e em infraestrutura pública digital é ato do Executivo, que cabe na norma vigente. O trecho não propõe lei, e a Política de Letramento Digital e o conselho citados no contexto podem ser instituídos por decreto (CF art. 84, VI, a).",
+    "fonte": "Lula_Plano_Original.md:538-541; CF art. 84, VI, a (https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm)"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "lula-reformas-governo-digital",
+    "veredito": "Viável",
+    "justificativa": "Investir e criar plataformas são atos do Executivo, sem votação.",
+    "fonte": "Lula_Plano_Original.md:538-541; CF art. 84, VI, a; CF art. 88; CF art. 47 (https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm)"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "lula-reformas-governo-digital",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "Esta versão não traz experiência documentada com fonte conferida para este trecho.",
+    "fonte": "Pesquisa de precedentes não realizada para este trecho nesta versão."
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "lula-reformas-governo-digital",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto não declaram prazo; 'continuar' e 'buscar alavancar' não são prazo.",
+    "fonte": "Lula_Plano_Original.md:538-549"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "lula-saude-filas-regulacao",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto não indicam custo nem fonte de recurso para a fila única digital, o uso de inteligência artificial e o transporte sanitário.",
+    "fonte": "Lula_Plano_Original.md:1433-1445"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "lula-saude-filas-regulacao",
+    "veredito": "Viável",
+    "justificativa": "Regulação do acesso, fila digital e transporte sanitário no SUS são organizados por portaria do Ministério da Saúde pactuada na Comissão Intergestores Tripartite (Portaria GM/MS 9.262/2025, arts. 4º e 29); o trecho não propõe lei.",
+    "fonte": "Lula_Plano_Original.md:1433-1436; Portaria GM/MS 9.262/2025 (PNR-SUS), arts. 1º, 4º, I, 'a' e 29; Lei 8.080 art. 14-A e art. 47-A (Lei 15.233/2025); Decreto 7.508/2011 art. 11 (https://bvsms.saude.gov.br/bvs/saudelegis/gm/2025/prt9262_31_12_2025.html ; https://www.planalto.gov.br/ccivil_03/leis/l8080.htm ; https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/decreto/d7508.htm)"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "lula-saude-filas-regulacao",
+    "veredito": "Viável",
+    "justificativa": "O Ministério da Saúde edita as portarias de regulação e financiamento federal; a pactuação ocorre na CIT, sem votação do Congresso.",
+    "fonte": "Lula_Plano_Original.md:1433-1436; Portaria GM/MS 9.262/2025 art. 1º e 3º; Lei 8.080 arts. 14-A, 17, 18 e 47-A; CF art. 87, parágrafo único (https://bvsms.saude.gov.br/bvs/saudelegis/gm/2025/prt9262_31_12_2025.html ; https://www.planalto.gov.br/ccivil_03/leis/l8080.htm)"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "lula-saude-filas-regulacao",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "Esta versão não traz experiência documentada com fonte conferida para este trecho.",
+    "fonte": "Pesquisa de precedentes não realizada para este trecho nesta versão."
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "lula-saude-filas-regulacao",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto não declaram prazo; 'aprimoraremos ainda mais' não é prazo.",
+    "fonte": "Lula_Plano_Original.md:1433-1445"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "lula-saude-prontuario-eletronico",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto não indicam custo nem fonte de recurso para o prontuário compartilhado e a integração entre níveis de atenção.",
+    "fonte": "Lula_Plano_Original.md:1311-1326"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "lula-saude-prontuario-eletronico",
+    "veredito": "Viável",
+    "justificativa": "O contexto descreve a integração pela Rede Nacional de Dados em Saúde, que já existe (Portaria GM/MS 1.434/2020; Decreto 12.560/2025, art. 4º, que alcança estabelecimentos públicos e privados); o trecho não propõe mudança de norma.",
+    "fonte": "Lula_Plano_Original.md:1311-1326; Lei 8.080/1990, art. 47; Portaria GM/MS 1.434/2020 (art. 254-A da PRC 1/2017); Decreto 12.560/2025, arts. 1º, 3º e 4º (https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/decreto/D12560.htm ; https://bvsms.saude.gov.br/bvs/saudelegis/gm/2020/prt1434_29_05_2020.html ; https://www.planalto.gov.br/ccivil_03/leis/l8080.htm)"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "lula-saude-prontuario-eletronico",
+    "veredito": "Viável",
+    "justificativa": "A integração por plataforma federal do SUS é ato do Executivo; a integração interfederativa depende de adesão de estados e municípios, sem votação do Congresso.",
+    "fonte": "Lula_Plano_Original.md:1311-1326; Lei 8.080/1990, art. 47 e art. 14-A; Decreto 12.560/2025, arts. 4º e 5º, II (https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/decreto/D12560.htm ; https://www.planalto.gov.br/ccivil_03/leis/l8080.htm)"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "lula-saude-prontuario-eletronico",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "Esta versão não traz experiência documentada com fonte conferida para este trecho.",
+    "fonte": "Pesquisa de precedentes não realizada para este trecho nesta versão."
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "lula-saude-prontuario-eletronico",
+    "veredito": "Parcial",
+    "justificativa": "O contexto diz que a integração 'ganhará velocidade e escala na próxima gestão', sem data nem marco.",
+    "fonte": "Lula_Plano_Original.md:1311-1312"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "lula-saude-atencao-primaria",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto falam em 'instrumentos de indução e de financiamento' e 'continuar investindo', sem valor nem fonte de recurso nomeada.",
+    "fonte": "Lula_Plano_Original.md:1292-1309"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "lula-saude-atencao-primaria",
+    "veredito": "Viável",
+    "justificativa": "Manter o apoio às equipes de saúde da família e ajustar instrumentos de indução e de financiamento é ato do Ministério da Saúde no SUS; o trecho não propõe lei.",
+    "fonte": "Lula_Plano_Original.md:1292-1302; Lei 8.080/1990, art. 16, XIII; art. 35, IV; Lei 8.142/1990, art. 3; CF art. 198, §1º (https://www.planalto.gov.br/ccivil_03/leis/l8080.htm ; https://www.planalto.gov.br/ccivil_03/leis/l8142.htm ; https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm)"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "lula-saude-atencao-primaria",
+    "veredito": "Viável",
+    "justificativa": "O apoio federal e os instrumentos de financiamento são de competência do Executivo, sem votação; municípios executam as equipes.",
+    "fonte": "Lula_Plano_Original.md:1292-1302; Lei 8.080/1990, art. 16, XIII; art. 35, IV; Lei 8.142/1990, art. 3; CF art. 198, §1º (https://www.planalto.gov.br/ccivil_03/leis/l8080.htm ; https://www.planalto.gov.br/ccivil_03/leis/l8142.htm ; https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm)"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "lula-saude-atencao-primaria",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "Esta versão não traz experiência documentada com fonte conferida para este trecho.",
+    "fonte": "Pesquisa de precedentes não realizada para este trecho nesta versão."
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "lula-saude-atencao-primaria",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto não declaram prazo; 'seguiremos' e 'vamos intensificar' não são prazo.",
+    "fonte": "Lula_Plano_Original.md:1292-1309"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "flavio-seguranca-prisional",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto declaram meta de vagas e prazo, mas não indicam de onde vem o dinheiro; 'em parceria com os governos estaduais' não nomeia fonte de recurso.",
+    "fonte": "Flavio_Plano_Original.md:586-596"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "flavio-seguranca-prisional",
+    "veredito": "Viável",
+    "justificativa": "O regime disciplinar diferenciado já está previsto na LEP (art. 52) para o preso que subverte a ordem ou a disciplina e para lideranças de organizações criminosas (§1º, II e §3º); o RDD e a admissão em presídio federal dependem de decisão judicial (LEP art. 54; Lei 11.671/2008, art. 4º). O trecho não propõe mudança de lei.",
+    "fonte": "Flavio_Plano_Original.md:586-596; LEP (Lei 7.210/1984) art. 52, caput, §1º, I e II, §3º e art. 54; art. 86, §1º; Lei 11.671/2008 art. 3º, §1º e art. 4º; LC 79/1994 art. 3º, I (https://www.planalto.gov.br/ccivil_03/leis/l7210.htm ; https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11671.htm ; https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp79.htm)"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "flavio-seguranca-prisional",
+    "veredito": "Parcial",
+    "justificativa": "O isolamento de chefes de facção no sistema federal segue a Lei 11.671/2008 e é execução do Executivo, com decisão judicial de inclusão. As meio milhão de novas vagas dependem de parceria com os governos estaduais, entes autônomos com competência concorrente em matéria penitenciária (CF art. 24, I). Parte é do Executivo federal e parte depende de decisão de ente autônomo, sem votação.",
+    "fonte": "Flavio_Plano_Original.md:586-596; CF art. 24, I; art. 198, I; Lei 11.671/2008, arts. 1º e 3º (https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11671.htm)"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "flavio-seguranca-prisional",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "Esta versão não traz experiência documentada com fonte conferida para este trecho.",
+    "fonte": "Pesquisa de precedentes não realizada para este trecho nesta versão."
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "flavio-seguranca-prisional",
+    "veredito": "Parcial",
+    "justificativa": "O trecho declara 4 anos, que cabem no mandato, para as 500 mil vagas e o déficit; o isolamento dos chefes e os 5 presídios do contexto não têm prazo.",
+    "fonte": "Flavio_Plano_Original.md:586-596"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "flavio-seguranca-fronteiras",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto não tratam de custo nem indicam fonte de recurso para a tropa e os equipamentos.",
+    "fonte": "Flavio_Plano_Original.md:580-596"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "flavio-seguranca-fronteiras",
+    "veredito": "Viável",
+    "justificativa": "A atuação das Forças Armadas na faixa de fronteira, no mar e nas águas interiores contra delitos transfronteiriços já está prevista na LC 97/1999, art. 16-A; o trecho não cita mudança de lei.",
+    "fonte": "Flavio_Plano_Original.md:580-596; LC 97/1999, art. 16-A (https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp97.htm)"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "flavio-seguranca-fronteiras",
+    "veredito": "Viável",
+    "justificativa": "A medida descrita (interceptar armas e drogas por terra, portos e espaço aéreo) é executada por forças federais. O emprego das Forças Armadas é de responsabilidade do Presidente da República (LC 97/1999, art. 15), com atuação subsidiária na faixa de fronteira contra delitos transfronteiriços (art. 16-A), sem votação. A dotação anual não altera o nível.",
+    "fonte": "Flavio_Plano_Original.md:580-596; LC 97/1999, art. 15 e art. 16-A (https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp97.htm)"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "flavio-seguranca-fronteiras",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "Esta versão não traz experiência documentada com fonte conferida para este trecho.",
+    "fonte": "Pesquisa de precedentes não realizada para este trecho nesta versão."
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "flavio-seguranca-fronteiras",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto não declaram prazo para interceptar fuzis e drogas.",
+    "fonte": "Flavio_Plano_Original.md:580-596"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "flavio-seguranca-inteligencia",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho promete investir em inteligência, tecnologia, armamentos e valorização do policial, sem valor nem fonte de recurso.",
+    "fonte": "Flavio_Plano_Original.md:556-566"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "flavio-seguranca-inteligencia",
+    "veredito": "Viável",
+    "justificativa": "Os recursos do Fundo Nacional de Segurança Pública destinam-se a projetos de segurança pública apresentados por entes federados (Lei 13.756/2018, art. 5º); o trecho não cita mudança de lei.",
+    "fonte": "Flavio_Plano_Original.md:556-566; Lei 13.756/2018, art. 5º (https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13756.htm); CF art. 144 (https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm)"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "flavio-seguranca-inteligencia",
+    "veredito": "Viável",
+    "justificativa": "Convênios e repasses são atos do Executivo, sem votação; a adesão de estados e municípios e a dotação anual não rebaixam o nível.",
+    "fonte": "Flavio_Plano_Original.md:556-566; Lei 13.756/2018, art. 5º; CF art. 144"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "flavio-seguranca-inteligencia",
+    "veredito": "Parcial",
+    "justificativa": "O estudo de controle sintético da Revista Brasileira de Economia (2021) sobre as UPPs no Rio de Janeiro encontra redução média de 4,2 pontos nos homicídios do município, com \"impactos decrescentes e, talvez, não sustentáveis\" e efeito contrário em 2016. É um programa estadual de polícia pacificadora, e o resultado é positivo, mas parcial e declinante.",
+    "fonte": "https://periodicos.fgv.br/rbe/article/download/79962/79908/184260"
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "flavio-seguranca-inteligencia",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho não declara prazo.",
+    "fonte": "Flavio_Plano_Original.md:556-566"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "flavio-economia-regra-fiscal",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto tratam de regra fiscal, sem proposta com custo; não há valor nem fonte de recurso a avaliar.",
+    "fonte": "Flavio_Plano_Original.md:2720-2739"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "flavio-economia-regra-fiscal",
+    "veredito": "Difícil",
+    "justificativa": "O regime fiscal vigente está na LC 200/2023, e a CF art. 163, I reserva as finanças públicas a lei complementar; reformular as regras fiscais exige lei complementar.",
+    "fonte": "Flavio_Plano_Original.md:2720-2739; CF art. 163, I; LC 200/2023 (https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp200.htm)"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "flavio-economia-regra-fiscal",
+    "veredito": "Difícil",
+    "justificativa": "A alteração da LC 200/2023 exige lei complementar, aprovada por maioria absoluta em cada Casa, quórum qualificado.",
+    "fonte": "Flavio_Plano_Original.md:2720-2739; CF art. 163, I"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "flavio-economia-regra-fiscal",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "Esta versão não traz experiência documentada com fonte conferida para este trecho.",
+    "fonte": "Pesquisa de precedentes não realizada para este trecho nesta versão."
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "flavio-economia-regra-fiscal",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O contexto usa 'no menor prazo possível' para estabilizar a dívida, sem data nem marco; o trecho não declara prazo.",
+    "fonte": "Flavio_Plano_Original.md:2720-2739"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "flavio-economia-minerais-criticos",
+    "veredito": "Parcial",
+    "justificativa": "O contexto indica atração de capital e tecnologia, inclusive estrangeiros, e diz que o Estado não atuará como empresário; não há valor nem fonte pública para os incentivos.",
+    "fonte": "Flavio_Plano_Original.md:2086-2108"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "flavio-economia-minerais-criticos",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho cita seis pilares em termos gerais, sem dizer quais normas seriam criadas ou mudadas, e portanto não é possível identificar a norma aplicável.",
+    "fonte": "Flavio_Plano_Original.md:2086-2108"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "flavio-economia-minerais-criticos",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "Os pilares não descrevem medidas concretas que permitam identificar quem decide ou se há votação.",
+    "fonte": "Flavio_Plano_Original.md:2086-2108"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "flavio-economia-minerais-criticos",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "Esta versão não traz experiência documentada com fonte conferida para este trecho.",
+    "fonte": "Pesquisa de precedentes não realizada para este trecho nesta versão."
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "flavio-economia-minerais-criticos",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto não declaram prazo.",
+    "fonte": "Flavio_Plano_Original.md:2086-2108"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "flavio-economia-agro",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho promete ampliar o Seguro Rural, securitizar dívidas e ampliar a armazenagem, sem valor nem fonte de recurso.",
+    "fonte": "Flavio_Plano_Original.md:2037-2071"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "flavio-economia-agro",
+    "veredito": "Parcial",
+    "justificativa": "Ampliar o Seguro Rural cabe na Lei 10.823/2003, art. 1º; a securitização e a renegociação de dívidas rurais foram feitas por lei específica (Leis 9.138/1995 e 13.340/2016), embora o refinanciamento possa sair do CMN (Lei 4.829/1965, art. 4º, IV).",
+    "fonte": "Flavio_Plano_Original.md:2037-2071; Lei 10.823/2003 art. 1º, caput e §4º; Lei 4.829/1965 art. 4º, IV; precedentes: Lei 9.138/1995 art. 1º; Lei 13.340/2016 art. 1º (https://www.planalto.gov.br/ccivil_03/_leis/2003/l10.823.htm ; https://www.planalto.gov.br/ccivil_03/leis/l4829.htm ; https://www.planalto.gov.br/ccivil_03/leis/l9138.htm ; https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13340.htm)"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "flavio-economia-agro",
+    "veredito": "Parcial",
+    "justificativa": "O Seguro Rural e a diplomacia são do Executivo; a securitização de dívidas tende a depender de lei votada, e o refinanciamento pode ser decidido pelo CMN.",
+    "fonte": "Flavio_Plano_Original.md:2037-2071; Lei 10.823/2003 art. 1º, §4º; Lei 4.829/1965 art. 4º, IV; Lei 9.138/1995; Lei 13.340/2016 (https://www.planalto.gov.br/ccivil_03/_leis/2003/l10.823.htm ; https://www.planalto.gov.br/ccivil_03/leis/l4829.htm)"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "flavio-economia-agro",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "Esta versão não traz experiência documentada com fonte conferida para este trecho.",
+    "fonte": "Pesquisa de precedentes não realizada para este trecho nesta versão."
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "flavio-economia-agro",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O 'horizonte de mais de um ano' é o prazo de planejamento do produtor, não o prazo para cumprir as medidas; o trecho não declara prazo.",
+    "fonte": "Flavio_Plano_Original.md:2037-2071"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "flavio-educacao-ensino-superior",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho diz que as instituições 'poderão receber recursos' em troca da formação, sem dizer quem paga nem quanto.",
+    "fonte": "Flavio_Plano_Original.md:1398-1435"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "flavio-educacao-ensino-superior",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho não descreve o mecanismo pelo qual as instituições receberiam recursos pelos cursos lato sensu, e portanto não é possível identificar a norma aplicável.",
+    "fonte": "Flavio_Plano_Original.md:1398-1435"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "flavio-educacao-ensino-superior",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "Sem a descrição do mecanismo de repasse, não é possível identificar quem decide nem se há votação.",
+    "fonte": "Flavio_Plano_Original.md:1398-1435"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "flavio-educacao-ensino-superior",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "Esta versão não traz experiência documentada com fonte conferida para este trecho.",
+    "fonte": "Pesquisa de precedentes não realizada para este trecho nesta versão."
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "flavio-educacao-ensino-superior",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto não declaram prazo.",
+    "fonte": "Flavio_Plano_Original.md:1398-1435"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "flavio-educacao-alfabetizacao",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho propõe priorizar o método fônico, sem custo nem fonte de recurso.",
+    "fonte": "Flavio_Plano_Original.md:1337-1350"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "flavio-educacao-alfabetizacao",
+    "veredito": "Viável com condições",
+    "justificativa": "Priorizar um método depende de diretriz federal por ato infralegal, como o Decreto 9.765/2019, revogado pelo Decreto 11.556/2023; o trecho não exige lei nova.",
+    "fonte": "Flavio_Plano_Original.md:1337-1350; Decreto 11.556/2023, art. 21 (https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/decreto/d11556.htm)"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "flavio-educacao-alfabetizacao",
+    "veredito": "Viável",
+    "justificativa": "A diretriz federal é ato do Presidente, sem votação (CF art. 84, IV e VI); a adoção por redes estaduais e municipais não rebaixa o nível.",
+    "fonte": "Flavio_Plano_Original.md:1337-1350; CF art. 84, IV e VI (https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm)"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "flavio-educacao-alfabetizacao",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "Esta versão não traz experiência documentada com fonte conferida para este trecho.",
+    "fonte": "Pesquisa de precedentes não realizada para este trecho nesta versão."
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "flavio-educacao-alfabetizacao",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho não declara prazo.",
+    "fonte": "Flavio_Plano_Original.md:1337-1350"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "flavio-educacao-tempo-integral",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho declara apoio à escola em tempo integral, sem medida, custo nem fonte de recurso.",
+    "fonte": "Flavio_Plano_Original.md:1366-1387"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "flavio-educacao-tempo-integral",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho declara apoio à escola em tempo integral, sem instrumento; não é possível identificar a norma aplicável.",
+    "fonte": "Flavio_Plano_Original.md:1366-1387"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "flavio-educacao-tempo-integral",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho não traz medida; não é possível identificar quem decide.",
+    "fonte": "Flavio_Plano_Original.md:1366-1387"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "flavio-educacao-tempo-integral",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "Esta versão não traz experiência documentada com fonte conferida para este trecho.",
+    "fonte": "Pesquisa de precedentes não realizada para este trecho nesta versão."
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "flavio-educacao-tempo-integral",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho não declara prazo.",
+    "fonte": "Flavio_Plano_Original.md:1366-1387"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "flavio-reformas-pacto-federativo",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho afirma que 'o dinheiro existe' e propõe rever regras e legislação, sem custo nem fonte de recurso a avaliar.",
+    "fonte": "Flavio_Plano_Original.md:2613-2624"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "flavio-reformas-pacto-federativo",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho propõe revisar o pacto federativo, as regras orçamentárias e a legislação de liberação de recursos, sem dizer quais dispositivos mudam; não é possível identificar a norma aplicável.",
+    "fonte": "Flavio_Plano_Original.md:2613-2624"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "flavio-reformas-pacto-federativo",
+    "veredito": "Difícil",
+    "justificativa": "O trecho promete rever o pacto federativo e redefinir as regras e os processos orçamentários. As regras de elaboração do PPA, da LDO e da LOA são matéria de lei complementar (CF art. 165, §9º, I), que exige maioria absoluta (art. 69), e a revisão do pacto federativo, se alcançar a Constituição, exige três quintos (art. 60, §2º). O texto não nomeia as normas, de modo que o quórum exato depende do que for proposto.",
+    "fonte": "Flavio_Plano_Original.md:2613-2624; CF art. 165, §9º, I; art. 60, §2º (https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm)"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "flavio-reformas-pacto-federativo",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "Esta versão não traz experiência documentada com fonte conferida para este trecho.",
+    "fonte": "Pesquisa de precedentes não realizada para este trecho nesta versão."
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "flavio-reformas-pacto-federativo",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto não declaram prazo.",
+    "fonte": "Flavio_Plano_Original.md:2613-2624"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "flavio-reformas-sistema-politico",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho propõe o fim da reeleição e mudança de foco do sistema político, sem custo nem fonte de recurso.",
+    "fonte": "Flavio_Plano_Original.md:2539-2551"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "flavio-reformas-sistema-politico",
+    "veredito": "Difícil",
+    "justificativa": "O fim da reeleição para Presidente altera o art. 14, §5º da Constituição, que admite um período subsequente, e exige emenda constitucional (art. 60); o contexto cita PEC já protocolada no Senado.",
+    "fonte": "Flavio_Plano_Original.md:2539-2551; CF art. 14, §5º; CF art. 60, §§2º a 4º"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "flavio-reformas-sistema-politico",
+    "veredito": "Difícil",
+    "justificativa": "A emenda depende de três quintos dos membros de cada Casa, em dois turnos (CF art. 60, §2º).",
+    "fonte": "Flavio_Plano_Original.md:2539-2551; CF art. 60, §2º"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "flavio-reformas-sistema-politico",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "Esta versão não traz experiência documentada com fonte conferida para este trecho.",
+    "fonte": "Pesquisa de precedentes não realizada para este trecho nesta versão."
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "flavio-reformas-sistema-politico",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O contexto chama a reforma de prioridade e cita PEC protocolada, sem declarar prazo.",
+    "fonte": "Flavio_Plano_Original.md:2539-2551"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "flavio-reformas-governo-digital",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho promete digitalizar serviços e dispensar documentos, sem custo nem fonte de recurso.",
+    "fonte": "Flavio_Plano_Original.md:968-981"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "flavio-reformas-governo-digital",
+    "veredito": "Viável",
+    "justificativa": "A Lei 14.129/2021 já estabelece princípios, regras e instrumentos de governo digital e desburocratização, inclusive a vedação de exigir prova de fato já comprovado (art. 3º, XIII); o trecho não cita mudança de lei.",
+    "fonte": "Flavio_Plano_Original.md:968-981; Lei 14.129/2021 art. 3, XIII (e art. 1; Lei 13.726/2018 art. 3) (https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14129.htm)"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "flavio-reformas-governo-digital",
+    "veredito": "Viável",
+    "justificativa": "Digitalizar serviços federais e dispensar documentos é ato do Executivo, sem votação (CF art. 84, IV e VI).",
+    "fonte": "Flavio_Plano_Original.md:968-981; CF art. 84, IV e VI"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "flavio-reformas-governo-digital",
+    "veredito": "Viável com condições",
+    "justificativa": "O site oficial do governo da Estônia confirma o princípio \"once-only\" (o cidadão fornece seus dados uma só vez) e que 100% dos serviços do Estado estão online. Os dados são autodeclarados pelo governo, e a escala e o contexto da Estônia diferem dos do Brasil.",
+    "fonte": "https://e-estonia.com/; https://e-estonia.com/facts-and-figures/; https://e-estonia.com/e-governance/"
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "flavio-reformas-governo-digital",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho declara meta de 100% dos serviços passíveis, sem prazo.",
+    "fonte": "Flavio_Plano_Original.md:968-981"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "flavio-saude-filas-regulacao",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho propõe contratar serviços na rede privada, sem valor nem fonte de recurso.",
+    "fonte": "Flavio_Plano_Original.md:1440-1477"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "flavio-saude-filas-regulacao",
+    "veredito": "Viável",
+    "justificativa": "A Lei 8.080/1990, art. 24, permite ao SUS recorrer à iniciativa privada quando suas disponibilidades forem insuficientes; o trecho não cita mudança de lei.",
+    "fonte": "Flavio_Plano_Original.md:1440-1477; Lei 8.080/1990, art. 24 (https://www.planalto.gov.br/ccivil_03/leis/l8080.htm)"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "flavio-saude-filas-regulacao",
+    "veredito": "Viável",
+    "justificativa": "A contratação complementar é feita pelos gestores do SUS, sem votação; a dotação anual não rebaixa o nível.",
+    "fonte": "Flavio_Plano_Original.md:1440-1477; Lei 8.080/1990, art. 24"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "flavio-saude-filas-regulacao",
+    "veredito": "Parcial",
+    "justificativa": "Estudo observacional publicado em Public Health in Practice (2024), com dados da Inglaterra de 2019 a 2023, confirma 1.030.095 procedimentos ortopédicos financiados pelo NHS e realizados no setor privado, e conclui que depender do privado sem supervisão pode ampliar desigualdades regionais. Não mede redução de fila nem qualidade de dados.",
+    "fonte": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11754485/"
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "flavio-saude-filas-regulacao",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto não declaram prazo.",
+    "fonte": "Flavio_Plano_Original.md:1440-1477"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "flavio-saude-prontuario-eletronico",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho propõe o prontuário único, sem custo nem fonte de recurso.",
+    "fonte": "Flavio_Plano_Original.md:1005-1026"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "flavio-saude-prontuario-eletronico",
+    "veredito": "Viável",
+    "justificativa": "O decreto que regulamenta o art. 47 da Lei 8.080/1990 já institui a Rede Nacional de Dados em Saúde, com envio de dados por estabelecimentos públicos e privados (art. 4º), e prevê o tratamento de dados de saúde nos termos da LGPD. O trecho não propõe mudança de norma.",
+    "fonte": "Flavio_Plano_Original.md:1005-1026; Decreto 12.560/2025, arts. 1º, 3º e 4º; Lei 8.080/1990, art. 47 (https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/decreto/d12560.htm)"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "flavio-saude-prontuario-eletronico",
+    "veredito": "Viável",
+    "justificativa": "Implantar o sistema é ato do Executivo federal, sem votação; a integração de estados e da rede privada depende de adesão.",
+    "fonte": "Flavio_Plano_Original.md:1005-1026; CF art. 84, IV e VI"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "flavio-saude-prontuario-eletronico",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "Esta versão não traz experiência documentada com fonte conferida para este trecho.",
+    "fonte": "Pesquisa de precedentes não realizada para este trecho nesta versão."
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "flavio-saude-prontuario-eletronico",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto dizem 'agora vamos concluí-lo', sem prazo.",
+    "fonte": "Flavio_Plano_Original.md:1005-1026"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "flavio-saude-atencao-primaria",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho propõe telessaúde e teleatendimento, sem custo nem fonte de recurso.",
+    "fonte": "Flavio_Plano_Original.md:1463-1477"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "flavio-saude-atencao-primaria",
+    "veredito": "Viável",
+    "justificativa": "A Lei 14.510/2022 incluiu o art. 26-A na Lei 8.080/1990, que abrange a prestação remota de serviços de saúde; o trecho não cita mudança de lei.",
+    "fonte": "Flavio_Plano_Original.md:1463-1477; Lei 14.510/2022 (https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14510.htm)"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "flavio-saude-atencao-primaria",
+    "veredito": "Viável",
+    "justificativa": "Organizar telessaúde no SUS é ato do Executivo, sem votação; a execução por estados e municípios e a dotação anual não rebaixam o nível.",
+    "fonte": "Flavio_Plano_Original.md:1463-1477; Lei 14.510/2022; Lei 8.080/1990"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "flavio-saude-atencao-primaria",
+    "veredito": "Viável com condições",
+    "justificativa": "Comunicado da Prefeitura de Blumenau (2015) registra redução de 50% no tempo de espera na dermatoscopia e quase 70% na espera em dermatologia, com descentralização do serviço. É telediagnóstico municipal em uma especialidade, sem avaliação independente, e difere do teleatendimento por aplicativo do trecho.",
+    "fonte": "https://www.blumenau.sc.gov.br/secao/noticias/15495"
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "flavio-saude-atencao-primaria",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho não declara prazo.",
+    "fonte": "Flavio_Plano_Original.md:1463-1477"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "caiado-seguranca-prisional",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto não indicam valor nem fonte de recurso para a Rede de Presídios nem para o regime disciplinar.",
+    "fonte": "Caiado_Plano_Original.md, L837-839 (contexto L836-844)"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "caiado-seguranca-prisional",
+    "veredito": "Parcial",
+    "justificativa": "O presídio federal (Lei 11.671/2008) e o regime disciplinar diferenciado (LEP art. 52, §§1º a 5º) já existem. É nova a progressão de pena apenas após 90% (hoje o teto é 85%, LEP art. 112) e a rede com padrões vinculantes para unidades estaduais, o que exige lei ordinária. Parte cabe na lei vigente e parte exige mudança.",
+    "fonte": "Caiado_Plano_Original.md, L837-839 (contexto L836-844); CF art. 24, I; LEP (Lei 7.210/1984) arts. 52 e 112; Lei 11.671/2008 art. 3º (https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm ; https://www.planalto.gov.br/ccivil_03/leis/l7210.htm ; https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11671.htm)"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "caiado-seguranca-prisional",
+    "veredito": "Parcial",
+    "justificativa": "A parte nova (progressão após 90% e padrões comuns) depende de lei federal votada por maioria simples; a parte vigente (presídio federal e RDD) é do Executivo. Os presídios estaduais são de competência concorrente (CF art. 24, I).",
+    "fonte": "Caiado_Plano_Original.md, L837-839 (contexto L836-844); CF art. 24, I; CF art. 69 não se aplica (lei ordinária); LEP arts. 52 e 112; Lei 11.671/2008 (https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm ; https://www.planalto.gov.br/ccivil_03/leis/l7210.htm)"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "caiado-seguranca-prisional",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "Esta versão não traz experiência documentada com fonte conferida para este trecho.",
+    "fonte": "Pesquisa de precedentes não realizada para este trecho nesta versão."
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "caiado-seguranca-prisional",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto não declaram prazo para a Rede nem para o regime disciplinar.",
+    "fonte": "Caiado_Plano_Original.md, L837-839 (contexto L836-844)"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "caiado-seguranca-fronteiras",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto não indicam valor nem fonte de recurso para os centros de comando e controle nem para as tecnologias listadas.",
+    "fonte": "Caiado_Plano_Original.md, L804-805 (contexto L795-813)"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "caiado-seguranca-fronteiras",
+    "veredito": "Viável",
+    "justificativa": "A implantação de centros integrados nas regiões listadas é ação de órgãos federais existentes (CF art. 144, §1º, III; LC 97/1999, art. 16-A; Decreto 8.903/2016) e não traz proposta de mudança de norma.",
+    "fonte": "Caiado_Plano_Original.md, L804-805 (contexto L795-813); CF art. 144, par. 1, III; LC 97/1999 art. 16-A; Decreto 8.903/2016 arts. 1-4; CF art. 84, VI, a (https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/decreto/d8903.htm; https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp97.htm; https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm)"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "caiado-seguranca-fronteiras",
+    "veredito": "Viável",
+    "justificativa": "O trecho trata de implantação de estrutura por órgãos do Executivo federal, sem votação identificada.",
+    "fonte": "Caiado_Plano_Original.md, L804-805 (contexto L795-813); CF art. 144, par. 1, III; LC 97/1999 art. 16-A e art. 15; Decreto 8.903/2016 (https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp97.htm)"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "caiado-seguranca-fronteiras",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "Esta versão não traz experiência documentada com fonte conferida para este trecho.",
+    "fonte": "Pesquisa de precedentes não realizada para este trecho nesta versão."
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "caiado-seguranca-fronteiras",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto falam em presença permanente, sem prazo de implantação dos centros.",
+    "fonte": "Caiado_Plano_Original.md, L804-805 (contexto L795-813)"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "caiado-seguranca-inteligencia",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto não indicam valor nem fonte de recurso para a integração dos bancos de dados.",
+    "fonte": "Caiado_Plano_Original.md, L761-763 (contexto L760-766)"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "caiado-seguranca-inteligencia",
+    "veredito": "Viável",
+    "justificativa": "A integração de bases de dados entre órgãos já tem base na Lei 14.129/2021 (arts. 29 e 38); o trecho não descreve mudança de norma.",
+    "fonte": "Lei 14.129/2021 (https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/L14129.htm), arts. 29, IX e 38 (conferidos); Lei 14.129/2021, arts. 29 e 38"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "caiado-seguranca-inteligencia",
+    "veredito": "Parcial",
+    "justificativa": "A integração com bases do Ministério Público, do Judiciário e dos estados depende de decisão desses entes, que são autônomos e independentes (CF arts. 2º e 18); a parte da União é do Executivo. Por analogia ao ente autônomo sem votação, o nível é Parcial.",
+    "fonte": "CF/1988 (https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm), arts. 2º e 18 (conferidos); Caiado_Plano_Original.md, L761-763 (contexto L760-766)"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "caiado-seguranca-inteligencia",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "Esta versão não traz experiência documentada com fonte conferida para este trecho.",
+    "fonte": "Pesquisa de precedentes não realizada para este trecho nesta versão."
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "caiado-seguranca-inteligencia",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto não declaram prazo para a integração dos bancos de dados.",
+    "fonte": "Caiado_Plano_Original.md, L761-763 (contexto L760-766)"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "caiado-economia-regra-fiscal",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto declaram diretriz de ajuste sem valor, sem medida com custo e sem fonte de recurso identificável.",
+    "fonte": "Caiado_Plano_Original.md, L464-468 (contexto L461-471)"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "caiado-economia-regra-fiscal",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto declaram diretriz de ajuste sem instrumento normativo nomeado, o que não permite identificar a norma aplicável.",
+    "fonte": "Caiado_Plano_Original.md, L464-468 (contexto L461-471)"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "caiado-economia-regra-fiscal",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto não nomeiam instrumento, o que não permite identificar quem decide.",
+    "fonte": "Caiado_Plano_Original.md, L464-468 (contexto L461-471)"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "caiado-economia-regra-fiscal",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "Esta versão não traz experiência documentada com fonte conferida para este trecho.",
+    "fonte": "Pesquisa de precedentes não realizada para este trecho nesta versão."
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "caiado-economia-regra-fiscal",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto falam em estratégia plurianual, sem data nem marco verificável.",
+    "fonte": "Caiado_Plano_Original.md, L464-468 (contexto L461-471)"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "caiado-economia-minerais-criticos",
+    "veredito": "Parcial",
+    "justificativa": "O trecho indica crédito, inovação, infraestrutura e acordos de investimento como meios de financiar a instalação das cadeias, de forma genérica, sem valor nem programa nomeado.",
+    "fonte": "Caiado_Plano_Original.md, L2634-2636 (contexto L2633-2646)"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "caiado-economia-minerais-criticos",
+    "veredito": "Parcial",
+    "justificativa": "Crédito e acordos de investimento não exigem lei nova; incentivos com prazo e metas dependem de lei específica (CF art. 150, §6º) e a exigência de processamento no país, no contexto, de lei ou condição de outorga (Código de Mineração, art. 3º).",
+    "fonte": "CF art. 150, §6º; DL 227/1967 art. 3º (https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm; https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227.htm); Caiado_Plano_Original.md, L2634-2636 (contexto L2633-2646)"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "caiado-economia-minerais-criticos",
+    "veredito": "Parcial",
+    "justificativa": "Crédito e acordos de investimento são do Executivo; os incentivos e a exigência de processamento no país dependem de lei ordinária votada por maioria simples.",
+    "fonte": "CF art. 47 e art. 150, §6º (conferido); Caiado_Plano_Original.md, L2634-2636 (contexto L2633-2646)"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "caiado-economia-minerais-criticos",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "Esta versão não traz experiência documentada com fonte conferida para este trecho.",
+    "fonte": "Pesquisa de precedentes não realizada para este trecho nesta versão."
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "caiado-economia-minerais-criticos",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho diz que os incentivos terão prazo, sem informar qual, e o contexto não traz data.",
+    "fonte": "Caiado_Plano_Original.md, L2634-2636 (contexto L2633-2646)"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "caiado-economia-agro",
+    "veredito": "Parcial",
+    "justificativa": "O trecho redireciona recursos públicos para garantias, seguro, irrigação e armazenagem e cria fundo garantidor, sem valor de aporte nem fonte nomeada para o fundo.",
+    "fonte": "Caiado_Plano_Original.md, L1041-1044 (contexto L1040-1051)"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "caiado-economia-agro",
+    "veredito": "Parcial",
+    "justificativa": "O fundo garantidor para o crédito agrícola só pode ser instituído com autorização legislativa (CF art. 167, IX). O Plano Safra já tem base na política agrícola vigente (Lei 8.171/1991, art. 5º, III, que trata de orientar sua elaboração), e o horizonte plurianual dispensa lei. Parte cabe na norma vigente e parte exige lei.",
+    "fonte": "Caiado_Plano_Original.md, L1041-1044 (contexto L1040-1051); CF art. 167, IX; Lei 8.171/1991, art. 5º, III (https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm)"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "caiado-economia-agro",
+    "veredito": "Parcial",
+    "justificativa": "A criação do fundo depende de lei votada por maioria simples (CF art. 47); o Plano Safra plurianual e o redirecionamento são do Executivo e do CMN.",
+    "fonte": "Caiado_Plano_Original.md, L1041-1044 (contexto L1040-1051); CF art. 47; CF art. 167, IX; Lei 4.595/1964 art. 4, VI (https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm)"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "caiado-economia-agro",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "Esta versão não traz experiência documentada com fonte conferida para este trecho.",
+    "fonte": "Pesquisa de precedentes não realizada para este trecho nesta versão."
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "caiado-economia-agro",
+    "veredito": "Parcial",
+    "justificativa": "O Plano Safra plurianual tem horizonte de cinco anos, maior que o mandato de 2027 a 2030; o trecho não declara prazo para criar o fundo.",
+    "fonte": "Caiado_Plano_Original.md, L1043-1044"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "caiado-educacao-ensino-superior",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto não indicam valor nem fonte de recurso para as medidas de ensino superior.",
+    "fonte": "Caiado_Plano_Original.md, L1626-1628 (contexto L1625-1634)"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "caiado-educacao-ensino-superior",
+    "veredito": "Viável",
+    "justificativa": "Elevar exigências de avaliação, fechar ou reestruturar cursos e reformar currículos são atos de regulação do MEC (Lei 10.861/2004, art. 10; LDB, arts. 9º, VII e 46); o trecho não descreve mudança de lei. A autonomia universitária (CF art. 207) limita a imposição direta de currículo.",
+    "fonte": "Caiado_Plano_Original.md, L1626-1628; Lei 10.861/2004 art. 1 e 10; LDB art. 9, VII e IX, art. 46, par. 1, art. 53, I-II; Lei 9.131/1995 art. 9, par. 2, c; Decreto 9.235/2017 arts. 3 e 4 (https://www.planalto.gov.br/ccivil_03/leis/l9394.htm; https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.861.htm; https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/decreto/d9235.htm)"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "caiado-educacao-ensino-superior",
+    "veredito": "Viável",
+    "justificativa": "As medidas do trecho são atos do Executivo (MEC), sem votação identificada (Lei 9.131/1995, art. 9º, §2º, \"c\"; Decreto 9.235/2017).",
+    "fonte": "Caiado_Plano_Original.md, L1626-1628; Decreto 9.235/2017 arts. 3, 4 e 6; LDB art. 9, par. 1; Lei 9.131/1995 art. 9 (https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/decreto/d9235.htm)"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "caiado-educacao-ensino-superior",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "Esta versão não traz experiência documentada com fonte conferida para este trecho.",
+    "fonte": "Pesquisa de precedentes não realizada para este trecho nesta versão."
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "caiado-educacao-ensino-superior",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto não declaram prazo para as medidas.",
+    "fonte": "Caiado_Plano_Original.md, L1626-1628 (contexto L1625-1634)"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "caiado-educacao-alfabetizacao",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto não indicam valor nem fonte de recurso para o apoio a estados e municípios.",
+    "fonte": "Caiado_Plano_Original.md, L1557-1559 (contexto L1555-1564)"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "caiado-educacao-alfabetizacao",
+    "veredito": "Viável",
+    "justificativa": "O apoio da União a estados e municípios, com formação, material, avaliação e tutoria, é ação de assistência técnica e financeira prevista na Constituição (art. 211, §1º) e na LDB (art. 9º, III); o trecho não descreve mudança de norma.",
+    "fonte": "Caiado_Plano_Original.md, L1557-1559; CF art. 211, §1º; LDB (Lei 9.394/1996) art. 9º, III e art. 8º, §1º; Decreto 11.556/2023 art. 4º, III (https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm ; https://www.planalto.gov.br/ccivil_03/leis/l9394.htm ; https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/decreto/d11556.htm)"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "caiado-educacao-alfabetizacao",
+    "veredito": "Viável",
+    "justificativa": "O apoio é ato do Executivo federal, sem votação identificada no trecho ou no contexto. A execução nas escolas cabe a estados e municípios.",
+    "fonte": "Caiado_Plano_Original.md, L1557-1559; CF art. 18; CF art. 211, §1º; LDB art. 8º e 9º, III; Decreto 11.556/2023 arts. 2º e 4º (https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm ; https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/decreto/d11556.htm)"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "caiado-educacao-alfabetizacao",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "Esta versão não traz experiência documentada com fonte conferida para este trecho.",
+    "fonte": "Pesquisa de precedentes não realizada para este trecho nesta versão."
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "caiado-educacao-alfabetizacao",
+    "veredito": "Viável",
+    "justificativa": "O plano situa a proposta no horizonte 2027-2030, que cabe no mandato, e fixa a meta de alfabetização até o fim do 2º ano.",
+    "fonte": "Caiado_Plano_Original.md, L1557-1559 (contexto L1555-1564); n/a (C5 avalia o texto do plano)"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "caiado-educacao-tempo-integral",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto não indicam valor nem fonte de recurso para a ampliação de vagas.",
+    "fonte": "Caiado_Plano_Original.md, L1601-1603 (contexto L1600-1613)"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "caiado-educacao-tempo-integral",
+    "veredito": "Viável",
+    "justificativa": "A Lei 14.640/2023 já institui o Programa Escola em Tempo Integral para fomentar matrículas em tempo integral nas redes públicas; a priorização de etapas e territórios é parâmetro de execução.",
+    "fonte": "Lei 14.640/2023, art. 1º (; https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14640.htm); Caiado_Plano_Original.md, L1601-1603 (contexto L1600-1613)"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "caiado-educacao-tempo-integral",
+    "veredito": "Viável",
+    "justificativa": "O fomento a matrículas em tempo integral é executado por atos do Executivo federal com base em lei vigente, sem nova votação.",
+    "fonte": "Lei 14.640/2023, art. 1º; Caiado_Plano_Original.md, L1601-1603 (contexto L1600-1613)"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "caiado-educacao-tempo-integral",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "Esta versão não traz experiência documentada com fonte conferida para este trecho.",
+    "fonte": "Pesquisa de precedentes não realizada para este trecho nesta versão."
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "caiado-educacao-tempo-integral",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto não declaram prazo para ampliar as vagas.",
+    "fonte": "Caiado_Plano_Original.md, L1601-1603 (contexto L1600-1613)"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "caiado-reformas-pacto-federativo",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto declaram princípios de coordenação federativa, sem valor nem fonte de recurso.",
+    "fonte": "Caiado_Plano_Original.md, L207-209 (contexto L206-219)"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "caiado-reformas-pacto-federativo",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho enuncia princípios de coordenação federativa e cita instrumentos sem dizer qual regra seria mudada, e portanto não é possível identificar a norma aplicável.",
+    "fonte": "Caiado_Plano_Original.md, L207-209 (contexto L206-219)"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "caiado-reformas-pacto-federativo",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho descreve princípios de coordenação, sem medida concreta que permita identificar quem decide.",
+    "fonte": "Caiado_Plano_Original.md, L207-209 (contexto L206-219)"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "caiado-reformas-pacto-federativo",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "Esta versão não traz experiência documentada com fonte conferida para este trecho.",
+    "fonte": "Pesquisa de precedentes não realizada para este trecho nesta versão."
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "caiado-reformas-pacto-federativo",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto não declaram prazo.",
+    "fonte": "Caiado_Plano_Original.md, L207-209 (contexto L206-219)"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "caiado-reformas-sistema-politico",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto não indicam custo nem fonte de recurso para a mudança do sistema eleitoral.",
+    "fonte": "Caiado_Plano_Original.md, L401-403 (contexto L399-413)"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "caiado-reformas-sistema-politico",
+    "veredito": "Difícil",
+    "justificativa": "A CF art. 45, caput, prevê que a Câmara é eleita pelo sistema proporcional; a parte central da proposta, eleição em distritos, exige emenda constitucional aprovada por três quintos em dois turnos em cada Casa (art. 60, §2º).",
+    "fonte": "CF art. 45, caput e art. 60, §2º (; https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm); Caiado_Plano_Original.md, L401-403 (contexto L399-413)"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "caiado-reformas-sistema-politico",
+    "veredito": "Difícil",
+    "justificativa": "A emenda constitucional exige três quintos dos membros de cada Casa, em dois turnos, quórum qualificado.",
+    "fonte": "CF art. 60, §2º (); Caiado_Plano_Original.md, L401-403 (contexto L399-413)"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "caiado-reformas-sistema-politico",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "Esta versão não traz experiência documentada com fonte conferida para este trecho.",
+    "fonte": "Pesquisa de precedentes não realizada para este trecho nesta versão."
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "caiado-reformas-sistema-politico",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O contexto prevê calendário de implantação a definir, sem data nem marco verificável.",
+    "fonte": "Caiado_Plano_Original.md, L401-403 (contexto L399-413)"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "caiado-reformas-governo-digital",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto não indicam custo nem fonte de recurso para a integração de cadastros e serviços.",
+    "fonte": "Caiado_Plano_Original.md, L212-214 (contexto L211-219)"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "caiado-reformas-governo-digital",
+    "veredito": "Viável",
+    "justificativa": "A Lei 14.129/2021 já prevê interoperabilidade e eliminação de exigências de informações e documentos prescindíveis pelo Executivo federal, observada a LGPD.",
+    "fonte": "Lei 14.129/2021 (https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/L14129.htm), arts. 3º, XIV, 23, IV e 38 (conferidos); Lei 13.709/2018, art. 23 (https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm); Caiado_Plano_Original.md, L212-214 (contexto L211-219)"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "caiado-reformas-governo-digital",
+    "veredito": "Viável",
+    "justificativa": "A Lei 14.129/2021 autoriza o Poder Executivo federal a eliminar exigências por meio de interoperabilidade, sem nova votação.",
+    "fonte": "Lei 14.129/2021 (https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/L14129.htm), art. 23, IV (conferido); Caiado_Plano_Original.md, L212-214 (contexto L211-219)"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "caiado-reformas-governo-digital",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "Esta versão não traz experiência documentada com fonte conferida para este trecho.",
+    "fonte": "Pesquisa de precedentes não realizada para este trecho nesta versão."
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "caiado-reformas-governo-digital",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto não declaram prazo.",
+    "fonte": "Caiado_Plano_Original.md, L212-214 (contexto L211-219)"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "caiado-saude-filas-regulacao",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho traz meta de redução de tempo de espera, sem valor nem fonte de recurso.",
+    "fonte": "Caiado_Plano_Original.md, L3864-3866 (contexto L3862-3866)"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "caiado-saude-filas-regulacao",
+    "veredito": "Viável",
+    "justificativa": "A Lei 8.080/1990 já prevê sistema de dados públicos do SUS sobre tempo médio de espera, mantido pelo Ministério da Saúde. O trecho não indica mudança de norma.",
+    "fonte": "Lei 8.080/1990 (https://www.planalto.gov.br/ccivil_03/leis/l8080.htm), art. 47-A (conferido); Caiado_Plano_Original.md, L3864-3866 (contexto L3862-3866)"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "caiado-saude-filas-regulacao",
+    "veredito": "Parcial",
+    "justificativa": "A meta e o indicador público são do Ministério da Saúde (Lei 8.080, art. 47-A) e não dependem de votação. A redução do tempo das filas depende da gestão de estados e municípios, que executam os serviços (arts. 17 e 18; CF art. 198, I). Parte é federal e parte depende de decisão de entes autônomos, sem votação.",
+    "fonte": "Caiado_Plano_Original.md, L3864-3866 (contexto L3862-3866); CF art. 198, I; Lei 8.080/1990, arts. 17, 18 e 47-A (https://www.planalto.gov.br/ccivil_03/leis/l8080.htm)"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "caiado-saude-filas-regulacao",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "Esta versão não traz experiência documentada com fonte conferida para este trecho.",
+    "fonte": "Pesquisa de precedentes não realizada para este trecho nesta versão."
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "caiado-saude-filas-regulacao",
+    "veredito": "Viável",
+    "justificativa": "O trecho fixa meta até 2030, com 2027 como linha de base, dentro do mandato.",
+    "fonte": "Caiado_Plano_Original.md, L3864-3866"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "caiado-saude-prontuario-eletronico",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto não indicam custo nem fonte de recurso para a identidade clínica digital.",
+    "fonte": "Caiado_Plano_Original.md, L4328-4332 (contexto L4326-4337)"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "caiado-saude-prontuario-eletronico",
+    "veredito": "Viável",
+    "justificativa": "A Lei 8.080/1990 prevê sistema nacional de informações em saúde integrado em todo o território e a Lei 14.129/2021 trata de interoperabilidade, com a LGPD aplicável ao poder público.",
+    "fonte": "Lei 8.080/1990 (https://www.planalto.gov.br/ccivil_03/leis/l8080.htm), art. 47; Lei 14.129/2021 (https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/L14129.htm), art. 38; Lei 13.709/2018, art. 23 (https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm) (conferidos); Caiado_Plano_Original.md, L4328-4332 (contexto L4326-4337)"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "caiado-saude-prontuario-eletronico",
+    "veredito": "Viável",
+    "justificativa": "O sistema nacional de informações é organizado pelo Ministério da Saúde com estados e municípios, sem votação identificada.",
+    "fonte": "Lei 8.080/1990 (https://www.planalto.gov.br/ccivil_03/leis/l8080.htm), art. 47 (conferido); Caiado_Plano_Original.md, L4328-4332 (contexto L4326-4337)"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "caiado-saude-prontuario-eletronico",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "Esta versão não traz experiência documentada com fonte conferida para este trecho.",
+    "fonte": "Pesquisa de precedentes não realizada para este trecho nesta versão."
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "caiado-saude-prontuario-eletronico",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto não declaram prazo.",
+    "fonte": "Caiado_Plano_Original.md, L4328-4332 (contexto L4326-4337)"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "caiado-saude-atencao-primaria",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto não indicam custo nem fonte de recurso para formação, residência e incentivos.",
+    "fonte": "Caiado_Plano_Original.md, L4463-4466 (contexto L4461-4473)"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "caiado-saude-atencao-primaria",
+    "veredito": "Parcial",
+    "justificativa": "Planejar a força de trabalho e expandir residência cabem em atos do Executivo; a carreira acadêmico-assistencial exige lei de iniciativa do Presidente da República (CF art. 61, §1º, II, \"a\" e \"c\").",
+    "fonte": "Caiado_Plano_Original.md, L4463-4466; CF art. 61, §1º, II, 'a' e 'c'; CF art. 200, III; Lei 8.080 art. 27; Lei 12.871/2013 art. 5º (https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm ; https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12871.htm)"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "caiado-saude-atencao-primaria",
+    "veredito": "Parcial",
+    "justificativa": "Planejamento e residência são do Executivo; a carreira acadêmico-assistencial depende de lei votada.",
+    "fonte": "Caiado_Plano_Original.md, L4463-4466; CF art. 61, §1º, II, 'a' e 'c' (iniciativa privativa do Presidente; votação em maioria simples, lei ordinária) (https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm)"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "caiado-saude-atencao-primaria",
+    "veredito": "Parcial",
+    "justificativa": "Artigo revisado por pares (Ciência & Saúde Coletiva, 2016) registra municípios com escassez de médicos de 1.200 (21,6%) em março de 2013 para 777 (14%) em setembro de 2015. O mesmo artigo registra que a desigualdade de distribuição persistiu e que a oferta municipal regular diminuiu. Mede provimento, e não planejamento da força de trabalho, residência ou fixação.",
+    "fonte": "https://www.redalyc.org/pdf/630/63047411007.pdf"
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "caiado-saude-atencao-primaria",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto não declaram prazo.",
+    "fonte": "Caiado_Plano_Original.md, L4463-4466 (contexto L4461-4473)"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "renan-seguranca-prisional",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto tratam de transferência de lideranças condenadas a superpresídios, sem custo, valor nem fonte de recurso.",
+    "fonte": "Renan_Plano_Original.md:488-508"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "renan-seguranca-prisional",
+    "veredito": "Viável",
+    "justificativa": "A proposta é construir presídios de segurança máxima e transferir condenados, atos de execução do Executivo (LEP art. 86, §1º; Lei 11.671/2008); o trecho não menciona mudança de lei. A biometria contínua nas celas depende de autorização judicial (Lei 11.671, art. 3º, §2º).",
+    "fonte": "Renan_Plano_Original.md:497-499; Lei 11.671/2008 arts. 3º e 4º; LEP art. 86, §1º e §3º (https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11671.htm ; https://www.planalto.gov.br/ccivil_03/leis/l7210.htm)"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "renan-seguranca-prisional",
+    "veredito": "Parcial",
+    "justificativa": "Construir unidades é ato do Executivo, mas cada admissão em presídio federal depende de decisão do juízo federal (Lei 11.671/2008, art. 4º); por analogia à decisão de ente autônomo, o nível é Parcial.",
+    "fonte": "Renan_Plano_Original.md:497-499; Lei 11.671/2008 arts. 3º, 4º e 5º; LEP art. 86, §1º (https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11671.htm)"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "renan-seguranca-prisional",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "Esta versão não traz experiência documentada com fonte conferida para este trecho.",
+    "fonte": "Pesquisa de precedentes não realizada para este trecho nesta versão."
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "renan-seguranca-prisional",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto não declaram prazo, data nem marco para os superpresídios.",
+    "fonte": "Renan_Plano_Original.md:488-508"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "renan-seguranca-fronteiras",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto tratam de scanners, monitoramento e 'asfixia financeira', sem custo, valor nem fonte de recurso.",
+    "fonte": "Renan_Plano_Original.md:488-508"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "renan-seguranca-fronteiras",
+    "veredito": "Viável",
+    "justificativa": "Scanners, monitoramento e inteligência integrada cabem na lei vigente (CF art. 144, §1º, III; LC 97/1999, art. 16-A). A parte sobre \"apertar os mecanismos de asfixia financeira\" não diz qual é o instrumento.",
+    "fonte": "Renan_Plano_Original.md:495-497; CF art. 144, par. 1, III; CF art. 21, XXII e XII, f; LC 97/1999 art. 16-A; Decreto 8.903/2016 arts. 1-3; Lei 9.613/1998 arts. 1 e 4 (https://www.planalto.gov.br/ccivil_03/ccivil_03/_ato2015-2018/2016/decreto/d8903.htm; https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp97.htm; https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm)"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "renan-seguranca-fronteiras",
+    "veredito": "Viável",
+    "justificativa": "Scanners e monitoramento são competência do Executivo, e o trecho não cita votação; a parte sobre mecanismos financeiros não especifica o instrumento.",
+    "fonte": "Renan_Plano_Original.md:495-497; CF art. 144, par. 1, III; LC 97/1999 art. 16-A; Decreto 8.903/2016 art. 1; CF art. 47 (para eventual lei financeira) (https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm)"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "renan-seguranca-fronteiras",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "Esta versão não traz experiência documentada com fonte conferida para este trecho.",
+    "fonte": "Pesquisa de precedentes não realizada para este trecho nesta versão."
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "renan-seguranca-fronteiras",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto não declaram prazo, data nem marco para as medidas de fronteira.",
+    "fonte": "Renan_Plano_Original.md:488-508"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "renan-seguranca-inteligencia",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto tratam de drones, totens, reconhecimento facial e dados genéticos, sem custo, valor nem fonte de recurso.",
+    "fonte": "Renan_Plano_Original.md:488-508"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "renan-seguranca-inteligencia",
+    "veredito": "Parcial",
+    "justificativa": "Drones e totens de denúncia cabem ao Executivo, enquanto o contexto prevê leis específicas para aumentar penas e tratar reincidência. A competência para legislar sobre direito penal é da União por lei ordinária (CF art. 22, I).",
+    "fonte": "Renan_Plano_Original.md:500-504; CF art. 22, I (https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm)"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "renan-seguranca-inteligencia",
+    "veredito": "Parcial",
+    "justificativa": "A parte tecnológica depende do Executivo, e as leis penais citadas no contexto dependem de votação por maioria simples no Congresso (CF art. 22, I).",
+    "fonte": "Renan_Plano_Original.md:500-504; CF art. 22, I (https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm)"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "renan-seguranca-inteligencia",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "Esta versão não traz experiência documentada com fonte conferida para este trecho.",
+    "fonte": "Pesquisa de precedentes não realizada para este trecho nesta versão."
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "renan-seguranca-inteligencia",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto não declaram prazo para os drones, totens e reconhecimento facial. A expressão 'desde o primeiro dia' refere-se à campanha com GLO e Estado de Defesa, não a este sistema.",
+    "fonte": "Renan_Plano_Original.md:500-508"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "renan-economia-regra-fiscal",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "A proposta é uma emenda que gera economia projetada (R$ 1,1 trilhão até 2031) e não um gasto. Não há custo declarado cuja fonte de recurso se possa avaliar.",
+    "fonte": "Renan_Plano_Original.md:376-389"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "renan-economia-regra-fiscal",
+    "veredito": "Difícil",
+    "justificativa": "O trecho propõe uma PEC que altera o piso de benefícios (CF art. 201, §2º e art. 203, V), os pisos de saúde e educação (art. 198, §2º e art. 212) e o abono (art. 239, §3º). Emenda constitucional exige três quintos dos membros de cada Casa em dois turnos (art. 60, §2º).",
+    "fonte": "Renan_Plano_Original.md:387-389; CF arts. 60 §2º, 201 §2º, 203 V, 198 §2º, 212, 239 §3º (https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm)"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "renan-economia-regra-fiscal",
+    "veredito": "Difícil",
+    "justificativa": "A PEC depende de aprovação por três quintos dos membros da Câmara (308) e do Senado (49), em dois turnos (CF art. 60, §2º).",
+    "fonte": "Renan_Plano_Original.md:387-389; CF art. 60 §2º (https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm)"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "renan-economia-regra-fiscal",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "Esta versão não traz experiência documentada com fonte conferida para este trecho.",
+    "fonte": "Pesquisa de precedentes não realizada para este trecho nesta versão."
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "renan-economia-regra-fiscal",
+    "veredito": "Viável",
+    "justificativa": "O plano declara prazo verificável: a PEC é o primeiro ato, antes da posse, e a economia é projetada até 2031. O rito de emenda (dois turnos em cada Casa, CF art. 60, §2º) já foi cumprido em poucas semanas na transição de 2022 (EC 126, promulgada em 21/12/2022), e o prazo do ato cabe no mandato.",
+    "fonte": "Renan_Plano_Original.md:376-389; CF art. 60, §2º; EC 126/2022 (precedente de rito) (https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm)"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "renan-economia-minerais-criticos",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto tratam de acordos bilaterais com Estados Unidos e União Europeia, sem custo, valor nem fonte de recurso.",
+    "fonte": "Renan_Plano_Original.md:1466-1498"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "renan-economia-minerais-criticos",
+    "veredito": "Viável",
+    "justificativa": "Celebrar acordos bilaterais é ato do Presidente da República (CF art. 84, VIII), sem lei nova no texto.",
+    "fonte": "Renan_Plano_Original.md:1468-1469; CF art. 84, VIII; CF art. 49, I (https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm)"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "renan-economia-minerais-criticos",
+    "veredito": "Viável com condições",
+    "justificativa": "O acordo é celebrado pelo Presidente e, se for tratado, depende de referendo do Congresso por decreto legislativo, com maioria simples (CF art. 84, VIII; art. 49, I; art. 47).",
+    "fonte": "Renan_Plano_Original.md:1468-1469; CF art. 84, VIII; CF art. 49, I; CF art. 47 (https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm)"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "renan-economia-minerais-criticos",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "Esta versão não traz experiência documentada com fonte conferida para este trecho.",
+    "fonte": "Pesquisa de precedentes não realizada para este trecho nesta versão."
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "renan-economia-minerais-criticos",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto não declaram prazo, data nem marco para os acordos.",
+    "fonte": "Renan_Plano_Original.md:1466-1498"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "renan-economia-agro",
+    "veredito": "Parcial",
+    "justificativa": "O plano nomeia o crédito do BNDES e o Plano Safra como instrumentos, o que indica canais de financiamento de forma genérica, sem valor nem origem dos recursos desses instrumentos.",
+    "fonte": "Renan_Plano_Original.md:1606-1609; n/a (C1 avalia o texto do plano)"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "renan-economia-agro",
+    "veredito": "Parcial",
+    "justificativa": "As linhas do BNDES e o Plano Safra são atos do Executivo e do sistema financeiro. Acordos comerciais dependem de referendo do Congresso (CF art. 84, VIII e art. 49, I), e a criação de zonas de exportação cabe por decreto (Lei 11.508/2007, art. 2º); benefício fiscal exigiria lei específica.",
+    "fonte": "Renan_Plano_Original.md:1606-1609; CF art. 150, §6º; Lei 11.508/2007 arts. 1º, 2º e 6º-A; CF art. 84, VIII e 49, I (https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm ; https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11508.htm)"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "renan-economia-agro",
+    "veredito": "Parcial",
+    "justificativa": "Crédito do BNDES e Plano Safra dependem do Executivo, enquanto acordos comerciais dependem de decreto legislativo (CF art. 49, I).",
+    "fonte": "Renan_Plano_Original.md:1606-1609; CF art. 150, §6º; Lei 11.508/2007 art. 2º; CF art. 84, VIII e 49, I (https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm ; https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11508.htm)"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "renan-economia-agro",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "Esta versão não traz experiência documentada com fonte conferida para este trecho.",
+    "fonte": "Pesquisa de precedentes não realizada para este trecho nesta versão."
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "renan-economia-agro",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto não declaram prazo para os instrumentos de crédito, ZEE e Plano Safra. A data de 2035 do contexto refere-se à meta sobre fertilizantes, não a esses instrumentos.",
+    "fonte": "Renan_Plano_Original.md:1588-1613"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "renan-educacao-ensino-superior",
+    "veredito": "Parcial",
+    "justificativa": "O trecho indica a realocação de recursos hoje aplicados em cursos de bacharelado para a área de STEM como origem do financiamento, sem valor.",
+    "fonte": "Renan_Plano_Original.md:1152-1154"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "renan-educacao-ensino-superior",
+    "veredito": "Parcial",
+    "justificativa": "A reserva de vagas está em lei ordinária (Lei 12.711/2012, art. 1º), de modo que trocar cotas por bolsas de mérito exige nova lei. Já a realocação de recursos e a criação de cursos e centros cabem ao Executivo no orçamento, respeitada a autonomia universitária (CF art. 207). Parte cabe na norma vigente e parte exige mudança.",
+    "fonte": "Renan_Plano_Original.md:1152-1154; CF art. 207; Lei 12.711/2012, art. 1º (https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12711.htm)"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "renan-educacao-ensino-superior",
+    "veredito": "Parcial",
+    "justificativa": "A realocação de recursos é do Executivo, e a substituição das cotas por bolsas depende de votação por maioria simples no Congresso (Lei 12.711/2012 é lei ordinária). A aprovação anual do orçamento não conta.",
+    "fonte": "Renan_Plano_Original.md:1152-1154; Lei 12.711/2012 (https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12711.htm)"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "renan-educacao-ensino-superior",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "Esta versão não traz experiência documentada com fonte conferida para este trecho.",
+    "fonte": "Pesquisa de precedentes não realizada para este trecho nesta versão."
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "renan-educacao-ensino-superior",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O texto trata a reforma como algo 'no horizonte', sem prazo nem marco.",
+    "fonte": "Renan_Plano_Original.md:1115-1161"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "renan-educacao-alfabetizacao",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto tratam de a adoção do sistema fônico de alfabetização, sem custo, valor nem fonte de recurso.",
+    "fonte": "Renan_Plano_Original.md:1115-1161"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "renan-educacao-alfabetizacao",
+    "veredito": "Parcial",
+    "justificativa": "O trecho afirma que o método fônico já está na BNCC e na política de alfabetização. A BNCC trata de consciência fonológica, mas não prescreve método, e o Decreto 9.765/2019 foi revogado pelo Decreto 11.556/2023. A adesão voluntária das redes cabe sem norma nova; a adoção universal exigiria lei federal (CF art. 206, III; LDB art. 3º, III).",
+    "fonte": "Renan_Plano_Original.md:1136-1139; CF art. 22, XXIV e 211; LDB art. 8, par. 2, art. 9, IV; BNCC (Res. CNE/CP 2/2017) p. 89-90; Decreto 9.765/2019 (PNA); Decreto 11.556/2023 art. 6 e 37 (https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/decreto/d11556.htm (PNA revogada: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/decreto/D9765.htm))"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "renan-educacao-alfabetizacao",
+    "veredito": "Parcial",
+    "justificativa": "A adoção do método fônico depende de decisão dos entes federados autônomos que gerem as redes de ensino, sem votação do Congresso; por analogia à decisão de ente autônomo, o nível é Parcial.",
+    "fonte": "Renan_Plano_Original.md:1136-1139; CF art. 211; LDB art. 8, par. 1 e 2; Decreto 11.556/2023 arts. 4, I e 6 (https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm)"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "renan-educacao-alfabetizacao",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "Esta versão não traz experiência documentada com fonte conferida para este trecho.",
+    "fonte": "Pesquisa de precedentes não realizada para este trecho nesta versão."
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "renan-educacao-alfabetizacao",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto não declaram prazo, data nem marco para a adoção do sistema fônico.",
+    "fonte": "Renan_Plano_Original.md:1115-1161"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "renan-reformas-pacto-federativo",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto tratam de os critérios de inviabilidade fiscal dos municípios, sem custo, valor nem fonte de recurso.",
+    "fonte": "Renan_Plano_Original.md:553-585"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "renan-reformas-pacto-federativo",
+    "veredito": "Difícil",
+    "justificativa": "A fusão de municípios exige lei complementar federal que fixe o período, lei estadual e plebiscito (CF art. 18, §4º). A LC 230/2026 trata apenas do desmembramento de parte de um município para incorporação a outro, não da fusão, e o texto descreve um programa federal de fusão.",
+    "fonte": "Renan_Plano_Original.md:553-585; CF art. 18, §4º; LC 230/2026 (https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm)"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "renan-reformas-pacto-federativo",
+    "veredito": "Difícil",
+    "justificativa": "A fusão depende de lei complementar federal (maioria absoluta, CF art. 69), de leis das Assembleias Legislativas estaduais e de plebiscito nos municípios envolvidos (art. 18, §4º).",
+    "fonte": "Renan_Plano_Original.md:553-585; CF art. 18, §4º; art. 69 (https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm)"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "renan-reformas-pacto-federativo",
+    "veredito": "Parcial",
+    "justificativa": "Fusões de municípios têm avaliações com identificação causal em vários países: na Dinamarca o efeito sobre a despesa foi nulo, na Finlândia a despesa per capita não caiu e em Brandenburg, na Alemanha, houve redução de despesas administrativas apenas nas fusões compulsórias. No Japão, o município menor chegou fiscalmente fragilizado e elevou gasto e dívida pouco antes da fusão. Não foi localizada avaliação de fusão com critério fiscal como o proposto.",
+    "fonte": "https://doi.org/10.1017/s0003055416000320; https://doi.org/10.1177/152397211301300302; https://www.zew.de/fileadmin/FTP/dp/dp16041.pdf; https://doi.org/10.1016/j.regsciurbeco.2017.05.010"
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "renan-reformas-pacto-federativo",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto não declaram prazo, data nem marco para a Grande Consolidação Municipal.",
+    "fonte": "Renan_Plano_Original.md:553-585"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "renan-reformas-sistema-politico",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto tratam de o critério de repasse do Fundo Partidário e do Fundo Eleitoral, sem custo, valor nem fonte de recurso.",
+    "fonte": "Renan_Plano_Original.md:649-681"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "renan-reformas-sistema-politico",
+    "veredito": "Viável com condições",
+    "justificativa": "O repasse e a retenção dos fundos dependem de lei ordinária, que pode regulamentar rateio e sanções partidárias (CF art. 17, §3º).",
+    "fonte": "Renan_Plano_Original.md:671-673; CF art. 17 §3º (https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm)"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "renan-reformas-sistema-politico",
+    "veredito": "Viável com condições",
+    "justificativa": "A mudança depende de votação por maioria simples no Congresso (lei ordinária sobre rateio e sanções partidárias).",
+    "fonte": "Renan_Plano_Original.md:671-673; CF art. 17 §3º (https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm)"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "renan-reformas-sistema-politico",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "Esta versão não traz experiência documentada com fonte conferida para este trecho.",
+    "fonte": "Pesquisa de precedentes não realizada para este trecho nesta versão."
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "renan-reformas-sistema-politico",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto não declaram prazo, data nem marco para a mudança no cálculo dos fundos.",
+    "fonte": "Renan_Plano_Original.md:649-681"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "renan-saude-filas-regulacao",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto tratam de os critérios de ordenação da fila, sem custo, valor nem fonte de recurso.",
+    "fonte": "Renan_Plano_Original.md:908-921"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "renan-saude-filas-regulacao",
+    "veredito": "Viável com condições",
+    "justificativa": "A fila por grau de risco cabe em ato infralegal do Ministério da Saúde: a Política Nacional de Regulação vigente (Portaria GM/MS 9.262/2025) já prevê fila por protocolos e estratificação de risco.",
+    "fonte": "Renan_Plano_Original.md:919-921; Lei 8.080/1990 art. 47-A (Lei 15.233/2025); art. 14-A; Portaria GM/MS nº 9.262/2025 (PNR-SUS) arts. 1º, 3º, 4º, I e 60 (https://www.planalto.gov.br/ccivil_03/leis/l8080.htm ; Portaria GM/MS 9.262, de 30/12/2025 (texto obtido em copia local; URL de origem nao registrada))"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "renan-saude-filas-regulacao",
+    "veredito": "Parcial",
+    "justificativa": "Os critérios de fila podem ser definidos pelo Ministério da Saúde sem votação do Congresso, mas o SUS tem direção única em cada esfera (CF art. 198, I), a gestão de serviços cabe a estados e municípios (Lei 8.080, arts. 17 e 18) e os aspectos operacionais são pactuados entre gestores (art. 14-A). Parte é federal e parte depende de decisão de entes autônomos, sem votação.",
+    "fonte": "Renan_Plano_Original.md:919-921; Lei 8.080/1990, art. 14-A, art. 17 e art. 18; CF art. 198, I (https://www.planalto.gov.br/ccivil_03/leis/l8080.htm)"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "renan-saude-filas-regulacao",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "Esta versão não traz experiência documentada com fonte conferida para este trecho.",
+    "fonte": "Pesquisa de precedentes não realizada para este trecho nesta versão."
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "renan-saude-filas-regulacao",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto não declaram prazo, data nem marco para a implantação da ENER.",
+    "fonte": "Renan_Plano_Original.md:908-921"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "renan-saude-prontuario-eletronico",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto tratam de o PRONTO, sem custo, valor nem fonte de recurso.",
+    "fonte": "Renan_Plano_Original.md:949-959"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "renan-saude-prontuario-eletronico",
+    "veredito": "Viável",
+    "justificativa": "A conexão entre atenção primária, hospitais, laboratórios e farmácias é o objeto da Rede Nacional de Dados em Saúde, já instituída por ato do Executivo e regulamentada pelo Decreto 12.560/2025, que prevê o envio por estabelecimentos públicos e privados (art. 4º). O trecho não propõe mudança de norma.",
+    "fonte": "Renan_Plano_Original.md:949-951; Decreto 12.560/2025, arts. 3º e 4º; Portaria GM/MS 1.434/2020 (https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/decreto/d12560.htm)"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "renan-saude-prontuario-eletronico",
+    "veredito": "Viável",
+    "justificativa": "Plataforma nacional de saúde digital é ato do Ministério da Saúde, como a Portaria GM/MS 1.434/2020, sem votação no Congresso.",
+    "fonte": "Renan_Plano_Original.md:949-951; Portaria GM/MS 1.434/2020 (https://www.in.gov.br/en/web/dou/-/portaria-n-1.434-de-28-de-maio-de-2020-260838322)"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "renan-saude-prontuario-eletronico",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "Esta versão não traz experiência documentada com fonte conferida para este trecho.",
+    "fonte": "Pesquisa de precedentes não realizada para este trecho nesta versão."
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "renan-saude-prontuario-eletronico",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto não declaram prazo, data nem marco para o PRONTO.",
+    "fonte": "Renan_Plano_Original.md:949-959"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "cury-seguranca-fronteiras",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto não declaram custo nem fonte de recurso para a presença maior das Forças Armadas nas fronteiras.",
+    "fonte": "Cury_Plano_Original1-2.md:1506-1512"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "cury-seguranca-fronteiras",
+    "veredito": "Viável",
+    "justificativa": "O trecho descreve emprego das Forças Armadas na fronteira, no mar e em vias navegáveis, hipótese que a LC 97/1999, art. 16-A, já prevê; o texto não descreve mudança de norma.",
+    "fonte": "Cury_Plano_Original1-2.md:1506-1512; LC 97/1999, art. 16-A, https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp97.htm"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "cury-seguranca-fronteiras",
+    "veredito": "Viável",
+    "justificativa": "A ação descrita é atribuição das Forças Armadas prevista no art. 16-A da LC 97/1999, exercida em coordenação com órgãos do Executivo; o trecho não descreve votação.",
+    "fonte": "Cury_Plano_Original1-2.md:1506-1512; LC 97/1999, art. 16-A, https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp97.htm"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "cury-seguranca-fronteiras",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "Esta versão não traz experiência documentada com fonte conferida para este trecho.",
+    "fonte": "Pesquisa de precedentes não realizada para este trecho nesta versão."
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "cury-seguranca-fronteiras",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto não declaram prazo para a presença maior das Forças Armadas nas fronteiras.",
+    "fonte": "Cury_Plano_Original1-2.md:1506-1512"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "cury-seguranca-inteligencia",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto listam ferramentas (câmeras, drones, inteligência artificial) sem custo nem fonte de recurso.",
+    "fonte": "Cury_Plano_Original1-2.md:1489-1492"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "cury-seguranca-inteligencia",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho lista ferramentas tecnológicas sem instrumento, escopo nem finalidade; não é possível identificar a norma aplicável.",
+    "fonte": "Cury_Plano_Original1-2.md:1489-1492"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "cury-seguranca-inteligencia",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho não indica qual força ou ente decide ou executa o uso das ferramentas; não é possível identificar quem decide.",
+    "fonte": "Cury_Plano_Original1-2.md:1489-1492"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "cury-seguranca-inteligencia",
+    "veredito": "Parcial",
+    "justificativa": "O guia RAND RR-233 (2013) sobre policiamento preditivo nos Estados Unidos registra que essas ferramentas \"não substituem abordagens integradas de policiamento\" nem são \"uma bola de cristal\", e que valem como parte de estratégias proativas maiores. A evidência é mista e não avalia câmeras inteligentes nem o programa do contexto.",
+    "fonte": "https://www.rand.org/pubs/research_reports/RR233.html"
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "cury-seguranca-inteligencia",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto não declaram prazo.",
+    "fonte": "Cury_Plano_Original1-2.md:1489-1492"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "cury-economia-regra-fiscal",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho trata de meta de resultado fiscal e não de custo de uma medida com fonte de recurso.",
+    "fonte": "Cury_Plano_Original1-2.md:1161-1187"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "cury-economia-regra-fiscal",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho declara meta de déficit 'próximo de zero' sem instrumento nem definição do indicador; não é possível identificar a norma aplicável.",
+    "fonte": "Cury_Plano_Original1-2.md:1161-1187"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "cury-economia-regra-fiscal",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho declara meta fiscal sem instrumento; não é possível identificar quem decide.",
+    "fonte": "Cury_Plano_Original1-2.md:1161-1187"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "cury-economia-regra-fiscal",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "Esta versão não traz experiência documentada com fonte conferida para este trecho.",
+    "fonte": "Pesquisa de precedentes não realizada para este trecho nesta versão."
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "cury-economia-regra-fiscal",
+    "veredito": "Parcial",
+    "justificativa": "O contexto declara a meta para 'durante o mandato', sem ano ou marco verificável.",
+    "fonte": "Cury_Plano_Original1-2.md:1161-1187 (subtítulo, linha 1165)"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "cury-economia-minerais-criticos",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto não declaram custo nem fonte de recurso.",
+    "fonte": "Cury_Plano_Original1-2.md:1348-1352"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "cury-economia-minerais-criticos",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho declara a política de industrializar minerais estratégicos sem instrumento; não é possível identificar a norma aplicável.",
+    "fonte": "Cury_Plano_Original1-2.md:1348-1352"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "cury-economia-minerais-criticos",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho não descreve instrumento; não é possível identificar quem decide.",
+    "fonte": "Cury_Plano_Original1-2.md:1348-1352"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "cury-economia-minerais-criticos",
+    "veredito": "Parcial",
+    "justificativa": "Working paper do Banco Mundial (Kee e Xie, 2025): a proibição de exportar níquel (2014) elevou a razão de valor agregado doméstico nas exportações, mas a entrada de firmas menores e menos eficientes reduziu a eficiência agregada a jusante, e a dependência de aço importado segue alta. O instrumento foi a proibição de exportar, e não incentivos.",
+    "fonte": "https://openknowledge.worldbank.org/entities/publication/fdfc0698-6d52-4fad-a072-cd810039beaf"
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "cury-economia-minerais-criticos",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto não declaram prazo.",
+    "fonte": "Cury_Plano_Original1-2.md:1348-1352"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "cury-economia-agro",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho nomeia o Programa de Subvenção ao Prêmio do Seguro Rural, sem custo da ampliação nem fonte de recurso.",
+    "fonte": "Cury_Plano_Original1-2.md:1601-1606"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "cury-economia-agro",
+    "veredito": "Viável",
+    "justificativa": "O trecho propõe ampliar programa já autorizado em lei (Lei 10.823/2003, art. 1º); o texto não descreve mudança de norma.",
+    "fonte": "Cury_Plano_Original1-2.md:1601-1606; Lei 10.823/2003, art. 1º, https://www.planalto.gov.br/ccivil_03/leis/2003/l10.823.htm"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "cury-economia-agro",
+    "veredito": "Viável",
+    "justificativa": "A subvenção é concedida pelo Poder Executivo, autorizado pela Lei 10.823/2003, art. 1º; a dotação anual não altera o nível.",
+    "fonte": "Cury_Plano_Original1-2.md:1601-1606; Lei 10.823/2003, art. 1º, https://www.planalto.gov.br/ccivil_03/leis/2003/l10.823.htm"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "cury-economia-agro",
+    "veredito": "Parcial",
+    "justificativa": "Estudo de avaliação do Ipea (Planejamento e Políticas Públicas n. 58, 2021, dados de 2006 a 2018) sobre o seguro rural subvencionado: o número de produtores e a importância assegurada elevam a produtividade no curto prazo (até seis anos), e só a importância assegurada eleva a área plantada; o número de apólices teve impacto negativo em área e produtividade. O resultado é misto.",
+    "fonte": "https://www.ipea.gov.br/ppp/index.php/PPP/article/download/1258/595/5773"
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "cury-economia-agro",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto não declaram prazo para ampliar a cobertura do seguro rural.",
+    "fonte": "Cury_Plano_Original1-2.md:1601-1606"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "cury-educacao-ensino-superior",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto não declaram custo nem fonte de recurso.",
+    "fonte": "Cury_Plano_Original1-2.md:2620-2624"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "cury-educacao-ensino-superior",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho descreve o desejo de campi como ambientes de inovação sem instrumento; não é possível identificar a norma aplicável.",
+    "fonte": "Cury_Plano_Original1-2.md:2620-2624"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "cury-educacao-ensino-superior",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho não indica instrumento nem quais instituições; não é possível identificar quem decide.",
+    "fonte": "Cury_Plano_Original1-2.md:2620-2624"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "cury-educacao-ensino-superior",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "Esta versão não traz experiência documentada com fonte conferida para este trecho.",
+    "fonte": "Pesquisa de precedentes não realizada para este trecho nesta versão."
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "cury-educacao-ensino-superior",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto não declaram prazo.",
+    "fonte": "Cury_Plano_Original1-2.md:2620-2624"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "cury-reformas-sistema-politico",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto não tratam de custo nem de fonte de recurso.",
+    "fonte": "Cury_Plano_Original1-2.md:1963-1966"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "cury-reformas-sistema-politico",
+    "veredito": "Difícil",
+    "justificativa": "O semipresidencialismo altera o arranjo do Poder Executivo definido na CF (art. 76 e seguintes) e exige emenda constitucional (art. 60, §2º).",
+    "fonte": "Cury_Plano_Original1-2.md:1963-1966; CF art. 76 e ADCT art. 2º, https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm; CF art. 60, §2º, https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "cury-reformas-sistema-politico",
+    "veredito": "Difícil",
+    "justificativa": "A proposta depende de emenda constitucional, aprovada em cada Casa, em dois turnos, por três quintos dos membros (CF art. 60, §2º).",
+    "fonte": "Cury_Plano_Original1-2.md:1963-1966; CF art. 60, §2º, https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "cury-reformas-sistema-politico",
+    "veredito": "Parcial",
+    "justificativa": "Skach (2007, International Journal of Constitutional Law) é uma análise comparada de casos: a França ganhou maiorias consolidadas após 1962 e depois alternou fases de governo dividido, a República de Weimar sucumbiu a governos minoritários divididos, e o artigo ressalva a generalização do caso francês. A evidência é mista.",
+    "fonte": "https://academic.oup.com/icon/article/5/1/93/722466; https://doi.org/10.1093/icon/mol025"
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "cury-reformas-sistema-politico",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto não declaram prazo para adotar o semipresidencialismo.",
+    "fonte": "Cury_Plano_Original1-2.md:1963-1966"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "cury-reformas-governo-digital",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto não declaram custo nem fonte de recurso para a abertura digital de empresas.",
+    "fonte": "Cury_Plano_Original1-2.md:1294-1297"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "cury-reformas-governo-digital",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho declara que abrir empresa será rápido e digital sem indicar exigências, instrumento nem meta; não é possível identificar a norma aplicável.",
+    "fonte": "Cury_Plano_Original1-2.md:1294-1297"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "cury-reformas-governo-digital",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho não indica quais esferas e exigências serão alteradas; não é possível identificar quem decide.",
+    "fonte": "Cury_Plano_Original1-2.md:1294-1297"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "cury-reformas-governo-digital",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "Esta versão não traz experiência documentada com fonte conferida para este trecho.",
+    "fonte": "Pesquisa de precedentes não realizada para este trecho nesta versão."
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "cury-reformas-governo-digital",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto não declaram prazo nem tempo-alvo para abrir empresa.",
+    "fonte": "Cury_Plano_Original1-2.md:1294-1297"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "cury-reformas-pacto-federativo",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho propõe revisar a divisão federativa dos tributos sem declarar custo, valor nem fonte.",
+    "fonte": "Cury_Plano_Original1-2.md:1218-1225"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "cury-reformas-pacto-federativo",
+    "veredito": "Difícil",
+    "justificativa": "A repartição das receitas tributárias entre União, Estados e Municípios está fixada na Constituição (arts. 157 a 162). Mudar os percentuais exige emenda constitucional (art. 60) e mudar os critérios de rateio exige lei complementar (art. 161, II).",
+    "fonte": "Cury_Plano_Original1-2.md:1218-1225; CF arts. 157 a 162; art. 60, §2º; art. 161, II (https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm)"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "cury-reformas-pacto-federativo",
+    "veredito": "Difícil",
+    "justificativa": "Alterar a partilha constitucional de tributos depende de emenda, votada em dois turnos em cada Casa, com três quintos dos votos (CF art. 60, §2º). Os critérios de rateio dependem de lei complementar, por maioria absoluta (art. 69).",
+    "fonte": "Cury_Plano_Original1-2.md:1218-1225; CF art. 60, §2º; art. 69 (https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm)"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "cury-reformas-pacto-federativo",
+    "veredito": "Parcial",
+    "justificativa": "No Brasil, transferências marginais adicionais a municípios elevaram o gasto per capita em cerca de 20%, a escolaridade em 7% e a alfabetização em 4 pontos percentuais (regressão descontínua). Outras avaliações no país mostram resultado misto: maiores transferências aumentaram a corrupção observada e reduziram a escolaridade média dos candidatos a prefeito, e receitas de royalties de petróleo elevaram o gasto declarado, mas melhoraram menos os serviços do que o esperado.",
+    "fonte": "https://doi.org/10.1257/app.5.4.206; https://doi.org/10.1257/aer.103.5.1759; https://doi.org/10.1257/app.5.1.208"
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "cury-reformas-pacto-federativo",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto não declaram prazo para a revisão do pacto federativo tributário.",
+    "fonte": "Cury_Plano_Original1-2.md:1218-1225"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "cury-saude-filas-regulacao",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto não declaram custo nem fonte de recurso para a triagem por sistemas inteligentes.",
+    "fonte": "Cury_Plano_Original1-2.md:5672-5678"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "cury-saude-filas-regulacao",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho descreve triagem clínica por sistemas inteligentes como possibilidade, sem instrumento nem escopo; não é possível identificar a norma aplicável.",
+    "fonte": "Cury_Plano_Original1-2.md:5672-5678"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "cury-saude-filas-regulacao",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho não indica quem implanta a triagem; não é possível identificar quem decide.",
+    "fonte": "Cury_Plano_Original1-2.md:5672-5678"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "cury-saude-filas-regulacao",
+    "veredito": "Parcial",
+    "justificativa": "Ensaio clínico randomizado de centro único em hospital terciário de Pune, na Índia (105 pacientes): o tempo até o tratamento foi de 31,02 minutos contra 44,12 minutos, e as admissões em UTI não diferiram. Mede tempo no pronto-socorro, e não fila de consultas e exames especializados.",
+    "fonte": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12683575/"
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "cury-saude-filas-regulacao",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto não declaram prazo.",
+    "fonte": "Cury_Plano_Original1-2.md:5672-5678"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "cury-saude-prontuario-eletronico",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto não declaram custo nem fonte de recurso para a digitalização dos prontuários.",
+    "fonte": "Cury_Plano_Original1-2.md:1435-1438"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "cury-saude-prontuario-eletronico",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho declara como prioridade a digitalização dos prontuários e a integração dos sistemas sem instrumento; não é possível identificar a norma aplicável.",
+    "fonte": "Cury_Plano_Original1-2.md:1435-1438"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "cury-saude-prontuario-eletronico",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho não indica quem executa a integração dos sistemas; não é possível identificar quem decide.",
+    "fonte": "Cury_Plano_Original1-2.md:1435-1438"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "cury-saude-prontuario-eletronico",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "Esta versão não traz experiência documentada com fonte conferida para este trecho.",
+    "fonte": "Pesquisa de precedentes não realizada para este trecho nesta versão."
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "cury-saude-prontuario-eletronico",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto não declaram prazo.",
+    "fonte": "Cury_Plano_Original1-2.md:1435-1438"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "cury-saude-atencao-primaria",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto não declaram custo nem fonte de recurso para a plataforma nacional.",
+    "fonte": "Cury_Plano_Original1-2.md:5685-5688"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "cury-saude-atencao-primaria",
+    "veredito": "Viável",
+    "justificativa": "O trecho propõe plataforma nacional de telemedicina, atividade que a Lei 8.080/1990 (arts. 26-A a 26-H, Lei 14.510/2022) já autoriza; o texto não descreve mudança de norma.",
+    "fonte": "Cury_Plano_Original1-2.md:5685-5688; Lei 8.080/1990 arts. 26-A a 26-H (Lei 14.510/2022); art. 16; CF art. 198 (https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14510.htm; https://www.planalto.gov.br/ccivil_03/leis/l8080.htm)"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "cury-saude-atencao-primaria",
+    "veredito": "Viável",
+    "justificativa": "O trecho descreve plataforma nacional a ser criada pelo Executivo; o texto não indica votação, e a dotação anual não altera o nível.",
+    "fonte": "Cury_Plano_Original1-2.md:5685-5688; Lei 8.080/1990 art. 16 e art. 26-E; art. 14-A (https://www.planalto.gov.br/ccivil_03/leis/l8080.htm)"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "cury-saude-atencao-primaria",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "Esta versão não traz experiência documentada com fonte conferida para este trecho.",
+    "fonte": "Pesquisa de precedentes não realizada para este trecho nesta versão."
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "cury-saude-atencao-primaria",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho declara meta de tempo de atendimento (30 minutos), mas o trecho e o contexto não declaram prazo para implantar a plataforma.",
+    "fonte": "Cury_Plano_Original1-2.md:5685-5688"
+  }
+]

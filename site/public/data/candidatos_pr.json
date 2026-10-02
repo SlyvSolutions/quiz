@@ -1,0 +1,3091 @@
+{
+  "versao": "final-3",
+  "geradoEm": "2026-09-30",
+  "aviso": "Iniciativa independente de apoiador, sem vinculo oficial com o partido. Dados publicos (TSE e imprensa); confira sempre no DivulgaCandContas.",
+  "fontesGerais": [
+    {
+      "titulo": "Lista oficial de candidatos da Missao (dados TSE, 16/08/2026)",
+      "url": "https://candidatos.missao.org.br/?uf=PR"
+    },
+    {
+      "titulo": "TSE DivulgaCandContas",
+      "url": "https://divulgacandcontas.tse.jus.br/"
+    }
+  ],
+  "candidatos": [
+    {
+      "id": "pr-pres-14",
+      "cargo": "Presidente",
+      "nomeUrna": "Renan Santos",
+      "nomeCompleto": "Renan Antonio Ferreira dos Santos",
+      "numero": "14",
+      "partido": "MISSÃO",
+      "situacaoTSE": "Aguardando julgamento (TSE, DivulgaCandContas)",
+      "nascimento": "1984-02-14",
+      "naturalidade": "São Paulo (SP)",
+      "ocupacaoDeclarada": "Empresário",
+      "escolaridade": "Superior incompleto",
+      "bio": "Empresário, nascido em São Paulo (SP) em 14 de fevereiro de 1984, com ensino superior incompleto segundo a declaração ao TSE. Candidato à Presidência da República pelo Missão, com Coronel Medina como vice na chapa. No TSE (DivulgaCandContas), a situação do registro da candidatura consta como aguardando julgamento.",
+      "chapa": {
+        "vice": "Coronel Medina"
+      },
+      "propostas": [
+        {
+          "titulo": "Reforma fiscal",
+          "resumo": "Segundo a página do candidato no O Tempo, a proposta inclui reforma fiscal e desindexação de benefícios previdenciários.",
+          "fonte": "https://www.otempo.com.br/eleicoes/2026/candidatos/presidente/renan-santos-14"
+        },
+        {
+          "titulo": "Alfabetização pelo método fônico",
+          "resumo": "Segundo a página do candidato no O Tempo, a proposta prevê a adoção universal do sistema fônico de alfabetização nas escolas.",
+          "fonte": "https://www.otempo.com.br/eleicoes/2026/candidatos/presidente/renan-santos-14"
+        },
+        {
+          "titulo": "Infraestrutura",
+          "resumo": "Segundo a página do candidato no O Tempo, a proposta prevê elevar o investimento em infraestrutura de 2% para 4% do PIB.",
+          "fonte": "https://www.otempo.com.br/eleicoes/2026/candidatos/presidente/renan-santos-14"
+        }
+      ],
+      "historico": [],
+      "observacoes": [
+        "As propostas acima vêm de um resumo em página de imprensa e não de leitura integral do plano de governo registrado no TSE."
+      ],
+      "fontes": [
+        {
+          "titulo": "TSE DivulgaCandContas: Renan Santos (situação: aguardando julgamento)",
+          "url": "https://divulgacandcontas.tse.jus.br/"
+        },
+        {
+          "titulo": "Gazeta do Povo: Renan Santos (Missão, 14)",
+          "url": "https://www.gazetadopovo.com.br/eleicoes/2026/candidatos/br/presidente/renan-santos-missao-14/"
+        },
+        {
+          "titulo": "Nexo: Renan Santos",
+          "url": "https://candidatos.nexojornal.com.br/2026/brasil/renan-santos-280002540694/"
+        },
+        {
+          "titulo": "O Tempo: Renan Santos (14)",
+          "url": "https://www.otempo.com.br/eleicoes/2026/candidatos/presidente/renan-santos-14"
+        }
+      ],
+      "lacunas": [],
+      "revisar": true,
+      "foto": "fotos/pr-pres-14.jpg"
+    },
+    {
+      "id": "pr-gov-14",
+      "cargo": "Governador",
+      "nomeUrna": "Luiz França",
+      "nomeCompleto": "Luiz Felipe Martins França",
+      "numero": "14",
+      "partido": "MISSÃO",
+      "situacaoTSE": "Deferido (consulta em 30/09/2026)",
+      "nascimento": "1993-11-18",
+      "naturalidade": "Cianorte (PR)",
+      "primeiraCandidatura": true,
+      "bio": "Advogado e consultor político, atua em Direito Privado e Público e em Relações Institucionais e Governamentais. Especialista em Direito Econômico e Contratos Públicos, graduando em Ciências Econômicas (Universidade Positivo) e mestrando em Desenvolvimento Econômico (UFPR). Mora em Curitiba há cerca de 15 anos e integra o grupo que deu origem ao Missão desde 2022. Em 2024 foi assessor parlamentar do vereador João Bettega (União Brasil), em Curitiba.",
+      "chapa": {
+        "vice": "João Adolfo Wendpap"
+      },
+      "planoDeGoverno": {
+        "titulo": "Muitas origens. Um só Paraná",
+        "paginas": 98,
+        "fonte": "Plano registrado na Justiça Eleitoral (via Plural, CNN Brasil)"
+      },
+      "propostas": [
+        {
+          "titulo": "Reorganizar o Executivo nos 100 primeiros dias",
+          "resumo": "Revisar contratos e cargos comissionados e fazer auditoria gerencial da máquina estadual; o dinheiro economizado iria para equilíbrio fiscal e serviços como segurança, saúde, educação e infraestrutura.",
+          "fonte": "https://jurua24horas.com/noticia/quem-e-luiz-franca-candidato-ao-governo-do-parana"
+        },
+        {
+          "titulo": "Paraná Resolve",
+          "resumo": "Sistema para integrar os canais de atendimento público, de modo que uma demanda passe de um órgão para outro sem o cidadão recomeçar o atendimento.",
+          "fonte": "https://jurua24horas.com/noticia/quem-e-luiz-franca-candidato-ao-governo-do-parana"
+        },
+        {
+          "titulo": "Lei Paranaense de Responsabilidade Gerencial",
+          "resumo": "Soma à responsabilidade fiscal a cobrança por resultados verificáveis. Em entrevista, ele disse que prefeitura que não melhorar saúde, escola e emprego perderia verba estadual e o político ficaria inelegível.",
+          "fonte": "https://www.plural.jor.br/poder/programas-governo-parana-2026/"
+        },
+        {
+          "titulo": "Paraná Inteligente",
+          "resumo": "Infraestrutura pública própria de processamento de dados e inteligência artificial: cluster em Curitiba, hub em Ponta Grossa e futura expansão em Guarapuava, para uso de universidades, empresas e órgãos públicos.",
+          "fonte": "https://www.cnnbrasil.com.br/eleicoes/quem-e-luiz-franca-candidato-ao-governo-do-parana/"
+        },
+        {
+          "titulo": "Segurança pública",
+          "resumo": "Cita o tráfico no Porto de Paranaguá e defende segurança jurídica para os policiais; o plano promete que o governador conduza pessoalmente a política de segurança, citando a experiência de Goiás.",
+          "fonte": "https://arede.info/eleicoes/672912/luiz-franca-destaca-propostas-para-desenvolver-o-parana"
+        },
+        {
+          "titulo": "Saúde",
+          "resumo": "Reforçar atendimento básico (UBS) e criar um sistema integrado de saúde com uso de inteligência artificial.",
+          "fonte": "https://arede.info/eleicoes/672912/luiz-franca-destaca-propostas-para-desenvolver-o-parana"
+        },
+        {
+          "titulo": "Infraestrutura e logística",
+          "resumo": "Fiscalizar os contratos de concessão das rodovias pedagiadas e cobrar que as obras saiam do papel; em entrevista à imprensa regional citou um plano chamado Missão Rondon para a logística da BR-277 e a priorização do ensino técnico profissionalizante nas escolas estaduais.",
+          "fonte": "https://www.jcorreiodopovo.com.br/parana/luiz-franca-defende-novo-modelo-de-gestao-e-investimentos-regionais/"
+        },
+        {
+          "titulo": "Fusão de municípios (declaração de pré-campanha)",
+          "resumo": "Em maio, questionou a existência de 399 municípios quando mais de 70% enfrentam dificuldades financeiras e sugeriu unir municípios. Não confirmado como item do plano registrado.",
+          "fonte": "https://marelimartins.com.br/2026/05/05/luiz-franca-missao-e-confirmado-como-pre-candidato-ao-governo-do-parana-partido-foi-criado-pelo-mbl/"
+        }
+      ],
+      "historico": [
+        {
+          "descricao": "Assessor parlamentar do vereador João Bettega (União Brasil), Curitiba, em 2024. Segundo a CNN Brasil, deixou o cargo por divergências internas.",
+          "fonte": "https://www.cnnbrasil.com.br/eleicoes/quem-sao-os-candidatos-ao-governo-do-parana-nas-eleicoes-de-2026/"
+        }
+      ],
+      "observacoes": [],
+      "fontes": [
+        {
+          "titulo": "CNN Brasil: Quem é Luiz França",
+          "url": "https://www.cnnbrasil.com.br/eleicoes/quem-e-luiz-franca-candidato-ao-governo-do-parana/"
+        },
+        {
+          "titulo": "Plural: programas de governo do Paraná 2026",
+          "url": "https://www.plural.jor.br/poder/programas-governo-parana-2026/"
+        },
+        {
+          "titulo": "aRede: Luiz França destaca propostas",
+          "url": "https://arede.info/eleicoes/672912/luiz-franca-destaca-propostas-para-desenvolver-o-parana"
+        },
+        {
+          "titulo": "Massa: Missão confirma candidato ao governo",
+          "url": "https://massa.com.br/politica/eleicoes2026/missao-governo-parana"
+        }
+      ],
+      "lacunas": [],
+      "revisar": false,
+      "basico": false,
+      "foto": "fotos/pr-gov-14.jpg"
+    },
+    {
+      "id": "pr-gov-vice-joao-adolfo",
+      "cargo": "Vice-governador",
+      "nomeUrna": "João Adolfo",
+      "nomeCompleto": "João Adolfo Padilha Yamane Wendpap",
+      "numero": "14",
+      "partido": "MISSÃO",
+      "situacaoTSE": "Deferido (consulta em 30/09/2026)",
+      "nascimento": "1987-04-29",
+      "naturalidade": "Curitiba (PR)",
+      "primeiraCandidatura": true,
+      "bio": "Jornalista, formado em Jornalismo e Letras, com experiência em direito e economia segundo a imprensa. Declarou ao TSE a ocupação 'auxiliar de escritório e assemelhados', com ensino superior completo.",
+      "chapa": {
+        "titular": "Luiz França"
+      },
+      "propostas": [],
+      "historico": [],
+      "observacoes": [],
+      "fontes": [
+        {
+          "titulo": "Perfil declarado ao TSE (agregador)",
+          "url": "https://agorars.com/eleicoes-2026/pr/governador/luiz-franca-14/vice/joao-adolfo"
+        },
+        {
+          "titulo": "Contraponto: Advogado Luiz França é o candidato do Missão",
+          "url": "https://contraponto.jor.br/advogado-luiz-franca-e-o-candidato-ao-missao-ao-governo-do-parana/"
+        }
+      ],
+      "lacunas": [],
+      "revisar": false,
+      "basico": false,
+      "foto": "fotos/pr-gov-vice-joao-adolfo.jpg"
+    },
+    {
+      "id": "pr-sen-144",
+      "cargo": "Senadora",
+      "nomeUrna": "Karen Guerreiro",
+      "nomeCompleto": "Karen Correia Guerreiro",
+      "numero": "144",
+      "partido": "MISSÃO",
+      "situacaoTSE": "Deferido (consulta em 30/09/2026)",
+      "nascimento": "1980-10-31",
+      "naturalidade": "Pelotas (RS)",
+      "residencia": "Santa Izabel do Oeste (PR)",
+      "primeiraCandidatura": true,
+      "ocupacaoDeclarada": "Gerente",
+      "escolaridade": "Superior completo",
+      "bio": "Nascida em Pelotas (RS), formada pela UFPel, atua na área de comunicação (diretora de arte e rádio, segundo perfis na imprensa) e mora em Santa Izabel do Oeste, no Sudoeste do Paraná. Disputa a primeira eleição da vida. Segundo ela mesma, buscava até se manter fora da política e relaciona a entrada na disputa à falta de perspectivas para jovens de cidades pequenas.",
+      "suplentes": [
+        "Sonni Rezini (1º)",
+        "Renato Scarante (2º)"
+      ],
+      "propostas": [
+        {
+          "titulo": "Infraestrutura rodoviária",
+          "resumo": "Buscar recursos federais para ampliar e duplicar rodovias estratégicas, com destaque para a BR-277.",
+          "fonte": "https://oseringal.com.br/geral/quem-e-karen-guerreiro-candidata-ao-senado-pelo-parana/"
+        },
+        {
+          "titulo": "Produtor rural",
+          "resumo": "Defende o Marco Temporal e mais segurança jurídica no campo, menor custo do crédito ao produtor e menos burocracia, com mais integração entre órgãos públicos e iniciativa privada.",
+          "fonte": "https://www.cnnbrasil.com.br/eleicoes/quem-e-karen-guerreiro-candidata-ao-senado-pelo-parana/"
+        },
+        {
+          "titulo": "Emprego e interior",
+          "resumo": "Qualificação de mão de obra, incentivo a novas atividades econômicas e mais vagas no interior; incentivos a empresas que retomem atividades no Brasil e benefícios fiscais ligados à geração de empregos.",
+          "fonte": "https://oseringal.com.br/geral/quem-e-karen-guerreiro-candidata-ao-senado-pelo-parana/"
+        },
+        {
+          "titulo": "Meio ambiente e turismo",
+          "resumo": "Conciliar preservação ambiental e desenvolvimento, incluindo turismo sustentável no entorno das Cataratas do Iguaçu e no litoral.",
+          "fonte": "https://www.cnnbrasil.com.br/eleicoes/quem-e-karen-guerreiro-candidata-ao-senado-pelo-parana/"
+        },
+        {
+          "titulo": "Saúde nos municípios pequenos",
+          "resumo": "Aponta a falta de estrutura e a dificuldade de acesso a especialistas fora dos grandes centros.",
+          "fonte": "https://jblitoral.com.br/politica/karen-guerreiro-estreia-na-politica-como-candidata-ao-senado-pelo-parana/"
+        },
+        {
+          "titulo": "Recursos federais",
+          "resumo": "Defende saber qual o critério de retorno ao Paraná do que o estado arrecada, para trazer esse dinheiro para investir no estado.",
+          "fonte": "https://jblitoral.com.br/politica/karen-guerreiro-estreia-na-politica-como-candidata-ao-senado-pelo-parana/"
+        },
+        {
+          "titulo": "Segurança pública",
+          "resumo": "Defende mudar a legislação e endurecer punições para crimes graves.",
+          "fonte": "https://oseringal.com.br/geral/quem-e-karen-guerreiro-candidata-ao-senado-pelo-parana/"
+        }
+      ],
+      "historico": [],
+      "observacoes": [],
+      "fontes": [
+        {
+          "titulo": "CNN Brasil: Quem é Karen Guerreiro",
+          "url": "https://www.cnnbrasil.com.br/eleicoes/quem-e-karen-guerreiro-candidata-ao-senado-pelo-parana/"
+        },
+        {
+          "titulo": "JB Litoral: entrevista",
+          "url": "https://jblitoral.com.br/politica/karen-guerreiro-estreia-na-politica-como-candidata-ao-senado-pelo-parana/"
+        },
+        {
+          "titulo": "Gazeta do Paraná: anúncio da pré-candidatura",
+          "url": "https://gazetadoparana.com.br/artigo/karen-guerreiro-anuncia-pre-candidatura-ao-senado-pelo-missao-com-foco-no-desenvolvimento-do-interior-do-parana"
+        },
+        {
+          "titulo": "Ficha TSE (via CNN Brasil)",
+          "url": "https://www.cnnbrasil.com.br/eleicoes/2026/candidatos/pr/senador/missao/karen-guerreiro/144/"
+        }
+      ],
+      "lacunas": [],
+      "revisar": true,
+      "basico": false,
+      "foto": "fotos/pr-sen-144.jpg"
+    },
+    {
+      "id": "pr-sen-1s-sonni-rezini",
+      "cargo": "1º suplente de senador",
+      "nomeUrna": "Sonni Rezini",
+      "nomeCompleto": "Sonni Jair Ricardo Colombo Rezini",
+      "numero": "144",
+      "partido": "MISSÃO",
+      "situacaoTSE": "Deferido (consulta em 30/09/2026)",
+      "nascimento": "1985-06-13",
+      "naturalidade": "Curitiba (PR)",
+      "ocupacaoDeclarada": "Empresário",
+      "escolaridade": "Superior completo",
+      "bio": "Empresário com atuação em serviços financeiros e comércio internacional, segundo a imprensa. A BandB registra que ele atua na Solar21, empresa de soluções em energia solar.",
+      "propostas": [],
+      "historico": [],
+      "observacoes": [],
+      "fontes": [
+        {
+          "titulo": "Perfil declarado ao TSE (agregador)",
+          "url": "https://agorars.com/eleicoes-2026/pr/senador/karen-guerreiro-144/1-suplente/sonni-rezini"
+        },
+        {
+          "titulo": "BandB: suplentes dos candidatos ao Senado",
+          "url": "https://www.bandab.com.br/politica/eleicoes-2026/conheca-os-suplentes-dos-candidatos-ao-senado-pelo-parana-nas-eleicoes-2026/"
+        }
+      ],
+      "lacunas": [],
+      "revisar": false,
+      "basico": false,
+      "foto": "fotos/pr-sen-1s-sonni-rezini.jpg"
+    },
+    {
+      "id": "pr-sen-2s-renato-scarante",
+      "cargo": "2º suplente de senador",
+      "nomeUrna": "Renato Scarante",
+      "nomeCompleto": "Renato Scarante",
+      "numero": "144",
+      "partido": "MISSÃO",
+      "situacaoTSE": "Deferido (consulta em 30/09/2026)",
+      "nascimento": "1983-02-28",
+      "naturalidade": "Curitiba (PR)",
+      "ocupacaoDeclarada": "Analista de sistemas",
+      "escolaridade": "Superior completo",
+      "bio": "Analista de sistemas, declarado ao TSE. Sem outras informações públicas encontradas até agora.",
+      "propostas": [],
+      "historico": [],
+      "observacoes": [],
+      "fontes": [
+        {
+          "titulo": "Perfil declarado ao TSE (agregador)",
+          "url": "https://agorars.com/eleicoes-2026/pr/senador/karen-guerreiro-144/2-suplente/renato-scarante"
+        },
+        {
+          "titulo": "Senado Notícias: candidatos 2026 no Paraná",
+          "url": "https://www12.senado.leg.br/noticias/candidatos-2026/parana"
+        }
+      ],
+      "lacunas": [],
+      "revisar": false,
+      "basico": false,
+      "foto": "fotos/pr-sen-2s-renato-scarante.jpg"
+    },
+    {
+      "nomeUrna": "Glauberson Rocha",
+      "nomeCompleto": "Glauberson Rocha",
+      "numero": "1499",
+      "situacaoTSE": "Deferido (consulta em 30/09/2026)",
+      "nascimento": "1984-03-22",
+      "naturalidade": "Guarapuava (PR)",
+      "ocupacaoDeclarada": "Administrador",
+      "escolaridade": "Superior completo",
+      "primeiraCandidatura": false,
+      "instagram": "@glaubersonrocha",
+      "bio": "Administrador de 42 anos, natural de Guarapuava (PR). Foi candidato a vereador em Guarapuava quatro vezes (2012 a 2024), ficando como suplente em 2020 e 2024. Concorre agora a deputado federal pela Missão.",
+      "propostas": [
+        {
+          "titulo": "Fiscalização e transparência",
+          "resumo": "Segundo matéria do G+ Notícias, a candidatura se apoia em fiscalização, transparência e crítica à máquina pública.",
+          "fonte": "https://gmaisnoticias.com/10x9-conheca-os-19-candidatos-a-deputados-de-guarapuava"
+        }
+      ],
+      "historico": [
+        {
+          "descricao": "Candidato a vereador em Guarapuava em 2012 (PMN), não eleito, 465 votos.",
+          "fonte": "https://hubpolitico.com.br/perfil/glaubersonrocha"
+        },
+        {
+          "descricao": "Candidato a vereador em Guarapuava em 2016 (PMN), não eleito, 850 votos.",
+          "fonte": "https://hubpolitico.com.br/perfil/glaubersonrocha"
+        },
+        {
+          "descricao": "Candidato a vereador em Guarapuava em 2020 (PSL), suplente, 778 votos.",
+          "fonte": "https://hubpolitico.com.br/perfil/glaubersonrocha"
+        },
+        {
+          "descricao": "Candidato a vereador em Guarapuava em 2024 (MDB), suplente, 577 votos.",
+          "fonte": "https://hubpolitico.com.br/perfil/glaubersonrocha"
+        }
+      ],
+      "observacoes": [],
+      "fontes": [
+        {
+          "titulo": "HubPolítico - Glauberson Rocha",
+          "url": "https://hubpolitico.com.br/perfil/glaubersonrocha"
+        },
+        {
+          "titulo": "O Tempo - Glauberson Rocha",
+          "url": "https://www.otempo.com.br/eleicoes/2026/candidatos/parana/deputado-federal/glauberson-rocha-1499"
+        },
+        {
+          "titulo": "G+ Notícias - candidatos de Guarapuava",
+          "url": "https://gmaisnoticias.com/10x9-conheca-os-19-candidatos-a-deputados-de-guarapuava"
+        },
+        {
+          "titulo": "Lista oficial de candidatos da Missão (PR)",
+          "url": "https://candidatos.missao.org.br/?uf=PR"
+        },
+        {
+          "titulo": "Caminho da Missão - políticos do PR",
+          "url": "https://caminhodamissao.com/politicos/uf/pr"
+        },
+        {
+          "titulo": "Gazeta do Povo - candidatos a deputado federal no PR 2026",
+          "url": "https://www.gazetadopovo.com.br/eleicoes/2026/parana-2026/quem-sao-candidatos-deputado-federal-parana-2026/"
+        }
+      ],
+      "lacunas": [],
+      "revisar": true,
+      "cargo": "Deputado Federal",
+      "partido": "MISSÃO",
+      "id": "pr-fed-1499",
+      "basico": false,
+      "foto": "fotos/pr-fed-1499.jpg"
+    },
+    {
+      "id": "pr-fed-1400",
+      "cargo": "Deputado Federal",
+      "nomeUrna": "Gabriel Bertolucci",
+      "nomeCompleto": "Gabriel Juliano Bertolucci Rodrigues",
+      "numero": "1400",
+      "partido": "MISSÃO",
+      "situacaoTSE": "Deferido (consulta em 30/09/2026)",
+      "naturalidade": "Lavras (MG)",
+      "ocupacaoDeclarada": "Economista",
+      "escolaridade": "Superior completo",
+      "primeiraCandidatura": false,
+      "instagram": "@bertolucci_br",
+      "bio": "Economista nascido em Lavras (MG), formado pela UEPG segundo o Caminho da Missão, que também cita atuação no MBL-PR na fiscalização de gastos públicos. Disputou a Câmara de Londrina em 2024 pelo PSDB e não foi eleito. No site, diz ter cofundado a Missão no estado em 2022.",
+      "propostas": [
+        {
+          "titulo": "Fiscalização de gastos e combate à corrupção",
+          "resumo": "No site, o candidato diz que pretende acompanhar contratos e gastos do governo por meio de auditorias independentes e boletins fiscais.",
+          "fonte": "https://gabrielbertolucci.com.br/"
+        },
+        {
+          "titulo": "Menos burocracia e mais emprego",
+          "resumo": "Segundo o próprio site, defende liberdade econômica e desregulamentação, com menos impostos e burocracia.",
+          "fonte": "https://gabrielbertolucci.com.br/"
+        }
+      ],
+      "historico": [
+        {
+          "descricao": "Candidato a vereador de Londrina em 2024 pelo PSDB; não eleito, 2.234 votos.",
+          "fonte": "https://hubpolitico.com.br/perfil/gabrielbertolucci"
+        },
+        {
+          "descricao": "Atuação no MBL-PR fiscalizando gastos públicos, segundo o Caminho da Missão.",
+          "fonte": "https://caminhodamissao.com/politicos/uf/pr"
+        }
+      ],
+      "observacoes": [],
+      "fontes": [
+        {
+          "titulo": "HubPolítico - Gabriel Bertolucci",
+          "url": "https://hubpolitico.com.br/perfil/gabrielbertolucci"
+        },
+        {
+          "titulo": "Gazeta do Povo - Guia de candidatos",
+          "url": "https://www.gazetadopovo.com.br/eleicoes/2026/candidatos/pr/deputado-federal/gabriel-bertolucci-missao-1400/"
+        },
+        {
+          "titulo": "Site do candidato",
+          "url": "https://gabrielbertolucci.com.br/"
+        },
+        {
+          "titulo": "Caminho da Missão - PR",
+          "url": "https://caminhodamissao.com/politicos/uf/pr"
+        },
+        {
+          "titulo": "Lista oficial de candidatos da Missão (PR)",
+          "url": "https://candidatos.missao.org.br/?uf=PR"
+        }
+      ],
+      "lacunas": [],
+      "revisar": false,
+      "basico": false,
+      "foto": "fotos/pr-fed-1400.jpg"
+    },
+    {
+      "id": "pr-fed-1404",
+      "cargo": "Deputado Federal",
+      "nomeUrna": "Alan Leal",
+      "nomeCompleto": "Alan de Souza Leal",
+      "numero": "1404",
+      "partido": "MISSÃO",
+      "situacaoTSE": "Deferido (consulta em 30/09/2026)",
+      "naturalidade": "Curitiba (PR)",
+      "ocupacaoDeclarada": "Motorista de veículos de transporte de carga",
+      "escolaridade": "Ensino médio completo",
+      "instagram": "@alannleal_",
+      "bio": "Tem 29 anos, nasceu em Curitiba e declara ao TSE ser motorista de transporte de carga, com ensino médio completo. Na bio de campanha, apresenta-se como alguém de fora da política tradicional e cita segurança, empreendedorismo e combate ao desperdício de dinheiro público.",
+      "propostas": [
+        {
+          "titulo": "Combate ao crime organizado",
+          "resumo": "Segundo a bio de campanha, ele coloca o enfrentamento ao crime organizado entre seus focos.",
+          "fonte": "https://caminhodamissao.com/politico/alan-leal-pr"
+        },
+        {
+          "titulo": "Menos burocracia e apoio ao empreendedorismo",
+          "resumo": "Diz defender redução da burocracia e incentivo a quem empreende.",
+          "fonte": "https://caminhodamissao.com/politico/alan-leal-pr"
+        },
+        {
+          "titulo": "Fiscalização do gasto público",
+          "resumo": "Declara querer combater o desperdício do dinheiro público e melhorar o controle dos gastos do governo.",
+          "fonte": "https://caminhodamissao.com/politico/alan-leal-pr"
+        }
+      ],
+      "historico": [],
+      "observacoes": [],
+      "fontes": [
+        {
+          "titulo": "Gazeta do Povo - Alan Leal 1404",
+          "url": "https://www.gazetadopovo.com.br/eleicoes/2026/candidatos/pr/deputado-federal/alan-leal-missao-1404/"
+        },
+        {
+          "titulo": "Caminho da Missão - Alan Leal",
+          "url": "https://caminhodamissao.com/politico/alan-leal-pr"
+        },
+        {
+          "titulo": "Candidatos da Missão - PR",
+          "url": "https://candidatos.missao.org.br/?uf=PR"
+        }
+      ],
+      "lacunas": [],
+      "revisar": true,
+      "basico": false,
+      "foto": "fotos/pr-fed-1404.jpg"
+    },
+    {
+      "id": "pr-fed-1439",
+      "cargo": "Deputado Federal",
+      "nomeUrna": "Ana Lúcia",
+      "nomeCompleto": "Ana Lucia Dos Santos Xavier",
+      "numero": "1439",
+      "partido": "MISSÃO",
+      "situacaoTSE": "Deferido (consulta em 30/09/2026)",
+      "naturalidade": "Curitiba (PR)",
+      "ocupacaoDeclarada": "Contadora",
+      "escolaridade": "Ensino superior completo",
+      "instagram": "@analuciapr14",
+      "bio": "Tem 39 anos, nasceu em Curitiba e declara ao TSE ser contadora, com ensino superior completo. No perfil de campanha, diz ser mãe de dois filhos e ter recebido diagnóstico de câncer de mama em 2025, hoje em remissão, o que motivou sua entrada na política.",
+      "propostas": [
+        {
+          "titulo": "Melhoria da saúde pública",
+          "resumo": "Segundo o perfil de campanha, ela defende um sistema público de saúde melhor e menos espera por tratamento.",
+          "fonte": "https://caminhodamissao.com/politico/ana-lucia-2"
+        },
+        {
+          "titulo": "Segurança das famílias",
+          "resumo": "Declara priorizar segurança pública para as famílias.",
+          "fonte": "https://caminhodamissao.com/politico/ana-lucia-2"
+        },
+        {
+          "titulo": "Educação ligada ao emprego",
+          "resumo": "Diz querer uma educação que prepare jovens para o mercado de trabalho.",
+          "fonte": "https://caminhodamissao.com/politico/ana-lucia-2"
+        }
+      ],
+      "historico": [],
+      "observacoes": [],
+      "fontes": [
+        {
+          "titulo": "Gazeta do Povo - Ana Lúcia 1439",
+          "url": "https://www.gazetadopovo.com.br/eleicoes/2026/candidatos/pr/deputado-federal/ana-lucia-missao-1439/"
+        },
+        {
+          "titulo": "Caminho da Missão - Ana Lúcia",
+          "url": "https://caminhodamissao.com/politico/ana-lucia-2"
+        },
+        {
+          "titulo": "Candidatos da Missão - PR",
+          "url": "https://candidatos.missao.org.br/?uf=PR"
+        }
+      ],
+      "lacunas": [],
+      "revisar": true,
+      "basico": false,
+      "foto": "fotos/pr-fed-1439.jpg"
+    },
+    {
+      "id": "pr-fed-1414",
+      "cargo": "Deputado Federal",
+      "nomeUrna": "Pedro Deyrot",
+      "nomeCompleto": "Pedro Deyrot",
+      "numero": "1414",
+      "partido": "MISSÃO",
+      "situacaoTSE": "Candidato em disputa (HubPolítico), consulta em 30/09/2026",
+      "primeiraCandidatura": true,
+      "instagram": "@pedro.deyrot",
+      "bio": "Curitibano que cofundou o Bonde do Rolê, em 2005. Segundo a coluna da Metrópoles, foi um dos fundadores do MBL e hoje o coordena nacionalmente. Nunca havia disputado eleição, segundo o HubPolítico. Concorre a deputado federal pela Missão, com o número 1414.",
+      "propostas": [
+        {
+          "titulo": "Corte de gastos públicos",
+          "resumo": "Segundo a Metrópoles, ele prioriza o reequilíbrio das contas públicas e a aprovação de uma emenda constitucional de corte de gastos, argumentando que isso liberaria recursos para infraestrutura e tecnologia.",
+          "fonte": "https://www.metropoles.com/colunas/andreza-matais/missao-lanca-ex-funkeiro-do-bonde-do-role-a-deputado-federal-no-parana"
+        }
+      ],
+      "historico": [
+        {
+          "descricao": "Cofundador do Bonde do Rolê (2005), banda encerrada em 2016, segundo a Metrópoles.",
+          "fonte": "https://www.metropoles.com/colunas/andreza-matais/missao-lanca-ex-funkeiro-do-bonde-do-role-a-deputado-federal-no-parana"
+        },
+        {
+          "descricao": "Um dos fundadores do MBL e coordenador nacional do movimento, segundo a Metrópoles.",
+          "fonte": "https://www.metropoles.com/colunas/andreza-matais/missao-lanca-ex-funkeiro-do-bonde-do-role-a-deputado-federal-no-parana"
+        }
+      ],
+      "observacoes": [],
+      "fontes": [
+        {
+          "titulo": "HubPolítico - Pedro Deyrot",
+          "url": "https://hubpolitico.com.br/perfil/pedrodeyrot"
+        },
+        {
+          "titulo": "Metrópoles - Missão lança ex-funkeiro a deputado federal",
+          "url": "https://www.metropoles.com/colunas/andreza-matais/missao-lanca-ex-funkeiro-do-bonde-do-role-a-deputado-federal-no-parana"
+        },
+        {
+          "titulo": "Caminho da Missão - PR",
+          "url": "https://caminhodamissao.com/politicos/uf/pr"
+        },
+        {
+          "titulo": "Lista oficial de candidatos da Missão (PR)",
+          "url": "https://candidatos.missao.org.br/?uf=PR"
+        }
+      ],
+      "lacunas": [],
+      "revisar": false,
+      "basico": false,
+      "foto": "fotos/pr-fed-1414.jpg"
+    },
+    {
+      "id": "pr-fed-1477",
+      "cargo": "Deputado Federal",
+      "nomeUrna": "Jornalista Isaak Almeida",
+      "nomeCompleto": "Isaak Joel Pereira Almeida",
+      "numero": "1477",
+      "partido": "MISSÃO",
+      "situacaoTSE": "Deferido (consulta em 30/09/2026)",
+      "naturalidade": "Curitiba (PR)",
+      "ocupacaoDeclarada": "Jornalista e redator",
+      "escolaridade": "Superior completo",
+      "primeiraCandidatura": false,
+      "instagram": "@jornalistaisaakalmeidaa",
+      "bio": "Jornalista e redator nascido em Curitiba, com ensino superior completo. Concorre a deputado federal pela Missão, com o número 1477. Segundo o HubPolítico, já disputou várias eleições por partidos diversos, sem se eleger, com uma suplência em 2018.",
+      "propostas": [],
+      "historico": [
+        {
+          "descricao": "Candidato a deputado federal em 2014 (PSDC); não eleito, 1.347 votos.",
+          "fonte": "https://hubpolitico.com.br/perfil/jornalistaisaakalmeida"
+        },
+        {
+          "descricao": "Candidato a vereador de Curitiba em 2016 (PMN); não eleito, 673 votos.",
+          "fonte": "https://hubpolitico.com.br/perfil/jornalistaisaakalmeida"
+        },
+        {
+          "descricao": "Candidato a deputado estadual em 2018 (PTC); suplente, 801 votos.",
+          "fonte": "https://hubpolitico.com.br/perfil/jornalistaisaakalmeida"
+        },
+        {
+          "descricao": "Candidato a vereador de Curitiba em 2024 (DC); não eleito, 756 votos.",
+          "fonte": "https://hubpolitico.com.br/perfil/jornalistaisaakalmeida"
+        }
+      ],
+      "observacoes": [],
+      "fontes": [
+        {
+          "titulo": "HubPolítico - Isaak Almeida",
+          "url": "https://hubpolitico.com.br/perfil/jornalistaisaakalmeida"
+        },
+        {
+          "titulo": "ND Mais - Guia de candidatos",
+          "url": "https://ndmais.com.br/eleicoes/2026/candidatos/pr/deputado-federal/1477-jornalista-isaak-almeida/"
+        },
+        {
+          "titulo": "Candidatos da Missão - página do candidato",
+          "url": "https://candidatos.missao.org.br/candidato/160002551034"
+        },
+        {
+          "titulo": "Lista oficial de candidatos da Missão (PR)",
+          "url": "https://candidatos.missao.org.br/?uf=PR"
+        }
+      ],
+      "lacunas": [],
+      "revisar": true,
+      "basico": false,
+      "foto": "fotos/pr-fed-1477.jpg"
+    },
+    {
+      "id": "pr-fed-1456",
+      "cargo": "Deputado Federal",
+      "nomeUrna": "Gerusa Correa",
+      "nomeCompleto": "Gerusa Francielli Correa da Silva",
+      "numero": "1456",
+      "partido": "MISSÃO",
+      "situacaoTSE": "Deferido (consulta em 30/09/2026)",
+      "naturalidade": "Curitiba (PR)",
+      "ocupacaoDeclarada": "Diretora de estabelecimento de ensino",
+      "escolaridade": "Ensino superior completo",
+      "instagram": "@gerusacorreaoficial",
+      "bio": "Tem 43 anos e nasceu em Curitiba. Declara ao TSE a ocupação de diretora de estabelecimento de ensino, com ensino superior completo. No Caminho da Missão é descrita como ministra de louvor e líder comunitária, e diz priorizar valores da família, terceiro setor e apoio social.",
+      "propostas": [
+        {
+          "titulo": "Prioridades de campanha",
+          "resumo": "Segundo o perfil de campanha, ela centra a candidatura na defesa dos valores da família, no fortalecimento do terceiro setor e no uso de cultura e apoio social contra vulnerabilidade e problemas de saúde mental.",
+          "fonte": "https://caminhodamissao.com/politico/gerusa-correa"
+        }
+      ],
+      "historico": [
+        {
+          "descricao": "Segundo o Caminho da Missão, atua como ministra de louvor e líder comunitária no Paraná.",
+          "fonte": "https://caminhodamissao.com/politico/gerusa-correa"
+        }
+      ],
+      "observacoes": [],
+      "fontes": [
+        {
+          "titulo": "Gazeta do Povo - Gerusa Correa 1456",
+          "url": "https://www.gazetadopovo.com.br/eleicoes/2026/candidatos/pr/deputado-federal/gerusa-correa-missao-1456/"
+        },
+        {
+          "titulo": "Caminho da Missão - Gerusa Correa",
+          "url": "https://caminhodamissao.com/politico/gerusa-correa"
+        },
+        {
+          "titulo": "Candidatos da Missão - PR",
+          "url": "https://candidatos.missao.org.br/?uf=PR"
+        }
+      ],
+      "lacunas": [],
+      "revisar": true,
+      "basico": false,
+      "foto": "fotos/pr-fed-1456.jpg"
+    },
+    {
+      "nomeUrna": "Carlos Gasparin",
+      "nomeCompleto": "Carlos Eduardo de Oliveira Gasparin",
+      "numero": "1411",
+      "situacaoTSE": "Deferido (consulta em 30/09/2026)",
+      "nascimento": "1996-07-03",
+      "naturalidade": "Apucarana (PR)",
+      "ocupacaoDeclarada": "Advogado",
+      "escolaridade": "Superior completo",
+      "primeiraCandidatura": true,
+      "instagram": "@carlosgasparin.mbl",
+      "bio": "Advogado de 30 anos, natural de Apucarana (PR). Segundo o Encontra Apucarana, formou-se em Direito em dezembro de 2021, atua em escritório na cidade e foi homologado em convenção em 20/07/2026. Sem candidaturas anteriores no HubPolítico.",
+      "historico": [
+        {
+          "descricao": "Formado em Direito em dezembro de 2021 e atuante em escritório jurídico em Apucarana (matéria de 03/08/2026).",
+          "fonte": "https://www.encontraapucarana.com.br/apucarana-tem-mais-dois-candidatos-homologados-ate-agora/"
+        },
+        {
+          "descricao": "Homologado como candidato a deputado federal pela Missão em convenção de 20/07/2026.",
+          "fonte": "https://www.encontraapucarana.com.br/apucarana-tem-mais-dois-candidatos-homologados-ate-agora/"
+        }
+      ],
+      "fontes": [
+        {
+          "titulo": "HubPolítico - Carlos Gasparin",
+          "url": "https://hubpolitico.com.br/perfil/carlosgasparin"
+        },
+        {
+          "titulo": "O Tempo - Carlos Gasparin",
+          "url": "https://www.otempo.com.br/eleicoes/2026/candidatos/parana/deputado-federal/carlos-gasparin-1411"
+        },
+        {
+          "titulo": "Encontra Apucarana - candidatos homologados",
+          "url": "https://www.encontraapucarana.com.br/apucarana-tem-mais-dois-candidatos-homologados-ate-agora/"
+        },
+        {
+          "titulo": "Lista oficial de candidatos da Missão (PR)",
+          "url": "https://candidatos.missao.org.br/?uf=PR"
+        },
+        {
+          "titulo": "Caminho da Missão - políticos do PR",
+          "url": "https://caminhodamissao.com/politicos/uf/pr"
+        },
+        {
+          "titulo": "Gazeta do Povo - candidatos a deputado federal no PR 2026",
+          "url": "https://www.gazetadopovo.com.br/eleicoes/2026/parana-2026/quem-sao-candidatos-deputado-federal-parana-2026/"
+        }
+      ],
+      "lacunas": [],
+      "propostas": [],
+      "observacoes": [],
+      "cargo": "Deputado Federal",
+      "partido": "MISSÃO",
+      "id": "pr-fed-1411",
+      "revisar": false,
+      "basico": false,
+      "foto": "fotos/pr-fed-1411.jpg"
+    },
+    {
+      "nomeUrna": "Prof. Yan Gaudard",
+      "nomeCompleto": "Yan Pereira Gaudard",
+      "numero": "1441",
+      "situacaoTSE": "Deferido (consulta em 30/09/2026)",
+      "nascimento": "1993-05-08",
+      "naturalidade": "Niterói (RJ)",
+      "ocupacaoDeclarada": "Professor de ensino médio",
+      "escolaridade": "Superior completo (Letras, Unespar)",
+      "primeiraCandidatura": true,
+      "instagram": "@profyangaudard",
+      "bio": "Professor de Português de 33 anos, nascido em Niterói (RJ) e morador de Paranaguá desde 2018, formado em Letras pela Unespar. Casado, cristão. Foi filiado ao Novo antes de ingressar na Missão. Sem candidaturas anteriores no HubPolítico.",
+      "historico": [
+        {
+          "descricao": "Formado em Letras pela Unespar, em Paranaguá; professor desde 2022 em colégio particular de Pontal do Paraná; sem cargo político anterior (matéria de 12/05/2026).",
+          "fonte": "https://jblitoral.com.br/politica/eleicoes-2026-professor-yan-gaudard-anuncia-pre-candidatura-a-deputado-federal-pelo-partido-missao-no-litoral/"
+        },
+        {
+          "descricao": "Foi filiado ao Novo e ajudou a estruturar o partido em Paranaguá, antes de migrar para a Missão.",
+          "fonte": "https://jblitoral.com.br/politica/eleicoes-2026-professor-yan-gaudard-anuncia-pre-candidatura-a-deputado-federal-pelo-partido-missao-no-litoral/"
+        }
+      ],
+      "fontes": [
+        {
+          "titulo": "HubPolítico - Yan Gaudard",
+          "url": "https://hubpolitico.com.br/perfil/profyangaudard"
+        },
+        {
+          "titulo": "O Tempo - Yan Gaudard",
+          "url": "https://www.otempo.com.br/eleicoes/2026/candidatos/parana/deputado-federal/prof--yan-gaudard-1441"
+        },
+        {
+          "titulo": "JB Litoral - pré-candidatura",
+          "url": "https://jblitoral.com.br/politica/eleicoes-2026-professor-yan-gaudard-anuncia-pre-candidatura-a-deputado-federal-pelo-partido-missao-no-litoral/"
+        },
+        {
+          "titulo": "Lista oficial de candidatos da Missão (PR)",
+          "url": "https://candidatos.missao.org.br/?uf=PR"
+        },
+        {
+          "titulo": "Caminho da Missão - políticos do PR",
+          "url": "https://caminhodamissao.com/politicos/uf/pr"
+        },
+        {
+          "titulo": "Gazeta do Povo - candidatos a deputado federal no PR 2026",
+          "url": "https://www.gazetadopovo.com.br/eleicoes/2026/parana-2026/quem-sao-candidatos-deputado-federal-parana-2026/"
+        }
+      ],
+      "lacunas": [],
+      "propostas": [],
+      "observacoes": [],
+      "cargo": "Deputado Federal",
+      "partido": "MISSÃO",
+      "id": "pr-fed-1441",
+      "revisar": false,
+      "basico": false,
+      "foto": "fotos/pr-fed-1441.jpg"
+    },
+    {
+      "id": "pr-fed-1426",
+      "cargo": "Deputado Federal",
+      "nomeUrna": "Prof. This",
+      "nomeCompleto": "Jéssica This Machado",
+      "numero": "1426",
+      "partido": "MISSÃO",
+      "situacaoTSE": "Candidatura regular, com dados e documentação completos (Gazeta do Povo, consulta em 30/09/2026)",
+      "naturalidade": "Foz do Iguaçu (PR)",
+      "ocupacaoDeclarada": "Pedagoga",
+      "escolaridade": "Ensino superior completo",
+      "instagram": "@prof_this.pr",
+      "bio": "Tem 30 anos e nasceu em Foz do Iguaçu (PR). Declara ao TSE a ocupação de pedagoga, com ensino superior completo. Na bio de campanha, diz ter mais de dez anos de docência e uma clínica multidisciplinar em Curitiba voltada à alfabetização de crianças com necessidades especiais.",
+      "propostas": [],
+      "historico": [
+        {
+          "descricao": "Segundo o próprio perfil de campanha, atua há mais de 10 anos como docente, inclusive no ensino superior (autodeclarado, não verificado de forma independente).",
+          "fonte": "https://caminhodamissao.com/politico/prof-this"
+        }
+      ],
+      "observacoes": [],
+      "fontes": [
+        {
+          "titulo": "Gazeta do Povo - Prof. This 1426",
+          "url": "https://www.gazetadopovo.com.br/eleicoes/2026/candidatos/pr/deputado-federal/prof-this-missao-1426/"
+        },
+        {
+          "titulo": "Caminho da Missão - Prof. This",
+          "url": "https://caminhodamissao.com/politico/prof-this"
+        },
+        {
+          "titulo": "Candidatos da Missão - PR",
+          "url": "https://candidatos.missao.org.br/?uf=PR"
+        }
+      ],
+      "lacunas": [],
+      "revisar": true,
+      "basico": false,
+      "foto": "fotos/pr-fed-1426.jpg"
+    },
+    {
+      "id": "pr-fed-1406",
+      "cargo": "Deputado Federal",
+      "nomeUrna": "Mari Guedes PCD",
+      "nomeCompleto": "Marianny Thayla Carvalho Guedes",
+      "numero": "1406",
+      "partido": "MISSÃO",
+      "situacaoTSE": "Deferido (consulta em 30/09/2026)",
+      "bio": "Marianny Thayla Carvalho Guedes, nascida em Brasília (DF) em 13 de maio de 1998, tem ensino superior completo segundo o registro no TSE. Candidata a deputada federal pelo Paraná pelo Missão, número 1406. A candidatura consta como deferida.",
+      "propostas": [],
+      "historico": [],
+      "observacoes": [],
+      "fontes": [
+        {
+          "titulo": "Candidatos da Missão: Mari Guedes PCD (Missão, 1406)",
+          "url": "https://candidatos.missao.org.br/candidato/160002551013"
+        },
+        {
+          "titulo": "Bem Paraná (dados TSE): Mari Guedes PCD (Missão, 1406)",
+          "url": "https://www.bemparana.com.br/candidato/deputado-federal/mari-guedes-pcd"
+        },
+        {
+          "titulo": "Caminho da Missão: Mari Guedes PCD (Missão, 1406)",
+          "url": "https://caminhodamissao.com/politico/mari-guedes-pcd-pr"
+        }
+      ],
+      "lacunas": [
+        "Ocupação declarada ao TSE consta apenas como 'Outros' (sem profissão específica).",
+        "Sem propostas, histórico ou bio própria em fontes públicas consultadas.",
+        "Plano de governo/propostas não localizado (TSE bloqueou acesso automatizado).",
+        "Primeira candidatura: não verificada (TSE inacessível)."
+      ],
+      "revisar": false,
+      "basico": false,
+      "foto": "fotos/pr-fed-1406.jpg",
+      "nascimento": "1998-05-13",
+      "naturalidade": "Brasília (DF)",
+      "escolaridade": "Superior completo",
+      "instagram": "mariguedes14"
+    },
+    {
+      "id": "pr-fed-1415",
+      "cargo": "Deputado Federal",
+      "nomeUrna": "Delegado Eduardo Kruger",
+      "nomeCompleto": "Eduardo Kruger Costa",
+      "numero": "1415",
+      "partido": "MISSÃO",
+      "situacaoTSE": "Deferido (consulta em 30/09/2026)",
+      "bio": "Eduardo Kruger Costa, nascido em Curitiba (PR) em 16 de dezembro de 1983, declarou ao TSE a ocupação de policial civil e ensino superior completo. Candidato a deputado federal pelo Paraná pelo Missão, número 1415, com o nome de urna Delegado Eduardo Kruger.",
+      "propostas": [],
+      "historico": [],
+      "observacoes": [],
+      "fontes": [
+        {
+          "titulo": "Candidatos da Missão: Delegado Eduardo Kruger (Missão, 1415)",
+          "url": "https://candidatos.missao.org.br/candidato/160002551029"
+        },
+        {
+          "titulo": "Bem Paraná (dados TSE): Delegado Eduardo Kruger (Missão, 1415)",
+          "url": "https://www.bemparana.com.br/candidato/deputado-federal/delegado-eduardo-kruger"
+        },
+        {
+          "titulo": "Caminho da Missão: Delegado Eduardo Kruger (Missão, 1415)",
+          "url": "https://caminhodamissao.com/politico/delegado-eduardo-kruger-pr"
+        }
+      ],
+      "lacunas": [
+        "Propostas não localizadas em fontes públicas.",
+        "Histórico político/profissional detalhado não localizado; cargo específico na Polícia Civil não confirmado por fonte além do nome de urna.",
+        "Primeira candidatura: não verificada (TSE inacessível)."
+      ],
+      "revisar": false,
+      "basico": false,
+      "foto": "fotos/pr-fed-1415.jpg",
+      "nascimento": "1983-12-16",
+      "naturalidade": "Curitiba (PR)",
+      "ocupacaoDeclarada": "Policial Civil",
+      "escolaridade": "Superior completo",
+      "instagram": "delegadoeduardokruger"
+    },
+    {
+      "id": "pr-fed-1442",
+      "cargo": "Deputado Federal",
+      "nomeUrna": "Dr. Guilherme Machado",
+      "nomeCompleto": "Guilherme Machado",
+      "numero": "1442",
+      "partido": "MISSÃO",
+      "situacaoTSE": "Deferido (consulta em 30/09/2026)",
+      "bio": "Guilherme Augusto de Souza Machado, nascido em Curitiba (PR) em 8 de outubro de 1991, declarou ao TSE a ocupação de médico e ensino superior completo. Candidato a deputado federal pelo Paraná pelo Missão, número 1442. O perfil de Instagram indicado no cadastro é drguilhermemachado_neuro.",
+      "propostas": [],
+      "historico": [],
+      "observacoes": [],
+      "fontes": [
+        {
+          "titulo": "Candidatos da Missão: Dr. Guilherme Machado (Missão, 1442)",
+          "url": "https://candidatos.missao.org.br/candidato/160002551027"
+        },
+        {
+          "titulo": "Bem Paraná (dados TSE): Dr. Guilherme Machado (Missão, 1442)",
+          "url": "https://www.bemparana.com.br/candidato/deputado-federal/dr-guilherme-machado"
+        },
+        {
+          "titulo": "Caminho da Missão: Dr. Guilherme Machado (Missão, 1442)",
+          "url": "https://caminhodamissao.com/politico/dr-guilherme-machado"
+        }
+      ],
+      "lacunas": [
+        "Propostas não localizadas.",
+        "Especialidade médica e histórico profissional não confirmados por fonte além do nome do perfil no Instagram (sugere neurologia/neurocirurgia; não afirmado).",
+        "Página do O Tempo retornou 404 para este candidato.",
+        "Primeira candidatura: não verificada (TSE inacessível)."
+      ],
+      "revisar": false,
+      "basico": false,
+      "foto": "fotos/pr-fed-1442.jpg",
+      "nascimento": "1991-10-08",
+      "naturalidade": "Curitiba (PR)",
+      "ocupacaoDeclarada": "Médico",
+      "escolaridade": "Superior completo",
+      "instagram": "drguilhermemachado_neuro"
+    },
+    {
+      "id": "pr-fed-1443",
+      "cargo": "Deputado Federal",
+      "nomeUrna": "Matheus Moreira",
+      "nomeCompleto": "Matheus Santos Moreira",
+      "numero": "1443",
+      "partido": "MISSÃO",
+      "situacaoTSE": "Deferido (consulta em 30/09/2026)",
+      "bio": "Matheus Santos Moreira, nascido em Arapongas (PR) em 16 de abril de 1995, declarou ao TSE a ocupação de servidor público federal e ensino superior completo. Candidato a deputado federal pelo Paraná pelo Missão, número 1443.",
+      "propostas": [],
+      "historico": [],
+      "observacoes": [
+        "Bem Paraná lista nacionalidade como 'Brasileira (Naturalizada)' embora aponte nascimento em Arapongas/PR e o payload do Missão indique ufNascimento PR; inconsistência de fonte, nacionalidade não incluída. Verificar no TSE (campo já marcado revisar:true)."
+      ],
+      "fontes": [
+        {
+          "titulo": "Candidatos da Missão: Matheus Moreira (Missão, 1443)",
+          "url": "https://candidatos.missao.org.br/candidato/160002551022"
+        },
+        {
+          "titulo": "Bem Paraná (dados TSE): Matheus Moreira (Missão, 1443)",
+          "url": "https://www.bemparana.com.br/candidato/deputado-federal/matheus-moreira"
+        },
+        {
+          "titulo": "Caminho da Missão: Matheus Moreira (Missão, 1443)",
+          "url": "https://caminhodamissao.com/politico/matheus-moreira-pr"
+        }
+      ],
+      "lacunas": [
+        "Propostas e histórico não localizados.",
+        "Orgão/cargo federal não informado nas fontes.",
+        "Primeira candidatura: não verificada (TSE inacessível)."
+      ],
+      "revisar": true,
+      "basico": false,
+      "foto": "fotos/pr-fed-1443.jpg",
+      "nascimento": "1995-04-16",
+      "naturalidade": "Arapongas (PR)",
+      "ocupacaoDeclarada": "Servidor Público Federal",
+      "escolaridade": "Superior completo",
+      "instagram": "mathsmoreira"
+    },
+    {
+      "id": "pr-fed-1444",
+      "cargo": "Deputado Federal",
+      "nomeUrna": "Darlon Paraná Pop",
+      "nomeCompleto": "Darlon Alexandre Dutra Martins",
+      "numero": "1444",
+      "partido": "MISSÃO",
+      "situacaoTSE": "Deferido (consulta em 30/09/2026)",
+      "bio": "Darlon Alexandre Dutra Martins, nascido em Cascavel (PR) em 30 de janeiro de 1985, declarou ao TSE a ocupação de empresário e ensino superior incompleto. Candidato a deputado federal pelo Paraná pelo Missão, número 1444. Mantém o perfil @parana.pop no Instagram.",
+      "propostas": [],
+      "historico": [
+        {
+          "descricao": "Disputou vaga de vereador em Foz do Iguaçu em 2024 pelo Mobiliza, ficando como suplente.",
+          "fonte": "https://pn.news/pr/candidatos/darlon-parana-pop"
+        }
+      ],
+      "observacoes": [
+        "Nome de urna sugere vínculo com o perfil 'Paraná Pop'; o perfil @parana.pop consta no cadastro do Missão com cerca de 214 mil seguidores, mas o vínculo editorial não foi verificado além do cadastro.",
+        "Histórico de 2024 vem de agregador (pn.news) citando DivulgaCand/TSE; não confirmado diretamente no TSE. Campo primeiraCandidatura: false derivado dele."
+      ],
+      "fontes": [
+        {
+          "titulo": "Candidatos da Missão: Darlon Paraná Pop (Missão, 1444)",
+          "url": "https://candidatos.missao.org.br/candidato/160002551024"
+        },
+        {
+          "titulo": "Bem Paraná (dados TSE): Darlon Paraná Pop (Missão, 1444)",
+          "url": "https://www.bemparana.com.br/candidato/deputado-federal/darlon-parana-pop"
+        },
+        {
+          "titulo": "Caminho da Missão: Darlon Paraná Pop (Missão, 1444)",
+          "url": "https://caminhodamissao.com/politico/darlon-parana-pop-pr"
+        },
+        {
+          "titulo": "Politica News: Darlon Paraná Pop (histórico eleitoral, dados DivulgaCand)",
+          "url": "https://pn.news/pr/candidatos/darlon-parana-pop"
+        }
+      ],
+      "lacunas": [
+        "Propostas não localizadas.",
+        "Atividade empresarial/de comunicação não detalhada em fonte verificável."
+      ],
+      "revisar": true,
+      "basico": false,
+      "foto": "fotos/pr-fed-1444.jpg",
+      "nascimento": "1985-01-30",
+      "naturalidade": "Cascavel (PR)",
+      "ocupacaoDeclarada": "Empresário",
+      "escolaridade": "Superior incompleto",
+      "instagram": "parana.pop",
+      "primeiraCandidatura": false
+    },
+    {
+      "id": "pr-fed-1445",
+      "cargo": "Deputado Federal",
+      "nomeUrna": "Ricardo Cascavel Mais Segura",
+      "nomeCompleto": "Ricardo Andre Schirmann Pereira",
+      "numero": "1445",
+      "partido": "MISSÃO",
+      "situacaoTSE": "Deferido (consulta em 30/09/2026)",
+      "bio": "Ricardo André Schirmann Pereira, nascido em Cascavel (PR) em 11 de agosto de 1986, declarou ao TSE a ocupação de corretor de imóveis, seguros, títulos e valores e ensino superior incompleto. Candidato a deputado federal pelo Paraná pelo Missão, número 1445.",
+      "propostas": [],
+      "historico": [],
+      "observacoes": [],
+      "fontes": [
+        {
+          "titulo": "Candidatos da Missão: Ricardo Cascavel Mais Segura (Missão, 1445)",
+          "url": "https://candidatos.missao.org.br/candidato/160002551025"
+        },
+        {
+          "titulo": "Bem Paraná (dados TSE): Ricardo Cascavel Mais Segura (Missão, 1445)",
+          "url": "https://www.bemparana.com.br/candidato/deputado-federal/ricardo-cascavel-mais-segura"
+        },
+        {
+          "titulo": "Caminho da Missão: Ricardo Cascavel Mais Segura (Missão, 1445)",
+          "url": "https://caminhodamissao.com/politico/ricardo-cascavel-mais-segura-pr"
+        }
+      ],
+      "lacunas": [
+        "Propostas e histórico não localizados.",
+        "O nome de urna faz referência a Cascavel; propostas de segurança pública não verificadas.",
+        "Primeira candidatura: não verificada (TSE inacessível)."
+      ],
+      "revisar": false,
+      "basico": false,
+      "foto": "fotos/pr-fed-1445.jpg",
+      "nascimento": "1986-08-11",
+      "naturalidade": "Cascavel (PR)",
+      "ocupacaoDeclarada": "Corretor de Imóveis, Seguros, Títulos e Valores",
+      "escolaridade": "Superior incompleto",
+      "instagram": "cascavel_maissegura"
+    },
+    {
+      "id": "pr-fed-1422",
+      "cargo": "Deputado Federal",
+      "nomeUrna": "Fernando Garbatchevski",
+      "nomeCompleto": "Fernando Garbatchevski",
+      "numero": "1422",
+      "partido": "MISSÃO",
+      "situacaoTSE": "Deferido (consulta em 30/09/2026)",
+      "bio": "Fernando Garbatchevski, nascido em Prudentópolis (PR) em 4 de março de 1999, declarou ao TSE a ocupação de motoboy e ensino médio completo. Candidato a deputado federal pelo Paraná pelo Missão, número 1422.",
+      "propostas": [],
+      "historico": [],
+      "observacoes": [],
+      "fontes": [
+        {
+          "titulo": "Candidatos da Missão: Fernando Garbatchevski (Missão, 1422)",
+          "url": "https://candidatos.missao.org.br/candidato/160002551020"
+        },
+        {
+          "titulo": "Bem Paraná (dados TSE): Fernando Garbatchevski (Missão, 1422)",
+          "url": "https://www.bemparana.com.br/candidato/deputado-federal/fernando-garbatchevski"
+        },
+        {
+          "titulo": "Caminho da Missão: Fernando Garbatchevski (Missão, 1422)",
+          "url": "https://caminhodamissao.com/politico/fernando-garbatchevski-pr"
+        }
+      ],
+      "lacunas": [
+        "Propostas e histórico não localizados.",
+        "Instagram @garba_missao vem do cadastro do Missão, sem foto/seguidores verificados.",
+        "Primeira candidatura: não verificada (TSE inacessível)."
+      ],
+      "revisar": false,
+      "basico": false,
+      "foto": "fotos/pr-fed-1422.jpg",
+      "nascimento": "1999-03-04",
+      "naturalidade": "Prudentópolis (PR)",
+      "ocupacaoDeclarada": "Motoboy",
+      "escolaridade": "Ensino médio completo",
+      "instagram": "garba_missao"
+    },
+    {
+      "id": "pr-fed-1410",
+      "cargo": "Deputado Federal",
+      "nomeUrna": "Matheus Zozoloto",
+      "nomeCompleto": "José Matheus Damasceno Machado Zozoloto Dariva",
+      "numero": "1410",
+      "partido": "MISSÃO",
+      "situacaoTSE": "Em disputa, candidatura regular com dados e documentação completos (HubPolítico/Gazeta do Povo, consulta em 30/09/2026)",
+      "bio": "José Matheus Damasceno Machado Zozoloto Dariva, nascido em Bandeirantes (PR) em 2 de março de 2002, declarou ao TSE a ocupação de servidor público municipal e ensino superior incompleto. Candidato a deputado federal pelo Paraná pelo Missão, número 1410.",
+      "propostas": [],
+      "historico": [],
+      "observacoes": [
+        "Situação no TSE no JSON está como 'Em disputa' (HubPolítico/Gazeta); o payload do Missão indica 'Deferido'."
+      ],
+      "fontes": [
+        {
+          "titulo": "Candidatos da Missão: Matheus Zozoloto (Missão, 1410)",
+          "url": "https://candidatos.missao.org.br/candidato/160002551023"
+        },
+        {
+          "titulo": "Bem Paraná (dados TSE): Matheus Zozoloto (Missão, 1410)",
+          "url": "https://www.bemparana.com.br/candidato/deputado-federal/matheus-zozoloto"
+        },
+        {
+          "titulo": "Caminho da Missão: Matheus Zozoloto (Missão, 1410)",
+          "url": "https://caminhodamissao.com/politico/matheus-zozoloto-pr"
+        }
+      ],
+      "lacunas": [
+        "Propostas e histórico não localizados.",
+        "Município/órgão de atuação como servidor não informado.",
+        "Primeira candidatura: não verificada (TSE inacessível)."
+      ],
+      "revisar": false,
+      "basico": false,
+      "foto": "fotos/pr-fed-1410.jpg",
+      "nascimento": "2002-03-02",
+      "naturalidade": "Bandeirantes (PR)",
+      "ocupacaoDeclarada": "Servidor Público Municipal",
+      "escolaridade": "Superior incompleto",
+      "instagram": "zozolotopr"
+    },
+    {
+      "id": "pr-fed-1446",
+      "cargo": "Deputado Federal",
+      "nomeUrna": "Maurício Franciscon",
+      "nomeCompleto": "Maurício Matheus Franciscon",
+      "numero": "1446",
+      "partido": "MISSÃO",
+      "situacaoTSE": "Deferido (consulta em 30/09/2026)",
+      "bio": "Maurício Matheus Franciscon, nascido em Francisco Beltrão (PR) em 3 de maio de 2001, declarou ao TSE a ocupação de pecuarista e ensino médio completo. Candidato a deputado federal pelo Paraná pelo Missão, número 1446.",
+      "propostas": [],
+      "historico": [],
+      "observacoes": [],
+      "fontes": [
+        {
+          "titulo": "Candidatos da Missão: Maurício Franciscon (Missão, 1446)",
+          "url": "https://candidatos.missao.org.br/candidato/160002551016"
+        },
+        {
+          "titulo": "Bem Paraná (dados TSE): Maurício Franciscon (Missão, 1446)",
+          "url": "https://www.bemparana.com.br/candidato/deputado-federal/mauricio-franciscon"
+        },
+        {
+          "titulo": "Caminho da Missão: Maurício Franciscon (Missão, 1446)",
+          "url": "https://caminhodamissao.com/politico/mauricio-franciscon-pr"
+        }
+      ],
+      "lacunas": [
+        "Propostas e histórico não localizados.",
+        "Primeira candidatura: não verificada (TSE inacessível)."
+      ],
+      "revisar": false,
+      "basico": false,
+      "foto": "fotos/pr-fed-1446.jpg",
+      "nascimento": "2001-05-03",
+      "naturalidade": "Francisco Beltrão (PR)",
+      "ocupacaoDeclarada": "Pecuarista",
+      "escolaridade": "Ensino médio completo",
+      "instagram": "omauriciofranciscon"
+    },
+    {
+      "id": "pr-fed-1419",
+      "cargo": "Deputado Federal",
+      "nomeUrna": "Anita de Biasi",
+      "nomeCompleto": "Anita de Biasi",
+      "numero": "1419",
+      "partido": "MISSÃO",
+      "situacaoTSE": "Deferido (consulta em 30/09/2026)",
+      "bio": "Anita de Biasi, nascida em Curitiba (PR) em 21 de janeiro de 1987, declarou ao TSE a ocupação de fotógrafa e assemelhados e ensino superior completo. Candidata a deputada federal pelo Paraná pelo Missão, número 1419.",
+      "propostas": [],
+      "historico": [],
+      "observacoes": [],
+      "fontes": [
+        {
+          "titulo": "Candidatos da Missão: Anita de Biasi (Missão, 1419)",
+          "url": "https://candidatos.missao.org.br/candidato/160002551026"
+        },
+        {
+          "titulo": "Bem Paraná (dados TSE): Anita de Biasi (Missão, 1419)",
+          "url": "https://www.bemparana.com.br/candidato/deputado-federal/anita-de-biasi"
+        },
+        {
+          "titulo": "Caminho da Missão: Anita de Biasi (Missão, 1419)",
+          "url": "https://caminhodamissao.com/politico/anita-de-biasi-pr"
+        }
+      ],
+      "lacunas": [
+        "Propostas e histórico não localizados.",
+        "Primeira candidatura: não verificada (TSE inacessível)."
+      ],
+      "revisar": true,
+      "basico": false,
+      "foto": "fotos/pr-fed-1419.jpg",
+      "nascimento": "1987-01-21",
+      "naturalidade": "Curitiba (PR)",
+      "ocupacaoDeclarada": "Fotógrafo e Assemelhados",
+      "escolaridade": "Superior completo",
+      "instagram": "anitadebiasipr"
+    },
+    {
+      "id": "pr-fed-1497",
+      "cargo": "Deputado Federal",
+      "nomeUrna": "Caroline Barbosa",
+      "nomeCompleto": "Caroline Santos Barbosa",
+      "numero": "1497",
+      "partido": "MISSÃO",
+      "situacaoTSE": "Deferido (consulta em 30/09/2026)",
+      "bio": "Nascida em São Paulo (SP) em 18 de outubro de 1997, declarou ao TSE ensino superior completo. Candidata a deputada federal pelo Paraná pelo Missão, número 1497. Segundo o TSE, é a primeira vez que disputa uma eleição.",
+      "propostas": [],
+      "historico": [],
+      "observacoes": [
+        "Dados cadastrais (nascimento, naturalidade, ocupação, escolaridade) conferidos em mais de uma fonte que reproduz o TSE; consulta direta ao DivulgaCandContas não feita",
+        "Busca adicional limitada por rate limit da ferramenta de pesquisa"
+      ],
+      "fontes": [
+        {
+          "titulo": "Missão Candidatos: Caroline Barbosa (1497)",
+          "url": "https://candidatos.missao.org.br/candidato/160002551042"
+        },
+        {
+          "titulo": "O Tempo: Caroline Barbosa (1497), dados do TSE",
+          "url": "https://www.otempo.com.br/eleicoes/2026/candidatos/parana/deputado-federal/caroline-barbosa-1497"
+        },
+        {
+          "titulo": "Politica News / Plural / G1 (primeira candidatura)",
+          "url": "https://www.plural.jor.br/caroline-santos-barbosa"
+        }
+      ],
+      "lacunas": [
+        "Ocupação declarada ao TSE consta apenas como 'Outros'; não informada",
+        "Sem bio, propostas ou histórico em fonte pública confiável; plano de governo não localizado",
+        "Nascida em SP: candidatura no PR confirmada por O Tempo, Missão e G1, mas vale checar vínculo com o estado"
+      ],
+      "revisar": true,
+      "basico": false,
+      "foto": "fotos/pr-fed-1497.jpg",
+      "nascimento": "1997-10-18",
+      "naturalidade": "São Paulo (SP)",
+      "escolaridade": "Superior completo",
+      "primeiraCandidatura": true,
+      "instagram": "carolinecardine"
+    },
+    {
+      "id": "pr-fed-1412",
+      "cargo": "Deputado Federal",
+      "nomeUrna": "Naná Vieira",
+      "nomeCompleto": "Tayna Rutkowski Vieira Martins",
+      "numero": "1412",
+      "partido": "MISSÃO",
+      "situacaoTSE": "Candidatura regular, com dados e documentação completos (Gazeta do Povo, consulta em 30/09/2026)",
+      "bio": "Decoradora declarada ao TSE, nascida em São Mateus do Sul (PR) em 16 de setembro de 1988, com ensino médio completo. Candidata a deputada federal pelo Paraná pelo Missão, número 1412, em sua primeira disputa eleitoral segundo dados do TSE.",
+      "propostas": [],
+      "historico": [],
+      "observacoes": [
+        "Dados cadastrais (nascimento, naturalidade, ocupação, escolaridade) conferidos em mais de uma fonte que reproduz o TSE; consulta direta ao DivulgaCandContas não feita",
+        "Busca adicional limitada por rate limit da ferramenta de pesquisa"
+      ],
+      "fontes": [
+        {
+          "titulo": "Missão Candidatos: Naná Vieira (1412)",
+          "url": "https://candidatos.missao.org.br/candidato/160002551037"
+        },
+        {
+          "titulo": "O Tempo: Naná Vieira (1412), dados do TSE",
+          "url": "https://www.otempo.com.br/eleicoes/2026/candidatos/parana/deputado-federal/nana-vieira-1412"
+        },
+        {
+          "titulo": "Politica News / Plural / G1 (primeira candidatura)",
+          "url": "https://politica.news/pr/candidatos/nana-vieira"
+        }
+      ],
+      "lacunas": [
+        "Sem bio, propostas ou histórico em fonte pública; plano de governo não localizado",
+        "Instagram divergente entre fontes: nanarvieira (payload Missão) x nanarvieiramartins (politica.news)"
+      ],
+      "revisar": true,
+      "basico": false,
+      "foto": "fotos/pr-fed-1412.jpg",
+      "nascimento": "1988-09-16",
+      "naturalidade": "São Mateus do Sul (PR)",
+      "ocupacaoDeclarada": "Decorador",
+      "escolaridade": "Ensino médio completo",
+      "primeiraCandidatura": true,
+      "instagram": "nanarvieira"
+    },
+    {
+      "id": "pr-fed-1489",
+      "cargo": "Deputado Federal",
+      "nomeUrna": "Victor Moreira",
+      "nomeCompleto": "Victor Hugo Moreira",
+      "numero": "1489",
+      "partido": "MISSÃO",
+      "situacaoTSE": "Deferido (consulta em 30/09/2026)",
+      "bio": "Nascido em Douradina (PR) em 20 de dezembro de 1993, declarou ao TSE a ocupação de vendedor de comércio varejista e atacadista e ensino médio completo. Candidato a deputado federal pelo Paraná pelo Missão, número 1489.",
+      "propostas": [],
+      "historico": [],
+      "observacoes": [
+        "Dados cadastrais (nascimento, naturalidade, ocupação, escolaridade) conferidos em mais de uma fonte que reproduz o TSE; consulta direta ao DivulgaCandContas não feita",
+        "Busca adicional limitada por rate limit da ferramenta de pesquisa"
+      ],
+      "fontes": [
+        {
+          "titulo": "Missão Candidatos: Victor Moreira (1489)",
+          "url": "https://candidatos.missao.org.br/candidato/160002551035"
+        },
+        {
+          "titulo": "O Tempo: Victor Moreira (1489), dados do TSE",
+          "url": "https://www.otempo.com.br/eleicoes/2026/candidatos/parana/deputado-federal/victor-moreira-1489"
+        }
+      ],
+      "lacunas": [
+        "Sem bio, propostas ou histórico em fonte pública; plano de governo não localizado",
+        "Primeira candidatura não verificada"
+      ],
+      "revisar": true,
+      "basico": false,
+      "foto": "fotos/pr-fed-1489.jpg",
+      "nascimento": "1993-12-20",
+      "naturalidade": "Douradina (PR)",
+      "ocupacaoDeclarada": "Vendedor de comércio varejista e atacadista",
+      "escolaridade": "Ensino médio completo",
+      "instagram": "hmvictor93"
+    },
+    {
+      "nomeUrna": "André Ribeiro",
+      "nomeCompleto": "André Luiz Ribeiro da Silva",
+      "numero": "1450",
+      "situacaoTSE": "Deferido (consulta em 30/09/2026)",
+      "bio": "Empresário, nascido em Aragarças (GO) em 16 de janeiro de 1982, com ensino superior completo segundo o TSE. Candidato a deputado federal pelo Paraná pelo Missão, número 1450. O G1 registra que não há candidaturas anteriores.",
+      "fontes": [
+        {
+          "titulo": "Missão Candidatos: André Ribeiro (1450)",
+          "url": "https://candidatos.missao.org.br/candidato/160002551014"
+        },
+        {
+          "titulo": "O Tempo: André Ribeiro (1450), dados do TSE",
+          "url": "https://www.otempo.com.br/eleicoes/2026/candidatos/parana/deputado-federal/andre-ribeiro-1450"
+        },
+        {
+          "titulo": "Politica News / Plural / G1 (primeira candidatura)",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/deputado-federal/pr/160002551014.ghtml"
+        }
+      ],
+      "lacunas": [
+        "Sem bio, propostas ou histórico em fonte pública; plano de governo não localizado",
+        "Instagram divergente: andre.yman (payload Missão) x andreribeiro.missao (politica.news)",
+        "Nascido em GO; candidatura no PR confirmada por G1, Gazeta do Povo e O Tempo"
+      ],
+      "propostas": [],
+      "historico": [],
+      "observacoes": [
+        "Dados cadastrais (nascimento, naturalidade, ocupação, escolaridade) conferidos em mais de uma fonte que reproduz o TSE; consulta direta ao DivulgaCandContas não feita",
+        "Busca adicional limitada por rate limit da ferramenta de pesquisa"
+      ],
+      "cargo": "Deputado Federal",
+      "partido": "MISSÃO",
+      "id": "pr-fed-1450",
+      "revisar": false,
+      "basico": false,
+      "foto": "fotos/pr-fed-1450.jpg",
+      "nascimento": "1982-01-16",
+      "naturalidade": "Aragarças (GO)",
+      "ocupacaoDeclarada": "Empresário",
+      "escolaridade": "Superior completo",
+      "primeiraCandidatura": true,
+      "instagram": "andre.yman"
+    },
+    {
+      "nomeUrna": "Andrey Luiz",
+      "nomeCompleto": "Andrey Luiz de Melo Ozorio",
+      "numero": "1416",
+      "situacaoTSE": "Deferido (consulta em 30/09/2026)",
+      "bio": "Nascido em Siqueira Campos (PR) em 15 de janeiro de 2000, declarou ao TSE a ocupação de vendedor de comércio varejista e atacadista e ensino superior incompleto. Candidato a deputado federal pelo Paraná pelo Missão, número 1416.",
+      "fontes": [
+        {
+          "titulo": "Missão Candidatos: Andrey Luiz (1416)",
+          "url": "https://candidatos.missao.org.br/candidato/160002551038"
+        },
+        {
+          "titulo": "O Tempo: Andrey Luiz (1416), dados do TSE",
+          "url": "https://www.otempo.com.br/eleicoes/2026/candidatos/parana/deputado-federal/andrey-luiz-1416"
+        }
+      ],
+      "lacunas": [
+        "Sem bio, propostas ou histórico em fonte pública; plano de governo não localizado",
+        "Primeira candidatura não verificada"
+      ],
+      "propostas": [],
+      "historico": [],
+      "observacoes": [
+        "Dados cadastrais (nascimento, naturalidade, ocupação, escolaridade) conferidos em mais de uma fonte que reproduz o TSE; consulta direta ao DivulgaCandContas não feita",
+        "Busca adicional limitada por rate limit da ferramenta de pesquisa"
+      ],
+      "cargo": "Deputado Federal",
+      "partido": "MISSÃO",
+      "id": "pr-fed-1416",
+      "revisar": false,
+      "basico": false,
+      "foto": "fotos/pr-fed-1416.jpg",
+      "nascimento": "2000-01-15",
+      "naturalidade": "Siqueira Campos (PR)",
+      "ocupacaoDeclarada": "Vendedor de comércio varejista e atacadista",
+      "escolaridade": "Superior incompleto",
+      "instagram": "andreyluiz.mbl"
+    },
+    {
+      "nomeUrna": "Felipe Gâmbaro",
+      "nomeCompleto": "Felipe Gâmbaro Pereira",
+      "numero": "1420",
+      "situacaoTSE": "Deferido (consulta em 30/09/2026)",
+      "bio": "Nascido em Maringá (PR) em 30 de junho de 1994, declarou ao TSE a ocupação de vendedor pracista e representante e ensino superior completo. Candidato a deputado federal pelo Paraná pelo Missão, número 1420, em sua primeira disputa eleitoral.",
+      "fontes": [
+        {
+          "titulo": "Missão Candidatos: Felipe Gâmbaro (1420)",
+          "url": "https://candidatos.missao.org.br/candidato/160002551018"
+        },
+        {
+          "titulo": "O Tempo: Felipe Gâmbaro (1420), dados do TSE",
+          "url": "https://www.otempo.com.br/eleicoes/2026/candidatos/parana/deputado-federal/felipe-gambaro-1420"
+        },
+        {
+          "titulo": "Politica News / Plural / G1 (primeira candidatura)",
+          "url": "https://politica.news/pr/candidatos/felipe-gambaro"
+        }
+      ],
+      "lacunas": [
+        "Sem bio, propostas ou histórico em fonte pública; plano de governo não localizado",
+        "Data de nascimento diverge: 29/06/1994 (payload Missão) x 30/06/1994 (O Tempo, politica.news); adotado 30/06, conferir no TSE"
+      ],
+      "revisar": true,
+      "propostas": [],
+      "historico": [],
+      "observacoes": [
+        "Dados cadastrais (nascimento, naturalidade, ocupação, escolaridade) conferidos em mais de uma fonte que reproduz o TSE; consulta direta ao DivulgaCandContas não feita",
+        "Busca adicional limitada por rate limit da ferramenta de pesquisa"
+      ],
+      "cargo": "Deputado Federal",
+      "partido": "MISSÃO",
+      "id": "pr-fed-1420",
+      "basico": false,
+      "foto": "fotos/pr-fed-1420.jpg",
+      "nascimento": "1994-06-30",
+      "naturalidade": "Maringá (PR)",
+      "ocupacaoDeclarada": "Vendedor pracista, representante, caixeiro-viajante e assemelhados",
+      "escolaridade": "Superior completo",
+      "primeiraCandidatura": true,
+      "instagram": "felipe.gambaro"
+    },
+    {
+      "nomeUrna": "Manu Shtorach",
+      "nomeCompleto": "Emanuelle Shtorach Bittencourt",
+      "numero": "1457",
+      "situacaoTSE": "Deferido (consulta em 30/09/2026)",
+      "bio": "Nascida em Curitiba (PR) em 11 de abril de 2000, declarou ao TSE ensino fundamental completo. Candidata a deputada federal pelo Paraná pelo Missão, número 1457. Segundo o perfil no Caminho da Missão, atua como comunicadora e técnica de transmissões, conhecida como Operadora Manu no programa Conversa Franca.",
+      "fontes": [
+        {
+          "titulo": "Missão Candidatos: Manu Shtorach (1457)",
+          "url": "https://candidatos.missao.org.br/candidato/160002551031"
+        },
+        {
+          "titulo": "O Tempo: Manu Shtorach (1457), dados do TSE",
+          "url": "https://www.otempo.com.br/eleicoes/2026/candidatos/parana/deputado-federal/manu-shtorach-1457"
+        },
+        {
+          "titulo": "Caminho da Missão: Manu Shtorach",
+          "url": "https://caminhodamissao.com/politico/manu-shtorach"
+        }
+      ],
+      "lacunas": [
+        "Propostas: só há a descrição genérica de plataforma no Caminho da Missão (fonte partidária/autodefinição); plano de governo não localizado",
+        "Bio do Caminho da Missão é texto de divulgação; atribuída no resumo",
+        "Primeira candidatura não verificada"
+      ],
+      "revisar": true,
+      "propostas": [],
+      "historico": [],
+      "observacoes": [
+        "Dados cadastrais (nascimento, naturalidade, ocupação, escolaridade) conferidos em mais de uma fonte que reproduz o TSE; consulta direta ao DivulgaCandContas não feita",
+        "Busca adicional limitada por rate limit da ferramenta de pesquisa"
+      ],
+      "cargo": "Deputado Federal",
+      "partido": "MISSÃO",
+      "id": "pr-fed-1457",
+      "basico": false,
+      "foto": "fotos/pr-fed-1457.jpg",
+      "nascimento": "2000-04-11",
+      "naturalidade": "Curitiba (PR)",
+      "ocupacaoDeclarada": "Estudante, bolsista, estagiário e assemelhados",
+      "escolaridade": "Ensino fundamental completo",
+      "instagram": "manubittennpr"
+    },
+    {
+      "nomeUrna": "Marcello de Paula",
+      "nomeCompleto": "Marcello Inácio de Paula",
+      "numero": "1407",
+      "situacaoTSE": "Deferido (consulta em 30/09/2026)",
+      "bio": "Nascido em São Paulo (SP) em 21 de fevereiro de 1978, declarou ao TSE ensino superior incompleto. Candidato a deputado federal pelo Paraná pelo Missão, número 1407.",
+      "fontes": [
+        {
+          "titulo": "Missão Candidatos: Marcello de Paula (1407)",
+          "url": "https://candidatos.missao.org.br/candidato/160002551041"
+        },
+        {
+          "titulo": "O Tempo: Marcello de Paula (1407), dados do TSE",
+          "url": "https://www.otempo.com.br/eleicoes/2026/candidatos/parana/deputado-federal/marcello-de-paula-1407"
+        }
+      ],
+      "lacunas": [
+        "Ocupação declarada ao TSE consta apenas como 'Outros'; não informada",
+        "Sem bio, propostas ou histórico em fonte pública; plano de governo não localizado",
+        "Nascido em SP: candidatura no PR confirmada por O Tempo e Missão",
+        "Primeira candidatura não verificada"
+      ],
+      "propostas": [],
+      "historico": [],
+      "observacoes": [
+        "Dados cadastrais (nascimento, naturalidade, ocupação, escolaridade) conferidos em mais de uma fonte que reproduz o TSE; consulta direta ao DivulgaCandContas não feita",
+        "Busca adicional limitada por rate limit da ferramenta de pesquisa"
+      ],
+      "cargo": "Deputado Federal",
+      "partido": "MISSÃO",
+      "id": "pr-fed-1407",
+      "revisar": false,
+      "basico": false,
+      "foto": "fotos/pr-fed-1407.jpg",
+      "nascimento": "1978-02-21",
+      "naturalidade": "São Paulo (SP)",
+      "escolaridade": "Superior incompleto",
+      "instagram": "marcello_de_paula"
+    },
+    {
+      "nomeUrna": "Mary Barreto",
+      "nomeCompleto": "Maria Aparecida Barreto",
+      "numero": "1430",
+      "situacaoTSE": "Deferido (consulta em 30/09/2026)",
+      "bio": "Nascida em Nova Esperança (PR) em 26 de novembro de 1963, declarou ao TSE a ocupação de agente administrativa e ensino médio completo. Candidata a deputada federal pelo Paraná pelo Missão, número 1430, em sua primeira disputa eleitoral.",
+      "fontes": [
+        {
+          "titulo": "Missão Candidatos: Mary Barreto (1430)",
+          "url": "https://candidatos.missao.org.br/candidato/160002551019"
+        },
+        {
+          "titulo": "O Tempo: Mary Barreto (1430), dados do TSE",
+          "url": "https://www.otempo.com.br/eleicoes/2026/candidatos/parana/deputado-federal/mary-barreto-1430"
+        },
+        {
+          "titulo": "Politica News / Plural / G1 (primeira candidatura)",
+          "url": "https://politica.news/pr/candidatos/mary-barreto"
+        }
+      ],
+      "lacunas": [
+        "Sem bio, propostas ou histórico em fonte pública; plano de governo não localizado"
+      ],
+      "revisar": true,
+      "propostas": [],
+      "historico": [],
+      "observacoes": [
+        "Dados cadastrais (nascimento, naturalidade, ocupação, escolaridade) conferidos em mais de uma fonte que reproduz o TSE; consulta direta ao DivulgaCandContas não feita",
+        "Busca adicional limitada por rate limit da ferramenta de pesquisa"
+      ],
+      "cargo": "Deputado Federal",
+      "partido": "MISSÃO",
+      "id": "pr-fed-1430",
+      "basico": false,
+      "foto": "fotos/pr-fed-1430.jpg",
+      "nascimento": "1963-11-26",
+      "naturalidade": "Nova Esperança (PR)",
+      "ocupacaoDeclarada": "Agente administrativo",
+      "escolaridade": "Ensino médio completo",
+      "primeiraCandidatura": true,
+      "instagram": "marymariabarreto"
+    },
+    {
+      "nomeUrna": "Soldado Guedes",
+      "nomeCompleto": "Anderson Luiz Guedes",
+      "numero": "1438",
+      "situacaoTSE": "Deferido (consulta em 30/09/2026)",
+      "bio": "Policial militar, nascido em Curitiba (PR) em 19 de novembro de 1983, com ensino médio completo segundo o TSE. Candidato a deputado federal pelo Paraná pelo Missão, número 1438.",
+      "fontes": [
+        {
+          "titulo": "Missão Candidatos: Soldado Guedes (1438)",
+          "url": "https://candidatos.missao.org.br/candidato/160002551033"
+        },
+        {
+          "titulo": "O Tempo: Soldado Guedes (1438), dados do TSE",
+          "url": "https://www.otempo.com.br/eleicoes/2026/candidatos/parana/deputado-federal/soldado-guedes-1438"
+        }
+      ],
+      "lacunas": [
+        "Sem bio, propostas ou histórico em fonte pública; plano de governo não localizado",
+        "Perfil @diaadiapolicial tem cerca de 91 mil seguidores; conteúdo não lido",
+        "Primeira candidatura não verificada"
+      ],
+      "revisar": true,
+      "propostas": [],
+      "historico": [],
+      "observacoes": [
+        "Dados cadastrais (nascimento, naturalidade, ocupação, escolaridade) conferidos em mais de uma fonte que reproduz o TSE; consulta direta ao DivulgaCandContas não feita",
+        "Busca adicional limitada por rate limit da ferramenta de pesquisa"
+      ],
+      "cargo": "Deputado Federal",
+      "partido": "MISSÃO",
+      "id": "pr-fed-1438",
+      "basico": false,
+      "foto": "fotos/pr-fed-1438.jpg",
+      "nascimento": "1983-11-19",
+      "naturalidade": "Curitiba (PR)",
+      "ocupacaoDeclarada": "Policial militar",
+      "escolaridade": "Ensino médio completo",
+      "instagram": "diaadiapolicial"
+    },
+    {
+      "id": "pr-est-14222",
+      "cargo": "Deputado Estadual",
+      "nomeUrna": "Ivo Arthur",
+      "nomeCompleto": "Ivo Arthur Gonçalves",
+      "numero": "14222",
+      "partido": "MISSÃO",
+      "situacaoTSE": "Deferido (consulta em 30/09/2026)",
+      "nascimento": "1994-09-10",
+      "naturalidade": "Curitiba (PR)",
+      "ocupacaoDeclarada": "Administrador (TSE); segundo o Portal Comunique, atua em agronegócio e pecuária",
+      "escolaridade": "Ensino fundamental completo (segundo TSE, via Gazeta do Povo e O Tempo)",
+      "instagram": "ivoarthur.missao",
+      "bio": "Nascido em Curitiba e morador de Inácio Martins (PR) desde 2016, segundo o Portal Comunique, onde cuida de atividades agropecuárias da família. Candidato a deputado estadual pelo Missão; diz ter ajudado a fundar o partido a partir de 2024.",
+      "propostas": [
+        {
+          "titulo": "Infraestrutura e ferrovia",
+          "resumo": "Propõe reativar a ferrovia e melhorar as estradas que ligam os municípios da região.",
+          "fonte": "https://www.portalcomunique.com.br/2026/09/eleicoes-2026-morador-de-inacio-martins.html"
+        },
+        {
+          "titulo": "Apoio ao agronegócio",
+          "resumo": "Defende incentivos ao beneficiamento de madeira, silos para armazenagem de grãos e fortalecimento de cooperativas.",
+          "fonte": "https://www.portalcomunique.com.br/2026/09/eleicoes-2026-morador-de-inacio-martins.html"
+        },
+        {
+          "titulo": "Saúde regional",
+          "resumo": "Quer fortalecer o hospital regional como centro de referência.",
+          "fonte": "https://www.portalcomunique.com.br/2026/09/eleicoes-2026-morador-de-inacio-martins.html"
+        },
+        {
+          "titulo": "Educação",
+          "resumo": "Propõe incentivos por mérito e inspetores militares nas escolas.",
+          "fonte": "https://www.portalcomunique.com.br/2026/09/eleicoes-2026-morador-de-inacio-martins.html"
+        },
+        {
+          "titulo": "Fiscalização de pedágios",
+          "resumo": "Defende auditoria rigorosa das concessões rodoviárias.",
+          "fonte": "https://www.portalcomunique.com.br/2026/09/eleicoes-2026-morador-de-inacio-martins.html"
+        }
+      ],
+      "historico": [
+        {
+          "descricao": "Segundo o Portal Comunique, mudou-se para Inácio Martins (PR) no fim de 2016 e passou a gerir as atividades agropecuárias da família após a morte do pai.",
+          "fonte": "https://www.portalcomunique.com.br/2026/09/eleicoes-2026-morador-de-inacio-martins.html"
+        },
+        {
+          "descricao": "Segundo o Portal Comunique, participa da fundação do partido Missão desde 2024.",
+          "fonte": "https://www.portalcomunique.com.br/2026/09/eleicoes-2026-morador-de-inacio-martins.html"
+        }
+      ],
+      "observacoes": [],
+      "fontes": [
+        {
+          "titulo": "Gazeta do Povo - perfil (dados do TSE)",
+          "url": "https://www.gazetadopovo.com.br/eleicoes/2026/candidatos/pr/deputado-estadual/ivo-arthur-missao-14222/"
+        },
+        {
+          "titulo": "O Tempo - perfil (dados do TSE)",
+          "url": "https://www.otempo.com.br/eleicoes/2026/candidatos/parana/deputado-estadual/ivo-arthur-14222"
+        },
+        {
+          "titulo": "Candidatos da Missão - lista oficial PR",
+          "url": "https://candidatos.missao.org.br/?uf=PR"
+        },
+        {
+          "titulo": "Portal Comunique - Ivo Arthur disputa vaga na Assembleia",
+          "url": "https://www.portalcomunique.com.br/2026/09/eleicoes-2026-morador-de-inacio-martins.html"
+        }
+      ],
+      "lacunas": [],
+      "revisar": true,
+      "basico": false,
+      "foto": "fotos/pr-est-14222.jpg"
+    },
+    {
+      "id": "pr-est-14000",
+      "cargo": "Deputado Estadual",
+      "nomeUrna": "Gustavo Camillo",
+      "nomeCompleto": "Gustavo Komiyama Camillo",
+      "numero": "14000",
+      "partido": "MISSÃO",
+      "situacaoTSE": "Deferido (consulta em 30/09/2026)",
+      "nascimento": "2004-02-05",
+      "naturalidade": "Registro (SP)",
+      "escolaridade": "Superior incompleto",
+      "primeiraCandidatura": false,
+      "instagram": "@gucamillo",
+      "bio": "Candidato a deputado estadual pelo Missão, com base em Curitiba. Segundo a página da Missão, é estudante de Direito, jornalista e coordenador político; ocupação no TSE consta como \"outros\". Em 2024 disputou vaga na Câmara de Pinhais, sem se eleger.",
+      "propostas": [
+        {
+          "titulo": "Segurança pública com tecnologia",
+          "resumo": "Propõe uso de IA em espaços urbanos, bloqueadores de sinal em presídios e legislação mais rígida para o comércio de cobre.",
+          "fonte": "https://www.gustavocamillo.com/"
+        },
+        {
+          "titulo": "Saúde digital",
+          "resumo": "Propõe sistema estadual de saúde digital com telemedicina 24h, diagnóstico assistido por IA e prontuário único no SUS.",
+          "fonte": "https://www.gustavocamillo.com/"
+        },
+        {
+          "titulo": "Transporte público",
+          "resumo": "Prevê unificar o pagamento, ampliar a ferrovia e internacionalizar a rodoviária de Curitiba.",
+          "fonte": "https://www.gustavocamillo.com/"
+        },
+        {
+          "titulo": "Educação",
+          "resumo": "Propõe bolsas para alunos destaque em escolas privadas e disciplina de cidadania na rede pública.",
+          "fonte": "https://www.gustavocamillo.com/"
+        }
+      ],
+      "historico": [
+        {
+          "descricao": "Candidato a vereador de Pinhais (PR) em 2024 pela União, com 483 votos, não eleito (segundo Plural).",
+          "fonte": "https://www.plural.jor.br/gustavo-komiyama-camillo/"
+        }
+      ],
+      "observacoes": [],
+      "fontes": [
+        {
+          "titulo": "O Tempo (dados do TSE)",
+          "url": "https://www.otempo.com.br/eleicoes/2026/candidatos/parana/deputado-estadual/gustavo-camillo-14000"
+        },
+        {
+          "titulo": "Caminho da Missão",
+          "url": "https://caminhodamissao.com/politico/gustavo-camillo-pr"
+        },
+        {
+          "titulo": "Site do candidato",
+          "url": "https://www.gustavocamillo.com/"
+        },
+        {
+          "titulo": "Plural",
+          "url": "https://www.plural.jor.br/gustavo-komiyama-camillo/"
+        },
+        {
+          "titulo": "Candidatos Missão PR (lista oficial)",
+          "url": "https://candidatos.missao.org.br/?uf=PR"
+        }
+      ],
+      "lacunas": [],
+      "revisar": true,
+      "basico": false,
+      "foto": "fotos/pr-est-14000.jpg"
+    },
+    {
+      "id": "pr-est-14100",
+      "cargo": "Deputado Estadual",
+      "nomeUrna": "Odenilson Vicente",
+      "nomeCompleto": "Odenilson Vicente",
+      "numero": "14100",
+      "partido": "MISSÃO",
+      "situacaoTSE": "Deferido (consulta em 30/09/2026)",
+      "nascimento": "1969-12-10",
+      "naturalidade": "Apucarana (PR)",
+      "ocupacaoDeclarada": "Agente de saúde e sanitarista",
+      "escolaridade": "Superior completo",
+      "instagram": "@odenilsonvicente",
+      "bio": "Agente comunitário de saúde há 24 anos em Apucarana, segundo entrevista ao Canal 38, candidato a deputado estadual pelo MISSÃO. Entre as propostas estão equipes multidisciplinares no SUS e mais efetivo policial.",
+      "propostas": [
+        {
+          "titulo": "Saúde preventiva no SUS",
+          "resumo": "Defende fortalecer o SUS com equipes multidisciplinares e foco em prevenção, para reduzir a necessidade futura de medicação.",
+          "fonte": "https://canal38.com.br/candidato-a-deputado-estadual-odenilson-vicente-apresenta-propostas-para-saude-educacao-seguranca-e-infraestrutura-em-entrevista-ao-canal-38/"
+        },
+        {
+          "titulo": "Educação",
+          "resumo": "Propõe apoiar escolas cívico-militares com cursos profissionalizantes, defende concurso público em vez de processo seletivo simplificado para professores e uso de inteligência artificial nas escolas.",
+          "fonte": "https://canal38.com.br/candidato-a-deputado-estadual-odenilson-vicente-apresenta-propostas-para-saude-educacao-seguranca-e-infraestrutura-em-entrevista-ao-canal-38/"
+        },
+        {
+          "titulo": "Segurança pública",
+          "resumo": "Propõe ampliar o efetivo policial e das guardas municipais, investir em tecnologia e IA contra o crime e construir nova cadeia pública em Apucarana.",
+          "fonte": "https://canal38.com.br/candidato-a-deputado-estadual-odenilson-vicente-apresenta-propostas-para-saude-educacao-seguranca-e-infraestrutura-em-entrevista-ao-canal-38/"
+        },
+        {
+          "titulo": "Infraestrutura",
+          "resumo": "Cita o alargamento de vias e acostamentos, a cobrança do cumprimento dos contratos de pedágio e a ampliação de cemitérios.",
+          "fonte": "https://canal38.com.br/candidato-a-deputado-estadual-odenilson-vicente-apresenta-propostas-para-saude-educacao-seguranca-e-infraestrutura-em-entrevista-ao-canal-38/"
+        }
+      ],
+      "historico": [
+        {
+          "descricao": "Atua há 24 anos como agente comunitário de saúde em Apucarana (segundo entrevista ao Canal 38, 16/09/2026).",
+          "fonte": "https://canal38.com.br/candidato-a-deputado-estadual-odenilson-vicente-apresenta-propostas-para-saude-educacao-seguranca-e-infraestrutura-em-entrevista-ao-canal-38/"
+        }
+      ],
+      "observacoes": [],
+      "fontes": [
+        {
+          "titulo": "O Tempo - perfil de Odenilson Vicente (dados do TSE)",
+          "url": "https://www.otempo.com.br/eleicoes/2026/candidatos/parana/deputado-estadual/odenilson-vicente-14100"
+        },
+        {
+          "titulo": "Canal 38 - entrevista com Odenilson Vicente",
+          "url": "https://canal38.com.br/candidato-a-deputado-estadual-odenilson-vicente-apresenta-propostas-para-saude-educacao-seguranca-e-infraestrutura-em-entrevista-ao-canal-38/"
+        },
+        {
+          "titulo": "Caminho da Missão - Odenilson Vicente",
+          "url": "https://caminhodamissao.com/politico/odenilson-vicente"
+        },
+        {
+          "titulo": "Missão - candidatos PR (Instagram)",
+          "url": "https://candidatos.missao.org.br/?uf=PR"
+        }
+      ],
+      "lacunas": [],
+      "revisar": true,
+      "basico": false,
+      "foto": "fotos/pr-est-14100.jpg"
+    },
+    {
+      "id": "pr-est-14441",
+      "cargo": "Deputado Estadual",
+      "nomeUrna": "Beatriz Oliveira",
+      "nomeCompleto": "Beatriz de Oliveira Reis",
+      "numero": "14441",
+      "partido": "MISSÃO",
+      "situacaoTSE": "Deferido (consulta em 30/09/2026)",
+      "nascimento": "2003-01-17",
+      "naturalidade": "Curitiba (PR)",
+      "ocupacaoDeclarada": "Advogada",
+      "escolaridade": "Superior completo",
+      "primeiraCandidatura": true,
+      "instagram": "@beatrizoliveira.pr",
+      "bio": "Advogada de 23 anos, natural de Curitiba, candidata a deputada estadual pelo Missão. Segundo o próprio material de campanha, entrou na política por indignação com a \"velha política\" e prioriza segurança pública, valorização policial, desfavelização e infraestrutura.",
+      "propostas": [
+        {
+          "titulo": "Livro Amarelo: segurança, desfavelização e infraestrutura",
+          "resumo": "Segundo a candidata, seu plano reúne quatro eixos: segurança pública, valorização das forças policiais, desfavelização com dignidade e obras de infraestrutura.",
+          "fonte": "https://caminhodamissao.com/politico/beatriz-oliveira"
+        }
+      ],
+      "historico": [],
+      "observacoes": [],
+      "fontes": [
+        {
+          "titulo": "O Tempo (dados do TSE)",
+          "url": "https://www.otempo.com.br/eleicoes/2026/candidatos/parana/deputado-estadual/beatriz-oliveira-14441"
+        },
+        {
+          "titulo": "HubPolítico",
+          "url": "https://hubpolitico.com.br/perfil/beatrizoliveira4"
+        },
+        {
+          "titulo": "Gazeta do Povo",
+          "url": "https://www.gazetadopovo.com.br/eleicoes/2026/candidatos/pr/deputado-estadual/beatriz-oliveira-missao-14441/"
+        },
+        {
+          "titulo": "Caminho da Missão",
+          "url": "https://caminhodamissao.com/politico/beatriz-oliveira"
+        },
+        {
+          "titulo": "Candidatos Missão PR (lista oficial)",
+          "url": "https://candidatos.missao.org.br/?uf=PR"
+        }
+      ],
+      "lacunas": [],
+      "revisar": false,
+      "basico": false,
+      "foto": "fotos/pr-est-14441.jpg"
+    },
+    {
+      "id": "pr-est-14011",
+      "cargo": "Deputado Estadual",
+      "nomeUrna": "Erica Gonçalves",
+      "nomeCompleto": "Erica de Freitas Gonçalves",
+      "numero": "14011",
+      "partido": "MISSÃO",
+      "situacaoTSE": "Deferido (consulta em 30/09/2026)",
+      "nascimento": "1996-08-03",
+      "naturalidade": "Foz do Iguaçu (PR)",
+      "ocupacaoDeclarada": "Professora de ensino médio",
+      "escolaridade": "Superior completo",
+      "instagram": "@almeida._erica",
+      "bio": "Professora de ensino médio de Foz do Iguaçu, 29 anos segundo data de nascimento no TSE, candidata a deputada estadual pelo Missão. Segundo a Rádio Cultura de Foz, aponta desfavelização, turismo e ensino técnico como prioridades.",
+      "propostas": [
+        {
+          "titulo": "Prioridades declaradas",
+          "resumo": "Segundo título da Rádio Cultura de Foz, prioriza desfavelização, turismo e ensino técnico; detalhes não lidos.",
+          "fonte": "https://www.radioculturafoz.com.br/2026/08/25/erica-goncalves-aponta-desfavelizacao-turismo-e-ensino-tecnico-como-prioridades"
+        }
+      ],
+      "historico": [],
+      "observacoes": [],
+      "fontes": [
+        {
+          "titulo": "O Tempo (dados do TSE)",
+          "url": "https://www.otempo.com.br/eleicoes/2026/candidatos/parana/deputado-estadual/erica-goncalves-14011"
+        },
+        {
+          "titulo": "Rádio Cultura Foz",
+          "url": "https://www.radioculturafoz.com.br/2026/08/25/erica-goncalves-aponta-desfavelizacao-turismo-e-ensino-tecnico-como-prioridades"
+        },
+        {
+          "titulo": "Caminho da Missão",
+          "url": "https://caminhodamissao.com/politicos/uf/pr"
+        },
+        {
+          "titulo": "Candidatos Missão PR (lista oficial)",
+          "url": "https://candidatos.missao.org.br/?uf=PR"
+        }
+      ],
+      "lacunas": [],
+      "revisar": true,
+      "basico": false,
+      "foto": "fotos/pr-est-14011.jpg"
+    },
+    {
+      "id": "pr-est-14144",
+      "cargo": "Deputado Estadual",
+      "nomeUrna": "João Gabriel",
+      "nomeCompleto": "João Gabriel Candido de Sousa",
+      "numero": "14144",
+      "partido": "MISSÃO",
+      "situacaoTSE": "Deferido (consulta em 30/09/2026)",
+      "nascimento": "1999-09-05",
+      "naturalidade": "Foz do Iguaçu (PR)",
+      "ocupacaoDeclarada": "Advogado",
+      "escolaridade": "Superior completo",
+      "instagram": "@joaoogabriel.pr",
+      "bio": "Advogado de Foz do Iguaçu, 26 anos, candidato a deputado estadual pelo Missão. Descreve-se como ativista, empreendedor digital e criador de conteúdo, e afirma usar a internet para auditar orçamentos públicos.",
+      "propostas": [
+        {
+          "titulo": "Combate à corrupção e transparência de dados",
+          "resumo": "Segundo a página da Missão, propõe combate à corrupção, transparência irrestrita de dados públicos e redução do tamanho do governo.",
+          "fonte": "https://caminhodamissao.com/politico/joao-gabriel"
+        }
+      ],
+      "historico": [],
+      "observacoes": [],
+      "fontes": [
+        {
+          "titulo": "O Tempo (dados do TSE)",
+          "url": "https://www.otempo.com.br/eleicoes/2026/candidatos/parana/deputado-estadual/joao-gabriel-14144"
+        },
+        {
+          "titulo": "Caminho da Missão",
+          "url": "https://caminhodamissao.com/politico/joao-gabriel"
+        },
+        {
+          "titulo": "Candidatos Missão PR (lista oficial)",
+          "url": "https://candidatos.missao.org.br/?uf=PR"
+        }
+      ],
+      "lacunas": [],
+      "revisar": true,
+      "basico": false,
+      "foto": "fotos/pr-est-14144.jpg"
+    },
+    {
+      "id": "pr-est-14014",
+      "cargo": "Deputado Estadual",
+      "nomeUrna": "Willian Rocha",
+      "nomeCompleto": "Willian Pedroso da Rocha",
+      "numero": "14014",
+      "partido": "MISSÃO",
+      "situacaoTSE": "Deferido (consulta em 30/09/2026)",
+      "nascimento": "1995-06-26",
+      "naturalidade": "Curitiba (PR)",
+      "ocupacaoDeclarada": "Empresário",
+      "escolaridade": "Superior incompleto",
+      "primeiraCandidatura": true,
+      "instagram": "@willianrochapr",
+      "bio": "Curitibano, 31 anos, empresário e graduando. Segundo matéria do portal O Brasil de Cima, é membro fundador do Partido Missão no Paraná e ativista do MBL, com passagens como chefe de gabinete na Câmara de Curitiba e assessor legislativo.",
+      "propostas": [],
+      "historico": [
+        {
+          "descricao": "Segundo a matéria, foi chefe de gabinete na Câmara Municipal de Curitiba e assessor legislativo na Câmara dos Deputados e na Câmara Municipal de São Paulo (fonte única).",
+          "fonte": "https://obrasildecima.com.br/conheca-willian-rocha-o-candidato-de-renan-santos-no-parana/"
+        },
+        {
+          "descricao": "Única candidatura registrada no HubPolítico é a de 2026 a deputado estadual no PR.",
+          "fonte": "https://hubpolitico.com.br/perfil/willianrocha"
+        }
+      ],
+      "observacoes": [],
+      "fontes": [
+        {
+          "titulo": "O Tempo - perfil de Willian Rocha (dados do TSE)",
+          "url": "https://www.otempo.com.br/eleicoes/2026/candidatos/parana/deputado-estadual/willian-rocha-14014"
+        },
+        {
+          "titulo": "Gazeta do Povo - perfil de Willian Rocha",
+          "url": "https://www.gazetadopovo.com.br/eleicoes/2026/candidatos/pr/deputado-estadual/willian-rocha-missao-14014/"
+        },
+        {
+          "titulo": "HubPolítico - Willian Rocha",
+          "url": "https://hubpolitico.com.br/perfil/willianrocha"
+        },
+        {
+          "titulo": "O Brasil de Cima - Conheça Willian Rocha",
+          "url": "https://obrasildecima.com.br/conheca-willian-rocha-o-candidato-de-renan-santos-no-parana/"
+        },
+        {
+          "titulo": "Caminho da Missão - políticos PR",
+          "url": "https://caminhodamissao.com/politicos/uf/pr"
+        },
+        {
+          "titulo": "Candidatos Missão PR (lista oficial)",
+          "url": "https://candidatos.missao.org.br/?uf=PR"
+        }
+      ],
+      "lacunas": [],
+      "revisar": false,
+      "basico": false,
+      "foto": "fotos/pr-est-14014.jpg"
+    },
+    {
+      "id": "pr-est-14123",
+      "cargo": "Deputado Estadual",
+      "nomeUrna": "Rubens Nascimento",
+      "nomeCompleto": "Rubens Eduardo Correia Do Nascimento",
+      "numero": "14123",
+      "partido": "MISSÃO",
+      "situacaoTSE": "Deferido (consulta em 30/09/2026)",
+      "nascimento": "1997-11-27",
+      "naturalidade": "Curitiba (PR)",
+      "ocupacaoDeclarada": "Técnico em informática",
+      "escolaridade": "Superior completo",
+      "instagram": "@rubensnascimentopr",
+      "bio": "Candidato de 28 anos com atuação voltada a Piraquara, segundo o Caminho da Missão, que o descreve como graduado em Teologia e entusiasta de tecnologia. Declara ao TSE a ocupação de técnico em informática.",
+      "propostas": [
+        {
+          "titulo": "Tecnologia, educação e empreendedorismo",
+          "resumo": "Segundo o Caminho da Missão, seus eixos são modernizar serviços públicos com tecnologia, educação alinhada às profissões do futuro e apoio ao empreendedorismo.",
+          "fonte": "https://caminhodamissao.com/politico/rubens-nascimento"
+        }
+      ],
+      "historico": [],
+      "observacoes": [],
+      "fontes": [
+        {
+          "titulo": "O Tempo - perfil de Rubens Nascimento (dados do TSE)",
+          "url": "https://www.otempo.com.br/eleicoes/2026/candidatos/parana/deputado-estadual/rubens-nascimento-14123"
+        },
+        {
+          "titulo": "Caminho da Missão - Rubens Nascimento",
+          "url": "https://caminhodamissao.com/politico/rubens-nascimento"
+        },
+        {
+          "titulo": "Missão - candidatos PR (Instagram)",
+          "url": "https://candidatos.missao.org.br/?uf=PR"
+        }
+      ],
+      "lacunas": [],
+      "revisar": true,
+      "basico": false,
+      "foto": "fotos/pr-est-14123.jpg"
+    },
+    {
+      "id": "pr-est-14999",
+      "cargo": "Deputado Estadual",
+      "nomeUrna": "Paulo Di Melo",
+      "nomeCompleto": "Paulo Henrique de Melo",
+      "numero": "14999",
+      "partido": "MISSÃO",
+      "situacaoTSE": "Deferido (consulta em 30/09/2026)",
+      "nascimento": "1980-05-11",
+      "naturalidade": "Curitiba (PR)",
+      "ocupacaoDeclarada": "Empresário",
+      "escolaridade": "Superior incompleto",
+      "instagram": "paulodimelo",
+      "bio": "Empresário nascido em Curitiba, casado, morador da região sul da capital desde a década de 1980, segundo a própria bio. Candidato a deputado estadual pelo Missão; declara atuar em demandas de infraestrutura e saúde nos bairros.",
+      "propostas": [],
+      "historico": [
+        {
+          "descricao": "Candidato a vereador de Curitiba em 2024; segundo o próprio texto de campanha, obteve 1.266 votos.",
+          "fonte": "https://caminhodamissao.com/politico/paulo-melo"
+        }
+      ],
+      "observacoes": [],
+      "fontes": [
+        {
+          "titulo": "Gazeta do Povo - perfil (dados do TSE)",
+          "url": "https://www.gazetadopovo.com.br/eleicoes/2026/candidatos/pr/deputado-estadual/paulo-di-melo-missao-14999/"
+        },
+        {
+          "titulo": "O Tempo - perfil (dados do TSE)",
+          "url": "https://www.otempo.com.br/eleicoes/2026/candidatos/parana/deputado-estadual/paulo-di-melo-14999"
+        },
+        {
+          "titulo": "Candidatos da Missão - lista oficial PR",
+          "url": "https://candidatos.missao.org.br/?uf=PR"
+        },
+        {
+          "titulo": "Caminho da Missão - Paulo di Melo",
+          "url": "https://caminhodamissao.com/politico/paulo-melo"
+        }
+      ],
+      "lacunas": [],
+      "revisar": true,
+      "basico": false,
+      "foto": "fotos/pr-est-14999.jpg"
+    },
+    {
+      "id": "pr-est-14141",
+      "cargo": "Deputado Estadual",
+      "nomeUrna": "Dyamond Pires",
+      "nomeCompleto": "Dyamond Pires",
+      "numero": "14141",
+      "partido": "MISSÃO",
+      "situacaoTSE": "Deferido (consulta em 30/09/2026)",
+      "bio": "Candidato a deputado estadual pelo Missão (número 14141) no Paraná, nascido em Goioerê (PR) em 13/07/1993. Declarou ao TSE a ocupação de motorista particular e escolaridade ensino fundamental incompleto. Segundo o g1, não tem histórico eleitoral anterior.",
+      "propostas": [],
+      "historico": [],
+      "observacoes": [],
+      "fontes": [
+        {
+          "titulo": "Candidatos da Missão: Dyamond Pires (14141)",
+          "url": "https://candidatos.missao.org.br/candidato/160002551155"
+        },
+        {
+          "titulo": "O Tempo: Dyamond Pires (14141)",
+          "url": "https://www.otempo.com.br/eleicoes/2026/candidatos/parana/deputado-estadual/dyamond-pires-14141"
+        },
+        {
+          "titulo": "g1: Dyamond Pires (14141)",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/deputado-estadual/pr/160002551155.ghtml"
+        }
+      ],
+      "lacunas": [
+        "Propostas: nenhum plano de governo ou proposta pública encontrada nas fontes consultadas (Missão, O Tempo, g1, Caminho da Missão); TSE DivulgaCandContas bloqueia acesso automatizado (403).",
+        "Bio detalhada, atuação profissional e trabalho social: não encontrados em fonte pública verificável."
+      ],
+      "revisar": true,
+      "basico": false,
+      "foto": "fotos/pr-est-14141.jpg",
+      "nascimento": "1993-07-13",
+      "naturalidade": "Goioerê (PR)",
+      "ocupacaoDeclarada": "Motorista particular",
+      "escolaridade": "Ensino fundamental incompleto",
+      "primeiraCandidatura": true,
+      "instagram": "@dyamond_pires"
+    },
+    {
+      "id": "pr-est-14777",
+      "cargo": "Deputado Estadual",
+      "nomeUrna": "Bruno Vieira",
+      "nomeCompleto": "Bruno Lopes Vieira",
+      "numero": "14777",
+      "partido": "MISSÃO",
+      "situacaoTSE": "Deferido (consulta em 30/09/2026)",
+      "bio": "Candidato a deputado estadual pelo Missão (número 14777) no Paraná, nascido em Ourinhos (SP) em 08/09/1989. Declarou ao TSE a ocupação de servidor público municipal e escolaridade superior completo. Segundo o g1, não tem histórico eleitoral anterior.",
+      "propostas": [],
+      "historico": [],
+      "observacoes": [],
+      "fontes": [
+        {
+          "titulo": "Candidatos da Missão: Bruno Vieira (14777)",
+          "url": "https://candidatos.missao.org.br/candidato/160002551179"
+        },
+        {
+          "titulo": "O Tempo: Bruno Vieira (14777)",
+          "url": "https://www.otempo.com.br/eleicoes/2026/candidatos/parana/deputado-estadual/bruno-vieira-14777"
+        },
+        {
+          "titulo": "g1: Bruno Vieira (14777)",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/deputado-estadual/pr/160002551179.ghtml"
+        }
+      ],
+      "lacunas": [
+        "Propostas: nenhum plano de governo ou proposta pública encontrada nas fontes consultadas (Missão, O Tempo, g1, Caminho da Missão); TSE DivulgaCandContas bloqueia acesso automatizado (403).",
+        "Bio detalhada, atuação profissional e trabalho social: não encontrados em fonte pública verificável."
+      ],
+      "revisar": true,
+      "basico": false,
+      "foto": "fotos/pr-est-14777.jpg",
+      "nascimento": "1989-09-08",
+      "naturalidade": "Ourinhos (SP)",
+      "ocupacaoDeclarada": "Servidor público municipal",
+      "escolaridade": "Superior completo",
+      "primeiraCandidatura": true,
+      "instagram": "@sigabrunovieira"
+    },
+    {
+      "id": "pr-est-14914",
+      "cargo": "Deputado Estadual",
+      "nomeUrna": "Raphael Lacerda",
+      "nomeCompleto": "Raphael Lacerda Araújo Bandeira",
+      "numero": "14914",
+      "partido": "MISSÃO",
+      "situacaoTSE": "Deferido (consulta em 30/09/2026)",
+      "bio": "Candidato a deputado estadual pelo Missão (número 14914) no Paraná, nascido em Goiânia (GO) em 10/11/1985. Declarou ao TSE a ocupação de empresário e escolaridade superior completo. Segundo o g1, não tem histórico eleitoral anterior.",
+      "propostas": [],
+      "historico": [],
+      "observacoes": [
+        "Nascimento diverge em 1 dia: lista da Missão/TSE traz 1985-11-10, O Tempo traz 1985-11-11; mantido o da lista da Missão (dados TSE). Conferir no DivulgaCand."
+      ],
+      "fontes": [
+        {
+          "titulo": "Candidatos da Missão: Raphael Lacerda (14914)",
+          "url": "https://candidatos.missao.org.br/candidato/160002551151"
+        },
+        {
+          "titulo": "O Tempo: Raphael Lacerda (14914)",
+          "url": "https://www.otempo.com.br/eleicoes/2026/candidatos/parana/deputado-estadual/raphael-lacerda-14914"
+        },
+        {
+          "titulo": "g1: Raphael Lacerda (14914)",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/deputado-estadual/pr/160002551151.ghtml"
+        }
+      ],
+      "lacunas": [
+        "Propostas: nenhum plano de governo ou proposta pública encontrada nas fontes consultadas (Missão, O Tempo, g1, Caminho da Missão); TSE DivulgaCandContas bloqueia acesso automatizado (403).",
+        "Bio detalhada, atuação profissional e trabalho social: não encontrados em fonte pública verificável."
+      ],
+      "revisar": true,
+      "basico": false,
+      "foto": "fotos/pr-est-14914.jpg",
+      "nascimento": "1985-11-10",
+      "naturalidade": "Goiânia (GO)",
+      "ocupacaoDeclarada": "Empresário",
+      "escolaridade": "Superior completo",
+      "primeiraCandidatura": true,
+      "instagram": "@erasintetica"
+    },
+    {
+      "id": "pr-est-14042",
+      "cargo": "Deputado Estadual",
+      "nomeUrna": "Adriano Fritz",
+      "nomeCompleto": "Adriano Fritz",
+      "numero": "14042",
+      "partido": "MISSÃO",
+      "situacaoTSE": "Deferido (consulta em 30/09/2026)",
+      "bio": "Candidato a deputado estadual pelo Missão (número 14042) no Paraná, nascido em Ponta Grossa (PR) em 23/01/1977. Declarou ao TSE a ocupação de médico e escolaridade superior completo. Segundo o g1, não tem histórico eleitoral anterior.",
+      "propostas": [],
+      "historico": [],
+      "observacoes": [],
+      "fontes": [
+        {
+          "titulo": "Candidatos da Missão: Adriano Fritz (14042)",
+          "url": "https://candidatos.missao.org.br/candidato/160002551169"
+        },
+        {
+          "titulo": "O Tempo: Adriano Fritz (14042)",
+          "url": "https://www.otempo.com.br/eleicoes/2026/candidatos/parana/deputado-estadual/adriano-fritz-14042"
+        },
+        {
+          "titulo": "g1: Adriano Fritz (14042)",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/deputado-estadual/pr/160002551169.ghtml"
+        }
+      ],
+      "lacunas": [
+        "Propostas: nenhum plano de governo ou proposta pública encontrada nas fontes consultadas (Missão, O Tempo, g1, Caminho da Missão); TSE DivulgaCandContas bloqueia acesso automatizado (403).",
+        "Bio detalhada, atuação profissional e trabalho social: não encontrados em fonte pública verificável."
+      ],
+      "revisar": true,
+      "basico": false,
+      "foto": "fotos/pr-est-14042.jpg",
+      "nascimento": "1977-01-23",
+      "naturalidade": "Ponta Grossa (PR)",
+      "ocupacaoDeclarada": "Médico",
+      "escolaridade": "Superior completo",
+      "primeiraCandidatura": true,
+      "instagram": "@dradrianofritz"
+    },
+    {
+      "id": "pr-est-14214",
+      "cargo": "Deputado Estadual",
+      "nomeUrna": "Francyelly Iene Gomes Engee",
+      "nomeCompleto": "Francyelly Iene Gomes Engee",
+      "numero": "14214",
+      "partido": "MISSÃO",
+      "situacaoTSE": "Deferido (consulta em 30/09/2026)",
+      "bio": "Candidata a deputada estadual pelo Missão (número 14214) no Paraná, nascida em Palmeira (PR) em 18/03/1994. Declarou ao TSE a ocupação de contador e escolaridade superior completo. Segundo o g1, não tem histórico eleitoral anterior.",
+      "propostas": [],
+      "historico": [],
+      "observacoes": [],
+      "fontes": [
+        {
+          "titulo": "Candidatos da Missão: Francyelly Iene Gomes Engee (14214)",
+          "url": "https://candidatos.missao.org.br/candidato/160002551165"
+        },
+        {
+          "titulo": "O Tempo: Francyelly Iene Gomes Engee (14214)",
+          "url": "https://www.otempo.com.br/eleicoes/2026/candidatos/parana/deputado-estadual/francyelly-iene-gomes-engee-14214"
+        },
+        {
+          "titulo": "g1: Francyelly Iene Gomes Engee (14214)",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/deputado-estadual/pr/160002551165.ghtml"
+        }
+      ],
+      "lacunas": [
+        "Propostas: nenhum plano de governo ou proposta pública encontrada nas fontes consultadas (Missão, O Tempo, g1, Caminho da Missão); TSE DivulgaCandContas bloqueia acesso automatizado (403).",
+        "Bio detalhada, atuação profissional e trabalho social: não encontrados em fonte pública verificável."
+      ],
+      "revisar": true,
+      "basico": false,
+      "foto": "fotos/pr-est-14214.jpg",
+      "nascimento": "1994-03-18",
+      "naturalidade": "Palmeira (PR)",
+      "ocupacaoDeclarada": "Contador",
+      "escolaridade": "Superior completo",
+      "primeiraCandidatura": true,
+      "instagram": "@francyellyengee"
+    },
+    {
+      "id": "pr-est-14555",
+      "cargo": "Deputado Estadual",
+      "nomeUrna": "Wagner Jr.",
+      "nomeCompleto": "Wagner Proença Junior",
+      "numero": "14555",
+      "partido": "MISSÃO",
+      "situacaoTSE": "Deferido (consulta em 30/09/2026)",
+      "bio": "Candidato a deputado estadual pelo Missão (número 14555) no Paraná, nascido em Jaguariaíva (PR) em 25/02/1991. Declarou ao TSE a ocupação de empresário e escolaridade superior completo. Segundo o g1, não tem histórico eleitoral anterior.",
+      "propostas": [],
+      "historico": [],
+      "observacoes": [],
+      "fontes": [
+        {
+          "titulo": "Candidatos da Missão: Wagner Jr. (14555)",
+          "url": "https://candidatos.missao.org.br/candidato/160002551158"
+        },
+        {
+          "titulo": "O Tempo: Wagner Jr. (14555)",
+          "url": "https://www.otempo.com.br/eleicoes/2026/candidatos/parana/deputado-estadual/wagner-jr--14555"
+        },
+        {
+          "titulo": "g1: Wagner Jr. (14555)",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/deputado-estadual/pr/160002551158.ghtml"
+        }
+      ],
+      "lacunas": [
+        "Propostas: nenhum plano de governo ou proposta pública encontrada nas fontes consultadas (Missão, O Tempo, g1, Caminho da Missão); TSE DivulgaCandContas bloqueia acesso automatizado (403).",
+        "Bio detalhada, atuação profissional e trabalho social: não encontrados em fonte pública verificável."
+      ],
+      "revisar": true,
+      "basico": false,
+      "foto": "fotos/pr-est-14555.jpg",
+      "nascimento": "1991-02-25",
+      "naturalidade": "Jaguariaíva (PR)",
+      "ocupacaoDeclarada": "Empresário",
+      "escolaridade": "Superior completo",
+      "primeiraCandidatura": true,
+      "instagram": "@wagnermissao"
+    },
+    {
+      "id": "pr-est-14244",
+      "cargo": "Deputado Estadual",
+      "nomeUrna": "Stuchi",
+      "nomeCompleto": "Eloine Almeida Stuchi",
+      "numero": "14244",
+      "partido": "MISSÃO",
+      "situacaoTSE": "Deferido (consulta em 30/09/2026)",
+      "bio": "Candidata a deputada estadual pelo Missão (número 14244) no Paraná, nascida em Umuarama (PR) em 06/05/1994. Declarou ao TSE a ocupação de gerente e escolaridade ensino médio completo. Segundo o g1, não tem histórico eleitoral anterior.",
+      "propostas": [],
+      "historico": [],
+      "observacoes": [],
+      "fontes": [
+        {
+          "titulo": "Candidatos da Missão: Stuchi (14244)",
+          "url": "https://candidatos.missao.org.br/candidato/160002551181"
+        },
+        {
+          "titulo": "O Tempo: Stuchi (14244)",
+          "url": "https://www.otempo.com.br/eleicoes/2026/candidatos/parana/deputado-estadual/stuchi-14244"
+        },
+        {
+          "titulo": "g1: Stuchi (14244)",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/deputado-estadual/pr/160002551181.ghtml"
+        }
+      ],
+      "lacunas": [
+        "Propostas: nenhum plano de governo ou proposta pública encontrada nas fontes consultadas (Missão, O Tempo, g1, Caminho da Missão); TSE DivulgaCandContas bloqueia acesso automatizado (403).",
+        "Bio detalhada, atuação profissional e trabalho social: não encontrados em fonte pública verificável."
+      ],
+      "revisar": true,
+      "basico": false,
+      "foto": "fotos/pr-est-14244.jpg",
+      "nascimento": "1994-05-06",
+      "naturalidade": "Umuarama (PR)",
+      "ocupacaoDeclarada": "Gerente",
+      "escolaridade": "Ensino médio completo",
+      "primeiraCandidatura": true,
+      "instagram": "@eostuchi"
+    },
+    {
+      "id": "pr-est-14039",
+      "cargo": "Deputado Estadual",
+      "nomeUrna": "Alessandra Lima",
+      "nomeCompleto": "Alessandra Pierobom dos Santos Lima",
+      "numero": "14039",
+      "partido": "MISSÃO",
+      "situacaoTSE": "Deferido (consulta em 30/09/2026)",
+      "bio": "Candidata a deputada estadual pelo Missão (número 14039) no Paraná, nascida em Curitiba (PR) em 30/07/2000. Declarou ao TSE a ocupação de representante comercial e escolaridade ensino médio completo. Segundo o g1, não tem histórico eleitoral anterior.",
+      "propostas": [],
+      "historico": [],
+      "observacoes": [],
+      "fontes": [
+        {
+          "titulo": "Candidatos da Missão: Alessandra Lima (14039)",
+          "url": "https://candidatos.missao.org.br/candidato/160002551176"
+        },
+        {
+          "titulo": "O Tempo: Alessandra Lima (14039)",
+          "url": "https://www.otempo.com.br/eleicoes/2026/candidatos/parana/deputado-estadual/alessandra-lima-14039"
+        },
+        {
+          "titulo": "g1: Alessandra Lima (14039)",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/deputado-estadual/pr/160002551176.ghtml"
+        }
+      ],
+      "lacunas": [
+        "Propostas: nenhum plano de governo ou proposta pública encontrada nas fontes consultadas (Missão, O Tempo, g1, Caminho da Missão); TSE DivulgaCandContas bloqueia acesso automatizado (403).",
+        "Bio detalhada, atuação profissional e trabalho social: não encontrados em fonte pública verificável."
+      ],
+      "revisar": true,
+      "basico": false,
+      "foto": "fotos/pr-est-14039.jpg",
+      "nascimento": "2000-07-30",
+      "naturalidade": "Curitiba (PR)",
+      "ocupacaoDeclarada": "Representante comercial",
+      "escolaridade": "Ensino médio completo",
+      "primeiraCandidatura": true,
+      "instagram": "@alessandralimapr14"
+    },
+    {
+      "id": "pr-est-14714",
+      "cargo": "Deputado Estadual",
+      "nomeUrna": "Graci Moreira",
+      "nomeCompleto": "Maria Graciela Moreira",
+      "numero": "14714",
+      "partido": "MISSÃO",
+      "situacaoTSE": "Deferido (consulta em 30/09/2026)",
+      "bio": "Candidata a deputada estadual pelo Missão (número 14714) no Paraná, nascida em Guaíra (PR) em 06/11/1980. Declarou ao TSE a ocupação de corretor de imóveis, seguros, títulos e valores e escolaridade superior completo. Segundo o g1, disputou antes: vereador em 2024 (PL).",
+      "propostas": [],
+      "historico": [
+        {
+          "descricao": "Candidatura a vereador em 2024 pelo PL, conforme registro da Justiça Eleitoral",
+          "fonte": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/deputado-estadual/pr/160002551156.ghtml"
+        }
+      ],
+      "observacoes": [],
+      "fontes": [
+        {
+          "titulo": "Candidatos da Missão: Graci Moreira (14714)",
+          "url": "https://candidatos.missao.org.br/candidato/160002551156"
+        },
+        {
+          "titulo": "O Tempo: Graci Moreira (14714)",
+          "url": "https://www.otempo.com.br/eleicoes/2026/candidatos/parana/deputado-estadual/graci-moreira-14714"
+        },
+        {
+          "titulo": "g1: Graci Moreira (14714)",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/deputado-estadual/pr/160002551156.ghtml"
+        }
+      ],
+      "lacunas": [
+        "Propostas: nenhum plano de governo ou proposta pública encontrada nas fontes consultadas (Missão, O Tempo, g1, Caminho da Missão); TSE DivulgaCandContas bloqueia acesso automatizado (403).",
+        "Bio detalhada, atuação profissional e trabalho social: não encontrados em fonte pública verificável."
+      ],
+      "revisar": true,
+      "basico": false,
+      "foto": "fotos/pr-est-14714.jpg",
+      "nascimento": "1980-11-06",
+      "naturalidade": "Guaíra (PR)",
+      "ocupacaoDeclarada": "Corretor de imóveis, seguros, títulos e valores",
+      "escolaridade": "Superior completo",
+      "primeiraCandidatura": false,
+      "instagram": "@gra_moreira80"
+    },
+    {
+      "id": "pr-est-14500",
+      "cargo": "Deputado Estadual",
+      "nomeUrna": "Kelven Alcantara",
+      "nomeCompleto": "Kelven De Alcantara Bonfim",
+      "numero": "14500",
+      "partido": "MISSÃO",
+      "situacaoTSE": "Deferido (consulta em 30/09/2026)",
+      "bio": "Candidato a deputado estadual pelo Missão (número 14500) no Paraná, nascido em Londrina (PR) em 16/07/2004. Declarou ao TSE a ocupação de programador de computador e escolaridade superior completo. Segundo o g1, não tem histórico eleitoral anterior.",
+      "propostas": [],
+      "historico": [],
+      "observacoes": [
+        "Nascimento diverge em 1 dia: lista da Missão/TSE traz 2004-07-16, O Tempo traz 2004-07-17; mantido o da lista da Missão (dados TSE). Conferir no DivulgaCand."
+      ],
+      "fontes": [
+        {
+          "titulo": "Candidatos da Missão: Kelven Alcantara (14500)",
+          "url": "https://candidatos.missao.org.br/candidato/160002551161"
+        },
+        {
+          "titulo": "O Tempo: Kelven Alcantara (14500)",
+          "url": "https://www.otempo.com.br/eleicoes/2026/candidatos/parana/deputado-estadual/kelven-alcantara-14500"
+        },
+        {
+          "titulo": "g1: Kelven Alcantara (14500)",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/deputado-estadual/pr/160002551161.ghtml"
+        }
+      ],
+      "lacunas": [
+        "Propostas: nenhum plano de governo ou proposta pública encontrada nas fontes consultadas (Missão, O Tempo, g1, Caminho da Missão); TSE DivulgaCandContas bloqueia acesso automatizado (403).",
+        "Bio detalhada, atuação profissional e trabalho social: não encontrados em fonte pública verificável."
+      ],
+      "revisar": false,
+      "basico": false,
+      "foto": "fotos/pr-est-14500.jpg",
+      "nascimento": "2004-07-16",
+      "naturalidade": "Londrina (PR)",
+      "ocupacaoDeclarada": "Programador de computador",
+      "escolaridade": "Superior completo",
+      "primeiraCandidatura": true,
+      "instagram": "@ikelvenalca"
+    },
+    {
+      "id": "pr-est-14041",
+      "cargo": "Deputado Estadual",
+      "nomeUrna": "Lude Riesemberg",
+      "nomeCompleto": "Ludgerio Riesemberg",
+      "numero": "14041",
+      "partido": "MISSÃO",
+      "situacaoTSE": "Deferido (consulta em 30/09/2026)",
+      "bio": "Candidato a deputado estadual pelo Missão (número 14041) no Paraná, nascido em Curitiba (PR) em 11/10/1986. Declarou ao TSE a ocupação de comerciante e escolaridade superior incompleto. Segundo o g1, disputou antes: vereador em 2024 (PODE).",
+      "propostas": [],
+      "historico": [
+        {
+          "descricao": "Candidatura a vereador em 2024 pelo PODE, conforme registro da Justiça Eleitoral",
+          "fonte": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/deputado-estadual/pr/160002551177.ghtml"
+        }
+      ],
+      "observacoes": [],
+      "fontes": [
+        {
+          "titulo": "Candidatos da Missão: Lude Riesemberg (14041)",
+          "url": "https://candidatos.missao.org.br/candidato/160002551177"
+        },
+        {
+          "titulo": "O Tempo: Lude Riesemberg (14041)",
+          "url": "https://www.otempo.com.br/eleicoes/2026/candidatos/parana/deputado-estadual/lude-riesemberg-14041"
+        },
+        {
+          "titulo": "g1: Lude Riesemberg (14041)",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/deputado-estadual/pr/160002551177.ghtml"
+        }
+      ],
+      "lacunas": [
+        "Propostas: nenhum plano de governo ou proposta pública encontrada nas fontes consultadas (Missão, O Tempo, g1, Caminho da Missão); TSE DivulgaCandContas bloqueia acesso automatizado (403).",
+        "Bio detalhada, atuação profissional e trabalho social: não encontrados em fonte pública verificável."
+      ],
+      "revisar": true,
+      "basico": false,
+      "foto": "fotos/pr-est-14041.jpg",
+      "nascimento": "1986-10-11",
+      "naturalidade": "Curitiba (PR)",
+      "ocupacaoDeclarada": "Comerciante",
+      "escolaridade": "Superior incompleto",
+      "primeiraCandidatura": false,
+      "instagram": "@luderiesemberg"
+    },
+    {
+      "id": "pr-est-14333",
+      "cargo": "Deputado Estadual",
+      "nomeUrna": "Matheus Manholer",
+      "nomeCompleto": "Matheus Davi Da Costa Manholer",
+      "numero": "14333",
+      "partido": "MISSÃO",
+      "situacaoTSE": "Deferido (consulta em 30/09/2026)",
+      "bio": "Candidato a deputado estadual pelo Missão (número 14333) no Paraná, nascido em Maringá (PR) em 29/12/1997. Declarou ao TSE a ocupação de empresário e escolaridade superior completo. Segundo o g1, não tem histórico eleitoral anterior.",
+      "propostas": [],
+      "historico": [],
+      "observacoes": [],
+      "fontes": [
+        {
+          "titulo": "Candidatos da Missão: Matheus Manholer (14333)",
+          "url": "https://candidatos.missao.org.br/candidato/160002551163"
+        },
+        {
+          "titulo": "O Tempo: Matheus Manholer (14333)",
+          "url": "https://www.otempo.com.br/eleicoes/2026/candidatos/parana/deputado-estadual/matheus-manholer-14333"
+        },
+        {
+          "titulo": "g1: Matheus Manholer (14333)",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/deputado-estadual/pr/160002551163.ghtml"
+        }
+      ],
+      "lacunas": [
+        "Propostas: nenhum plano de governo ou proposta pública encontrada nas fontes consultadas (Missão, O Tempo, g1, Caminho da Missão); TSE DivulgaCandContas bloqueia acesso automatizado (403).",
+        "Bio detalhada, atuação profissional e trabalho social: não encontrados em fonte pública verificável."
+      ],
+      "revisar": true,
+      "basico": false,
+      "foto": "fotos/pr-est-14333.jpg",
+      "nascimento": "1997-12-29",
+      "naturalidade": "Maringá (PR)",
+      "ocupacaoDeclarada": "Empresário",
+      "escolaridade": "Superior completo",
+      "primeiraCandidatura": true,
+      "instagram": "@matheusmanholer"
+    },
+    {
+      "id": "pr-est-14700",
+      "cargo": "Deputado Estadual",
+      "nomeUrna": "Thiago Maldonado",
+      "nomeCompleto": "Thiago Pelegrini Maldonado",
+      "numero": "14700",
+      "partido": "MISSÃO",
+      "situacaoTSE": "Deferido (consulta em 30/09/2026)",
+      "bio": "Candidato a deputado estadual pelo Missão (número 14700) no Paraná, nascido em Londrina (PR) em 16/07/1977. Declarou ao TSE a ocupação de empresário e escolaridade superior completo. Segundo o g1, disputou antes: vereador em 2024 (PSDB); vereador em 2020 (PSDB).",
+      "propostas": [],
+      "historico": [
+        {
+          "descricao": "Candidatura a vereador em 2024 pelo PSDB, conforme registro da Justiça Eleitoral",
+          "fonte": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/deputado-estadual/pr/160002551160.ghtml"
+        },
+        {
+          "descricao": "Candidatura a vereador em 2020 pelo PSDB, conforme registro da Justiça Eleitoral",
+          "fonte": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/deputado-estadual/pr/160002551160.ghtml"
+        }
+      ],
+      "observacoes": [],
+      "fontes": [
+        {
+          "titulo": "Candidatos da Missão: Thiago Maldonado (14700)",
+          "url": "https://candidatos.missao.org.br/candidato/160002551160"
+        },
+        {
+          "titulo": "O Tempo: Thiago Maldonado (14700)",
+          "url": "https://www.otempo.com.br/eleicoes/2026/candidatos/parana/deputado-estadual/thiago-maldonado-14700"
+        },
+        {
+          "titulo": "g1: Thiago Maldonado (14700)",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/deputado-estadual/pr/160002551160.ghtml"
+        }
+      ],
+      "lacunas": [
+        "Propostas: nenhum plano de governo ou proposta pública encontrada nas fontes consultadas (Missão, O Tempo, g1, Caminho da Missão); TSE DivulgaCandContas bloqueia acesso automatizado (403).",
+        "Bio detalhada, atuação profissional e trabalho social: não encontrados em fonte pública verificável."
+      ],
+      "revisar": true,
+      "basico": false,
+      "foto": "fotos/pr-est-14700.jpg",
+      "nascimento": "1977-07-16",
+      "naturalidade": "Londrina (PR)",
+      "ocupacaoDeclarada": "Empresário",
+      "escolaridade": "Superior completo",
+      "primeiraCandidatura": false,
+      "instagram": "@thiago.maldonado1"
+    },
+    {
+      "id": "pr-est-14007",
+      "cargo": "Deputado Estadual",
+      "nomeUrna": "Carlos Eduardo",
+      "nomeCompleto": "Carlos Eduardo De Lima",
+      "numero": "14007",
+      "partido": "MISSÃO",
+      "situacaoTSE": "Deferido (consulta em 30/09/2026)",
+      "bio": "Candidato a deputado estadual pelo Missão (número 14007) no Paraná, nascido em Maringá (PR) em 16/08/1983. Declarou ao TSE a ocupação de vendedor de comércio varejista e atacadista e escolaridade ensino médio completo. Segundo o g1, disputou antes: vereador em 2024 (PRD).",
+      "propostas": [],
+      "historico": [
+        {
+          "descricao": "Candidatura a vereador em 2024 pelo PRD, conforme registro da Justiça Eleitoral",
+          "fonte": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/deputado-estadual/pr/160002551164.ghtml"
+        }
+      ],
+      "observacoes": [],
+      "fontes": [
+        {
+          "titulo": "Candidatos da Missão: Carlos Eduardo (14007)",
+          "url": "https://candidatos.missao.org.br/candidato/160002551164"
+        },
+        {
+          "titulo": "O Tempo: Carlos Eduardo (14007)",
+          "url": "https://www.otempo.com.br/eleicoes/2026/candidatos/parana/deputado-estadual/carlos-eduardo-14007"
+        },
+        {
+          "titulo": "g1: Carlos Eduardo (14007)",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/deputado-estadual/pr/160002551164.ghtml"
+        }
+      ],
+      "lacunas": [
+        "Propostas: nenhum plano de governo ou proposta pública encontrada nas fontes consultadas (Missão, O Tempo, g1, Caminho da Missão); TSE DivulgaCandContas bloqueia acesso automatizado (403).",
+        "Bio detalhada, atuação profissional e trabalho social: não encontrados em fonte pública verificável."
+      ],
+      "revisar": true,
+      "basico": false,
+      "foto": "fotos/pr-est-14007.jpg",
+      "nascimento": "1983-08-16",
+      "naturalidade": "Maringá (PR)",
+      "ocupacaoDeclarada": "Vendedor de comércio varejista e atacadista",
+      "escolaridade": "Ensino médio completo",
+      "primeiraCandidatura": false,
+      "instagram": "@kcadukcarlinhos"
+    },
+    {
+      "id": "pr-est-14321",
+      "cargo": "Deputado Estadual",
+      "nomeUrna": "Daniel Aguiar",
+      "nomeCompleto": "Carlos Daniel Livon De Aguiar",
+      "numero": "14321",
+      "partido": "MISSÃO",
+      "situacaoTSE": "Deferido (consulta em 30/09/2026)",
+      "bio": "Candidato a deputado estadual pelo Missão (número 14321) no Paraná, nascido em Ivaiporã (PR) em 15/06/1996. Declarou ao TSE escolaridade superior completo. Segundo o g1, não tem histórico eleitoral anterior.",
+      "propostas": [],
+      "historico": [],
+      "observacoes": [],
+      "fontes": [
+        {
+          "titulo": "Candidatos da Missão: Daniel Aguiar (14321)",
+          "url": "https://candidatos.missao.org.br/candidato/160002551157"
+        },
+        {
+          "titulo": "O Tempo: Daniel Aguiar (14321)",
+          "url": "https://www.otempo.com.br/eleicoes/2026/candidatos/parana/deputado-estadual/daniel-aguiar-14321"
+        },
+        {
+          "titulo": "g1: Daniel Aguiar (14321)",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/deputado-estadual/pr/160002551157.ghtml"
+        }
+      ],
+      "lacunas": [
+        "Propostas: nenhum plano de governo ou proposta pública encontrada nas fontes consultadas (Missão, O Tempo, g1, Caminho da Missão); TSE DivulgaCandContas bloqueia acesso automatizado (403).",
+        "Bio detalhada, atuação profissional e trabalho social: não encontrados em fonte pública verificável.",
+        "Ocupação declarada ao TSE é 'Outros' (sem informação útil); campo omitido."
+      ],
+      "revisar": true,
+      "basico": false,
+      "foto": "fotos/pr-est-14321.jpg",
+      "nascimento": "1996-06-15",
+      "naturalidade": "Ivaiporã (PR)",
+      "escolaridade": "Superior completo",
+      "primeiraCandidatura": true,
+      "instagram": "@daniel_aguiarr14"
+    },
+    {
+      "id": "pr-est-14143",
+      "cargo": "Deputado Estadual",
+      "nomeUrna": "Aline Franzon",
+      "nomeCompleto": "Aline de Souza Franzon",
+      "numero": "14143",
+      "partido": "MISSÃO",
+      "situacaoTSE": "Deferido (consulta em 30/09/2026)",
+      "bio": "Candidata a deputada estadual pelo Missão (número 14143) no Paraná, nascida em Londrina (PR) em 09/07/1988. Declarou ao TSE a ocupação de professor de ensino médio e escolaridade superior completo. Segundo o g1, não tem histórico eleitoral anterior.",
+      "propostas": [],
+      "historico": [],
+      "observacoes": [],
+      "fontes": [
+        {
+          "titulo": "Candidatos da Missão: Aline Franzon (14143)",
+          "url": "https://candidatos.missao.org.br/candidato/160002551162"
+        },
+        {
+          "titulo": "O Tempo: Aline Franzon (14143)",
+          "url": "https://www.otempo.com.br/eleicoes/2026/candidatos/parana/deputado-estadual/aline-franzon-14143"
+        },
+        {
+          "titulo": "g1: Aline Franzon (14143)",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/deputado-estadual/pr/160002551162.ghtml"
+        }
+      ],
+      "lacunas": [
+        "Propostas: nenhum plano de governo ou proposta pública encontrada nas fontes consultadas (Missão, O Tempo, g1, Caminho da Missão); TSE DivulgaCandContas bloqueia acesso automatizado (403).",
+        "Bio detalhada, atuação profissional e trabalho social: não encontrados em fonte pública verificável."
+      ],
+      "revisar": false,
+      "basico": false,
+      "foto": "fotos/pr-est-14143.jpg",
+      "nascimento": "1988-07-09",
+      "naturalidade": "Londrina (PR)",
+      "ocupacaoDeclarada": "Professor de ensino médio",
+      "escolaridade": "Superior completo",
+      "primeiraCandidatura": true,
+      "instagram": "@aline.franzon14"
+    },
+    {
+      "id": "pr-est-14021",
+      "cargo": "Deputado Estadual",
+      "nomeUrna": "Eduardo Gomes",
+      "nomeCompleto": "Eduardo Nunes Gomes",
+      "numero": "14021",
+      "partido": "MISSÃO",
+      "situacaoTSE": "Deferido (consulta em 30/09/2026)",
+      "bio": "Candidato a deputado estadual pelo Missão (número 14021) no Paraná, nascido em Londrina (PR) em 06/09/1999. Declarou ao TSE a ocupação de músico e escolaridade superior incompleto. Segundo o g1, não tem histórico eleitoral anterior.",
+      "propostas": [],
+      "historico": [],
+      "observacoes": [
+        "Handle de Instagram 'eduardogomes.missão_' na lista da Missão contém caractere inválido; omitido."
+      ],
+      "fontes": [
+        {
+          "titulo": "Candidatos da Missão: Eduardo Gomes (14021)",
+          "url": "https://candidatos.missao.org.br/candidato/160002551159"
+        },
+        {
+          "titulo": "O Tempo: Eduardo Gomes (14021)",
+          "url": "https://www.otempo.com.br/eleicoes/2026/candidatos/parana/deputado-estadual/eduardo-gomes-14021"
+        },
+        {
+          "titulo": "g1: Eduardo Gomes (14021)",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/deputado-estadual/pr/160002551159.ghtml"
+        }
+      ],
+      "lacunas": [
+        "Propostas: nenhum plano de governo ou proposta pública encontrada nas fontes consultadas (Missão, O Tempo, g1, Caminho da Missão); TSE DivulgaCandContas bloqueia acesso automatizado (403).",
+        "Bio detalhada, atuação profissional e trabalho social: não encontrados em fonte pública verificável."
+      ],
+      "revisar": true,
+      "basico": false,
+      "foto": "fotos/pr-est-14021.jpg",
+      "nascimento": "1999-09-06",
+      "naturalidade": "Londrina (PR)",
+      "ocupacaoDeclarada": "Músico",
+      "escolaridade": "Superior incompleto",
+      "primeiraCandidatura": true
+    },
+    {
+      "id": "pr-est-14111",
+      "cargo": "Deputado Estadual",
+      "nomeUrna": "Felipe de Castilho",
+      "nomeCompleto": "Felipe Scheifer de Castilho",
+      "numero": "14111",
+      "partido": "MISSÃO",
+      "situacaoTSE": "Deferido (consulta em 30/09/2026)",
+      "bio": "Candidato a deputado estadual pelo Missão (número 14111) no Paraná, nascido em Ponta Grossa (PR) em 23/09/1997. Declarou ao TSE a ocupação de advogado e escolaridade superior completo. Segundo o g1, não tem histórico eleitoral anterior.",
+      "propostas": [],
+      "historico": [],
+      "observacoes": [
+        "Nascimento diverge em 1 dia: lista da Missão/TSE traz 1997-09-23, O Tempo traz 1997-09-24; mantido o da lista da Missão (dados TSE). Conferir no DivulgaCand."
+      ],
+      "fontes": [
+        {
+          "titulo": "Candidatos da Missão: Felipe de Castilho (14111)",
+          "url": "https://candidatos.missao.org.br/candidato/160002551168"
+        },
+        {
+          "titulo": "O Tempo: Felipe de Castilho (14111)",
+          "url": "https://www.otempo.com.br/eleicoes/2026/candidatos/parana/deputado-estadual/felipe-de-castilho-14111"
+        },
+        {
+          "titulo": "g1: Felipe de Castilho (14111)",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/deputado-estadual/pr/160002551168.ghtml"
+        }
+      ],
+      "lacunas": [
+        "Propostas: nenhum plano de governo ou proposta pública encontrada nas fontes consultadas (Missão, O Tempo, g1, Caminho da Missão); TSE DivulgaCandContas bloqueia acesso automatizado (403).",
+        "Bio detalhada, atuação profissional e trabalho social: não encontrados em fonte pública verificável."
+      ],
+      "revisar": true,
+      "basico": false,
+      "foto": "fotos/pr-est-14111.jpg",
+      "nascimento": "1997-09-23",
+      "naturalidade": "Ponta Grossa (PR)",
+      "ocupacaoDeclarada": "Advogado",
+      "escolaridade": "Superior completo",
+      "primeiraCandidatura": true,
+      "instagram": "@felipescastilho"
+    },
+    {
+      "id": "pr-est-14446",
+      "cargo": "Deputado Estadual",
+      "nomeUrna": "Lucas Backes",
+      "nomeCompleto": "Lucas Backes",
+      "numero": "14446",
+      "partido": "MISSÃO",
+      "situacaoTSE": "Deferido (consulta em 30/09/2026)",
+      "bio": "Candidato a deputado estadual pelo Missão (número 14446) no Paraná, nascido em Francisco Beltrão (PR) em 27/01/1996. Declarou ao TSE a ocupação de funileiro e escolaridade ensino médio completo. Segundo o g1, não tem histórico eleitoral anterior.",
+      "propostas": [],
+      "historico": [],
+      "observacoes": [],
+      "fontes": [
+        {
+          "titulo": "Candidatos da Missão: Lucas Backes (14446)",
+          "url": "https://candidatos.missao.org.br/candidato/160002551154"
+        },
+        {
+          "titulo": "O Tempo: Lucas Backes (14446)",
+          "url": "https://www.otempo.com.br/eleicoes/2026/candidatos/parana/deputado-estadual/lucas-backes-14446"
+        },
+        {
+          "titulo": "g1: Lucas Backes (14446)",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/deputado-estadual/pr/160002551154.ghtml"
+        }
+      ],
+      "lacunas": [
+        "Propostas: nenhum plano de governo ou proposta pública encontrada nas fontes consultadas (Missão, O Tempo, g1, Caminho da Missão); TSE DivulgaCandContas bloqueia acesso automatizado (403).",
+        "Bio detalhada, atuação profissional e trabalho social: não encontrados em fonte pública verificável."
+      ],
+      "revisar": true,
+      "basico": false,
+      "foto": "fotos/pr-est-14446.jpg",
+      "nascimento": "1996-01-27",
+      "naturalidade": "Francisco Beltrão (PR)",
+      "ocupacaoDeclarada": "Funileiro",
+      "escolaridade": "Ensino médio completo",
+      "primeiraCandidatura": true,
+      "instagram": "@lucasbackes14pr"
+    },
+    {
+      "id": "pr-est-14131",
+      "cargo": "Deputado Estadual",
+      "nomeUrna": "Mateus Pepice",
+      "nomeCompleto": "Mateus Pepice",
+      "numero": "14131",
+      "partido": "MISSÃO",
+      "situacaoTSE": "Deferido (consulta em 30/09/2026)",
+      "bio": "Candidato a deputado estadual pelo Missão (número 14131) no Paraná, nascido em Pato Branco (PR) em 02/06/2003. Declarou ao TSE a ocupação de diretor de empresas e escolaridade superior completo. Segundo o g1, não tem histórico eleitoral anterior.",
+      "propostas": [],
+      "historico": [],
+      "observacoes": [],
+      "fontes": [
+        {
+          "titulo": "Candidatos da Missão: Mateus Pepice (14131)",
+          "url": "https://candidatos.missao.org.br/candidato/160002551167"
+        },
+        {
+          "titulo": "O Tempo: Mateus Pepice (14131)",
+          "url": "https://www.otempo.com.br/eleicoes/2026/candidatos/parana/deputado-estadual/mateus-pepice-14131"
+        },
+        {
+          "titulo": "g1: Mateus Pepice (14131)",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/deputado-estadual/pr/160002551167.ghtml"
+        }
+      ],
+      "lacunas": [
+        "Propostas: nenhum plano de governo ou proposta pública encontrada nas fontes consultadas (Missão, O Tempo, g1, Caminho da Missão); TSE DivulgaCandContas bloqueia acesso automatizado (403).",
+        "Bio detalhada, atuação profissional e trabalho social: não encontrados em fonte pública verificável."
+      ],
+      "revisar": true,
+      "basico": false,
+      "foto": "fotos/pr-est-14131.jpg",
+      "nascimento": "2003-06-02",
+      "naturalidade": "Pato Branco (PR)",
+      "ocupacaoDeclarada": "Diretor de empresas",
+      "escolaridade": "Superior completo",
+      "primeiraCandidatura": true,
+      "instagram": "@mateuspepicepr"
+    },
+    {
+      "id": "pr-est-14114",
+      "cargo": "Deputado Estadual",
+      "nomeUrna": "Natalie Facco",
+      "nomeCompleto": "Natalie Amaro da Silveira Facco",
+      "numero": "14114",
+      "partido": "MISSÃO",
+      "situacaoTSE": "Deferido (consulta em 30/09/2026)",
+      "bio": "Candidata a deputada estadual pelo Missão (número 14114) no Paraná, nascida em Rio Grande (RS) em 08/03/1988. Declarou ao TSE a ocupação de estudante, bolsista, estagiário e assemelhados e escolaridade superior incompleto. Segundo o g1, disputou antes: vereador em 2020 (AVANTE).",
+      "propostas": [],
+      "historico": [
+        {
+          "descricao": "Candidatura a vereador em 2020 pelo AVANTE, conforme registro da Justiça Eleitoral",
+          "fonte": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/deputado-estadual/pr/160002551183.ghtml"
+        }
+      ],
+      "observacoes": [],
+      "fontes": [
+        {
+          "titulo": "Candidatos da Missão: Natalie Facco (14114)",
+          "url": "https://candidatos.missao.org.br/candidato/160002551183"
+        },
+        {
+          "titulo": "O Tempo: Natalie Facco (14114)",
+          "url": "https://www.otempo.com.br/eleicoes/2026/candidatos/parana/deputado-estadual/natalie-facco-14114"
+        },
+        {
+          "titulo": "g1: Natalie Facco (14114)",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/quem-sao-os-candidatos/deputado-estadual/pr/160002551183.ghtml"
+        }
+      ],
+      "lacunas": [
+        "Propostas: nenhum plano de governo ou proposta pública encontrada nas fontes consultadas (Missão, O Tempo, g1, Caminho da Missão); TSE DivulgaCandContas bloqueia acesso automatizado (403).",
+        "Bio detalhada, atuação profissional e trabalho social: não encontrados em fonte pública verificável."
+      ],
+      "revisar": true,
+      "basico": false,
+      "foto": "fotos/pr-est-14114.jpg",
+      "nascimento": "1988-03-08",
+      "naturalidade": "Rio Grande (RS)",
+      "ocupacaoDeclarada": "Estudante, bolsista, estagiário e assemelhados",
+      "escolaridade": "Superior incompleto",
+      "primeiraCandidatura": false,
+      "instagram": "@nataliefacco"
+    }
+  ]
+}
