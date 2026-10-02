@@ -1,0 +1,1052 @@
+[
+  {
+    "criterio_id": "C1",
+    "trecho_id": "caiado-economia",
+    "veredito": "Parcial",
+    "justificativa": "O contexto indica de forma genérica poupança doméstica e capital internacional, com juros menores, como origem do aumento do investimento, sem valores nem divisão entre público e privado.",
+    "fonte": "Caiado_Plano_Original.md:570-586"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "caiado-economia",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "A meta de investimento de cerca de 25% do PIB não indica instrumento; não é possível identificar a norma aplicável.",
+    "fonte": "Caiado_Plano_Original.md:570-586"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "caiado-economia",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "A meta depende do setor privado e das três esferas de governo e não indica ato nem decisor único.",
+    "fonte": "Caiado_Plano_Original.md:570-586"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "caiado-economia",
+    "veredito": "Parcial",
+    "justificativa": "Há episódios documentados de aceleração do investimento com mais crescimento; a literatura é mista sobre acelerações lideradas por investimento e o teto nacional citado (20,9%) está abaixo da meta.",
+    "fonte": "Banco Mundial GEP 2024; FGV IBRE"
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "caiado-economia",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O contexto declara a meta 'em direção a' 25% do PIB sem data nem prazo; o horizonte Brasil 2040 está fora do trecho e do contexto.",
+    "fonte": "Caiado_Plano_Original.md:570-586"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "renan-seguranca",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O contexto descreve decretos de Estado de Defesa e a Lei Antifacção sem custo nem fonte de recurso.",
+    "fonte": "Renan_Plano_Original.md:447-486"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "renan-seguranca",
+    "veredito": "Parcial",
+    "justificativa": "Os decretos de Estado de Defesa cabem no art. 136 da Constituição (prazo de 30 dias, prorrogável uma vez). Por condenação criminal transitada em julgado, a suspensão de direitos políticos cabe por lei ordinária (CF art. 15, III); sem condenação, exigiria emenda constitucional. Parte da proposta cabe na lei vigente e parte exige mudança.",
+    "fonte": "Renan_Plano_Original.md:447-486; CF arts. 15, III e 136"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "renan-seguranca",
+    "veredito": "Parcial",
+    "justificativa": "Cada decreto é apreciado pelo Congresso por maioria absoluta (art. 136, §§4º-7º) — não é Executivo puro; a parte de direitos políticos sem condenação exigiria quórum de emenda. Mantido por coerência com demo-renan-reformas C3.",
+    "fonte": "Renan_Plano_Original.md:447-486; CF art. 136, §§4º-7º; CF art. 60, §2º"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "renan-seguranca",
+    "veredito": "Parcial",
+    "justificativa": "El Salvador registra queda forte de homicídios com violações documentadas; a intervenção no Rio em 2018 teve resultado fraco com mais mortes por ação policial; corte europeia aceitou inversão do ônus em confisco civil sob condições.",
+    "fonte": "HRW; Observatório da Intervenção/CESeC (conferir item 6); HUDOC"
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "renan-seguranca",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O contexto descreve 'sucessivos decretos' e a Lei Antifacção 'em seguida', sem data nem prazo.",
+    "fonte": "Renan_Plano_Original.md:447-486"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "renan-reformas",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O contexto não trata do custo do sistema de metas nem do Comissariado, e não indica fonte de recurso.",
+    "fonte": "Renan_Plano_Original.md:649-681"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "renan-reformas",
+    "veredito": "Difícil",
+    "justificativa": "Parte do sistema de metas caberia em lei, mas a previsão de intervenção do poder federal em municípios que não cumprirem metas não consta do art. 35 da CF, que admite intervenção da União só em municípios de Território Federal; exigiria emenda constitucional.",
+    "fonte": "Renan_Plano_Original.md:649-681; CF art. 35; CF art. 60"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "renan-reformas",
+    "veredito": "Difícil",
+    "justificativa": "A previsão de intervenção federal em municípios exige emenda à Constituição, que depende de três quintos dos membros de cada Casa, em dois turnos (CF art. 60, §2º).",
+    "fonte": "Renan_Plano_Original.md:649-681; CF art. 35; CF art. 60, §2º"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "renan-reformas",
+    "veredito": "Parcial",
+    "justificativa": "Repasses condicionados a indicadores melhoraram o Ideb no Ceará (Banco Mundial); sem evidência para intervenção federal gradual ou comissariado com mandatos fixos.",
+    "fonte": "Banco Mundial 2020 (estudos citados, não lidos — conferir item 7)"
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "renan-reformas",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O contexto não declara prazo para instituir o sistema de metas.",
+    "fonte": "Renan_Plano_Original.md:649-681"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "demo-lula-saude",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto trazem balanço de medida já adotada, sem proposta; não há custo nem fonte de recurso a avaliar.",
+    "fonte": "Lula_Plano_Original.md:1352-1353"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "demo-lula-saude",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto trazem balanço de medida já adotada, sem proposta; não é possível identificar a norma aplicável.",
+    "fonte": "Lula_Plano_Original.md:1352-1353"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "demo-lula-saude",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto trazem balanço de medida já adotada, sem proposta; não é possível identificar quem decide.",
+    "fonte": "Lula_Plano_Original.md:1352-1353"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "demo-lula-saude",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto trazem balanço de medida já adotada, sem proposta; não há medida a comparar com experiência documentada.",
+    "fonte": "Lula_Plano_Original.md:1352-1353"
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "demo-lula-saude",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto trazem balanço de medida já adotada, sem proposta; não há prazo declarado.",
+    "fonte": "Lula_Plano_Original.md:1352-1353"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "demo-caiado-economia",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto trazem compromisso geral, sem valor, instrumento nem prazo; não há custo nem fonte de recurso a avaliar.",
+    "fonte": "Caiado_Plano_Original.md:547-549"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "demo-caiado-economia",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto trazem compromisso geral, sem valor, instrumento nem prazo; não é possível identificar a norma aplicável.",
+    "fonte": "Caiado_Plano_Original.md:547-549"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "demo-caiado-economia",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto trazem compromisso geral, sem valor, instrumento nem prazo; não é possível identificar quem decide.",
+    "fonte": "Caiado_Plano_Original.md:547-549"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "demo-caiado-economia",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto trazem compromisso geral, sem valor, instrumento nem prazo; não há medida a comparar com experiência documentada.",
+    "fonte": "Caiado_Plano_Original.md:547-549"
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "demo-caiado-economia",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto trazem compromisso geral, sem valor, instrumento nem prazo; não há prazo declarado.",
+    "fonte": "Caiado_Plano_Original.md:547-549"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "demo-cury-educacao",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto trazem proposta genérica ('política permanente de Estado') sem instrumento, meta nem prazo; não há custo nem fonte de recurso a avaliar.",
+    "fonte": "Cury_Plano_Original1-2.md:2672-2675"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "demo-cury-educacao",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto trazem proposta genérica ('política permanente de Estado') sem instrumento, meta nem prazo; não é possível identificar a norma aplicável.",
+    "fonte": "Cury_Plano_Original1-2.md:2672-2675"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "demo-cury-educacao",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto trazem proposta genérica ('política permanente de Estado') sem instrumento, meta nem prazo; não é possível identificar quem decide.",
+    "fonte": "Cury_Plano_Original1-2.md:2672-2675"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "demo-cury-educacao",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto trazem proposta genérica ('política permanente de Estado') sem instrumento, meta nem prazo; não há medida a comparar com experiência documentada.",
+    "fonte": "Cury_Plano_Original1-2.md:2672-2675"
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "demo-cury-educacao",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto trazem proposta genérica ('política permanente de Estado') sem instrumento, meta nem prazo; não há prazo declarado.",
+    "fonte": "Cury_Plano_Original1-2.md:2672-2675"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "demo-renan-reformas",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho propõe transformar 12.348 favelas em bairros formais em dez anos, sem custo nem fonte de recurso.",
+    "fonte": "Renan_Plano_Original.md:1837-1838"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "demo-renan-reformas",
+    "veredito": "Parcial",
+    "justificativa": "A titulação de moradores cabe na regularização fundiária urbana já prevista em lei (Lei 13.465/2017); as regras urbanísticas e a mistura de classes não têm instrumento indicado no trecho.",
+    "fonte": "Renan_Plano_Original.md:1837-1838; Lei 13.465/2017"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "demo-renan-reformas",
+    "veredito": "Parcial",
+    "justificativa": "A União pode atuar na titulação e no financiamento; o ordenamento do uso do solo urbano é competência municipal (CF arts. 30, VIII, e 182).",
+    "fonte": "Renan_Plano_Original.md:1837-1838; CF arts. 30, VIII, e 182"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "demo-renan-reformas",
+    "veredito": "Parcial",
+    "justificativa": "Favela-Bairro melhorou acesso a serviços sem elevar valor dos imóveis e com deterioração em dez anos; titulação elevou moradia e educação, sem efeito em crédito; escala muito menor que a proposta.",
+    "fonte": "BID; Urban Studies 2018; J. Public Economics"
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "demo-renan-reformas",
+    "veredito": "Parcial",
+    "justificativa": "O trecho declara prazo de dez anos, maior que o mandato de quatro anos (CF art. 82), sem marco verificável dentro do mandato.",
+    "fonte": "Renan_Plano_Original.md:1837-1838; CF art. 82"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "demo-flavio-seguranca",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho não trata do custo nem da fonte de recurso da medida.",
+    "fonte": "Flavio_Plano_Original.md:562-563"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "demo-flavio-seguranca",
+    "veredito": "Parcial",
+    "justificativa": "A frase (L562-563) cabe na legítima defesa (CP art. 25; Lei 13.060/2014; Decreto 12.341/2024) quando presentes seus requisitos; como regra categórica, exigiria lei nova (CF art. 22, I).",
+    "fonte": "Flavio_Plano_Original.md:562-563; CP art. 25; Lei 13.060/2014; Decreto 12.341/2024"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "demo-flavio-seguranca",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho não diz quais forças de segurança nem quem ordena a medida; não é possível identificar quem decide.",
+    "fonte": "Flavio_Plano_Original.md:562-563"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "demo-flavio-seguranca",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "Não há, nesta avaliação, fonte oficial aberta e conferida sobre experiência comparável com a medida do trecho.",
+    "fonte": "Flavio_Plano_Original.md:562-563"
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "demo-flavio-seguranca",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho não declara prazo.",
+    "fonte": "Flavio_Plano_Original.md:562-563"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "lula-educacão",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto não indicam a fonte de recurso para a ampliação do acervo ou a inclusão de novas línguas. Não há menção a dotação orçamentária, receita vinculada ou parceria que permita conferir a origem do dinheiro.",
+    "fonte": "Lula_Plano_Original.md:1194-1195"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "lula-educacão",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "Nenhuma das fontes citadas (Lei 11.738/2008 e Lei 14.601/2023) foi aberta e lida com sucesso ou guarda relação com o trecho sobre programas federais de livros digitais e ensino de idiomas.",
+    "fonte": "Lula_Plano_Original.md:1194-1195"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "lula-educacão",
+    "veredito": "Viável",
+    "justificativa": "A criação de programas federais é competência do Poder Executivo, que pode editá-los por decreto ou portaria, dependendo apenas da aprovação orçamentária anual (LOA), que é pano de fundo e não altera o nível.",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "lula-educacão",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "A única fonte citada (notícia do MEC sobre PNLD Digital) não foi aberta e não apresenta resultado medido com número e período, não sustentando nível.",
+    "fonte": "Lula_Plano_Original.md:1194-1195"
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "lula-educacão",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho menciona 'No [***] seguiremos ampliando', mas não declara um prazo verificável, data ou período para a ampliação do acervo ou a inclusão de novas línguas.",
+    "fonte": "Lula_Plano_Original.md:1194-1195"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "lula-reformas",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho não indica a fonte de recurso para a proposta de emenda constitucional. A PEC em si não tem custo orçamentário direto, mas a revisão de atribuições pode gerar despesas não quantificadas no texto.",
+    "fonte": "Lula_Plano_Original.md:289-291"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "lula-reformas",
+    "veredito": "Difícil",
+    "justificativa": "A proposta exige emenda à Constituição para revisar as atribuições dos entes federativos na segurança pública. O art. 60 da Constituição define o rito de PEC, que exige três quintos dos votos em dois turnos em cada Casa.",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "lula-reformas",
+    "veredito": "Difícil",
+    "justificativa": "A PEC depende de aprovação pelo Congresso Nacional com quórum qualificado de três quintos em dois turnos em cada Casa, conforme o art. 60, § 2º, da Constituição.",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "lula-reformas",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "Esta versão não traz experiência documentada com fonte conferida para a revisão das atribuições dos entes na segurança pública por meio de PEC. Não há estudo ou avaliação de impacto disponível nas fontes consultadas.",
+    "fonte": "Lula_Plano_Original.md:289-291"
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "lula-reformas",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho não declara prazo para o envio ou aprovação da PEC. A menção a 'Enviamos ao Congresso Nacional' não estabelece data ou período verificável.",
+    "fonte": "Lula_Plano_Original.md:289-291"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "renan-saúde",
+    "veredito": "Parcial",
+    "justificativa": "C1-lastro (v2): sem fonte declarada no trecho, mas o plano declara espaço fiscal quantificado (ajuste R$ 250 bi/ano; PEC R$ 1,1 tri até 2031) e a proposta é barata por natureza (diretriz/currículo e regulação). Fonte genérica, sem carimbo.",
+    "fonte": "https://www.renanpedia.com/livro-amarelo-resumo-2026.pdf"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "renan-saúde",
+    "veredito": "Viável",
+    "justificativa": "Lei 8.080/1990, lida integralmente: epidemiologia para prioridades e alocação (art. 7º, VII), competência comum por controle, avaliação e normas técnicas (art. 15), pactuação nas CIT/CIB (art. 14-A) e execução federal em urgências com grande espera (art. 16, §4º). Critérios de priorização cabem em norma infralegal + pactuação, sem mudança de lei.",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "renan-saúde",
+    "veredito": "Viável",
+    "justificativa": "A implementação de um sistema de classificação de risco é competência do Poder Executivo, por meio de ato normativo do Ministério da Saúde, sem necessidade de votação no Congresso.",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "renan-saúde",
+    "veredito": "Parcial",
+    "justificativa": "Revisão com 17 estudos (4 quase-experimentais, 11 observacionais, 2 revisões) conclui resultados mistos para priorização explícita; Suécia com queda, Espanha sem mudança de ordenação; nada em escala nacional nem no SUS.",
+    "fonte": "https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0256578"
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "renan-saúde",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho não declara prazo para a criação ou implementação do sistema de fila por grau de risco. Não há data, período ou etapa definida.",
+    "fonte": "Renan_Plano_Original.md:906-906"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "caiado-educacão",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho e o contexto não indicam a fonte de recurso para o programa de alfabetização e matemática. Não há menção a dotação orçamentária, receita vinculada ou parceria que permita conferir a origem do dinheiro.",
+    "fonte": "Caiado_Plano_Original.md:1536-1536"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "caiado-educacão",
+    "veredito": "Viável",
+    "justificativa": "A EC 14/1996 alterou o art. 211, § 4º, da Constituição, prevendo que os Estados e Municípios definirão formas de colaboração na organização de seus sistemas de ensino, o que ampara a articulação federativa proposta.",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc14.htm"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "caiado-educacão",
+    "veredito": "Viável com condições",
+    "justificativa": "A EC 14/1996 e o art. 84, VI, da Constituição permitem à União exercer função redistributiva e supletiva na educação, mas a criação de programa federal específico pode demandar lei ordinária que organize as ações e o financiamento.",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc14.htm"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "caiado-educacão",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O relato citado (turma de 21 alunos, depósito próprio sem controle ou revisão) não é experiência documentada com fonte conferida: sem estudo controlado, sem amostra e sem avaliação independente, não há resultado medido para sustentar nível.",
+    "fonte": "Caiado_Plano_Original.md:1536-1536"
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "caiado-educacão",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "A citação do art. 82 da Constituição trata do mandato presidencial e não se relaciona com prazo de implementação da proposta educacional.",
+    "fonte": "Caiado_Plano_Original.md:1536-1536"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "flavio-reformas",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho não indica a fonte de recurso para a proposta de fim da reeleição. A PEC em si não tem custo orçamentário direto, mas o plano não trata de custos.",
+    "fonte": "Flavio_Plano_Original.md:2548-2551"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "flavio-reformas",
+    "veredito": "Difícil",
+    "justificativa": "A proposta exige emenda à Constituição para extinguir a reeleição presidencial. O art. 60 da Constituição define o rito de PEC, que exige três quintos dos votos em dois turnos em cada Casa.",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "flavio-reformas",
+    "veredito": "Difícil",
+    "justificativa": "A PEC depende de aprovação pelo Congresso Nacional com quórum qualificado de três quintos em dois turnos em cada Casa, conforme o art. 60, § 2º, da Constituição.",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "flavio-reformas",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "Esta versão não traz experiência documentada com fonte conferida para o fim da reeleição presidencial. Não há estudo ou avaliação de impacto disponível nas fontes consultadas.",
+    "fonte": "Flavio_Plano_Original.md:2548-2551"
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "flavio-reformas",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho não declara prazo para a aprovação da PEC. Menciona que 'Já existe uma PEC protocolada', mas não estabelece data ou período para sua votação.",
+    "fonte": "Flavio_Plano_Original.md:2548-2551"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "lula-economia",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "A fonte citada (LC 200/2023) não foi aberta e o trecho não indica de onde viriam os recursos para a redução sustentada dos juros.",
+    "fonte": "Lula_Plano_Original.md:1891-1892"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "lula-economia",
+    "veredito": "Viável",
+    "justificativa": "A proposta de manter o arcabouço fiscal não exige mudança constitucional ou legal, pois a Lei Complementar 200/2023 já está vigente e pode ser mantida por simples continuidade administrativa.",
+    "fonte": "https://www2.senado.leg.br/bdsf/bitstream/handle/id/642447/NILC_200_2023.pdf?sequence=1&isAllowed=y#5#1"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "lula-economia",
+    "veredito": "Viável",
+    "justificativa": "A manutenção do arcabouço fiscal é competência do Poder Executivo, que pode dar continuidade à política sem necessidade de nova votação no Congresso, além da aprovação orçamentária anual (LOA).",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "lula-economia",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "A notícia citada sobre o IFI não foi aberta e não apresenta resultado medido de precedente com número e período que sustente o nível.",
+    "fonte": "Lula_Plano_Original.md:1891-1892"
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "lula-economia",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho não declara prazo para a manutenção do arcabouço fiscal. A menção a 'manteremos' é genérica e não estabelece data ou período.",
+    "fonte": "Lula_Plano_Original.md:1891-1892"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "renan-educacão",
+    "veredito": "Parcial",
+    "justificativa": "C1-lastro (v2): sem fonte declarada no trecho, mas o plano declara espaço fiscal quantificado (ajuste R$ 250 bi/ano; PEC R$ 1,1 tri até 2031) e a proposta é barata por natureza (diretriz/currículo e regulação). Fonte genérica, sem carimbo.",
+    "fonte": "https://www.renanpedia.com/livro-amarelo-resumo-2026.pdf"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "renan-educacão",
+    "veredito": "Viável com condições",
+    "justificativa": "A LDB (art. 9º, IV) atribui à União estabelecer, em colaboração com os entes, competências e diretrizes para a educação básica; a adoção universal do sistema fônico pode ser implementada por meio de diretrizes curriculares, mas depende de articulação com os sistemas de ensino.",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/leis/l9394.htm"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "renan-educacão",
+    "veredito": "Viável",
+    "justificativa": "A implementação de diretrizes já previstas na BNCC e na PNA é competência do Poder Executivo, que pode orientar redes de ensino sem necessidade de votação no Congresso.",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "renan-educacão",
+    "veredito": "Viável com condições",
+    "justificativa": "PAIC/Ceará com avaliação por descontinuidade na fronteira e ganhos medidos; contexto cita o modelo do Ceará. Diferenças nomeadas: programa estadual de colaboração e governança, não teste do método fônico; sem evidência brasileira do método isolado.",
+    "fonte": "https://www12.senado.leg.br/publicacoes/estudos-legislativos/tipos-de-estudos/boletins-legislativos/bol73"
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "renan-educacão",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho não declara prazo para a adoção universal do sistema fônico. A expressão 'buscaremos' não estabelece data ou período verificável.",
+    "fonte": "Renan_Plano_Original.md:1106-1106"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "caiado-reformas",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho não indica a fonte de recurso para a PEC que extingue a reeleição. A PEC em si não tem custo orçamentário direto, mas o plano não trata de custos.",
+    "fonte": "Caiado_Plano_Original.md:385-387"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "caiado-reformas",
+    "veredito": "Difícil",
+    "justificativa": "A proposta exige emenda à Constituição para extinguir a reeleição consecutiva para cargos do Poder Executivo. O art. 60 da Constituição define o rito de PEC, que exige três quintos dos votos em dois turnos em cada Casa.",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "caiado-reformas",
+    "veredito": "Difícil",
+    "justificativa": "A PEC depende de aprovação pelo Congresso Nacional com quórum qualificado de três quintos em dois turnos em cada Casa, conforme o art. 60, § 2º, da Constituição.",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "caiado-reformas",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "Esta versão não traz experiência documentada com fonte conferida para o fim da reeleição consecutiva no Poder Executivo. Não há estudo ou avaliação de impacto disponível nas fontes consultadas.",
+    "fonte": "Caiado_Plano_Original.md:385-387"
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "caiado-reformas",
+    "veredito": "Viável",
+    "justificativa": "A proposta de encaminhar PEC no início do mandato para extinguir a reeleição cabe no prazo do mandato presidencial de quatro anos, conforme art. 82 da Constituição, e o rito de PEC está previsto no art. 60, § 2º.",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "cury-educacão",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho não indica a fonte de recurso para a criação do plano de inclusão em cada escola. A medida pode gerar custos com adaptações e formação, mas não há menção a orçamento.",
+    "fonte": "Cury_Plano_Original1-2.md:789-790"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "cury-educacão",
+    "veredito": "Viável",
+    "justificativa": "A Lei Brasileira de Inclusão (art. 28) já incumbe o poder público de assegurar, criar e implementar sistema educacional inclusivo, o que ampara a exigência de plano de inclusão por escola.",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "cury-educacão",
+    "veredito": "Viável",
+    "justificativa": "A LBI (art. 28) estabelece diretrizes que podem ser detalhadas por regulamento ou normas infralegais, sem necessidade de nova lei, pois a competência para implementar já é do poder público.",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "cury-educacão",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "A LBI não constitui precedente com resultado medido (número e período) e o trecho não apresenta experiência concreta documentada que sustente nível diferente de 'Sem base'.",
+    "fonte": "Cury_Plano_Original1-2.md:789-790"
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "cury-educacão",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho não declara prazo para a implementação dos planos de inclusão. A expressão 'Cada escola deverá possuir' não estabelece data ou período.",
+    "fonte": "Cury_Plano_Original1-2.md:789-790"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "lula-seguranca",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho não indica a fonte de recurso para o Pacto Nacional de Execução Penal. A menção a 'metas do [plano de segurança prisional]' não detalha a origem do dinheiro.",
+    "fonte": "Lula_Plano_Original.md:944-946"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "lula-seguranca",
+    "veredito": "Viável com condições",
+    "justificativa": "A Lei de Execução Penal (art. 1º) já define os objetivos da execução penal e o Pacto Nacional proposto pode ser instituído por ato do Executivo ou convênio, mas depende de adesão dos estados para efetividade.",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/leis/l7210.htm"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "lula-seguranca",
+    "veredito": "Viável",
+    "justificativa": "A instituição de um pacto nacional é competência do Poder Executivo, que pode firmá-lo por meio de portaria ou acordo de cooperação, sem necessidade de votação no Congresso.",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "lula-seguranca",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O plano 'Pena Justa' do CNJ não foi aberto e não foi possível conferir resultado medido com número e período que sustente o nível.",
+    "fonte": "Lula_Plano_Original.md:944-946"
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "lula-seguranca",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho não declara prazo para a instituição do Pacto Nacional de Execução Penal. A expressão 'Instituiremos' não estabelece data ou período.",
+    "fonte": "Lula_Plano_Original.md:944-946"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "caiado-saúde",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho não indica a fonte de recurso para a meta de redução de filas. A menção a 'indicador público' não trata de custos ou orçamento.",
+    "fonte": "Caiado_Plano_Original.md:3696-3697"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "caiado-saúde",
+    "veredito": "Viável",
+    "justificativa": "A definição de uma meta de redução de filas pode ser feita por ato administrativo do Ministério da Saúde, sem necessidade de nova lei. A Lei 14.820/2024 já prevê revisão periódica de valores, mas a meta em si não exige mudança normativa.",
+    "fonte": "https://www12.senado.leg.br/noticias/materias/2024/01/17/lei-que-estabelece-reajuste-anual-da-tabela-do-sus-e-sancionada"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "caiado-saúde",
+    "veredito": "Viável",
+    "justificativa": "A meta de redução de filas é competência do Poder Executivo, que pode estabelecê-la por portaria ou plano nacional, sem necessidade de votação no Congresso.",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "caiado-saúde",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "Esta versão não traz experiência documentada com fonte conferida para a meta de redução de 50% no tempo mediano de filas. Não há estudo ou avaliação de impacto disponível nas fontes consultadas.",
+    "fonte": "Caiado_Plano_Original.md:3696-3697"
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "caiado-saúde",
+    "veredito": "Viável",
+    "justificativa": "A meta de redução de filas até 2030 cabe no prazo do mandato presidencial iniciado em 2027, conforme art. 82 da Constituição, que fixa mandato de quatro anos.",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "cury-seguranca",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho não indica a fonte de recurso para a recriação do Ministério da Segurança Pública. A criação de um ministério implica custos administrativos, mas não há menção a orçamento.",
+    "fonte": "Cury_Plano_Original2-2.md:1462-1464"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "cury-seguranca",
+    "veredito": "Parcial",
+    "justificativa": "O art. 84, VI, da Constituição permite ao Presidente dispor sobre organização da administração federal mediante decreto, mas a recriação de ministério pode exigir lei específica, configurando norma vigente que cobre apenas parte da proposta.",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "cury-seguranca",
+    "veredito": "Parcial",
+    "justificativa": "A criação de ministério é decisão do Presidente da República (art. 84, VI), mas a estruturação definitiva e as dotações orçamentárias dependem de articulação com o Congresso, o que caracteriza decisão de ente autônomo sem votação.",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "cury-seguranca",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "A notícia do Senado sobre a criação do Ministério da Segurança Pública não foi aberta e não apresenta resultado medido com número e período.",
+    "fonte": "Cury_Plano_Original2-2.md:1462-1464"
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "cury-seguranca",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho não declara prazo para a recriação do ministério. A expressão 'Recriação do Ministério' não estabelece data ou período.",
+    "fonte": "Cury_Plano_Original2-2.md:1462-1464"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "renan-economia",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho não indica a fonte de recurso para a substituição do Bolsa Família. A reforma do assistencialismo pode ter custos de transição, mas não há menção a orçamento.",
+    "fonte": "Renan_Plano_Original.md:737-738"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "renan-economia",
+    "veredito": "Parcial",
+    "justificativa": "A Lei 14.601/2023 institui o Programa Bolsa Família, norma vigente que a proposta pretende substituir por completo, exigindo nova lei; a mistura de norma vigente com norma nova caracteriza 'Parcial'.",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14601.htm"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "renan-economia",
+    "veredito": "Viável com condições",
+    "justificativa": "A substituição do Bolsa Família exige lei ordinária (art. 61), aprovada por maioria simples nas duas Casas; pela frase da escala C3, lei ordinária = Viável com condições.",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "renan-economia",
+    "veredito": "Parcial",
+    "justificativa": "NREGS randomizado em 157 subdistritos: renda +13,9%, pobreza −25,8%, com 86% do ganho vindo de salários privados; no médio prazo o efeito em emprego some e não há estudo de substituição em escala. Positivo em parte do objetivo, nulo em persistência.",
+    "fonte": "https://www.nber.org/papers/w23838"
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "renan-economia",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho não declara prazo para a substituição do Bolsa Família. A expressão 'projeto de reforma' não estabelece data ou período.",
+    "fonte": "Renan_Plano_Original.md:737-738"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "flavio-economia",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho não indica a fonte de recurso para alcançar a meta de crescimento de 4% ao ano. A meta depende de investimento privado e reformas, mas não há menção a dotação orçamentária.",
+    "fonte": "Flavio_Plano_Original.md:1124-1126"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "flavio-economia",
+    "veredito": "Viável",
+    "justificativa": "A definição de uma meta de crescimento econômico não exige mudança constitucional ou legal. É uma orientação de política econômica que pode ser perseguida com os instrumentos existentes.",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "flavio-economia",
+    "veredito": "Viável",
+    "justificativa": "A busca por uma meta de crescimento é competência do Poder Executivo, que pode adotar medidas de política econômica sem necessidade de votação no Congresso.",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "flavio-economia",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "A reportagem do Valor International não foi aberta e não apresenta resultado medido com número e período que sustente nível de precedente.",
+    "fonte": "Flavio_Plano_Original.md:1124-1126"
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "flavio-economia",
+    "veredito": "Parcial",
+    "justificativa": "A meta de crescimento de 4% ao ano 'ao longo da próxima década' ultrapassa o mandato presidencial de quatro anos, enquadrando-se na convenção de prazo declarado além do mandato como 'Parcial'.",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "caiado-seguranca",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho não indica a fonte de recurso para a aplicação das penas mais rigorosas. A medida pode aumentar custos do sistema prisional, mas não há menção a orçamento.",
+    "fonte": "Caiado_Plano_Original.md:693-694"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "caiado-seguranca",
+    "veredito": "Difícil",
+    "justificativa": "O art. 75 do Código Penal limita o cumprimento das penas privativas de liberdade a 40 anos, enquanto a proposta prevê pena mínima de 45 anos, gerando conflito direto com norma vigente que a proposta não supera.",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "caiado-seguranca",
+    "veredito": "Viável com condições",
+    "justificativa": "O novo regime jurídico exige lei ordinária (art. 61), aprovada por maioria simples; pela frase da escala C3, lei ordinária = Viável com condições.",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "caiado-seguranca",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "Esta versão não traz experiência documentada com fonte conferida para a aplicação de penas mínimas de 45 anos para lideranças de organizações criminosas. Não há estudo ou avaliação de impacto disponível nas fontes consultadas.",
+    "fonte": "Caiado_Plano_Original.md:693-694"
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "caiado-seguranca",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho não declara prazo para a implementação do regime jurídico mais rigoroso. A expressão 'Estabelecer' não estabelece data ou período.",
+    "fonte": "Caiado_Plano_Original.md:693-694"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "flavio-educacão",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho não indica a fonte de recurso para o programa de reforço escolar entre alunos. A remuneração de alunos monitores implica custo, mas não há menção a orçamento.",
+    "fonte": "Flavio_Plano_Original.md:1329-1331"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "flavio-educacão",
+    "veredito": "Parcial",
+    "justificativa": "A LDB (art. 9º, IV) permite à União estabelecer diretrizes em colaboração com os entes, mas a priorização do método fônico com cobrança de resultados pode exigir alterações na BNCC e em normas curriculares, caracterizando norma vigente que cobre parte da proposta.",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/leis/l9394.htm"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "flavio-educacão",
+    "veredito": "Parcial",
+    "justificativa": "A implementação do método fônico e do programa de reforço escolar pode envolver despesas orçamentárias, dependendo de previsão no PPA, LDO e LOA (art. 165 da Constituição), mas a decisão sobre a política educacional é do Executivo com participação do Congresso na aprovação orçamentária.",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "flavio-educacão",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O relato citado (turma de 21 alunos, depósito próprio sem controle ou revisão) não é experiência documentada com fonte conferida: sem estudo controlado, sem amostra e sem avaliação independente, não há resultado medido para sustentar nível.",
+    "fonte": "Flavio_Plano_Original.md:1329-1331"
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "flavio-educacão",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho não declara prazo para a implementação do programa de reforço escolar. A expressão 'vamos criar' não estabelece data ou período.",
+    "fonte": "Flavio_Plano_Original.md:1329-1331"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "cury-saúde",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho não indica a fonte de recurso para a plataforma nacional de telemedicina. A criação de plataforma e a meta de atendimento em 30 minutos implicam custos, mas não há menção a orçamento.",
+    "fonte": "Cury_Plano_Original1-2.md:5640-5642"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "cury-saúde",
+    "veredito": "Viável com condições",
+    "justificativa": "A criação de uma plataforma nacional de telemedicina pode ser feita por lei ordinária ou ato infralegal, sem necessidade de emenda constitucional. A Lei 14.820/2024 é exemplo de norma que trata de saúde digital.",
+    "fonte": "https://www12.senado.leg.br/noticias/materias/2024/01/17/lei-que-estabelece-reajuste-anual-da-tabela-do-sus-e-sancionada"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "cury-saúde",
+    "veredito": "Viável com condições",
+    "justificativa": "A criação de uma plataforma nacional de telemedicina pode ser feita por ato do Executivo, mas se exigir despesa nova, depende de lei orçamentária anual (LOA), aprovada por maioria simples no Congresso.",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "cury-saúde",
+    "veredito": "Viável com condições",
+    "justificativa": "Resultados medidos no SUS (teleECG evitou 81% dos encaminhamentos; economia por encaminhamento em simulação), em escopo regional; sem precedente de plataforma nacional com IA e com barreira de conectividade documentada.",
+    "fonte": "Bull WHO 2012; Pachito et al. 2022"
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "cury-saúde",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho não declara prazo para a implementação da meta de atendimento digital em 30 minutos. A expressão 'Nosso compromisso é estabelecer' não estabelece data ou período.",
+    "fonte": "Cury_Plano_Original1-2.md:5640-5642"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "flavio-seguranca",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho não indica a fonte de recurso para a declaração de facções como organizações narcoterroristas. A medida pode ter custos operacionais, mas não há menção a orçamento.",
+    "fonte": "Flavio_Plano_Original.md:629-631"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "flavio-seguranca",
+    "veredito": "Viável com condições",
+    "justificativa": "Criar a figura de organização narcoterrorista exige lei ordinária nova (a Lei 12.850/2013 já tipifica organização criminosa); pela frase da escala C2, lei ordinária = Viável com condições.",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12850.htm"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "flavio-seguranca",
+    "veredito": "Viável com condições",
+    "justificativa": "Criar a figura de organização narcoterrorista exige lei ordinária (art. 61), aprovada por maioria simples; pela frase da escala C3, lei ordinária = Viável com condições.",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "flavio-seguranca",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "Esta versão não traz experiência documentada com fonte conferida para a declaração de facções como organizações narcoterroristas. Não há estudo ou avaliação de impacto disponível nas fontes consultadas.",
+    "fonte": "Flavio_Plano_Original.md:629-631"
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "flavio-seguranca",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho não declara prazo para a declaração das facções como narcoterroristas. A expressão 'Vamos declarar' não estabelece data ou período.",
+    "fonte": "Flavio_Plano_Original.md:629-631"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "cury-reformas",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho não indica a fonte de recurso para o mandato de oito anos para ministros do STF. A PEC em si não tem custo orçamentário direto, mas o plano não trata de custos.",
+    "fonte": "Cury_Plano_Original1-2.md:2147-2148"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "cury-reformas",
+    "veredito": "Difícil",
+    "justificativa": "A fixação de mandato de oito anos para ministros do STF exige emenda à Constituição (art. 60), com quórum de três quintos em dois turnos em cada Casa, configurando alteração constitucional de alta complexidade política.",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "cury-reformas",
+    "veredito": "Difícil",
+    "justificativa": "A PEC depende de aprovação pelo Congresso Nacional com quórum qualificado de três quintos em dois turnos em cada Casa, conforme o art. 60, § 2º, da Constituição.",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "cury-reformas",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "Esta versão não traz experiência documentada com fonte conferida para o mandato de oito anos para ministros do STF. Não há estudo ou avaliação de impacto disponível nas fontes consultadas.",
+    "fonte": "Cury_Plano_Original1-2.md:2147-2148"
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "cury-reformas",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho não declara prazo para a aprovação da PEC. A expressão 'Propomos estabelecer' não estabelece data ou período.",
+    "fonte": "Cury_Plano_Original1-2.md:2147-2148"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "lula-saúde",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho não indica a fonte de recurso para a continuidade do programa de atenção médica. A menção ao programa que 'dobrou de tamanho' não detalha a origem do dinheiro.",
+    "fonte": "Lula_Plano_Original.md:1275-1276"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "lula-saúde",
+    "veredito": "Viável com condições",
+    "justificativa": "A ampliação do Programa Mais Médicos pode ser feita por lei ordinária ou ato infralegal, sem necessidade de emenda constitucional. A Lei 12.871/2013, que instituiu o programa, é exemplo.",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12871.htm"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "lula-saúde",
+    "veredito": "Viável com condições",
+    "justificativa": "A ampliação do programa pode ser feita por ato do Executivo, mas se exigir despesa nova, depende de lei orçamentária anual (LOA), aprovada por maioria simples no Congresso.",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "lula-saúde",
+    "veredito": "Viável",
+    "justificativa": "O Programa Mais Médicos tem evidências de fixação de profissionais em áreas vulneráveis. Pesquisa da Rede APS mostra que o programa contribuiu para a redução de internações por causas sensíveis à atenção primária e aumentou a oferta de médicos em municípios de difícil acesso.",
+    "fonte": "https://rededepesquisaaps.org.br/2019/05/22/programa-mais-medicos-e-fortalecimento-da-atencao-primaria-a-saude-aspectos/"
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "lula-saúde",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho não declara prazo para a ampliação do programa. A expressão 'seguirá o caminho' não estabelece data ou período.",
+    "fonte": "Lula_Plano_Original.md:1275-1276"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "cury-economia",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho não indica a fonte de recurso para a meta de déficit próximo de zero. A responsabilidade fiscal depende do arcabouço vigente, mas o trecho não menciona dotação orçamentária específica.",
+    "fonte": "Cury_Plano_Original1-2.md:883-885"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "cury-economia",
+    "veredito": "Viável",
+    "justificativa": "A meta de déficit próximo de zero não exige mudança constitucional ou legal. É uma orientação de política fiscal que pode ser perseguida com os instrumentos existentes, como o arcabouço fiscal vigente (LC 200/2023).",
+    "fonte": "https://www2.senado.leg.br/bdsf/bitstream/handle/id/642447/NILC_200_2023.pdf?sequence=1&isAllowed=y#5#1"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "cury-economia",
+    "veredito": "Viável",
+    "justificativa": "A busca por uma meta fiscal é competência do Poder Executivo, que pode adotar medidas de contenção de gastos e busca de receitas sem necessidade de votação no Congresso.",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "cury-economia",
+    "veredito": "Viável",
+    "justificativa": "O arcabouço fiscal foi implementado e há dados que mostram redução do déficit primário. A IFI do Senado registrou queda do déficit primário de 2,4% do PIB em 2023 para 0,4% em 2024, embora o déficit estrutural tenha crescido.",
+    "fonte": "https://www12.senado.leg.br/noticias/materias/2025/02/10/ifi-diz-que-arcabouco-fiscal-e-insustentavel-e-sera-colocado-em-xeque-sem-medidas-adicionais-de-ajuste"
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "cury-economia",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho não declara prazo para atingir o déficit próximo de zero. A expressão 'Nossa meta será perseguir' não estabelece data ou período.",
+    "fonte": "Cury_Plano_Original1-2.md:883-885"
+  },
+  {
+    "criterio_id": "C1",
+    "trecho_id": "flavio-saúde",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho não indica a fonte de recurso para a ampliação da Estratégia Saúde da Família e a criação do Programa de Atendimento aos Idosos. A ampliação de serviços implica custos, mas não há menção a orçamento.",
+    "fonte": "Flavio_Plano_Original.md:1517-1518"
+  },
+  {
+    "criterio_id": "C2",
+    "trecho_id": "flavio-saúde",
+    "veredito": "Viável com condições",
+    "justificativa": "A ampliação da Estratégia Saúde da Família e a criação de um programa de atendimento a idosos podem ser feitas por lei ordinária ou ato infralegal, sem necessidade de emenda constitucional. A Lei 8.080/1990 (Lei Orgânica da Saúde) é a base.",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/leis/l8080.htm"
+  },
+  {
+    "criterio_id": "C3",
+    "trecho_id": "flavio-saúde",
+    "veredito": "Viável com condições",
+    "justificativa": "A ampliação da ESF e a criação de novo programa podem ser feitas por ato do Executivo, mas se exigirem despesa nova, dependem de lei orçamentária anual (LOA), aprovada por maioria simples no Congresso.",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+  },
+  {
+    "criterio_id": "C4",
+    "trecho_id": "flavio-saúde",
+    "veredito": "Parcial",
+    "justificativa": "A página do IdeiaSUS/Fiocruz relata que a Estratégia Saúde da Família protegeu idosos da mortalidade precoce, mas é divulgação institucional sem estudo controlado lido: evidência de parte do objetivo, sem desenho que isole o efeito na atenção ao idoso.",
+    "fonte": "https://ideiasus.fiocruz.br/postagem/como-a-saude-da-familia-prolonga-a-vida-de-idosos/"
+  },
+  {
+    "criterio_id": "C5",
+    "trecho_id": "flavio-saúde",
+    "veredito": "Sem base para avaliar",
+    "justificativa": "O trecho não declara prazo para a ampliação da ESF ou a criação do Programa de Atendimento aos Idosos. A expressão 'Vamos ampliar' não estabelece data ou período.",
+    "fonte": "Flavio_Plano_Original.md:1517-1518"
+  }
+]
