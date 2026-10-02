@@ -22,23 +22,25 @@ async function abrirCompartilhar(page: Page) {
 test.describe('Compartilhar o resultado', () => {
   test('com suporte do navegador, Compartilhar entrega a imagem PNG e o texto à folha de compartilhamento', async ({ page }) => {
     await page.addInitScript(() => {
-      const w = window as unknown as { __envio?: { nome: string; tipo: string; tamanho: number; texto: string } };
+      const w = window as unknown as { __envio?: { nome: string; tipo: string; tamanho: number; texto: string; largura: number } };
       Object.defineProperty(navigator, 'canShare', { value: () => true, configurable: true });
       Object.defineProperty(navigator, 'share', {
         configurable: true,
         value: async (dados: { files: File[]; text: string }) => {
           const f = dados.files[0]!;
-          w.__envio = { nome: f.name, tipo: f.type, tamanho: f.size, texto: dados.text };
+          const bmp = await createImageBitmap(f);
+          w.__envio = { nome: f.name, tipo: f.type, tamanho: f.size, texto: dados.text, largura: bmp.width };
         },
       });
     });
     await abrirCompartilhar(page);
     await page.getByRole('button', { name: 'Compartilhar', exact: true }).click();
     await expect(page.locator('.comp-status')).toContainText('compartilhado');
-    const envio = await page.evaluate(() => (window as unknown as { __envio: { nome: string; tipo: string; tamanho: number; texto: string } }).__envio);
+    const envio = await page.evaluate(() => (window as unknown as { __envio: { nome: string; tipo: string; tamanho: number; texto: string; largura: number } }).__envio);
     expect(envio.nome).toBe('meu-resultado.png');
     expect(envio.tipo).toBe('image/png');
     expect(envio.tamanho).toBeGreaterThan(5000);
+    expect(envio.largura).toBe(1080);
     expect(envio.texto).toContain('https://slyvsolutions.github.io/quiz/');
     expect(envio.texto).not.toMatch(/Miss[aã]o/);
   });

@@ -1,4 +1,4 @@
-/* Compartilhar: a área .comp-print-area vira imagem (html2canvas). Sem color-mix nem filtros dentro dela. */
+/* Compartilhar: a área .comp-print-area é a prévia; o PNG é desenhado em canvas (share/imagem.ts) lendo textos e cores desta área. */
 .screen-compartilhar {
   flex: 1;
   display: flex;
