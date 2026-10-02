@@ -1,0 +1,78 @@
+{
+  "v": 3,
+  "assetGroups": {
+    "Logos": {
+      "files": {
+        "missao-logo-vertical-fundo-preto.svg": {
+          "name": "missao-logo-vertical-fundo-preto.svg",
+          "blob": "41a32a1b939db98f80fe73459b408cf0",
+          "size": 27469,
+          "type": "image/svg+xml"
+        },
+        "missao-logo-vertical-texto-preto.svg": {
+          "name": "missao-logo-vertical-texto-preto.svg",
+          "blob": "44c4bb2b08e7ea90c97a7cd2af67551b",
+          "size": 22242,
+          "type": "image/svg+xml"
+        },
+        "missao-bandeira.svg": {
+          "name": "missao-bandeira.svg",
+          "blob": "4cd2b7c925da44c199077490f6f47372",
+          "size": 12734,
+          "type": "image/svg+xml"
+        },
+        "missao-logo-vertical-texto-preto.png": {
+          "name": "missao-logo-vertical-texto-preto.png",
+          "blob": "59870d31e22539d90ba7980c42ebcc8b",
+          "size": 82121,
+          "type": "image/png"
+        },
+        "missao-logo-vertical-fundo-preto.png": {
+          "name": "missao-logo-vertical-fundo-preto.png",
+          "blob": "c60f33c928eca51a0d9cb8edefc41c66",
+          "size": 425733,
+          "type": "image/png"
+        },
+        "missao-bandeira.png": {
+          "name": "missao-bandeira.png",
+          "blob": "a80cb988ff1659214c3ea3e360140811",
+          "size": 44331,
+          "type": "image/png"
+        }
+      },
+      "name": "Logos",
+      "order": [
+        "missao-logo-vertical-fundo-preto.svg",
+        "missao-logo-vertical-texto-preto.svg",
+        "missao-bandeira.svg",
+        "missao-logo-vertical-fundo-preto.png",
+        "missao-logo-vertical-texto-preto.png",
+        "missao-bandeira.png"
+      ],
+      "tile": "l"
+    }
+  },
+  "blobs": {},
+  "createdOnFiles": {
+    "at": "2026-09-28T13:34:41Z",
+    "v": 1
+  },
+  "docs": {
+    "readme": "project/README.md",
+    "sections": []
+  },
+  "groups": [
+    "Logos"
+  ],
+  "lastChange": {
+    "at": "2026-09-28T15:30:00Z",
+    "by": "dev",
+    "via": "Claude (Cowork)",
+    "note": "Valores oficiais do site da campanha (sdm-bus #250): ouro e ouro-escuro, tinta, papel, títulos 900 caixa alta, serifa glorioso, raios 4/8/12/16/pill, espaços e sombras; Site e movimento une as duas referências."
+  },
+  "layout": "files",
+  "libraries": [],
+  "namespace": "Missao",
+  "sections": {},
+  "title": "Missão"
+}

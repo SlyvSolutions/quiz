@@ -1,0 +1,361 @@
+{
+  "nota": "Tokens de aplicação do Missão Quiz. Não fazem parte do artifact Missão (tokens.json); estendem o sistema com escala fluida, bordas, tamanhos e movimento para que nenhum valor literal apareça fora de tokens.css (BP-010). Lido por site/scripts/gerar-tokens.ts.",
+  "tokens": [
+    {
+      "name": "font-citacao",
+      "value": "Georgia, \"Times New Roman\", serif"
+    },
+    {
+      "name": "fs-display",
+      "value": "clamp(40px, 11vw, 96px)"
+    },
+    {
+      "name": "fs-h1",
+      "value": "clamp(34px, 8vw, 68px)"
+    },
+    {
+      "name": "fs-h2",
+      "value": "clamp(28px, 6vw, 44px)"
+    },
+    {
+      "name": "fs-h3",
+      "value": "22px"
+    },
+    {
+      "name": "fs-body",
+      "value": "18px"
+    },
+    {
+      "name": "fs-small",
+      "value": "14px"
+    },
+    {
+      "name": "fs-eyebrow",
+      "value": "11px"
+    },
+    {
+      "name": "fs-button",
+      "value": "13px"
+    },
+    {
+      "name": "fs-nav",
+      "value": "12px"
+    },
+    {
+      "name": "fs-numero",
+      "value": "clamp(64px, 20vw, 168px)"
+    },
+    {
+      "name": "lh-titulo",
+      "value": "1"
+    },
+    {
+      "name": "lh-corpo",
+      "value": "1.6"
+    },
+    {
+      "name": "lh-apoio",
+      "value": "1.45"
+    },
+    {
+      "name": "ls-titulo",
+      "value": "-0.01em"
+    },
+    {
+      "name": "ls-eyebrow",
+      "value": "0.3em"
+    },
+    {
+      "name": "ls-button",
+      "value": "0.2em"
+    },
+    {
+      "name": "ls-nav",
+      "value": "0.15em"
+    },
+    {
+      "name": "ls-label",
+      "value": "0.18em"
+    },
+    {
+      "name": "fw-titulo",
+      "value": "900"
+    },
+    {
+      "name": "fw-corpo",
+      "value": "400"
+    },
+    {
+      "name": "fw-medio",
+      "value": "600"
+    },
+    {
+      "name": "space-1",
+      "value": "4px"
+    },
+    {
+      "name": "space-4",
+      "value": "16px"
+    },
+    {
+      "name": "space-6",
+      "value": "24px"
+    },
+    {
+      "name": "space-8",
+      "value": "32px"
+    },
+    {
+      "name": "space-12",
+      "value": "48px"
+    },
+    {
+      "name": "space-16",
+      "value": "64px"
+    },
+    {
+      "name": "space-secao",
+      "value": "clamp(56px, 12vw, 96px)"
+    },
+    {
+      "name": "gutter",
+      "value": "clamp(20px, 5vw, 40px)"
+    },
+    {
+      "name": "borda-fina",
+      "value": "1px"
+    },
+    {
+      "name": "borda-forte",
+      "value": "2px"
+    },
+    {
+      "name": "foco-offset",
+      "value": "3px"
+    },
+    {
+      "name": "alvo-toque",
+      "value": "44px"
+    },
+    {
+      "name": "cta-altura",
+      "value": "56px"
+    },
+    {
+      "name": "cta-altura-grande",
+      "value": "88px"
+    },
+    {
+      "name": "icone",
+      "value": "24px"
+    },
+    {
+      "name": "logo-cabecalho",
+      "value": "44px"
+    },
+    {
+      "name": "logo-hero",
+      "value": "clamp(132px, 34vw, 208px)"
+    },
+    {
+      "name": "avatar",
+      "value": "48px"
+    },
+    {
+      "name": "barra-altura",
+      "value": "6px"
+    },
+    {
+      "name": "coluna-min",
+      "value": "280px"
+    },
+    {
+      "name": "coluna-larga-min",
+      "value": "360px"
+    },
+    {
+      "name": "leitura-max",
+      "value": "680px"
+    },
+    {
+      "name": "painel-largura",
+      "value": "480px"
+    },
+    {
+      "name": "passo-corpo-min-altura",
+      "value": "178px"
+    },
+    {
+      "name": "cabecalho-altura",
+      "value": "64px"
+    },
+    {
+      "name": "sheet-altura",
+      "value": "96dvh"
+    },
+    {
+      "name": "overlay",
+      "value": "rgba(0, 0, 0, 0.7)"
+    },
+    {
+      "name": "blur-overlay",
+      "value": "8px"
+    },
+    {
+      "name": "brilho-amarelo",
+      "value": "radial-gradient(closest-side, rgba(252, 190, 38, 0.45), rgba(252, 190, 38, 0))"
+    },
+    {
+      "name": "brilho-palavra",
+      "value": "linear-gradient(90deg, {amarelo}, {amarelo-claro}, {amarelo})"
+    },
+    {
+      "name": "z-cabecalho",
+      "value": "20"
+    },
+    {
+      "name": "z-painel",
+      "value": "40"
+    },
+    {
+      "name": "z-modal",
+      "value": "50"
+    },
+    {
+      "name": "z-iris",
+      "value": "60"
+    },
+    {
+      "name": "dur-toque",
+      "value": "150ms"
+    },
+    {
+      "name": "dur-saida",
+      "value": "300ms"
+    },
+    {
+      "name": "dur-acao",
+      "value": "700ms"
+    },
+    {
+      "name": "dur-emocao",
+      "value": "900ms"
+    },
+    {
+      "name": "dur-iris",
+      "value": "1300ms"
+    },
+    {
+      "name": "dur-flutua",
+      "value": "6s"
+    },
+    {
+      "name": "dur-pulso",
+      "value": "2400ms"
+    },
+    {
+      "name": "dur-brilho",
+      "value": "4500ms"
+    },
+    {
+      "name": "dur-faixa",
+      "value": "28s"
+    },
+    {
+      "name": "stagger",
+      "value": "120ms"
+    },
+    {
+      "name": "ease-toque",
+      "value": "cubic-bezier(0.4, 0, 0.2, 1)"
+    },
+    {
+      "name": "ease-entrada",
+      "value": "cubic-bezier(0.22, 1, 0.36, 1)"
+    },
+    {
+      "name": "ease-iris",
+      "value": "cubic-bezier(0.65, 0, 0.35, 1)"
+    },
+    {
+      "name": "desloc-acao",
+      "value": "14px"
+    },
+    {
+      "name": "desloc-emocao",
+      "value": "24px"
+    },
+    {
+      "name": "desloc-flutua",
+      "value": "8px"
+    },
+    {
+      "name": "blur-emocao",
+      "value": "10px"
+    },
+    {
+      "name": "escala-toque",
+      "value": "1.03"
+    },
+    {
+      "name": "sobe-card",
+      "value": "-2px"
+    },
+    {
+      "name": "tela-altura",
+      "value": "100dvh"
+    },
+    {
+      "name": "frase-altura",
+      "value": "180vh"
+    },
+    {
+      "name": "pin",
+      "value": "sticky"
+    },
+    {
+      "name": "anel-escala-fim",
+      "value": "1.35"
+    },
+    {
+      "name": "anel-escala-inicio",
+      "value": "0.9"
+    },
+    {
+      "name": "opacidade-apoio",
+      "value": "0.7"
+    },
+    {
+      "name": "opacidade-fantasma",
+      "value": "0.4"
+    },
+    {
+      "name": "perspectiva-flip",
+      "value": "1200px"
+    },
+    {
+      "name": "giro-flip",
+      "value": "180deg"
+    },
+    {
+      "name": "fs-assinatura",
+      "value": "clamp(44px, 14vw, 96px)"
+    },
+    {
+      "name": "frase-entrada",
+      "value": "0.25"
+    },
+    {
+      "name": "passagem-altura",
+      "value": "260px"
+    },
+    {
+      "name": "safe-top",
+      "value": "env(safe-area-inset-top, 0px)"
+    },
+    {
+      "name": "safe-bottom",
+      "value": "env(safe-area-inset-bottom, 0px)"
+    }
+  ]
+}
