@@ -1,0 +1,287 @@
+/* Teste cego: tela de ação. Quase parada, clara, foco em ordenar. */
+.screen-teste-cego {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.tc-lists-container {
+  padding-block: var(--mq-space-4) var(--mq-space-12);
+  align-items: start;
+}
+
+.tc-list {
+  display: flex;
+  flex-direction: column;
+  gap: var(--mq-space-5);
+  padding: var(--mq-space-6);
+  background-color: var(--mq-surface-raised);
+  border-radius: var(--mq-radius-xl);
+}
+
+.tc-list-topo {
+  display: flex;
+  flex-direction: column;
+  gap: var(--mq-space-1);
+}
+
+.tc-list-topo p {
+  font-size: var(--mq-fs-small);
+  color: var(--mq-ink-muted);
+}
+
+.ranked-list {
+  counter-reset: rank;
+  border: var(--mq-borda-forte) solid var(--mq-ink);
+  background-color: var(--mq-surface);
+  box-shadow: var(--mq-shadow-offset);
+}
+
+.tc-vazio {
+  padding: var(--mq-space-8) var(--mq-space-4);
+  text-align: center;
+  font-size: var(--mq-fs-small);
+  color: var(--mq-ink-muted);
+  border: var(--mq-borda-forte) dashed var(--mq-line);
+  border-radius: var(--mq-radius-lg);
+}
+
+.tc-card {
+  position: relative;
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: var(--mq-space-3) var(--mq-space-4);
+  align-items: start;
+  padding: var(--mq-space-5);
+  background-color: var(--mq-surface);
+  border: var(--mq-borda-fina) solid var(--mq-line);
+  border-radius: var(--mq-radius-lg);
+}
+
+.ranked-list .tc-card {
+  counter-increment: rank;
+  background-color: var(--mq-surface-raised);
+}
+
+.ranked-list .tc-card::before {
+  content: counter(rank);
+  position: absolute;
+  top: calc(var(--mq-space-3) * -1);
+  left: calc(var(--mq-space-3) * -1);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: var(--mq-icone);
+  height: var(--mq-icone);
+  border-radius: var(--mq-radius-pill);
+  background-color: var(--mq-amarelo);
+  color: var(--mq-on-amarelo);
+  border: var(--mq-borda-forte) solid var(--mq-ink);
+  font-size: var(--mq-fs-small);
+  font-weight: var(--mq-fw-titulo);
+  line-height: 1;
+}
+
+/* O conteúdo participa da grade do card: o nome fica ao lado do avatar e as abas e o texto usam a largura toda */
+.tc-card-content {
+  display: contents;
+}
+
+.tc-card-content strong {
+  align-self: center;
+}
+
+.tc-eixos,
+.tc-passagem {
+  grid-column: 1 / -1;
+  min-width: 0;
+}
+
+.tc-card-content strong {
+  font-size: var(--mq-fs-nav);
+  font-weight: var(--mq-fw-titulo);
+  letter-spacing: var(--mq-ls-label);
+  text-transform: uppercase;
+}
+
+.tc-eixos {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--mq-space-1);
+}
+
+.tc-eixo {
+  min-height: var(--mq-alvo-toque);
+  padding: 0 var(--mq-space-3);
+  background-color: transparent;
+  color: var(--mq-ink-muted);
+  border: var(--mq-borda-fina) solid var(--mq-line);
+  border-radius: var(--mq-radius-pill);
+  font-size: var(--mq-fs-eyebrow);
+  font-weight: var(--mq-fw-medio);
+  letter-spacing: var(--mq-ls-label);
+  text-transform: uppercase;
+  cursor: pointer;
+  transition:
+    background-color var(--mq-dur-toque) var(--mq-ease-toque),
+    color var(--mq-dur-toque) var(--mq-ease-toque);
+}
+
+.tc-eixo[aria-selected="true"] {
+  background-color: var(--mq-tinta);
+  color: var(--mq-amarelo);
+  border-color: var(--mq-tinta);
+}
+
+/* O parágrafo do plano, com a frase do teste em destaque */
+.tc-passagem {
+  display: flex;
+  flex-direction: column;
+  gap: var(--mq-space-3);
+  max-height: var(--mq-passagem-altura);
+  overflow-y: auto;
+  padding-right: var(--mq-space-2);
+}
+
+.tc-passagem .citacao {
+  font-style: normal;
+  font-size: var(--mq-fs-small);
+  line-height: var(--mq-lh-corpo);
+}
+
+.tc-passagem:focus-visible {
+  outline-offset: var(--mq-foco-offset);
+}
+
+.tc-card-actions {
+  grid-column: 1 / -1;
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--mq-space-2);
+  justify-content: flex-end;
+}
+
+.btn-resumo {
+  margin-right: auto;
+}
+
+.tc-footer {
+  position: sticky;
+  bottom: 0;
+  z-index: var(--mq-z-cabecalho);
+  margin-top: auto;
+  padding-block: var(--mq-space-4);
+  background-color: var(--mq-surface);
+  border-top: var(--mq-borda-fina) solid var(--mq-line);
+}
+
+.tc-footer-interno {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--mq-space-4);
+}
+
+.tc-contagem {
+  font-size: var(--mq-fs-eyebrow);
+  letter-spacing: var(--mq-ls-eyebrow);
+  text-transform: uppercase;
+  font-weight: var(--mq-fw-medio);
+  color: var(--mq-ink-muted);
+}
+
+/* ========================================================
+   Adaptações App-Like Mobile (Portrait)
+   ======================================================== */
+@media (orientation: portrait) {
+  .tc-list {
+    padding: 0;
+    background-color: transparent;
+  }
+
+  .ranked-list {
+    border: none;
+    box-shadow: none;
+    padding-top: var(--mq-space-6);
+    border-top: var(--mq-borda-forte) dashed var(--mq-line);
+  }
+
+  .tc-card {
+    padding: var(--mq-space-4);
+    gap: var(--mq-space-4);
+  }
+
+  /* No mobile, os botões ocupam a largura total para facilitar o toque (Thumb Zone) */
+  .tc-card-actions {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .btn-resumo {
+    margin-right: 0;
+    justify-content: center;
+  }
+  
+  .tc-card-actions .btn-cartao {
+    width: 100%;
+    justify-content: center;
+  }
+
+  /* Rodapé compacto numa linha (contador à esquerda, PRONTO à direita), sempre visível embaixo da tela. */
+  .tc-footer {
+    padding-block: var(--mq-space-3);
+    padding-bottom: calc(var(--mq-space-3) + var(--mq-safe-bottom));
+  }
+
+  .tc-footer-interno {
+    flex-wrap: nowrap;
+    gap: var(--mq-space-3);
+  }
+
+  .tc-footer-interno .btn-pill {
+    width: auto;
+    flex: none;
+  }
+
+  .tc-footer-interno .tc-contagem {
+    text-align: left;
+  }
+
+  /* A rolagem fica toda no #app (layout.css), para o rodapé sticky grudar na base da tela. */
+  .tela.screen-teste-cego {
+    overflow: visible;
+  }
+
+  .tela.screen-teste-cego > .conteudo {
+    overflow: visible;
+    flex: none;
+    padding-bottom: var(--mq-space-4);
+  }
+}
+
+/* Passo a passo do Teste Cego */
+.tc-passos {
+  margin: var(--mq-space-4) 0 0;
+  padding: var(--mq-space-4) var(--mq-space-4) var(--mq-space-4) var(--mq-space-10);
+  list-style: decimal;
+  background-color: var(--mq-surface-raised);
+  border: var(--mq-borda-fina) solid var(--mq-line);
+  border-radius: var(--mq-radius-lg);
+  font-size: var(--mq-fs-small);
+  line-height: var(--mq-lh-apoio);
+}
+
+.tc-passos li {
+  display: list-item;
+  list-style: decimal;
+  padding-left: var(--mq-space-1);
+}
+
+.tc-passos li + li {
+  margin-top: var(--mq-space-2);
+}
+
+.tc-passos li::marker {
+  font-weight: var(--mq-fw-titulo);
+}
