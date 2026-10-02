@@ -1,0 +1,321 @@
+{
+  "gerado_em": "2026-10-02T03:38:39.858Z",
+  "arquivos": [
+    {
+      "arquivo": "data/avaliacoes.json",
+      "sha256": "a8f81981d684b2975ea4edac647920fe1236d4e8b24051536d79bb7b307ed63e"
+    },
+    {
+      "arquivo": "data/avaliacoes_demo.json",
+      "sha256": "8ac1b3c575a58b5e20579ef1b4506f9806eb5d827bf2e28204306795e8fc268d"
+    },
+    {
+      "arquivo": "data/avaliacoes_quiz.json",
+      "sha256": "5d7f0b34b8ea0807a1bae533d0deb1411be1dfc09c4ebfa0dc87298a2fd7facf"
+    },
+    {
+      "arquivo": "data/candidatos.json",
+      "sha256": "5624346caadf3aac2db47ac57fe63896780e55eb620bb1856b7c5e56abf6c1d2"
+    },
+    {
+      "arquivo": "data/candidatos_pr.json",
+      "sha256": "ed079ee69cb4f1eff9ca6d7eef0f5781ec04c74297d13b369b8880ee5e0c1eb2"
+    },
+    {
+      "arquivo": "data/criterios.json",
+      "sha256": "7d5158d12948a96515565cea188076b69fe4f879fe10c075a45aba7a54b201b2"
+    },
+    {
+      "arquivo": "data/planos_cegos.json",
+      "sha256": "38eacb12e4fa61f371170a7d9484ce37cfead6c6213db3a47badefe745354c3f"
+    },
+    {
+      "arquivo": "data/planos_cegos_quiz.json",
+      "sha256": "0be9c9c24e15f95c7c445fe39e77eceb454e196e99cae3b7eea5b47e193f14e0"
+    },
+    {
+      "arquivo": "data/subtemas.json",
+      "sha256": "16eb19393755ba80461b41c4d0cb110975276ae205194db1add036852a8394d5"
+    },
+    {
+      "arquivo": "data/trechos.json",
+      "sha256": "625cc65accb76c7b55170bb155a663cff42f02ad1202d287d931640142fda444"
+    },
+    {
+      "arquivo": "data/trechos_demo.json",
+      "sha256": "aa20a2a776d7eb723e227e77093c9b186392b02217aba9c7d90700c76a0b87fb"
+    },
+    {
+      "arquivo": "data/trechos_quiz.json",
+      "sha256": "7fd343c7322897b3df6d6c175bb40e1d159b43ea1de27522bff0fac6f78c3394"
+    },
+    {
+      "arquivo": "fotos/manifest.json",
+      "sha256": "ad744eb8ef51d3f5229a49c3b230f684ab676761213cceafd040c7df37af76cd"
+    },
+    {
+      "arquivo": "fotos/pr-est-14000.jpg",
+      "sha256": "919cff5933a16711556ebd701c2d3df78ce72d75a47c2093ab2debaa7ea7fdf6"
+    },
+    {
+      "arquivo": "fotos/pr-est-14007.jpg",
+      "sha256": "357eb1cb899ba6137462a892884c530d0f9d4767ae99bac5fdffe8da8dfa52f2"
+    },
+    {
+      "arquivo": "fotos/pr-est-14011.jpg",
+      "sha256": "7cc5a9cbc6e4265928a4635a927417d8cee81f63fb8b3c267c1aa672177c6307"
+    },
+    {
+      "arquivo": "fotos/pr-est-14014.jpg",
+      "sha256": "3fe5590690111fbf2e584c4befa7861291dd8e6225e27c72fa958608c151aaf3"
+    },
+    {
+      "arquivo": "fotos/pr-est-14021.jpg",
+      "sha256": "f338d15dfc92fcd457f2c2647a15903cad0cf9327cbe42f619cdb62e804a4766"
+    },
+    {
+      "arquivo": "fotos/pr-est-14039.jpg",
+      "sha256": "711e82e411bac3b2d810e725e5de108c69a0aaa047301678f5356ccafed309fd"
+    },
+    {
+      "arquivo": "fotos/pr-est-14041.jpg",
+      "sha256": "1087f63353ed9b3778200c7edc7dc91beccf2053e7de256a7fa9565840f17650"
+    },
+    {
+      "arquivo": "fotos/pr-est-14042.jpg",
+      "sha256": "b1be989ac3a4d8f82359583c6591a057e312d93413a4885e7b40ffc718ca5a23"
+    },
+    {
+      "arquivo": "fotos/pr-est-14100.jpg",
+      "sha256": "2d7960d165a4899baf98ea497fafa467edad64e5ac5fe926c7eb328ae4e9efd4"
+    },
+    {
+      "arquivo": "fotos/pr-est-14111.jpg",
+      "sha256": "f059467b9398b6fc5668ae2b690940bde2bc8dd73377f0f7c79b7a4d8bf0abb5"
+    },
+    {
+      "arquivo": "fotos/pr-est-14114.jpg",
+      "sha256": "c28ca24e2ec011ac531e1c5bf4eec76e2ba5a25f10f1261aa3560e155295f282"
+    },
+    {
+      "arquivo": "fotos/pr-est-14123.jpg",
+      "sha256": "62c7c3f550cd53adf758f17fe9fd515260580e70024d29f3d025ea94176b3c11"
+    },
+    {
+      "arquivo": "fotos/pr-est-14131.jpg",
+      "sha256": "96360b08cf6f566a0187a417e824421439a0760a8e053df6e02145b98b526f57"
+    },
+    {
+      "arquivo": "fotos/pr-est-14141.jpg",
+      "sha256": "432fa3422899ade076e36fc91ae6ed20de999f737725df0f6d1100fc9f47a894"
+    },
+    {
+      "arquivo": "fotos/pr-est-14143.jpg",
+      "sha256": "0fc14309f7524afe6e9d6745a7948185c287e9ae5dda289a38177c411c527a1a"
+    },
+    {
+      "arquivo": "fotos/pr-est-14144.jpg",
+      "sha256": "a8a68b8e719419fafd4d57c51ae729a2be241690752a3240be6f388de09a0ff5"
+    },
+    {
+      "arquivo": "fotos/pr-est-14214.jpg",
+      "sha256": "e60d15aa06c1291b837e559b961698169502b1ade3873fe5e0479ec22d271cad"
+    },
+    {
+      "arquivo": "fotos/pr-est-14222.jpg",
+      "sha256": "94d937e248bf3e51af0c8bf7ded62f81e2cc1630c7405ee525c0adb142f02479"
+    },
+    {
+      "arquivo": "fotos/pr-est-14244.jpg",
+      "sha256": "5360bd74e07394aee5ca9893cd113b6b757030714b3f164664eb7c4fcebc5bc3"
+    },
+    {
+      "arquivo": "fotos/pr-est-14321.jpg",
+      "sha256": "1c489e6f8352b106a737006d884dbfb4202cf408b4c2fb28e76fefd01510fa1f"
+    },
+    {
+      "arquivo": "fotos/pr-est-14333.jpg",
+      "sha256": "43be0f6a7d1ee296fe00367731eae17da41410a27d0a230ad66186876e47f6e1"
+    },
+    {
+      "arquivo": "fotos/pr-est-14441.jpg",
+      "sha256": "2253ee3522209353d19def23a8c537609839423b988258aa20e129822d70875c"
+    },
+    {
+      "arquivo": "fotos/pr-est-14446.jpg",
+      "sha256": "2758a2aa96f6bc8ce74234b1e3cf3c23a0dc9a4ad38f2b8ee86410545ac98761"
+    },
+    {
+      "arquivo": "fotos/pr-est-14500.jpg",
+      "sha256": "df7031c73a723fd2ac28c0ad8314339096bc2df0b06c1f5e5cf5c23f72e2b13e"
+    },
+    {
+      "arquivo": "fotos/pr-est-14555.jpg",
+      "sha256": "a41dfe97711f7474bc7d2ea9ddedee56399db307121ee86aac877bd7a68937ca"
+    },
+    {
+      "arquivo": "fotos/pr-est-14700.jpg",
+      "sha256": "cbe80cb4357536d3686e0ab55ef0687b73767ec373f857e854115542a2397f2d"
+    },
+    {
+      "arquivo": "fotos/pr-est-14714.jpg",
+      "sha256": "cd5e1dcb7a0d4e2adf6982ac71de2124e9fc3a205ac2d3004e567c3e7c537189"
+    },
+    {
+      "arquivo": "fotos/pr-est-14777.jpg",
+      "sha256": "bcb7a6ac3dae3965f3cd30c48b7e432237f70ec59ab97ae583bf17e3b8ddb80c"
+    },
+    {
+      "arquivo": "fotos/pr-est-14914.jpg",
+      "sha256": "d572305e10e4837bc2a361012502d954a6cedc270b4e796fcaea66868abec156"
+    },
+    {
+      "arquivo": "fotos/pr-est-14999.jpg",
+      "sha256": "bd0c96cbc6972b4ff92a107d9bd40d12911542dec418a6416eb881fa43b9c093"
+    },
+    {
+      "arquivo": "fotos/pr-fed-1400.jpg",
+      "sha256": "4653382eab6824a63147b7ab07ca83150f77226f67f6768648cf75a6fefce090"
+    },
+    {
+      "arquivo": "fotos/pr-fed-1404.jpg",
+      "sha256": "53484c3a741dc14115842a490c1c562271e690ce6a21331f5454735601e855b7"
+    },
+    {
+      "arquivo": "fotos/pr-fed-1406.jpg",
+      "sha256": "7bb7df3da9ec7e73cb3c4fdad85cc8c26e7b236bff753852d6245e9625d058e4"
+    },
+    {
+      "arquivo": "fotos/pr-fed-1407.jpg",
+      "sha256": "9974b182cb6d539888afd762f95516b9bb152c9d2f4594aa96b31e3c6fcab9d8"
+    },
+    {
+      "arquivo": "fotos/pr-fed-1410.jpg",
+      "sha256": "289b755d185808b1f9f5e0988653a283835f0b77e7931e98c0a4ec9c61e626e1"
+    },
+    {
+      "arquivo": "fotos/pr-fed-1411.jpg",
+      "sha256": "9ccec88f608bca583253dc1410b24e9bf869986a32da319825ce8b8b33ba0a32"
+    },
+    {
+      "arquivo": "fotos/pr-fed-1412.jpg",
+      "sha256": "d834bc9795b06270a13faedaf44325d35293d3375ff2811181336dbf25f069bd"
+    },
+    {
+      "arquivo": "fotos/pr-fed-1414.jpg",
+      "sha256": "a1afb522750039035769f7afe897ff0bdb35006c3cf2f2c5c68a8798d98c71aa"
+    },
+    {
+      "arquivo": "fotos/pr-fed-1415.jpg",
+      "sha256": "26b918234c3f0facc408251867b8a4a36492c451711f403281b93e282c429caa"
+    },
+    {
+      "arquivo": "fotos/pr-fed-1416.jpg",
+      "sha256": "393c88cc23da37caca44830f16e9f429bad2386621a9a4239d2ef998fa731321"
+    },
+    {
+      "arquivo": "fotos/pr-fed-1419.jpg",
+      "sha256": "c80a2f4ebeeae59433eccd0d30af3cb6e0bdfce15b308339646812029785802c"
+    },
+    {
+      "arquivo": "fotos/pr-fed-1420.jpg",
+      "sha256": "fff11c7914290b27fae64a8e5667908a138607fb4f20a12c7f88c29e98658015"
+    },
+    {
+      "arquivo": "fotos/pr-fed-1422.jpg",
+      "sha256": "a95612b2208295c01f7c5b1cb73d9b1a5472760c30bf5832dde4b2382e7a7f28"
+    },
+    {
+      "arquivo": "fotos/pr-fed-1426.jpg",
+      "sha256": "cd5980d38de2bccbee12422b60a16107ebe5e9942ac1ca96a25e5f7be43b8b5e"
+    },
+    {
+      "arquivo": "fotos/pr-fed-1430.jpg",
+      "sha256": "b723e910b8036d60e69c587d8b2ca4433f1b0f5826c59a20d1d33e28e19ffdfd"
+    },
+    {
+      "arquivo": "fotos/pr-fed-1438.jpg",
+      "sha256": "8bdea66743e51c6a34c17068304318d7eb0e4e79f30c2211ec68cdeca993642d"
+    },
+    {
+      "arquivo": "fotos/pr-fed-1439.jpg",
+      "sha256": "3620259cf91249b2dcb8dd436ca8306c8f15dd4a19d8c373b1624dfa830f8bee"
+    },
+    {
+      "arquivo": "fotos/pr-fed-1441.jpg",
+      "sha256": "29449ba27c1b9ab32d44087d59841c4e6e8497a7201a02d55ba4ea82f449bc85"
+    },
+    {
+      "arquivo": "fotos/pr-fed-1442.jpg",
+      "sha256": "25e3be0ad77a8e68629a8031dc505b163df5617c4b58f04ed6ed3ee077cf5b8f"
+    },
+    {
+      "arquivo": "fotos/pr-fed-1443.jpg",
+      "sha256": "53c668068346d69de7bb01f54c9efbce6f1a374975dc3cd7315fe6dd241cd9a9"
+    },
+    {
+      "arquivo": "fotos/pr-fed-1444.jpg",
+      "sha256": "cf6d3f0b1054c1cc9fbc63b264af00c77f868674f9eba0c566f1e795b1bc47a1"
+    },
+    {
+      "arquivo": "fotos/pr-fed-1445.jpg",
+      "sha256": "95e75d9f62fab51f1c83fe1ccf57dbbb47d7a85b264d115ac7944fb0a88b7e57"
+    },
+    {
+      "arquivo": "fotos/pr-fed-1446.jpg",
+      "sha256": "08fe83df5013ec5bc51cb089aff2acf18582491fb08e1781bf524d7c587be715"
+    },
+    {
+      "arquivo": "fotos/pr-fed-1450.jpg",
+      "sha256": "fd8dc27771b2795cccd9f2df7fb9cc6e6348185b788418e7e204522718187418"
+    },
+    {
+      "arquivo": "fotos/pr-fed-1456.jpg",
+      "sha256": "4230b8eb0a3d03d961c4e4f18dd4e5e9405e1a92fdd2a9a277c2f2facd0bad57"
+    },
+    {
+      "arquivo": "fotos/pr-fed-1457.jpg",
+      "sha256": "ba2383e404bb93a9f0cd15933c8d72fcbb4049b8f6a05ac9c81a39b87cdc24f5"
+    },
+    {
+      "arquivo": "fotos/pr-fed-1477.jpg",
+      "sha256": "d691bdac02da389b2d12c48d3b092d69c816e03c4fb9ec65c2ab033f4977be0e"
+    },
+    {
+      "arquivo": "fotos/pr-fed-1489.jpg",
+      "sha256": "4031aa69820418f841d320ab646213ee86ac1366179953d92a26a4bd315c77b1"
+    },
+    {
+      "arquivo": "fotos/pr-fed-1497.jpg",
+      "sha256": "5182228d2d469c03c374cda50f9232117fb4aa3162f137d08dae9a1d7118d17d"
+    },
+    {
+      "arquivo": "fotos/pr-fed-1499.jpg",
+      "sha256": "490957f9562109cbd396aa1d4450cdeabfce0899b02d74aa638d53bcad7fd7d0"
+    },
+    {
+      "arquivo": "fotos/pr-gov-14.jpg",
+      "sha256": "1776054ca7f2d8342d5fcd17d4bb59567caefce9d820b1158bc0799ced0c7f07"
+    },
+    {
+      "arquivo": "fotos/pr-gov-vice-joao-adolfo.jpg",
+      "sha256": "a3c701777b47f0044a57fc1adeabdc541f41e4b39d9aa57d26505c23fe08b8be"
+    },
+    {
+      "arquivo": "fotos/pr-pres-14.jpg",
+      "sha256": "1a6f4985a2890cea1d9683e86f49c091eab6ab85bd1bb6e07c4d90076eea6167"
+    },
+    {
+      "arquivo": "fotos/pr-sen-144.jpg",
+      "sha256": "94e73aeb6008ff3e8f5109d1ec7e7c8ba6043bbc0fef5e2cf7cf1c6a745e84e5"
+    },
+    {
+      "arquivo": "fotos/pr-sen-1s-sonni-rezini.jpg",
+      "sha256": "82e9d540796776ca61933bae1d1e80c8f557e27e76dc57934c86ad05be919377"
+    },
+    {
+      "arquivo": "fotos/pr-sen-2s-renato-scarante.jpg",
+      "sha256": "1a1e1a3df8f4dcaafe902772984efd3176b45e7cbb320d3c6d532fdf42281afa"
+    }
+  ]
+}

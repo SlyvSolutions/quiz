@@ -1,0 +1,530 @@
+[
+ {
+  "id": "pr-gov-14",
+  "nomeUrna": "Luiz França",
+  "arquivo": "fotos/pr-gov-14.jpg",
+  "fonteUrl": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/img/20322002026/160002551353/PR",
+  "origem": "TSE",
+  "observacao": "TSE sq_candidato 160002551353; nome TSE 'Luiz Felipe Martins Franca'; urna 'Luiz França'; nº 14; Governador/PR; situação TSE: Deferido. Foto original do TSE (baixa resolução, não ampliada)."
+ },
+ {
+  "id": "pr-gov-vice-joao-adolfo",
+  "nomeUrna": "João Adolfo",
+  "arquivo": "fotos/pr-gov-vice-joao-adolfo.jpg",
+  "fonteUrl": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/img/20322002026/160002551354/PR",
+  "origem": "TSE",
+  "observacao": "TSE sq_candidato 160002551354; nome TSE 'João Adolfo Padilha Yamane Wendpap'; urna 'João Adolfo'; nº 14; Vice-Governador/PR; situação TSE: Deferido. Foto original do TSE (baixa resolução, não ampliada)."
+ },
+ {
+  "id": "pr-sen-144",
+  "nomeUrna": "Karen Guerreiro",
+  "arquivo": "fotos/pr-sen-144.jpg",
+  "fonteUrl": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/img/20322002026/160002551121/PR",
+  "origem": "TSE",
+  "observacao": "TSE sq_candidato 160002551121; nome TSE 'Karen Correia Guerreiro'; urna 'Karen Guerreiro'; nº 144; Senador/PR; situação TSE: Aguardando julgamento. Foto original do TSE (baixa resolução, não ampliada)."
+ },
+ {
+  "id": "pr-sen-1s-sonni-rezini",
+  "nomeUrna": "Sonni Rezini",
+  "arquivo": "fotos/pr-sen-1s-sonni-rezini.jpg",
+  "fonteUrl": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/img/20322002026/160002551119/PR",
+  "origem": "TSE",
+  "observacao": "TSE sq_candidato 160002551119; nome TSE 'Sonni Jair Ricardo Colombo Rezini'; urna 'Sonni Rezini'; nº 144; 1º Suplente de Senador/PR; situação TSE: Deferido. Foto original do TSE (baixa resolução, não ampliada)."
+ },
+ {
+  "id": "pr-sen-2s-renato-scarante",
+  "nomeUrna": "Renato Scarante",
+  "arquivo": "fotos/pr-sen-2s-renato-scarante.jpg",
+  "fonteUrl": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/img/20322002026/160002551120/PR",
+  "origem": "TSE",
+  "observacao": "TSE sq_candidato 160002551120; nome TSE 'Renato Scarante'; urna 'Renato Scarante'; nº 144; 2º Suplente de Senador/PR; situação TSE: Aguardando julgamento. Foto original do TSE (baixa resolução, não ampliada)."
+ },
+ {
+  "id": "pr-fed-1499",
+  "nomeUrna": "Glauberson Rocha",
+  "arquivo": "fotos/pr-fed-1499.jpg",
+  "fonteUrl": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/img/20322002026/160002551017/PR",
+  "origem": "TSE",
+  "observacao": "TSE sq_candidato 160002551017; nome TSE 'Glauberson Rocha'; urna 'Glauberson Rocha'; nº 1499; Deputado Federal/PR; situação TSE: Deferido. Foto original do TSE (baixa resolução, não ampliada)."
+ },
+ {
+  "id": "pr-fed-1400",
+  "nomeUrna": "Gabriel Bertolucci",
+  "arquivo": "fotos/pr-fed-1400.jpg",
+  "fonteUrl": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/img/20322002026/160002551036/PR",
+  "origem": "TSE",
+  "observacao": "TSE sq_candidato 160002551036; nome TSE 'Gabriel Juliano Bertolucci Rodrigues'; urna 'Gabriel Bertolucci'; nº 1400; Deputado Federal/PR; situação TSE: Deferido. Foto original do TSE (baixa resolução, não ampliada)."
+ },
+ {
+  "id": "pr-fed-1404",
+  "nomeUrna": "Alan Leal",
+  "arquivo": "fotos/pr-fed-1404.jpg",
+  "fonteUrl": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/img/20322002026/160002551028/PR",
+  "origem": "TSE",
+  "observacao": "TSE sq_candidato 160002551028; nome TSE 'Alan de Souza Leal'; urna 'Alan Leal'; nº 1404; Deputado Federal/PR; situação TSE: Deferido. Foto original do TSE (baixa resolução, não ampliada)."
+ },
+ {
+  "id": "pr-fed-1439",
+  "nomeUrna": "Ana Lúcia",
+  "arquivo": "fotos/pr-fed-1439.jpg",
+  "fonteUrl": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/img/20322002026/160002551030/PR",
+  "origem": "TSE",
+  "observacao": "TSE sq_candidato 160002551030; nome TSE 'Ana Lucia dos Santos Xavier'; urna 'Ana Lúcia'; nº 1439; Deputado Federal/PR; situação TSE: Deferido. Foto original do TSE (baixa resolução, não ampliada)."
+ },
+ {
+  "id": "pr-fed-1414",
+  "nomeUrna": "Pedro Deyrot",
+  "arquivo": "fotos/pr-fed-1414.jpg",
+  "fonteUrl": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/img/20322002026/160002551040/PR",
+  "origem": "TSE",
+  "observacao": "TSE sq_candidato 160002551040; nome TSE 'Pedro Augusto Ferreira Deiro'; urna 'Pedro Deyrot'; nº 1414; Deputado Federal/PR; situação TSE: Deferido. Foto original do TSE (baixa resolução, não ampliada). Casado por nome de urna+número+cargo; nome completo no TSE difere do JSON."
+ },
+ {
+  "id": "pr-fed-1477",
+  "nomeUrna": "Jornalista Isaak Almeida",
+  "arquivo": "fotos/pr-fed-1477.jpg",
+  "fonteUrl": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/img/20322002026/160002551034/PR",
+  "origem": "TSE",
+  "observacao": "TSE sq_candidato 160002551034; nome TSE 'Isaak Joel Pereira Almeida'; urna 'Jornalista Isaak Almeida'; nº 1477; Deputado Federal/PR; situação TSE: Deferido. Foto original do TSE (baixa resolução, não ampliada)."
+ },
+ {
+  "id": "pr-fed-1456",
+  "nomeUrna": "Gerusa Correa",
+  "arquivo": "fotos/pr-fed-1456.jpg",
+  "fonteUrl": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/img/20322002026/160002551032/PR",
+  "origem": "TSE",
+  "observacao": "TSE sq_candidato 160002551032; nome TSE 'Gerusa Francielli Correa da Silva'; urna 'Gerusa Correa'; nº 1456; Deputado Federal/PR; situação TSE: Deferido. Foto original do TSE (baixa resolução, não ampliada)."
+ },
+ {
+  "id": "pr-fed-1411",
+  "nomeUrna": "Carlos Gasparin",
+  "arquivo": "fotos/pr-fed-1411.jpg",
+  "fonteUrl": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/img/20322002026/160002551021/PR",
+  "origem": "TSE",
+  "observacao": "TSE sq_candidato 160002551021; nome TSE 'Carlos Eduardo de Oliveira Gasparin'; urna 'Carlos Gasparin'; nº 1411; Deputado Federal/PR; situação TSE: Deferido. Foto original do TSE (baixa resolução, não ampliada)."
+ },
+ {
+  "id": "pr-fed-1441",
+  "nomeUrna": "Prof. Yan Gaudard",
+  "arquivo": "fotos/pr-fed-1441.jpg",
+  "fonteUrl": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/img/20322002026/160002551039/PR",
+  "origem": "TSE",
+  "observacao": "TSE sq_candidato 160002551039; nome TSE 'Yan Pereira Gaudard'; urna 'Prof. Yan Gaudard'; nº 1441; Deputado Federal/PR; situação TSE: Deferido. Foto original do TSE (baixa resolução, não ampliada)."
+ },
+ {
+  "id": "pr-fed-1426",
+  "nomeUrna": "Prof. This",
+  "arquivo": "fotos/pr-fed-1426.jpg",
+  "fonteUrl": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/img/20322002026/160002551015/PR",
+  "origem": "TSE",
+  "observacao": "TSE sq_candidato 160002551015; nome TSE 'Jéssica This Machado'; urna 'Prof. This'; nº 1426; Deputado Federal/PR; situação TSE: Deferido. Foto original do TSE (baixa resolução, não ampliada)."
+ },
+ {
+  "id": "pr-fed-1406",
+  "nomeUrna": "Mari Guedes PCD",
+  "arquivo": "fotos/pr-fed-1406.jpg",
+  "fonteUrl": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/img/20322002026/160002551013/PR",
+  "origem": "TSE",
+  "observacao": "TSE sq_candidato 160002551013; nome TSE 'Marianny Thayla Carvalho Guedes'; urna 'Mari Guedes Pcd'; nº 1406; Deputado Federal/PR; situação TSE: Deferido. Foto original do TSE (baixa resolução, não ampliada)."
+ },
+ {
+  "id": "pr-fed-1415",
+  "nomeUrna": "Delegado Eduardo Kruger",
+  "arquivo": "fotos/pr-fed-1415.jpg",
+  "fonteUrl": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/img/20322002026/160002551029/PR",
+  "origem": "TSE",
+  "observacao": "TSE sq_candidato 160002551029; nome TSE 'Eduardo Kruger Costa'; urna 'Delegado Eduardo Kruger'; nº 1415; Deputado Federal/PR; situação TSE: Deferido. Foto original do TSE (baixa resolução, não ampliada)."
+ },
+ {
+  "id": "pr-fed-1442",
+  "nomeUrna": "Dr. Guilherme Machado",
+  "arquivo": "fotos/pr-fed-1442.jpg",
+  "fonteUrl": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/img/20322002026/160002551027/PR",
+  "origem": "TSE",
+  "observacao": "TSE sq_candidato 160002551027; nome TSE 'Guilherme Augusto de Souza Machado'; urna 'Dr. Guilherme Machado'; nº 1442; Deputado Federal/PR; situação TSE: Deferido. Foto original do TSE (baixa resolução, não ampliada). Casado por nome de urna+número+cargo; nome completo no TSE difere do JSON."
+ },
+ {
+  "id": "pr-fed-1443",
+  "nomeUrna": "Matheus Moreira",
+  "arquivo": "fotos/pr-fed-1443.jpg",
+  "fonteUrl": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/img/20322002026/160002551022/PR",
+  "origem": "TSE",
+  "observacao": "TSE sq_candidato 160002551022; nome TSE 'Matheus Santos Moreira'; urna 'Matheus Moreira'; nº 1443; Deputado Federal/PR; situação TSE: Deferido. Foto original do TSE (baixa resolução, não ampliada)."
+ },
+ {
+  "id": "pr-fed-1444",
+  "nomeUrna": "Darlon Paraná Pop",
+  "arquivo": "fotos/pr-fed-1444.jpg",
+  "fonteUrl": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/img/20322002026/160002551024/PR",
+  "origem": "TSE",
+  "observacao": "TSE sq_candidato 160002551024; nome TSE 'Darlon Alexandre Dutra Martins'; urna 'Darlon Paraná Pop'; nº 1444; Deputado Federal/PR; situação TSE: Deferido. Foto original do TSE (baixa resolução, não ampliada)."
+ },
+ {
+  "id": "pr-fed-1445",
+  "nomeUrna": "Ricardo Cascavel Mais Segura",
+  "arquivo": "fotos/pr-fed-1445.jpg",
+  "fonteUrl": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/img/20322002026/160002551025/PR",
+  "origem": "TSE",
+  "observacao": "TSE sq_candidato 160002551025; nome TSE 'Ricardo Andre Schirmann Pereira'; urna 'Ricardo Cascavel Mais Segura'; nº 1445; Deputado Federal/PR; situação TSE: Deferido. Foto original do TSE (baixa resolução, não ampliada)."
+ },
+ {
+  "id": "pr-fed-1422",
+  "nomeUrna": "Fernando Garbatchevski",
+  "arquivo": "fotos/pr-fed-1422.jpg",
+  "fonteUrl": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/img/20322002026/160002551020/PR",
+  "origem": "TSE",
+  "observacao": "TSE sq_candidato 160002551020; nome TSE 'Fernando Garbatchevski'; urna 'Fernando Garbatchevski'; nº 1422; Deputado Federal/PR; situação TSE: Deferido. Foto original do TSE (baixa resolução, não ampliada)."
+ },
+ {
+  "id": "pr-fed-1410",
+  "nomeUrna": "Matheus Zozoloto",
+  "arquivo": "fotos/pr-fed-1410.jpg",
+  "fonteUrl": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/img/20322002026/160002551023/PR",
+  "origem": "TSE",
+  "observacao": "TSE sq_candidato 160002551023; nome TSE 'José Matheus Damasceno Machado Zozoloto Dariva'; urna 'Matheus Zozoloto'; nº 1410; Deputado Federal/PR; situação TSE: Deferido. Foto original do TSE (baixa resolução, não ampliada)."
+ },
+ {
+  "id": "pr-fed-1446",
+  "nomeUrna": "Maurício Franciscon",
+  "arquivo": "fotos/pr-fed-1446.jpg",
+  "fonteUrl": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/img/20322002026/160002551016/PR",
+  "origem": "TSE",
+  "observacao": "TSE sq_candidato 160002551016; nome TSE 'Maurício Matheus Franciscon'; urna 'Maurício Franciscon'; nº 1446; Deputado Federal/PR; situação TSE: Deferido. Foto original do TSE (baixa resolução, não ampliada)."
+ },
+ {
+  "id": "pr-fed-1419",
+  "nomeUrna": "Anita de Biasi",
+  "arquivo": "fotos/pr-fed-1419.jpg",
+  "fonteUrl": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/img/20322002026/160002551026/PR",
+  "origem": "TSE",
+  "observacao": "TSE sq_candidato 160002551026; nome TSE 'Anita de Biasi'; urna 'Anita de Biasi'; nº 1419; Deputado Federal/PR; situação TSE: Deferido. Foto original do TSE (baixa resolução, não ampliada)."
+ },
+ {
+  "id": "pr-fed-1497",
+  "nomeUrna": "Caroline Barbosa",
+  "arquivo": "fotos/pr-fed-1497.jpg",
+  "fonteUrl": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/img/20322002026/160002551042/PR",
+  "origem": "TSE",
+  "observacao": "TSE sq_candidato 160002551042; nome TSE 'Caroline Santos Barbosa'; urna 'Caroline Barbosa'; nº 1497; Deputado Federal/PR; situação TSE: Deferido. Foto original do TSE (baixa resolução, não ampliada)."
+ },
+ {
+  "id": "pr-fed-1412",
+  "nomeUrna": "Naná Vieira",
+  "arquivo": "fotos/pr-fed-1412.jpg",
+  "fonteUrl": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/img/20322002026/160002551037/PR",
+  "origem": "TSE",
+  "observacao": "TSE sq_candidato 160002551037; nome TSE 'Tayna Rutkowski Vieira Martins'; urna 'Naná Vieira'; nº 1412; Deputado Federal/PR; situação TSE: Deferido. Foto original do TSE (baixa resolução, não ampliada)."
+ },
+ {
+  "id": "pr-fed-1489",
+  "nomeUrna": "Victor Moreira",
+  "arquivo": "fotos/pr-fed-1489.jpg",
+  "fonteUrl": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/img/20322002026/160002551035/PR",
+  "origem": "TSE",
+  "observacao": "TSE sq_candidato 160002551035; nome TSE 'Victor Hugo Moreira'; urna 'Victor Moreira'; nº 1489; Deputado Federal/PR; situação TSE: Deferido. Foto original do TSE (baixa resolução, não ampliada)."
+ },
+ {
+  "id": "pr-fed-1450",
+  "nomeUrna": "André Ribeiro",
+  "arquivo": "fotos/pr-fed-1450.jpg",
+  "fonteUrl": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/img/20322002026/160002551014/PR",
+  "origem": "TSE",
+  "observacao": "TSE sq_candidato 160002551014; nome TSE 'André Luiz Ribeiro da Silva'; urna 'André Ribeiro'; nº 1450; Deputado Federal/PR; situação TSE: Deferido. Foto original do TSE (baixa resolução, não ampliada)."
+ },
+ {
+  "id": "pr-fed-1416",
+  "nomeUrna": "Andrey Luiz",
+  "arquivo": "fotos/pr-fed-1416.jpg",
+  "fonteUrl": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/img/20322002026/160002551038/PR",
+  "origem": "TSE",
+  "observacao": "TSE sq_candidato 160002551038; nome TSE 'Andrey Luiz de Melo Ozorio'; urna 'Andrey Luiz'; nº 1416; Deputado Federal/PR; situação TSE: Deferido. Foto original do TSE (baixa resolução, não ampliada)."
+ },
+ {
+  "id": "pr-fed-1420",
+  "nomeUrna": "Felipe Gâmbaro",
+  "arquivo": "fotos/pr-fed-1420.jpg",
+  "fonteUrl": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/img/20322002026/160002551018/PR",
+  "origem": "TSE",
+  "observacao": "TSE sq_candidato 160002551018; nome TSE 'Felipe Gâmbaro Pereira'; urna 'Felipe Gambaro'; nº 1420; Deputado Federal/PR; situação TSE: Deferido. Foto original do TSE (baixa resolução, não ampliada)."
+ },
+ {
+  "id": "pr-fed-1457",
+  "nomeUrna": "Manu Shtorach",
+  "arquivo": "fotos/pr-fed-1457.jpg",
+  "fonteUrl": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/img/20322002026/160002551031/PR",
+  "origem": "TSE",
+  "observacao": "TSE sq_candidato 160002551031; nome TSE 'Emanuelle Shtorach Bittencourt'; urna 'Manu Shtorach'; nº 1457; Deputado Federal/PR; situação TSE: Deferido. Foto original do TSE (baixa resolução, não ampliada)."
+ },
+ {
+  "id": "pr-fed-1407",
+  "nomeUrna": "Marcello de Paula",
+  "arquivo": "fotos/pr-fed-1407.jpg",
+  "fonteUrl": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/img/20322002026/160002551041/PR",
+  "origem": "TSE",
+  "observacao": "TSE sq_candidato 160002551041; nome TSE 'Marcello Inácio de Paula'; urna 'Marcello de Paula'; nº 1407; Deputado Federal/PR; situação TSE: Deferido. Foto original do TSE (baixa resolução, não ampliada)."
+ },
+ {
+  "id": "pr-fed-1430",
+  "nomeUrna": "Mary Barreto",
+  "arquivo": "fotos/pr-fed-1430.jpg",
+  "fonteUrl": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/img/20322002026/160002551019/PR",
+  "origem": "TSE",
+  "observacao": "TSE sq_candidato 160002551019; nome TSE 'Maria Aparecida Barreto'; urna 'Mary Barreto'; nº 1430; Deputado Federal/PR; situação TSE: Deferido. Foto original do TSE (baixa resolução, não ampliada)."
+ },
+ {
+  "id": "pr-fed-1438",
+  "nomeUrna": "Soldado Guedes",
+  "arquivo": "fotos/pr-fed-1438.jpg",
+  "fonteUrl": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/img/20322002026/160002551033/PR",
+  "origem": "TSE",
+  "observacao": "TSE sq_candidato 160002551033; nome TSE 'Anderson Luiz Guedes'; urna 'Soldado Guedes'; nº 1438; Deputado Federal/PR; situação TSE: Aguardando julgamento. Foto original do TSE (baixa resolução, não ampliada)."
+ },
+ {
+  "id": "pr-est-14222",
+  "nomeUrna": "Ivo Arthur",
+  "arquivo": "fotos/pr-est-14222.jpg",
+  "fonteUrl": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/img/20322002026/160002551175/PR",
+  "origem": "TSE",
+  "observacao": "TSE sq_candidato 160002551175; nome TSE 'Ivo Arthur Gonçalves'; urna 'Ivo Arthur'; nº 14222; Deputado Estadual/PR; situação TSE: Deferido. Foto original do TSE (baixa resolução, não ampliada)."
+ },
+ {
+  "id": "pr-est-14000",
+  "nomeUrna": "Gustavo Camillo",
+  "arquivo": "fotos/pr-est-14000.jpg",
+  "fonteUrl": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/img/20322002026/160002551180/PR",
+  "origem": "TSE",
+  "observacao": "TSE sq_candidato 160002551180; nome TSE 'Gustavo Komiyama Camillo'; urna 'Gustavo Camillo'; nº 14000; Deputado Estadual/PR; situação TSE: Deferido. Foto original do TSE (baixa resolução, não ampliada)."
+ },
+ {
+  "id": "pr-est-14100",
+  "nomeUrna": "Odenilson Vicente",
+  "arquivo": "fotos/pr-est-14100.jpg",
+  "fonteUrl": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/img/20322002026/160002551170/PR",
+  "origem": "TSE",
+  "observacao": "TSE sq_candidato 160002551170; nome TSE 'Odenilson Vicente'; urna 'Odenilson Vicente'; nº 14100; Deputado Estadual/PR; situação TSE: Deferido. Foto original do TSE (baixa resolução, não ampliada)."
+ },
+ {
+  "id": "pr-est-14441",
+  "nomeUrna": "Beatriz Oliveira",
+  "arquivo": "fotos/pr-est-14441.jpg",
+  "fonteUrl": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/img/20322002026/160002551174/PR",
+  "origem": "TSE",
+  "observacao": "TSE sq_candidato 160002551174; nome TSE 'Beatriz de Oliveira Reis'; urna 'Beatriz Oliveira'; nº 14441; Deputado Estadual/PR; situação TSE: Deferido. Foto original do TSE (baixa resolução, não ampliada)."
+ },
+ {
+  "id": "pr-est-14011",
+  "nomeUrna": "Erica Gonçalves",
+  "arquivo": "fotos/pr-est-14011.jpg",
+  "fonteUrl": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/img/20322002026/160002551152/PR",
+  "origem": "TSE",
+  "observacao": "TSE sq_candidato 160002551152; nome TSE 'Erica de Freitas Gonçalves'; urna 'Erica Gonçalves'; nº 14011; Deputado Estadual/PR; situação TSE: Deferido. Foto original do TSE (baixa resolução, não ampliada)."
+ },
+ {
+  "id": "pr-est-14144",
+  "nomeUrna": "João Gabriel",
+  "arquivo": "fotos/pr-est-14144.jpg",
+  "fonteUrl": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/img/20322002026/160002551153/PR",
+  "origem": "TSE",
+  "observacao": "TSE sq_candidato 160002551153; nome TSE 'João Gabriel Candido de Sousa'; urna 'João Gabriel'; nº 14144; Deputado Estadual/PR; situação TSE: Deferido. Foto original do TSE (baixa resolução, não ampliada)."
+ },
+ {
+  "id": "pr-est-14014",
+  "nomeUrna": "Willian Rocha",
+  "arquivo": "fotos/pr-est-14014.jpg",
+  "fonteUrl": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/img/20322002026/160002551172/PR",
+  "origem": "TSE",
+  "observacao": "TSE sq_candidato 160002551172; nome TSE 'Willian Pedroso da Rocha'; urna 'Willian Rocha'; nº 14014; Deputado Estadual/PR; situação TSE: Deferido. Foto original do TSE (baixa resolução, não ampliada)."
+ },
+ {
+  "id": "pr-est-14123",
+  "nomeUrna": "Rubens Nascimento",
+  "arquivo": "fotos/pr-est-14123.jpg",
+  "fonteUrl": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/img/20322002026/160002551173/PR",
+  "origem": "TSE",
+  "observacao": "TSE sq_candidato 160002551173; nome TSE 'Rubens Eduardo Correia do Nascimento'; urna 'Rubens Nascimento'; nº 14123; Deputado Estadual/PR; situação TSE: Deferido. Foto original do TSE (baixa resolução, não ampliada)."
+ },
+ {
+  "id": "pr-est-14999",
+  "nomeUrna": "Paulo Di Melo",
+  "arquivo": "fotos/pr-est-14999.jpg",
+  "fonteUrl": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/img/20322002026/160002551178/PR",
+  "origem": "TSE",
+  "observacao": "TSE sq_candidato 160002551178; nome TSE 'Paulo Henrique de Melo'; urna 'Paulo di Melo'; nº 14999; Deputado Estadual/PR; situação TSE: Aguardando julgamento. Foto original do TSE (baixa resolução, não ampliada)."
+ },
+ {
+  "id": "pr-est-14141",
+  "nomeUrna": "Dyamond Pires",
+  "arquivo": "fotos/pr-est-14141.jpg",
+  "fonteUrl": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/img/20322002026/160002551155/PR",
+  "origem": "TSE",
+  "observacao": "TSE sq_candidato 160002551155; nome TSE 'Dyamond Pires'; urna 'Dyamond Pires'; nº 14141; Deputado Estadual/PR; situação TSE: Deferido. Foto original do TSE (baixa resolução, não ampliada)."
+ },
+ {
+  "id": "pr-est-14777",
+  "nomeUrna": "Bruno Vieira",
+  "arquivo": "fotos/pr-est-14777.jpg",
+  "fonteUrl": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/img/20322002026/160002551179/PR",
+  "origem": "TSE",
+  "observacao": "TSE sq_candidato 160002551179; nome TSE 'Bruno Lopes Vieira'; urna 'Bruno Vieira'; nº 14777; Deputado Estadual/PR; situação TSE: Deferido. Foto original do TSE (baixa resolução, não ampliada)."
+ },
+ {
+  "id": "pr-est-14914",
+  "nomeUrna": "Raphael Lacerda",
+  "arquivo": "fotos/pr-est-14914.jpg",
+  "fonteUrl": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/img/20322002026/160002551151/PR",
+  "origem": "TSE",
+  "observacao": "TSE sq_candidato 160002551151; nome TSE 'Raphael Lacerda Araújo Bandeira'; urna 'Raphael Lacerda'; nº 14914; Deputado Estadual/PR; situação TSE: Deferido. Foto original do TSE (baixa resolução, não ampliada)."
+ },
+ {
+  "id": "pr-est-14042",
+  "nomeUrna": "Adriano Fritz",
+  "arquivo": "fotos/pr-est-14042.jpg",
+  "fonteUrl": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/img/20322002026/160002551169/PR",
+  "origem": "TSE",
+  "observacao": "TSE sq_candidato 160002551169; nome TSE 'Adriano Fritz'; urna 'Adriano Fritz'; nº 14042; Deputado Estadual/PR; situação TSE: Deferido. Foto original do TSE (baixa resolução, não ampliada)."
+ },
+ {
+  "id": "pr-est-14214",
+  "nomeUrna": "Francyelly Iene Gomes Engee",
+  "arquivo": "fotos/pr-est-14214.jpg",
+  "fonteUrl": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/img/20322002026/160002551165/PR",
+  "origem": "TSE",
+  "observacao": "TSE sq_candidato 160002551165; nome TSE 'Francyelly Iene Gomes Engee'; urna 'Francyelly Iene Gomes Engee'; nº 14214; Deputado Estadual/PR; situação TSE: Deferido. Foto original do TSE (baixa resolução, não ampliada)."
+ },
+ {
+  "id": "pr-est-14555",
+  "nomeUrna": "Wagner Jr.",
+  "arquivo": "fotos/pr-est-14555.jpg",
+  "fonteUrl": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/img/20322002026/160002551158/PR",
+  "origem": "TSE",
+  "observacao": "TSE sq_candidato 160002551158; nome TSE 'Wagner Proenca Junior'; urna 'Wagner Jr.'; nº 14555; Deputado Estadual/PR; situação TSE: Deferido. Foto original do TSE (baixa resolução, não ampliada)."
+ },
+ {
+  "id": "pr-est-14244",
+  "nomeUrna": "Stuchi",
+  "arquivo": "fotos/pr-est-14244.jpg",
+  "fonteUrl": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/img/20322002026/160002551181/PR",
+  "origem": "TSE",
+  "observacao": "TSE sq_candidato 160002551181; nome TSE 'Eloine Almeida Stuchi'; urna 'Stuchi'; nº 14244; Deputado Estadual/PR; situação TSE: Deferido. Foto original do TSE (baixa resolução, não ampliada)."
+ },
+ {
+  "id": "pr-est-14039",
+  "nomeUrna": "Alessandra Lima",
+  "arquivo": "fotos/pr-est-14039.jpg",
+  "fonteUrl": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/img/20322002026/160002551176/PR",
+  "origem": "TSE",
+  "observacao": "TSE sq_candidato 160002551176; nome TSE 'Alessandra Pierobom dos Santos Lima'; urna 'Alessandra Lima'; nº 14039; Deputado Estadual/PR; situação TSE: Deferido. Foto original do TSE (baixa resolução, não ampliada)."
+ },
+ {
+  "id": "pr-est-14714",
+  "nomeUrna": "Graci Moreira",
+  "arquivo": "fotos/pr-est-14714.jpg",
+  "fonteUrl": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/img/20322002026/160002551156/PR",
+  "origem": "TSE",
+  "observacao": "TSE sq_candidato 160002551156; nome TSE 'Maria Graciela Moreira'; urna 'Graci Moreira'; nº 14714; Deputado Estadual/PR; situação TSE: Aguardando julgamento. Foto original do TSE (baixa resolução, não ampliada)."
+ },
+ {
+  "id": "pr-est-14500",
+  "nomeUrna": "Kelven Alcantara",
+  "arquivo": "fotos/pr-est-14500.jpg",
+  "fonteUrl": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/img/20322002026/160002551161/PR",
+  "origem": "TSE",
+  "observacao": "TSE sq_candidato 160002551161; nome TSE 'Kelven de Alcantara Bonfim'; urna 'Kelven Alcantara'; nº 14500; Deputado Estadual/PR; situação TSE: Deferido. Foto original do TSE (baixa resolução, não ampliada)."
+ },
+ {
+  "id": "pr-est-14041",
+  "nomeUrna": "Lude Riesemberg",
+  "arquivo": "fotos/pr-est-14041.jpg",
+  "fonteUrl": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/img/20322002026/160002551177/PR",
+  "origem": "TSE",
+  "observacao": "TSE sq_candidato 160002551177; nome TSE 'Ludgerio Riesemberg'; urna 'Lude Riesemberg'; nº 14041; Deputado Estadual/PR; situação TSE: Deferido. Foto original do TSE (baixa resolução, não ampliada)."
+ },
+ {
+  "id": "pr-est-14333",
+  "nomeUrna": "Matheus Manholer",
+  "arquivo": "fotos/pr-est-14333.jpg",
+  "fonteUrl": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/img/20322002026/160002551163/PR",
+  "origem": "TSE",
+  "observacao": "TSE sq_candidato 160002551163; nome TSE 'Matheus Davi da Costa Manholer'; urna 'Matheus Manholer'; nº 14333; Deputado Estadual/PR; situação TSE: Deferido. Foto original do TSE (baixa resolução, não ampliada)."
+ },
+ {
+  "id": "pr-est-14700",
+  "nomeUrna": "Thiago Maldonado",
+  "arquivo": "fotos/pr-est-14700.jpg",
+  "fonteUrl": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/img/20322002026/160002551160/PR",
+  "origem": "TSE",
+  "observacao": "TSE sq_candidato 160002551160; nome TSE 'Thiago Pelegrini Maldonado'; urna 'Thiago Maldonado'; nº 14700; Deputado Estadual/PR; situação TSE: Deferido. Foto original do TSE (baixa resolução, não ampliada)."
+ },
+ {
+  "id": "pr-est-14007",
+  "nomeUrna": "Carlos Eduardo",
+  "arquivo": "fotos/pr-est-14007.jpg",
+  "fonteUrl": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/img/20322002026/160002551164/PR",
+  "origem": "TSE",
+  "observacao": "TSE sq_candidato 160002551164; nome TSE 'Carlos Eduardo de Lima'; urna 'Carlos Eduardo'; nº 14007; Deputado Estadual/PR; situação TSE: Deferido. Foto original do TSE (baixa resolução, não ampliada)."
+ },
+ {
+  "id": "pr-est-14321",
+  "nomeUrna": "Daniel Aguiar",
+  "arquivo": "fotos/pr-est-14321.jpg",
+  "fonteUrl": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/img/20322002026/160002551157/PR",
+  "origem": "TSE",
+  "observacao": "TSE sq_candidato 160002551157; nome TSE 'Carlos Daniel Livon de Aguiar'; urna 'Daniel Aguiar'; nº 14321; Deputado Estadual/PR; situação TSE: Deferido. Foto original do TSE (baixa resolução, não ampliada)."
+ },
+ {
+  "id": "pr-est-14143",
+  "nomeUrna": "Aline Franzon",
+  "arquivo": "fotos/pr-est-14143.jpg",
+  "fonteUrl": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/img/20322002026/160002551162/PR",
+  "origem": "TSE",
+  "observacao": "TSE sq_candidato 160002551162; nome TSE 'Aline de Souza Franzon'; urna 'Aline Franzon'; nº 14143; Deputado Estadual/PR; situação TSE: Deferido. Foto original do TSE (baixa resolução, não ampliada)."
+ },
+ {
+  "id": "pr-est-14021",
+  "nomeUrna": "Eduardo Gomes",
+  "arquivo": "fotos/pr-est-14021.jpg",
+  "fonteUrl": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/img/20322002026/160002551159/PR",
+  "origem": "TSE",
+  "observacao": "TSE sq_candidato 160002551159; nome TSE 'Eduardo Nunes Gomes'; urna 'Eduardo Gomes'; nº 14021; Deputado Estadual/PR; situação TSE: Deferido. Foto original do TSE (baixa resolução, não ampliada)."
+ },
+ {
+  "id": "pr-est-14111",
+  "nomeUrna": "Felipe de Castilho",
+  "arquivo": "fotos/pr-est-14111.jpg",
+  "fonteUrl": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/img/20322002026/160002551168/PR",
+  "origem": "TSE",
+  "observacao": "TSE sq_candidato 160002551168; nome TSE 'Felipe Scheifer de Castilho'; urna 'Felipe de Castilho'; nº 14111; Deputado Estadual/PR; situação TSE: Deferido. Foto original do TSE (baixa resolução, não ampliada)."
+ },
+ {
+  "id": "pr-est-14446",
+  "nomeUrna": "Lucas Backes",
+  "arquivo": "fotos/pr-est-14446.jpg",
+  "fonteUrl": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/img/20322002026/160002551154/PR",
+  "origem": "TSE",
+  "observacao": "TSE sq_candidato 160002551154; nome TSE 'Lucas Backes'; urna 'Lucas Backes'; nº 14446; Deputado Estadual/PR; situação TSE: Deferido. Foto original do TSE (baixa resolução, não ampliada)."
+ },
+ {
+  "id": "pr-est-14131",
+  "nomeUrna": "Mateus Pepice",
+  "arquivo": "fotos/pr-est-14131.jpg",
+  "fonteUrl": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/img/20322002026/160002551167/PR",
+  "origem": "TSE",
+  "observacao": "TSE sq_candidato 160002551167; nome TSE 'Mateus Pepice'; urna 'Mateus Pepice'; nº 14131; Deputado Estadual/PR; situação TSE: Deferido. Foto original do TSE (baixa resolução, não ampliada)."
+ },
+ {
+  "id": "pr-est-14114",
+  "nomeUrna": "Natalie Facco",
+  "arquivo": "fotos/pr-est-14114.jpg",
+  "fonteUrl": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/img/20322002026/160002551183/PR",
+  "origem": "TSE",
+  "observacao": "TSE sq_candidato 160002551183; nome TSE 'Natalie Amaro da Silveira Facco'; urna 'Natalie Facco'; nº 14114; Deputado Estadual/PR; situação TSE: Deferido. Foto original do TSE (baixa resolução, não ampliada)."
+ },
+ {
+  "id": "pr-pres-14",
+  "nomeUrna": "Renan Santos",
+  "arquivo": "fotos/pr-pres-14.jpg",
+  "fonteUrl": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/img/20322002026/280002540694/BR",
+  "origem": "TSE",
+  "observacao": "TSE sq_candidato 280002540694; nome TSE 'Renan Antonio Ferreira dos Santos'; urna 'Renan Santos'; nº 14; Presidente/BR; situação TSE: Aguardando julgamento. Foto original do TSE (baixa resolução, não ampliada)."
+ }
+]
