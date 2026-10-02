@@ -1,0 +1,196 @@
+/* Comparador: tela de ação. Trechos literais em serifa, painel de viabilidade recolhível. */
+.screen-comparador {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: var(--mq-space-16);
+}
+
+.comp-list-container {
+  display: flex;
+  flex-direction: column;
+  gap: var(--mq-space-16);
+  padding-block: var(--mq-space-4);
+}
+
+.comp-eixo-section {
+  display: flex;
+  flex-direction: column;
+  gap: var(--mq-space-6);
+}
+
+.comp-eixo-titulo {
+  display: flex;
+  flex-direction: column;
+  gap: var(--mq-space-2);
+  padding-bottom: var(--mq-space-4);
+  border-bottom: var(--mq-borda-forte) solid var(--mq-ink);
+}
+
+.comp-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, var(--mq-coluna-larga-min)), 1fr));
+  gap: var(--mq-space-6);
+  align-items: start;
+}
+
+.comp-trecho-card {
+  display: flex;
+  flex-direction: column;
+  gap: var(--mq-space-4);
+  padding: var(--mq-space-6);
+  background-color: var(--mq-surface);
+  border: var(--mq-borda-fina) solid var(--mq-line);
+  border-radius: var(--mq-radius-xl);
+  box-shadow: var(--mq-shadow-card);
+  transition:
+    transform var(--mq-dur-toque) var(--mq-ease-toque),
+    box-shadow var(--mq-dur-toque) var(--mq-ease-toque);
+}
+
+.comp-trecho-card:hover {
+  transform: translateY(var(--mq-sobe-card));
+  box-shadow: var(--mq-shadow-campo);
+}
+
+.comp-literal {
+  margin: 0;
+  padding-left: var(--mq-space-4);
+  border-left: var(--mq-borda-forte) solid var(--mq-ouro);
+  font-family: var(--mq-font-citacao);
+  font-size: var(--mq-fs-body);
+  line-height: var(--mq-lh-corpo);
+}
+
+.comp-avaliacoes {
+  background-color: var(--mq-surface-raised);
+  border-radius: var(--mq-radius-lg);
+}
+
+.comp-avaliacoes > summary {
+  display: flex;
+  align-items: center;
+  gap: var(--mq-space-3);
+  min-height: var(--mq-alvo-toque);
+  padding: var(--mq-space-2) var(--mq-space-4);
+  cursor: pointer;
+  list-style: none;
+  font-size: var(--mq-fs-nav);
+  font-weight: var(--mq-fw-medio);
+  letter-spacing: var(--mq-ls-nav);
+  text-transform: uppercase;
+}
+
+.comp-avaliacoes > summary::-webkit-details-marker {
+  display: none;
+}
+
+.comp-avaliacoes > summary .icone-seta {
+  margin-left: auto;
+  transition: transform var(--mq-dur-toque) var(--mq-ease-toque);
+}
+
+.comp-avaliacoes[open] > summary .icone-seta {
+  transform: rotate(90deg);
+}
+
+.comp-av-lista {
+  display: flex;
+  flex-direction: column;
+  gap: var(--mq-space-4);
+  padding: 0 var(--mq-space-4) var(--mq-space-4);
+}
+
+.comp-av-item {
+  display: flex;
+  flex-direction: column;
+  gap: var(--mq-space-2);
+  padding-top: var(--mq-space-4);
+  border-top: var(--mq-borda-fina) solid var(--mq-line);
+}
+
+.comp-av-topo {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: var(--mq-space-2);
+}
+
+.comp-av-crit {
+  font-weight: var(--mq-fw-titulo);
+  letter-spacing: var(--mq-ls-label);
+}
+
+/* O veredito é sempre texto mais ícone, com o mesmo visual para os cinco candidatos */
+.comp-av-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--mq-space-2);
+  padding: var(--mq-space-1) var(--mq-space-3);
+  background-color: var(--mq-surface);
+  border: var(--mq-borda-forte) solid var(--mq-ink);
+  border-radius: var(--mq-radius-pill);
+  font-size: var(--mq-fs-eyebrow);
+  font-weight: var(--mq-fw-medio);
+  letter-spacing: var(--mq-ls-label);
+  text-transform: uppercase;
+  line-height: 1.6;
+}
+
+.comp-av-just {
+  font-size: var(--mq-fs-small);
+  line-height: var(--mq-lh-apoio);
+  color: var(--mq-ink-muted);
+}
+
+.comp-av-fonte {
+  margin: 0;
+  font-size: var(--mq-fs-small);
+  line-height: var(--mq-lh-apoio);
+  color: var(--mq-ouro-escuro);
+  overflow-wrap: anywhere;
+}
+
+.comp-av-outro-lado > summary {
+  min-height: var(--mq-alvo-toque);
+  display: flex;
+  align-items: center;
+  font-size: var(--mq-fs-small);
+  font-weight: var(--mq-fw-medio);
+  cursor: pointer;
+}
+
+.comp-av-outro-texto {
+  margin: 0;
+  font-size: var(--mq-fs-small);
+  line-height: var(--mq-lh-apoio);
+  color: var(--mq-ink-muted);
+}
+
+.comp-fonte {
+  display: inline-flex;
+  align-items: center;
+  min-height: var(--mq-alvo-toque);
+  font-size: var(--mq-fs-small);
+  color: var(--mq-ouro-escuro);
+  font-weight: var(--mq-fw-medio);
+}
+
+.comp-footer-actions {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: var(--mq-space-10);
+}
+
+/* Em pé, toda ".tela > .conteudo" ganha flex:1 (layout.css): sem isto o botão estica até a altura da tela. */
+.tela > .comp-footer-actions {
+  flex: none;
+  padding-block: var(--mq-space-3);
+}
+
+/* A força vale por si, sem ranking */
+.comp-concretude-nota {
+  font-size: var(--mq-fs-small);
+  color: var(--mq-ink-muted);
+}
